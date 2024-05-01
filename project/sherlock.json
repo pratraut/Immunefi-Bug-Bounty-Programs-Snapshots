@@ -1,0 +1,221 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "MdSahaE3zZwYpRs3lwaLx",
+      "id": "sherlock",
+      "slug": "sherlock",
+      "project": "Sherlock",
+      "maxBounty": 500000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3KAGs1iPkVQgH479qY0UC0/1bbe99e55301f0b4be5b7c1739fe7c19/sherlock.png",
+      "launchDate": "2021-10-12T10:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T19:00:59.022Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $500,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $25,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "7aEGT8VJDjTUENDRjG4uxh",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x46D2A90153cd8F09464CA3a5605B6BBeC9C2fF01",
+          "description": "SHER (proxy)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4TfVcYiwnJm8jBIhIU2nJy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x91f23210A34721D33C8842673f2Ba20146b8C70f",
+          "description": "SHER (implementation)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4pfwTTfknYRsUQmKdTStVV",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0865a889183039689034dA55c1Fd12aF5083eabF",
+          "description": "Sherlock",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6o3lIJvlEki1pvzzMuijB8",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1E8bE946370a99019E323998Acd37A1206bdD507",
+          "description": "MasterStrategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7aARbavaRccmYtmSitrVjA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5775F32787656E77dd99f20F4E478DdC85fdB31b",
+          "description": "SherDistributionManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2RIYo1h3P1jJ7wPMhIonfT",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3d0b8A0A10835Ab9b0f0BeB54C5400B8aAcaa1D3",
+          "description": "SherlockProtocolManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6wvM3QmxH1iyAhT6kt503W",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xFeEDD254ae4B7c44A0472Bb836b813Ce4625Eb84",
+          "description": "SherlockClaimManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7khanr2cDg3jmF0JycOuAX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x92AEffFfaD9fff820f7FCaf1563d8467aFe358c4",
+          "description": "timelockController",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2lWlmvfarczzOCft9NqOPO",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7289C61C75dCdB8Fe4DF0b937c08c9c40902BDd3",
+          "description": "SherClaim",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5eGO3Y8MDRkdfhHdzljv62",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xf8583f22C2f6f8cd27f62879A0fB4319bce262a6",
+          "description": "SherBuy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1o6qxxgZ5TspHNq9D2Bjnq",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xbFa53D098d7063DdCc39a45ea6F8c290FcD7FC70",
+          "description": " InfoStorage",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "xL7Mqh6DglU5DGX93tarf",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x71B6BC6c70E27DCfD7d0b7AE8EbA6a76D518D88A",
+          "description": "AlphaBetaEqualDepositMaxSplitter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1XdySEXBt8EpboHU8LY4I0",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7E0049866879151480d9Ec01391Bbf713F7705b1",
+          "description": "AlphaBetaEqualDepositSplitter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "61Ks60dm87cscrm7WiuHOz",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x75C5d2d8D54254476239a5c1e1F23ec48Df8779E",
+          "description": "AaveStrategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "25xzD9gkdNJbAPUIhOPzFv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5b7a52b6d75Fb3105c3c37fcc6007Eb7ac78F1B8",
+          "description": "CompoundStrategy",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "1bkCe5XAv2khtIifRnGlRx",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "RKLt43Ysk77Zimzi0FrAJ",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4A5hw004DRbWRlArnpYCXt",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "270U06E4fb0ghQivP1dNa9",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "jKLMQLFJ9wsAS2SPuAnEE",
+          "title": "Temporary freezing of funds (greater than 1 month)",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Sherlock is a risk management platform designed to provide DeFi protocols with affordable, reliable coverage against smart contract exploits starting from Day 1.\n\nSherlock coverage is backed by proprietary staking pools that offer some of the highest risk-adjusted returns in DeFi. This is made possible by their team of security and risk experts who evaluate the smart contracts of every protocol, price the coverage and have skin in the game alongside stakers.\n\nFor more information about Sherlock, please visit [https://sherlock.xyz/about/](https://sherlock.xyz/about/)  \n\nThis bug bounty program is focused on their smart contracts and is focused on preventing:\n\n  - Loss of user funds by profitable theft or profitable freezing\n  - Loss of staker funds by profitable theft\n  - Profitable dilution of staker funds (infinite minting of staking positions)\n  - Profitable payout exploits\n  - DoS or “freezing” attacks",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\n",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nA PoC is required for Critical and High Smart Contract/Blockchain bug reports.\n\nExploits that result in a material loss of funds for users and is profitable for the hacker are classified as Critical. Anything else that results in a material loss/freezing of user funds that is unprofitable for the hacker is classified as High. \n\nCritical vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum of __USD 50 000__ for Critical bug reports. \n\nKnown issues in their previous audits are considered out-of-scope: https://github.com/sherlock-protocol/sherlock-v2-core/tree/main/audits\n\nIssues identified in previous audit reports may not be eligible for payout\n\nTo be eligible for reward, impact from table below must be demonstrated where all thefts must be profitable and all freezing must be reasonably priced for the impact.\n\nPayouts are handled by the __Sherlock__ team directly and are denominated in USD. Payouts are done in __USDC__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials (unless the hacker can prove public access to these leaked keys/credentials)\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Sherlock can be found at [https://github.com/sherlock-protocol/sherlock-v2-core/tree/main/contracts. ](https://github.com/sherlock-protocol/sherlock-v2-core/tree/main/contracts)\nHowever, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Services",
+          "Staking"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $500,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $25,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

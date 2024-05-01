@@ -1,0 +1,358 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "GsrqQ5igzchurTUg17hZ5",
+      "id": "print3r",
+      "slug": "print3r",
+      "project": "PRINT3R",
+      "maxBounty": 25000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3VLSAh93IBq6SPIZa6WQvg/f30bcfaf9bd49491e474010d29aa8a79/PRINT3R_LOGO.jpg",
+      "launchDate": "2023-11-13T12:00+03:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:56:47.831Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $10,000 to USD $25,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $1,000 to USD $7,500",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $1,000 to USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "50H5uvMRx7vEHsVzvSTqmG",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0xfc41fb8d17c7a86a3e1a949de476d2e329c59f0f",
+          "description": "Vault Price Feed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3h0IG5DNIsOJju5CvCzMch",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0xc7f60768c13b5781d29c606b7da6b5f124b2b904",
+          "description": "Fast Price Feed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4bloOiCKOmDT5jifVVUbjL",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x102b73ca761f5dfb59918f62604b54aeb2fb0b3e",
+          "description": "Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5WNEfhemty2dpHIU1JEeDA",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x6a5a8aa9d251034b9e5034e1c0305c06f7102fae",
+          "description": "Router",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4914yyLekdAdBzAqqbfx5H",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x47fbe28ca120f8acd64bd69e977a6d3d3201c45e",
+          "description": "OrderBook",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4WWCFkJCS5M5Nj2N0iaDgc",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x25b578eca3829905f35a05def43f66025c7e43c1",
+          "description": "VaultUtils ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4MFYNtRfwA1kgHk30RhjNz",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x83f29709dbaf3d8612d85091e75bc01b607e8238",
+          "description": "ShortsTracker",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "629j0WRgsuUpZlJzWPPhfe",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0xe3e99dd403d21e0f1d704a7470a9175338f443e5",
+          "description": "PositionRouter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1bFQjBpzzdhXjlIPa2tD4T",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x117928e18f4062804bf6aac702af48c152cd6023",
+          "description": "PositionManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3bOkimRJEfADaZCcMS614r",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0xd1890bf41309cbb73ae7905b4eaad4bf5fffcfd9",
+          "description": "BrrrManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3p4BzGoP26TbBPAUjHDKpO",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x7287b3f8c512061e1154fdf74b52f67f48b4bfaf",
+          "description": "BrrrRewardRouter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6BqlVEo6gHcljOERuJjaPU",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x204f1159e3e6496aca0d206d8435d4687dbee05f",
+          "description": "RewardTracker",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "JXlZhaygtWIcsojdrO3cu",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x592a81372d5aca30bb778bd07f6f1449b71d6a86",
+          "description": "RewardDistributor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4ZMOy0HcIEusNbuiU5rCVu",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0xe8eed5e65f8d864eea3a8433a2cff56f1b147fc0",
+          "description": "TransferStakedBrrr",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4XypI15YgUOHedWc6eKOGV",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x8bf4046afaebb2df4b482b6a34c37d4b748ea3bd",
+          "description": "BrrrXpAmplifier",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1zYm0eONU9W3TNzekfDbgr",
+          "type": "smart_contract",
+          "url": "https://basescan.org/address/0x1ab254f4b88acd9fab66eb2690117a362007735a",
+          "description": "PositionUtils",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1taK1TPWIjReyfuysCkivN",
+          "type": "websites_and_applications",
+          "url": "https://print3r.xyz",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1Y6VEAWLXfI0ggIBnqMu7g",
+          "type": "smart_contract",
+          "url": "https://immunefi.com/",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        },
+        {
+          "id": "3bM2Yqrl85GQYvk7r9ZbOK",
+          "type": "websites_and_applications",
+          "url": "https://immunefi.com/",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        }
+      ],
+      "impacts": [
+        {
+          "id": "2ulAFzV3cogiTLhSQxFGkj",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6VwEfo1H1M2bnAC4859SoM",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3PyWhavO83Ecf3HPCyYLq9",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5p4rVFS1u5fPBq9biXBMqb",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2uzDrJKLDssxR6BEK6aMRZ",
+          "title": "Retrieve sensitive data/files from a running server, such as:   /etc/shadow database passwords blockchain keys (this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "4zzuSTL3Yvksf8PFgTBbGs",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1PVNNYOfC7IDAQmm32z8kc",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as: Changing registration information Commenting Voting Making trades Withdrawals, etc",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "4m2tHEF8xDJyajt0alZJJe",
+          "title": "Subdomain takeover with already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "CNN1pu97xTKSNWIwgyz6c",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2Utk0UX2mqg1rPavFtFa03",
+          "title": "Malicious interactions with an already-connected wallet, such as:  Modifying transaction arguments or parameters Substituting contract addresses Submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "3GYh1NQ6ySNOsau2Nx5uFE",
+          "title": "Injection of malicious HTML or XSS through metadata",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "47XQDzjjkVavN1uS1WmgGy",
+          "title": "Thefts of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5gCXXCI6rmJiUCMEVRu3Ep",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5S975hNRfVzNZSqWj2hE33",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "37GD6QA1bON5TrFuIs8mF1",
+          "title": "Permanent freezing of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3kY4GxUJwEdxhcgCHJKywb",
+          "title": "Injecting/modifying the static content on the target application without JavaScript (persistent), such as:  HTML injection without JavaScript Replacing existing text with arbitrary text Arbitrary file uploads, etc",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "2zKsOLEyDEq6zI1uDYCFAM",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as:  Email Password of the victim etc",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "66TOwjFgmsEgyUdw9JH9CE",
+          "title": "Improperly disclosing confidential user information, such as:  Email address Phone number Physical address, etc",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "15Wp9JB6RMMkyDxW8xUoGQ",
+          "title": "Subdomain takeover without already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "PRINT3R is a gamified decentralized derivatives platform that focuses on ease of use and encouraging user loyalty through engaging user interactions, and sharing revenue.\n\nWith V1 expanding on the initial GMX V1 architecture, PRINT3R aims to create a platform that is accessible for all, leverages unique gamification elements and builds user loyalty through a tiered seasonal ranking system based on the value a user provides to the platform.\n\nFor more information about PRINT3R, please visit [https://www.print3r.xyZ  ](https://www.print3r.xyZ)\n\nPRINT3R provides rewards in __USDC__. For more details about the payment process, please view the Rewards by Threat Level section further below. \n\n__KYC Requirement__\n\nThe provision of KYC is required to receive a reward for this bug bounty program where the following information will be required to be provided:\n- Invoice\n- User’s name \n- Address\n\nKYC information is only required on confirmation of the validity of a bug report.  \n\n__Eligibility Criteria__ \n\nSecurity researchers who wish to participate must adhere to the rules of engagement set forth in this program and cannot be:\n- On OFACs SDN list \n- Official contributor, both past or present\n- Employees and/or individuals closely associated with the project \n- Security auditors that directly or indirectly participated in the audit review\n\n__Responsible Publication___\n\nPRINT3R adheres to category 3 - __Approval Required__. This Policy determines what information researchers are allowed to make public from their submitted bug reports. For more information about the category selected, please refer to our [Responsible Publication](https://immunefi.com/responsible-publication/) page.\n\n__Primacy of Impact vs Primacy of Rules__\n\nPRINT3R adheres to the Primacy of Impact for the following impacts:\n\n- Smart Contract - Critical\n- Smart Contract - High\n- Websites and Applications - Critical\n- Websites and Applications - High\n\nPrimacy of Impact means that the impact is prioritized rather than a specific asset. This encourages security researchers to report on all bugs with an in-scope impact, even if the affected assets are not in scope. For more information, please see [Best Practices: Primacy of Impact](https://immunefisupport.zendesk.com/hc/en-us/articles/12340245635089-Best-Practices-Primacy-of-Impact) \n\nWhen submitting a report on Immunefi’s dashboard, the security researcher should select the Primacy of Impact asset placeholder. If the team behind this project has multiple programs, those other programs are not covered under Primacy of Impact for this program. Instead, check if those other projects have a bug bounty program on Immunefi.\n\nIf the project has any testnet and/or mock files, those will not be covered under Primacy of Impact.\n\nAll other impacts are considered under the Primacy of Rules, which means that they are bound by the terms and conditions set within this program.\n\n__Proof of Concept (PoC) Requirements__\n\nA PoC, demonstrating the bug's impact, is required for this program and has to comply with the Immunefi PoC Guidelines and Rules.\n\n__Known Issue Assurance__\n\nPRINT3R commits to providing Known Issue Assurance to bug submissions through their program. This means that PRINT3R will either disclose known issues publicly, or at the very least, privately via a self-reported bug submission. \n\nIn a potential scenario of a mediation, this allows for a more objective and streamlined process, in order to prove that an issue is known. Otherwise, assuming the bug report is valid, it would result in the report being considered as in-scope, and due a reward.\n\n__Public Disclosure of Known Issues__\n\nBug reports covering previously-discovered bugs (listed below) are not eligible for a reward within this program. This includes known issues that the project is aware of but has consciously decided not to “fix”, necessary code changes, or any implemented operational mitigating procedures that can lessen potential risk. \n\n- If the BRRR pool has a high utilization not all BRRR tokens will be immediately redeemable, the borrowing fee should increase in this case and is considered regular operation\n\n__Previous Audits__\n\nPRINT3R’s’s completed audit reports can be found on [Github](https://github.com/PRINT3Rxyz/V1-Contracts/blob/main/SmartContract_Audit_Print3r_v1.1.pdf). Any unfixed vulnerabilities  mentioned in these reports are not eligible for a reward.\n\n__Feasibility Limitations__\n\nThe project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\n\nTherefore, Immunefi has developed a set of [feasibility limitation standards](https://immunefisupport.zendesk.com/hc/en-us/articles/16913132495377-Feasibility-Limitation-Standards) which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n\n__Immunefi Standard Badge__\n\nBy adhering to Immunefi’s best practice recommendations, PRINT3R has satisfied the requirements for the [Immunefi Standard Badge](https://immunefisupport.zendesk.com/hc/en-us/articles/6427157117713-The-Immunefi-Standard-Badge-), which is given to projects that adhere to our best practices. \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.3](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/). \n\n__Reward Calculation for Critical Level Reports__\n\nFor critical smart contract bugs, the reward amount is 10% of the funds directly affected up to a maximum of __USD $25,000__. The calculation of the amount of funds at risk is based on the time and date the bug report is submitted. However, a minimum reward of __USD $10,000__ is to be rewarded in order to incentivize security researchers against withholding a critical bug report.\n\n__Repeatable Attack Limitations__\n\n- If the smart contract where the vulnerability exists can be upgraded or paused, only the initial attack will be considered for a reward. This is because the project can mitigate the risk of further exploitation by upgrading or pausing the component where the vulnerability exists. The reward amount will depend on the severity of the impact and the funds at risk. \n\n__Reward Calculation for High Level Reports__\n\n- High vulnerabilities concerning theft/permanent freezing of unclaimed yield/royalties are rewarded within a range of __USD 1 000 to USD 7 500__ depending on the funds at risk, capped at the maximum high reward.  \n\n- In the event of temporary freezing, the reward doubles from the full frozen value for every additional 24h that the funds are temporarily frozen, up until a max cap of the high reward. This is because as the duration of the freezing lengthens, the potential for greater damage and subsequent reputational harm intensifies. Thus, by increasing the reward proportionally with the frozen duration, the project ensures stronger incentives for bug disclosure of this nature.\n\nFor critical web/apps bug reports will be rewarded with __USD 5 000__ only if the impact leads to:\n\n- A loss of funds involving an attack that does not require any user action\n- Private key or private key generation leakage leading to unauthorized access to user funds \n\nAll other impacts that would be classified as Critical would be rewarded a flat amount of __USD 1 000__. The rest of the severity levels are paid out according to the Impact in Scope table.  \n\n__Reward Payment Terms__\n\nPayouts are handled by the __PRINT3R__ team directly and are denominated in __USD__. However, payments are done in __USDC__.\n\nThe calculation of the net amount rewarded is based on the average price between CoinMarketCap.com and CoinGecko.com at the time the bug report was submitted. No adjustments are made based on liquidity availability. ",
+      "outOfScopeAndRules": "These impacts are out of scope for this bug bounty program. \n\n__All Categories__\n\n- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (governance, strategist) except in such cases where the contracts are intended to have no privileged access to functions that make the attack possible\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n\n__Smart Contracts__\n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks\n\n__Web/App__ \n\n- Theoretical impacts without any proof or demonstration\n- Impacts involving attacks requiring physical access to the victim device\n- Impacts involving attacks requiring access to the local network of the victim\n- Reflected plain text injection (e.g. url parameters, path, etc.)\n   - This does not exclude reflected HTML injection with or without JavaScript\n   - This does not exclude persistent plain text injection\n- Any impacts involving self-XSS\n- Captcha bypass using OCR without impact demonstration\n- CSRF with no state modifying security impact (e.g. logout CSRF)\n- Impacts related to missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n- Server-side non-confidential information disclosure, such as IPs, server names, and most stack traces\n- Impacts causing only the enumeration or confirmation of the existence of users or tenants\n- Impacts caused by vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n- Lack of SSL/TLS best practices\n- Impacts that only require DDoS\n- UX and UI impacts that do not materially disrupt use of the platform\n- Impacts primarily caused by browser/plugin defects\n- Leakage of non sensitive API keys (e.g. Etherscan, Infura, Alchemy, etc.)\n- Any vulnerability exploit requiring browser bugs for exploitation (e.g. CSP bypass) \n- SPF/DMARC misconfigured records\n- Missing HTTP Headers without demonstrated impact\n- Automated scanner reports without demonstrated impact\n- UI/UX best practice recommendations\n- Non-future-proof NFT rendering\n\n__Prohibited Activities:__\n\n- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "All code of PRINT3R can be found at [https://github.com/PRINT3Rxyz/V1-Contracts ](https://github.com/PRINT3Rxyz/V1-Contracts). Documentation for the assets provided in the table can be found at [https://print3r.gitbook.io/print3r/](https://print3r.gitbook.io/print3r/)\n\nUnless explicitly listed, only pages of the web/app assets in addition to the direct link are considered in-scope of the bug bounty program. Other subdomains are not considered as in-scope. However, for subdomain takeovers that lead to an impact on the in-scope asset, please refer to our page about [Reported Subdomain Takeovers.](https://immunefisupport.zendesk.com/hc/en-us/articles/14352199704593-Reported-Subdomain-Takeovers)",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "DEX",
+          "Derivatives",
+          "Gaming",
+          "Staking"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Base"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $10,000 to USD $25,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $1,000 to USD $7,500"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $1,000 to USD $5,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $1,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

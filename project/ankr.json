@@ -1,0 +1,406 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "3yie0sU4xGc1wV0Nt43h4a",
+      "id": "ankr",
+      "slug": "ankr",
+      "project": "Ankr",
+      "maxBounty": 500000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3LohZrbHuhcG4MgU2zrH4A/39bca0e7dc6e249cee3706c8c0021929/Ankr_logo.jpeg",
+      "launchDate": "2022-07-21T12:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:51:36.652Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $500,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Up to USD $50,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "Up to USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "Up to USD $10,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "Up to USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "Up to USD $2,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "271efAzPJxBMYPQlNPMvlg",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x9e347Af362059bf2E55839002c699F7A5BaFE86E",
+          "description": "BNB Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6CpnRfnR14iTfdCqRsUzRE",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xa0c92efdceA55ca19396e4850B8D29Df6F907bcD",
+          "description": "BNB Pool (old)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5feiYDzh9VcrSU5ghzUaxp",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
+          "description": "ankrBNB",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4PaTRvNl13RZAfx1U8E19D",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xfe39985D7eFF914c50A06bA0cFfcCA8361e00C0e",
+          "description": "aBNBb",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1FV5sbI6JBoAahOIi5PhyC",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/token/0x67428dE0680494E448F1A19d33C2022a51719348",
+          "description": "BNBStakingConfig",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "66gh6Laq3dZJQPC9CunkZi",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x84db6eE82b7Cf3b47E8F19270abdE5718B936670",
+          "description": "ETH Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1VBeAe6ZK53cN9xnv4MhQ7",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/token/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb#code",
+          "description": "aETHc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3PvVK9ELKRF9oJS3ErVWRj",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/token/0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6#code",
+          "description": "aETHb",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6obn0iZNqYV0O3ABFQ0nPh",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xCfD4B4Bc15C8bF0Fd820B0D4558c725727B3ce89",
+          "description": "PolygonPool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6Q3o28BXsPFZhUPPCcCeYC",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x26dcFbFa8Bc267b250432c01C982Eaf81cC5480C",
+          "description": "ankrMATIC",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6pMwmwAJlAMHjIboTwqvPA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x99534Ef705Df1FFf4e4bD7bbaAF9b0dFf038EbFe",
+          "description": "aMATICb",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1WcLCTmcmNmBxN5Fd6RoIw",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xad0dCC6635a5c38be6B87007210797Ad94AdB4B7",
+          "description": "MaticCrosschainStaking",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1foFgmvYp5e5szlg3kzdQy",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xad0dCC6635a5c38be6B87007210797Ad94AdB4B7",
+          "description": "MaticCrosschainStaking",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6SNsOZvKMNfeIj19H4Ya1x",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x62a509ba95c75cabc7190469025e5abee4eddb2a",
+          "description": " MaticSwapPool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "444tnEdSHiZUYkQBUfEwLg",
+          "type": "websites_and_applications",
+          "url": "https://www.ankr.com/staking/*",
+          "description": "Main Web App",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6Oa6TARf0eTWCTRkrvhXYi",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4ROj6pfKOnJZ7V5aqNusIj",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "39uHllUm9yb1sUkNkZBgP9",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "55j2NupKwOn3GNQZWv9aso",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "16KeB2zN36AuRkzcSz2uaX",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1TrGGHblaeBC7SLi9sj7mT",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1voXLEilKphH1FZeXMltQJ",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "3p15KcUknNHEXx3aCRZ0YH",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1cxYvYsVHeHunWyOzpUhG2",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "83rcQSH8j8kkqjaU69Tra",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7EZIwrvmlXxxpjnEC3IgKV",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1RAIDnJt5AoklkudSe6Y0E",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4LT6hrkSDdS2j1rPrapKJC",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "2V5IHI1qjA0x2yMURtQiU",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7f8VjPm4x832lBJkmkKXbN",
+          "title": "Permanent freezing of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6tOdmNFLUm8CuQuvIoKTaG",
+          "title": "Temporary freezing of funds for at least 30 days",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5a12m6hi2gyILnOCodzb6C",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "IQLiOzW31zC62gnyeCVAT",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "10GT7C9Hjt3S1XZi2UkNDz",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "5HcUUzuNL6YZe7KO1rmVhC",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "11xT4wbCafyhfMNe6FLP3f",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "10qcT3qc4fx37KvLvP9LIR",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2d67j8rcrgSrhT3Lx2Yd2g",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3c0aza2qLjBwt8wNd8xtTs",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the first/last name of user, or en/disabling notification",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "0b6hNfO5VG5XdFm8xbBRz",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "5pZzncLqVWZ8EM7se8EVzV",
+          "title": "Redirecting users to malicious websites (Open Redirect)",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "3bfESDjPDzAmV4aiUZO2S0",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Ankr is a decentralized blockchain infrastructure provider that operates an array of nodes globally distributed across over 50 Proof-of-Stake networks.\n\nAnkr Staking makes cross-chain staking, liquid staking, and other yield-earning opportunities simple and accessible to all crypto investors. Ankr has created a scalable, flexible and decentralized staking mechanism that resolves the capital inefficiency of Proof-of-Stake networks and similar blockchain consensus mechanisms. Stake your crypto and get liquid staking tokens or use liquid staking to boost your yield.\n\nFor more information about Ankr, please visit [https://www.ankr.com/about-staking/](https://www.ankr.com/about-staking/).  ",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the  [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nCritical smart contract vulnerabilities are capped at 5% of economic damage, primarily taking into consideration funds at risk. However, there is a minimum reward of __USD 10 000__. \n\nAll other rewards for the Ankr bug bounty program are scaled based on an internally established team criteria, taking into account the exploitability of the bug, the impact it causes, and the likelihood of the vulnerability presenting itself, which is especially factored in with bug reports requiring multiple conditions to be met that are currently not in-place. However, there is a minimum reward of __USD 1 000__ for each severity level, rewards will be provided at the determined fair value by the team depending on these conditions, assuming that the bug report is in-scope of the bug bounty program.\n\nThe following vulnerabilities marked in [https://www.ankr.com/docs/staking/extra/audit-reports/](https://www.ankr.com/docs/staking/extra/audit-reports/) are not eligible for a reward.\n\nPayouts are handled by the Ankr team directly and are denominated in USD. However, payouts are done in __ANKR, USDT and USDC__, with the choice of the ratio at the discretion of the team. \n",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n    - This does not exclude reflected HTML injection with or without javascript\n    - This does not exclude persistent plain text injection\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Feature requests\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nThough only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target. \n\nIf an impact can be caused to any other asset managed by Ankr that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical impacts.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": null,
+        "projectType": [
+          "Infrastructure"
+        ],
+        "ecosystem": [
+          "BSC",
+          "ETH",
+          "Polygon"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "JavaScript",
+          "Vyper"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $500,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $50,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "Up to USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $10,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $5,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "Up to USD $2,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

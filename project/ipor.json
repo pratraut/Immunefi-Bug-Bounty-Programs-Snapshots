@@ -1,0 +1,419 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "5cmeFZOHY2NVzdzgbh1i4p",
+      "id": "ipor",
+      "slug": "ipor",
+      "project": "IPOR",
+      "maxBounty": 100000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1PWUkjxOSqZ6A6oiZIr4hc/c02ae0b18f6f29eb5e977088ba93db88/tVLWWz2T_400x400.jpg",
+      "launchDate": "2023-04-11T18:00:00.000Z",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:53:37.797Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $100,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $10,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "51U0XAfLuiiZHRFHpU38n7",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x16d104009964e694761C0bf09d7Be49B7E3C26fd",
+          "description": "IporProtocolRouterProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "23P1dzAUFYnWIIuykouKGJ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9Bd2177027edEE300DC9F1fb88F24DB6e5e1edC6",
+          "description": "ipUSDT",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Y9WE5v0u5W4aR1KPNYJkb",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7c0e72f431FD69560D951e4C04A4de3657621a88",
+          "description": "ipUSDC",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5lxuY1vPHggyY3Xtc8uZDG",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8537b194BFf354c4738E9F3C81d67E3371DaDAf8",
+          "description": "ipDAI",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "ttwvpTDyjnoib8YcU1Pqg",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc40431b6C510AeB45Fbb5e21E40D49F12b0c1F0c",
+          "description": "ipstETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "17SLKBEy3B1TYMXzZf4N5c",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x421C69EAa54646294Db30026aeE80D01988a6876",
+          "description": "IporOracleProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5SXh0rc8P12rp9jWIp9niS",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x364f116352EB95033D73822bA81257B8c1f5B1CE",
+          "description": "AmmStorageUsdtProx",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2kGYBS5Zs7TeGtDyc8z8Hr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xB3d1c1aB4D30800162da40eb18B3024154924ba5",
+          "description": "AmmStorageUsdcProx",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "guaOTsYDdM2gvXhAqHMVc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb99f2a02c0851efdD417bd6935d2eFcd23c56e61",
+          "description": "AmmStorageDaiProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4ryGnaj9svvCBSwcjnRKLY",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x58703DA5295794ed4E82323fcce7371272c5127D",
+          "description": "StrategyAaveUsdtProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3qMjbboutQDWwmr9iImDvn",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x77fCaE921e3df22810c5a1aC1D33f2586BbA028f",
+          "description": "StrategyAaveUsdcProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6PrBHt2N5b5bsXqJ6uCCuX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x526d0047725D48BBc6e24C7B82A3e47C1AF1f62f",
+          "description": "StrategyAaveDaiProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "76Zyr9MXP0KHA6IKQ0apT8",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xE4cD9AA68Be5b5276573E24FA7A0007da29aB5B1",
+          "description": "StrategyCompoundUsdtProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7lnstd7bilyXtErjnd75m",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe5257cf3Bd0eFD397227981fe7bbd55c7582f526",
+          "description": "StrategyCompoundUsdcProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3p3zcpTqZcHiy4VDdapCav",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x87CEF19aCa214d12082E201e6130432Df39fc774",
+          "description": "StrategyCompoundDaiProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "vYyIT28jgRJe0rr8mWkY4",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc26be51E50a358eC6d366147d78Ab94E9597239C",
+          "description": "StrategyDsrDaiProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "wV6tJdsDw06rfpSvRuiq7",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8e679C1d67Af0CD4b314896856f09ece9E64D6B5",
+          "description": "AssetManagementUsdtProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1AKXeJWVL21oI0IL0rXgRZ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7aa7b0B738C2570C2f9F892cB7cA5bB89b9BF260",
+          "description": "AssetManagementUsdcProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1OBdZBPeH0Cc8STG2Xmjpo",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xA6aC8B6AF789319A1Db994E25760Eb86F796e2B0",
+          "description": "AssetManagementDaiProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7uBXCY14S3PiSEXZhc4NNj",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x28BC58e600eF718B9E97d294098abecb8c96b687",
+          "description": "AmmTreasuryUsdtProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6rlwyEjFbAW5OQ0d6ODyG0",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x137000352B4ed784e8fa8815d225c713AB2e7Dc9",
+          "description": "AmmTreasuryUsdcProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2L4xlkF5TFgFT1IScpUVr5",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xEd7d74AA7eB1f12F83dA36DFaC1de2257b4e7523",
+          "description": "AmmTreasuryDaiProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7dyrQFLVfOIcH9uQofHq8f",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x63395EDAF74a80aa1155dB7Cd9BBA976a88DeE4E",
+          "description": "AmmTreasuryEthProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7i6ccYaNL33mv3ZZ08uQyn",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1e4746dC744503b53b4A082cB3607B169a289090",
+          "description": "IPOR Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3MrzWy7aWkLS5D32O2zuAa",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD72915B95c37ae1B16B926f85ad61ccA6395409F",
+          "description": "PowerTokenProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7BpCdKCYFNCCxe2852LPFl",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xCC3Fc4C9Ba7f8b8aA433Bc586D390A70560FF366",
+          "description": "LiquidityMiningProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3Mikwzkt4XIB1gfqOFJKGj",
+          "type": "smart_contract",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        },
+        {
+          "id": "3NyUPTKWExAyCwAG5VekOq",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xAc1C86CEacf03d5AFC8b08A22fc38Ec7c72338ed",
+          "description": "SpreadRouterProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3XzwaQZZOenUOmOl7Go0va",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xcC2fF2D38666723ea56c122097F6215B90d74196",
+          "description": "Ethereum - AmmTreasuryWeEthProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4azkPf1Z6EY7iNm0GbySZy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xaC5B04988BC71bEE96f8D93040777Db3ef166125",
+          "description": "Ethereum - ipweETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "b0leB1OMXobPG7CxBkBiH",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x77Fe3a8E8d1d73Df54Ca07674Bf1bD6C5841e3b5",
+          "description": "Ethereum - AmmStorageWeEthProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "RTBlVGDbSAsHgUVhc1wyv",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xBd013Ea2E01C2Ab3462dd67e9C83aa3834882A5D",
+          "description": "Arbitrum - AmmTreasuryWstEthProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "RNfKwLlCSSQIwIpLDODni",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x326804339eC2a210e5f9246F4959aE50961c5C28",
+          "description": "Arbitrum - AmmStorageWstEthProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3TEDqijcp1IAXsYPk3IX8L",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x70DdDE503edf4816B5991Ca5E2f9DE79e295F2D0",
+          "description": "Arbitrum - IporOracleProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4wjhQFO5icOAN2iwZeJG54",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x760Fa0aB719c4067D3A8d4727Cf07E8f3Bf118db",
+          "description": "Arbitrum - IporProtocolRouterProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "70X7TaPk2k9HRm0Ji6ZGoX",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xdE645aB0560E5A413820234d9DDED5f4a55Ff6dd",
+          "description": "Arbitrum - LiquidityMiningProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1cCydlVleTwiD6wXEc0Uri",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x21f1209692eD441664183413F2fdd675adb3223b",
+          "description": "Arbitrum - PowerTokenProxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Cr026kIwbZIMNclYYvDg3",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xbDa4b3e17a9B0ecb811E68c6f08907156CBa503C",
+          "description": "Arbitrum - ipwstETH",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "4PBAmLOPDOLvROoPXtN86S",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7I9iB5FWCaHj1tScxfMaH",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "fSfHFiFKyO5dC408aLdw1",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "502ELdQsi40AcvX13kxDhc",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "2Xxc19u1ABLwRraUdmusto",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7cDTkElEpvOoCt8m3QEpxh",
+          "title": "Smart contract unable to operate due to lack of token funds for 24 hours",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3e9PlyXNQeDITvuSigQcFj",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "IPOR refers to a set of protocols, smart contracts, and software that forms a set of Decentralized Applications (DApps) for Decentralized Finance (DeFi) focused on interest rate derivatives. The core IPOR infrastructure consists of three main parts: the IPOR Index (Index), Liquidity Pools with an Automated Market Maker (AMM) and Asset Management smart contracts. The first type of interest rate derivatives supported by the AMM are Interest Rate Swaps (Swap or IRS). The system also incorporates a Decentralized Autonomous Organization (DAO) and a Treasury in the spirit of decentralization.\n\nFor more information about IPOR, please visit [https://www.ipor.io/ ](https://www.ipor.io/) \n\n__For Whitehats:__ It is highly recommended that you review the details of this program in full. Although many Bug Bounty programs have standard terms and conditions, each also has their own unique details that are critical to your success.  \n\nPrior to submitting a report please review the [Immunefi Bug Report Template and Best Practices. ](https://immunefisupport.zendesk.com/hc/en-us/articles/12435277406481-Bug-Report-Template)",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are considered out-of-scope and ineligible for payout.",
+      "rewardsBody": "Please review how rewards are distributed based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale system with separate scales for Smart Contracts and Websites/Apps.\n\n__Payouts and Payout Requirements:__\n\nPayouts are handled by the IPOR team directly and are denominated in USD. However, payouts are done in USDC and IPOR. For critical vulnerability, IPOR DAO will pay 50% in USDC and 50% in IPOR tokens.  IPOR commits to honoring payouts according to the terms set out in this program at the time of report submission, and to treat this program as the agreement and source of truth concerning bug reports and responsible disclosures. \n\n| Impact     | Criteria for assessing economic damage     |\n| ---------- | ---------- |\n| Critical       | Risk Ratio = Funds at Risk / ( IPOR TVL). If the risk ratio is at or below 0.5, the payout is calculated linearly between 0$ and 25K. If the risk ratio is above 0.5, the payout is calculated linearly between USD $25K and USD $100K; with a maximum cap of $100K. In the event that the funds at risk is greater than the IPOR TVL, the maximum reward will not exceed USD $100K.\n\nFor the purposes of determining report validity, this is a Primacy of Impact program. \n\nLearn more about report validity best practices here: [Best Practice - Primacy of Impact vs Primacy of Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/12340245635089-Best-Practices-Primacy-of-Impact) \n\n__KYC Requirements:__\n\nIPOR __does not__ have a Know Your Customer (KYC) requirement for bug bounty payouts. \n\n__Audit Discoveries and Known Issues:__\n\nBug reports covering previously-discovered bugs are not eligible for any reward through the bug bounty program. If a bug report covers a known issue, it may be rejected together with proof of the issue being known before escalation of the bug report via Immunefi. \n\n__Description of known issue:__\n- IPOR index value manipulation through AAVE & Compound\n- reports reported via github [https://github.com/IPOR-Labs/ipor-audit-reports](https://github.com/IPOR-Labs/ipor-audit-reports)\n- The issue with liquidity pools amount equals zero\n- asset management relies on the published token exchange rate (gas optimization)\n- when opening swaps the asset management holdings are calculated without the interest (gas optimisation)",
+      "outOfScopeAndRules": "The following impacts and attack vectors are excluded from rewards by default for all Immunefi bug bounty programs: \n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist), except in such cases where the contracts are intended to have no privileged access to functions that make the attack possible\n- Broken link hijacking is out of scope\n\n__Smart Contracts and Blockchain/DLT__\n\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n- IPOR index value manipulation through AAVE & Compound\n- Issues when the liquidity of liquidity pools equals zero\n\n__Prohibited Activities__\n\nThe following activities are prohibited by this bug bounty program. Violation of these rules can result in a temporary suspension or permanent ban from the Immunefi platform at the sole discretion of the Immunefi team, which may also result in: 1) the forfeiture and loss of access to all bug submissions, and 2) zero payout. \n\nPlease note that Immunefi has no tolerance for spam/low-quality/incomplete bug reports, “beg bounty” behavior, and misrepresentation of assets and severity. Immunefi exists to protect the global crypto community, not facilitate grift.\n\n__Prohibited:__\n\n- Any testing with mainnet or public testnet deployed code; all testing should be done on private testnets\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules.](https://immunefi.com/rules/) These rules are subject to change at any time.",
+      "assetsBodyV2": "Impacts only apply to assets in active use by the project like contracts on mainnet or web/app assets used in production. Any impact that applies to assets not in active use, like test or mock files, are out-of-scope of the bug bounty program unless explicitly mentioned as in-scope. \n\n__Smart Contracts__ \n\n- __Smart Contracts - PoC__, Smart Contract bug reports are to include a runnable Proof of Concept (PoC) in order to prove impact.  \n- For more information on PoCs please visit: [Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)\n- All smart contracts of IPOR can be found at: [https://github.com/IPOR-Labs](https://github.com/IPOR-Labs)\n\nWhitehats are highly encouraged to review any potential subdomains and what specific port(s) are in scope. Even though the domain may be the same, different ports may point to different assets.  \n\n__Dev Environment and Documentation:__\n\nIPOR has included dev documentation and/or instructions to help in reviewing code and exploring for bugs:\n- [https://docs.ipor.io/](https://docs.ipor.io/)\n- [https://github.com/IPOR-Labs/ipor-protocol/blob/main/README.md](https://github.com/IPOR-Labs/ipor-protocol/blob/main/README.md)\n- [https://github.com/IPOR-Labs/ipor-power-tokens/blob/main/README.md](https://github.com/IPOR-Labs/ipor-power-tokens/blob/main/README.md)\n\n__Impacts to other assets:__\n\nHackers are encouraged to submit issues outside of the outlined Impacts and Assets in Scope. \n\nIf whitehats can demonstrate a critical impact on code in production for an asset not in scope, IPOR encourages you to submit your bug report using the “primacy of impact exception” asset. \n\n__Impacts in Scope:__\n\n(For Blockchain/DLTR and Smart Contracts Only) This program is considered to be governed by Primacy of Impact. For more information on what this means visit: [Best Practice - Primacy of Impact vs Primacy of Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/12340245635089-Best-Practices-Primacy-of-Impact) \n\nImpacts are based on the [Immunefi Vulnerability Severity Classification System V2.2.](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2/)\n\nAt Immunefi, we classify bugs on a simplified 5-level scale:\n- Critical\n- High\n- Medium\n- Low\n- None",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "AMM",
+          "Asset Management",
+          "DEX",
+          "Derivatives",
+          "L2",
+          "Staking"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $100,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

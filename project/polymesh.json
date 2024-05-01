@@ -1,0 +1,160 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "613VE7fDAfJo4fdtYT1xaL",
+      "id": "polymesh",
+      "slug": "polymesh",
+      "project": "Polymesh",
+      "maxBounty": 6000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1FCH17TqM1Rtf0eqFKOKQf/810e3d475b106f1fe5d845ecaa5a240f/Logo-Polymesh.png",
+      "launchDate": "2021-04-23T00:00-07:00",
+      "endDate": null,
+      "updatedDate": "2023-09-06T07:17:26.731Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "blockchain_dlt",
+          "level": "critical",
+          "payout": "USD $6,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "blockchain_dlt",
+          "level": "high",
+          "payout": "USD $3,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "blockchain_dlt",
+          "level": "medium",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "2UEYfw3HpbkbIB7r4OOm8P",
+          "type": "blockchain_dlt",
+          "url": "https://github.com/PolymeshAssociation/Polymesh/releases/latest",
+          "description": null,
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "48IguJzLnGbKeBE2PjNmfV",
+          "title": "Transaction manipulation / censorship",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "46u3F5CCZC1kyPToUReapF",
+          "title": "Double-spending",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "2pu6e47IUt0Kd7p3Qk1TII",
+          "title": "POLYX minting",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "3PupuewVkZmPUfAV0JNLzz",
+          "title": "Unauthorized token minting",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "7gos6HJ79G9PSOxeQbXDq9",
+          "title": "Staled or undermined consensus/network",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "1rsXJ73iIpho7KiuTEMkZv",
+          "title": "Governance censorship, compromise or voting result manipulation",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "7eolgPlLow0spvmMxjYudj",
+          "title": "Manipulation of signing keys or master keys to gain unauthorized access to an identity",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "jLwC13QsnPxvBIkK5kS7J",
+          "title": "Ability to use an extrinsic panic unexpectedly without proper handling",
+          "type": "blockchain_dlt",
+          "severity": "high"
+        },
+        {
+          "id": "CnfnLWoMP9K3D1FkmAj8C",
+          "title": "Block the on-chain governance system from it's expected behavior",
+          "type": "blockchain_dlt",
+          "severity": "high"
+        },
+        {
+          "id": "588fZwx7QTdpqQFCjVJDKw",
+          "title": "Block other users from their ability to perform expected tasks (griefing)",
+          "type": "blockchain_dlt",
+          "severity": "high"
+        },
+        {
+          "id": "6THsFx2bRAgSGeTJR8lRwg",
+          "title": "Ability to put chain data into an unexpected state which otherwise doesn't cause any disruption, forcing the emission of events which are incorrect",
+          "type": "blockchain_dlt",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Polymesh is an institutional-grade blockchain built specifically for regulated assets that makes it easy to create, issue, and manage tokens on the blockchain. It streamlines antiquated processes and opens the door to new financial instruments by solving the inherent challenges with public infrastructure around identity, compliance, confidentiality, and governance.  \n\nFor more detailed information about Polymesh, you can visit their [website](https://polymesh.network/) or read their [whitepaper](https://info.polymesh.network/hubfs/Files/Polymesh-Whitepaper.pdf).   \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the  [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2/). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported. \n\nThe following assets/impacts are considered out of scope of this program:\n  - [https://github.com/PolymeshAssociation/Polymesh/tree/develop/contracts](https://github.com/PolymeshAssociation/Polymesh/tree/develop/contracts)\n  - “test” code - i.e. javascript integration tests or unit tests.\n\nIn addition, known issues highlighted in previous audits are considered out of scope. See \n\n  - [https://github.com/PolymeshAssociation/Polymesh/tree/develop/audit](https://github.com/PolymeshAssociation/Polymesh/tree/develop/audit) \n\nPolymesh requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed is a Name, Address, Phone Number, Email Address and Crypto Address (for \npayment of the award).\n\nPayouts are handled by the __Polymesh__ team directly and are denominated in USD. However, payouts are done in __USDC__ or __POLYX__, at the discretion of the bug report submitter.\n",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": null,
+      "impactsBody": null,
+      "immunefiStandard": null,
+      "tags": {
+        "productType": null,
+        "projectType": null,
+        "ecosystem": null,
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "language": null
+      },
+      "legacy": {
+        "technologies": [
+          "Blockchain/DLT"
+        ],
+        "blockchain_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $6,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $3,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,000"
+          }
+        ],
+        "smartcontract_rewards": [],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

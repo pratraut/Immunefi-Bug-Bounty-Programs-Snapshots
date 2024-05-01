@@ -1,0 +1,230 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "4ZzDWo63JvpmShPGeNcJKg",
+      "id": "blockpinetwork",
+      "slug": "blockpinetwork",
+      "project": "BlockPI Network",
+      "maxBounty": 15000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7zua6OFbUgptQngH9PyKkE/b18feda35f0f62a79659db0b7646cdf6/BlockPI_logo.jpeg",
+      "launchDate": "2022-11-10T21:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:52:28.923Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $15,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "USD $2,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "4AHkbbH2oO5Uenqti9iL3y",
+          "type": "websites_and_applications",
+          "url": "https://blockpi.io/",
+          "description": "Main Web App",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2SyJJoWb5gmhEWJqeI5ueC",
+          "type": "websites_and_applications",
+          "url": "https://dashboard.blockpi.io/",
+          "description": "Dashboard",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6prlfxvWjjAJyRkKdqYmvw",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6OEphdWdNpafKV4h8NmCqT",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6W0Vw8Z07HvE0VLVkVRG53",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6eAUqXdWrizgiAfeXpfuvy",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5SEDSrZeqUdg44BXiabX0O",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7xmVQYjBcnuuNcEjnGY7Ia",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6nHUKwdk616oeCzYArZne1",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "5hCWZ5tcc1nKjVSVyjO7ib",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "6XrhLYvRB4i9DfzJL01ufa",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "EXEJQo5RJoqYfJdXCsEB4",
+          "title": "Subdomain takeover without already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "zJw7NLa3l0kgVTDpSEoZZ",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the first/last name of user, or en/disabling notification",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "1hnWWHbopfeoV8voNofh1r",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "1HQcUhnHgDqi8yH9Oq0wxQ",
+          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction such as iframing leading to modifying the backend/browser state (demonstrate impact with PoC)",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "1lXvLOys91HUql4gutVxZz",
+          "title": "Taking over broken or expired outgoing links such as social media handles, etc.",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "bZkSEan49VhlPrYeAytms",
+          "title": "Temporarily disabling user to access target site, such as locking up the victim from login, cookie bombing, etc.",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "4a522Vy9ht1fvMgNCUjPZe",
+          "title": "Redirecting users to malicious websites (Open Redirect)",
+          "type": "websites_and_applications",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "BlockPI Network is a distributed multichain acceleration layer. Now it provides high-quality, robust, and efficient RPC service. To avoid the single-point of failure and limitation of scalability, the network is designed to be a distributed structure with expandable\nworking nodes.\n\nFor more information about BlockPI, please visit [https://blockpi.io/](https://blockpi.io/) and go to the documentation at [https://docs.blockpi.io/](https://docs.blockpi.io/)",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope and a suggestion for a fix in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nPayouts are handled by the __BlockPI__ team directly and are denominated in USD. However, payouts are done in __USDC__. ",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n    - This does not exclude reflected HTML injection with or without javascript\n    - This does not exclude persistent plain text injection\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Feature requests\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf an impact can be caused to any other asset managed by BlockPI that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical and High impacts.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Services"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "Cronos",
+          "ETH",
+          "Fantom",
+          "Gnosis",
+          "Klaytn",
+          "Linea",
+          "Meter",
+          "Oasis",
+          "Optimism",
+          "Polygon",
+          "Scroll",
+          "Starknet",
+          "Viction",
+          "zkSync"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "language": null
+      },
+      "legacy": {
+        "technologies": [
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $15,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,184 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "mQa3oOicX6GWp4zxH5lFA",
+      "id": "stakeeasy",
+      "slug": "stakeeasy",
+      "project": "StakeEasy",
+      "maxBounty": 8000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4s94Lbcn5eQZMNdQQAnRdh/b8398b7e1a98f780c5a9dcb4d43a8eb3/RXmjQ0Dg_400x400.jpg",
+      "launchDate": "2023-04-06T13:00-04:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:57:34.226Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $8,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $3,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "1ItWQA8xxRBzY6agN4uTSG",
+          "type": "smart_contract",
+          "url": "https://www.mintscan.io/juno/wasm/contract/juno1dlp8avgc2r6t4nnsv4yydc6lc73rjtjqvdcee9r2kf0uwuef7v0smljy8w",
+          "description": "stakeeasy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7AWM4SLaYpoKqYHqkTfc6E",
+          "type": "smart_contract",
+          "url": "https://www.mintscan.io/juno/wasm/contract/juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv",
+          "description": "seJUNO",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2INNoQUldmnM18uO1sF24X",
+          "type": "smart_contract",
+          "url": "https://www.mintscan.io/juno/wasm/contract/juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3",
+          "description": "bJUNO",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "gRIrRzMri7oNK0ct8bSnB",
+          "type": "smart_contract",
+          "url": "https://www.mintscan.io/juno/wasm/contract/juno10njts2m24u03cx7tq97de44y8pcv4y87apya2894n9ut9gcmhx6sxug0fe",
+          "description": "reward",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3w4duc5cwGPFvmv4syfy5P",
+          "type": "smart_contract",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        }
+      ],
+      "impacts": [
+        {
+          "id": "qQotZug58vj7DjMr9bxDb",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1IOoVxtNnDWIaSgitb6FcM",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4tonUmqn8PjzUK8UuyuNt6",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "wEteIcKi3AGSDheilw7DK",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5Ys2U78JcOZ72wHDlFb3Vb",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6GxHJmN0OxKpJYH29W34of",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3bfseioVSyKqLAYUFA8JUo",
+          "title": "Temporary freezing of funds for at least 4 days",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1IMWSJNrBZEuNzw2oHeg24",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2LK8xouqcRNk7bA6MwPQR3",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "StakeEasy is a liquid staking protocol for Cosmos ecosystem.\n\nFor more information about StakeEasy, please visit [https://www.stakeeasy.finance/  ](https://www.stakeeasy.finance/)\n\n__This program meets the following Immunefi Standards and Best Practices:__\n\n| __Immunefi Best Practice__     | __Meets Criteria__     |\n| ---------- | ---------- |\n| All listed smart contracts verified on block explorers       | Yes       |\n| Blockchain/DLT or Smart Contract adhere to  “Primacy of Impact”       | Yes       |\n| Has provided a list of Audit and Known Issue       | N/A       |\n| Agreed to comply with [Immunefi Vulnerability Severity Classification System](https://docs.google.com/document/d/12A5HPT_N1LSmgNYrl5Kg-RI09t_VJlKp0vlvrYBgVaU/edit?usp=sharing)       | Yes       |\n| Meets Immunefi Standards for Critical Payouts       | No       |\n\n__For Whitehats:__ It is highly recommended that you review the details of this program in full. Although many Bug Bounty programs have standard terms and conditions, each also has their own unique details that are critical to your success.  \n\nPrior to submitting a report please review the [Immunefi Bug Report Template and Best Practices](https://immunefisupport.zendesk.com/hc/en-us/articles/12435277406481-Bug-Report-Template). \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are considered out-of-scope and ineligible for payout.",
+      "rewardsBody": "Please review how rewards are distributed based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale system with separate scales for Smart Contracts. \n\n__Payouts and Payout Requirements:__\n\nPayouts are handled by the StakeEasy team directly and are denominated in USD. However, payouts are done in USDT. StakeEasy commits to honoring payouts according to the terms set out in this program at the time of report submission, and to treat this program as the agreement and source of truth concerning bug reports and responsible disclosures. \n\nFor the purposes of determining report validity, this is a Primacy of Impact program. \n\nLearn more about report validity best practices here: [Best Practice - Primacy of Impact vs Primacy of Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/12340245635089-Best-Practices-Primacy-of-Impact). \n\nStakeEasy __does not__ have a Know Your Customer (KYC) requirement for bug bounty payouts. \n\n__Audit Discoveries and Known Issues:__\n\nBug reports covering previously-discovered bugs are not eligible for any reward through the bug bounty program. If a bug report covers a known issue, it may be rejected together with proof of the issue being known before escalation of the bug report via Immunefi. \n\n__Previous audits and known issues can be found at:__\n- [https://drive.google.com/file/d/1R6fK9fzvH8Td2ow0jrwosD2pqHfANvPP/view](https://drive.google.com/file/d/1R6fK9fzvH8Td2ow0jrwosD2pqHfANvPP/view)\n",
+      "outOfScopeAndRules": "The following impacts and attack vectors are excluded from rewards by default for all Immunefi bug bounty programs: \n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist), except in such cases where the contracts are intended to have no privileged access to functions that make the attack possible\n- Broken link hijacking is out of scope\n\n__Smart Contracts and Blockchain/DLT__\n\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n\n__Prohibited Activities:__\n\nThe following activities are prohibited by this bug bounty program. Violation of these rules can result in a temporary suspension or permanent ban from the Immunefi platform at the sole discretion of the Immunefi team, which may also result in: 1) the forfeiture and loss of access to all bug submissions, and 2) zero payout. \n\nPlease note that Immunefi has no tolerance for spam/low-quality/incomplete bug reports, “beg bounty” behavior, and misrepresentation of assets and severity. Immunefi exists to protect the global crypto community, not facilitate grift.\n\nProhibited: \n- Any testing with mainnet or public testnet deployed code; all testing should be done on private testnets\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/). These rules are subject to change at any time.  \n",
+      "assetsBodyV2": "Impacts only apply to assets in active use by the project like contracts on mainnet or web/app assets used in production. Any impact that applies to assets not in active use, like test or mock files, are out-of-scope of the bug bounty program unless explicitly mentioned as in-scope. \n\n__Smart Contracts__ \n\n- __Smart Contracts - PoC__, Smart Contract bug reports are to include a runnable Proof of Concept (PoC) in order to prove impact.  \n- For more information on PoCs please visit: [Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)\n- All smart contracts of StakeEasy can be found at: [https://github.com/arufa-research/stakeeasy-juno-contracts/tree/master/contracts](https://github.com/arufa-research/stakeeasy-juno-contracts/tree/master/contracts)\n\nWhitehats we highly encourage you to review any potential subdomains and what specific port(s) are in scope. Even though the domain may be the same, different ports may point to different assets.  \n\n__Dev Environment and Documentation:__\n\nStakeEasy has included dev documentation and/or instructions to help in reviewing code and exploring for bugs:\n- [https://docs.stakeeasy.finance/docs/guides/userflow](https://docs.stakeeasy.finance/docs/guides/userflow)\n- [https://github.com/arufa-research/stakeeasy-juno-contracts/tree/master/contracts/staking_contract](https://github.com/arufa-research/stakeeasy-juno-contracts/tree/master/contracts/staking_contract)\n- [https://github.com/arufa-research/stakeeasy-juno-contracts](https://github.com/arufa-research/stakeeasy-juno-contracts)\n\n__Impacts to other assets:__ \n\nHackers are encouraged to submit issues outside of the outlined Impacts and Assets in Scope. \n\nIf whitehats can demonstrate a critical impact on code in production for an asset not in scope, StakeEasy encourages you to submit your bug report using the “primacy of impact exception” asset. \n\n__Impacts in Scope:__\n\n(For Blockchain/DLTR and Smart Contracts Only) This program is considered to be governed by Primacy of Impact. For more information on what this means visit: [Best Practice - Primacy of Impact vs Primacy of Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/12340245635089-Best-Practices-Primacy-of-Impact). \n\nImpacts are based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2/).\n\nAt Immunefi, we classify bugs on a simplified 5-level scale:\n- Critical\n- High\n- Medium\n- Low\n- None\n\n__Other Impacts to other assets:__\n\nHackers are encouraged to submit issues outside of the outlined Impacts and Assets in Scope. \n\nIf whitehats can demonstrate a critical impact of code in production for an asset not in scope, StakeEasy encourages you to submit your bug report using the “primacy of impact exception” asset as outlined below. \n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Liquid Staking"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Cosmos"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Rust"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $8,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $3,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

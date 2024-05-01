@@ -1,0 +1,190 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "Ue4YZMBeKdJKP3MZlLXBJ",
+      "id": "indexcoop",
+      "slug": "indexcoop",
+      "project": "Index Coop",
+      "maxBounty": 200000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3bVqHG0B3LVOmdevJeeJoC/e4f00313e22321dc6118c5c0ab544b4e/Index_Coop_logo.jpeg",
+      "launchDate": "2022-09-29T12:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:57:05.611Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $50,000 to USD $200,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $20,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "2oXv0M4ijaSzk1c3ZeDMN0",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xf42ecdc112365ff79a745b4cf7d4c266bd6e4b25",
+          "description": "ExchangeIssuanceZeroEx",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2lZ1Hc0IDUiYxjh5ORQOkz",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb7cc88a13586d862b97a677990de14a122b74598",
+          "description": "ExchangeIssuanceLeveraged",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3wx0b1K3SnO5BVCMV6Pean",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD2463675a099101E36D85278494268261a66603A",
+          "description": "Controller",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "zRv3hQiUjLtdTded2IqLS",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2758BF6Af0EC63f1710d3d7890e1C263a247B75E",
+          "description": "SetTokenCreator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2gMVTTwMhjGnIlwz0Qnbhh",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa0a98EB7Af028BE00d04e46e1316808A62a8fd59",
+          "description": "DebtIssuanceModuleV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "225XOVthrijMK7Rd9uDm3o",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x165EDF07Bb61904f47800e13F5120E64C4B9A186",
+          "description": "StreamingFeeModule",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6suZakmEBEU2mR4FfHYN56",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb9083dee5e8273E54B9DB4c31bA9d4aB7C6B28d3",
+          "description": "IntegrationRegistry",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "55O6os0LuGxxQ96CWDYU2r",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2vWotbx3RjGGDnugdyDLNS",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6eZvOz4HHB4J9TOInbcjbp",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1WEahppCxdq2LORFi2O0kK",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7hZa7aVo6GwvkQeelrzHJX",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6QAjUkhO59aCHMgtm0E0ZB",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "29dnpT81ARLt3xV0BjhYwJ",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7ugT5FKdseIp9IbKvnJtfW",
+          "title": "Permanent freezing of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7mRwAbuqfGfKLw26XjBE8R",
+          "title": "Temporary freezing of funds for any amount of time",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Index Coop is a decentralized autonomous organization that powers on-chain structured products that make crypto simpler, safer & more accessible to all. Our products democratizes access to complex DeFi strategies through suites of sector indices, leveraged tokens and automated yield strategies. As of September 2021, Index Coop supported 79.3% of on-chain structured product TVL. For more information about Index Coop, please visit [https://indexcoop.com/](https://indexcoop.com/).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll High and Critical Smart Contract reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nCritical smart contract vulnerabilities are capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 50 000__. \n\nPayouts are handled by the __Index Coop__ team directly and are denominated in USD. However, payouts are done in __USDC__.",
+      "outOfScopeAndRules": "Please note that there is a bug in the ExchangeIssuanceZeroEx contract whereby tokens in the contract can be withdrawn by anyone, instead of just the contract owner. This issue was reported through ImmuneFi, and marked as closed after payment to the whitehat. Index Coop engineers decided that the vulnerability was not worth fixing because the amounts at risk are small. Therefore, the vulnerability for withdrawing funds from this contract should be considered out of scope. \n\nThe following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Index Coop can be found at [https://github.com/IndexCoop/index-coop-smart-contracts](https://github.com/IndexCoop/index-coop-smart-contracts)and [https://github.com/IndexCoop/index-protocol](https://github.com/IndexCoop/index-protocol). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nThe current  implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target, if applicable. \n\nIf an impact can be caused to any other asset managed by Index Coop that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical impacts.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Asset Management",
+          "DAO",
+          "Yield Aggregator"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $50,000 to USD $200,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $20,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

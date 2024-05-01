@@ -1,0 +1,237 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "4vtnTRuUDARjTmiTGoy1vj",
+      "id": "dodo",
+      "slug": "dodo",
+      "project": "DODO",
+      "maxBounty": 100000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3gUM6wDJxYyzDVoWpLQX4o/b521d1e6620ff23b80cc0c439666a5d1/DODO.svg",
+      "launchDate": "2021-05-25T00:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:52:56.667Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $100,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Up to USD $10,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "Up to USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "Up to USD $1,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "none",
+          "payout": "USD $500",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "5aUDZ9q69rcMvR9s0AsBur",
+          "type": "smart_contract",
+          "url": "https://github.com/DODOEX/contractV2/tree/main",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1fkxBhXuwloqJpWFI5ALjM",
+          "type": "smart_contract",
+          "url": "https://github.com/DODOEX/dodo-route-contract/blob/main/contracts/SmartRoute/DODORouteProxy.sol",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6TQHEMshKredGvNtH4E93",
+          "type": "smart_contract",
+          "url": "https://github.com/DODOEX/dodo-limit-order/blob/main/src/DODOLimitOrder.sol",
+          "description": null,
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "3K60KWztnHEz0ib5UIiAgo",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5uvI9MbL4zleWBxXy24muB",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6z1Ps5sF0Xrzh2Tu3dtmFk",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "9dQvHdYNFuzdp9yY7llfk",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3oWVMYYidyZT1mr5GdhWc3",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "52vzFETVDofgdg4DDz5NUE",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3NAm1yrZcvXgImQWAbSb9S",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6YToftfHNuGZdtbaYFCzWJ",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "49eUPtCAr1sTC79KqYWAHp",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "H6iVqJXkoqo75NdEM9XnN",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "0pmqlSOsmpXLp2klGhPeI",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "oXccga3ZCLO6M9gJkeSG6",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "637LxsuGMEBz4oJtywFuM0",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1QcUNNbak2qKJC4xxRajOf",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "DODO is a decentralized exchange platform powered by the Proactive Market Maker (PMM) algorithm. It features highly capital-efficient liquidity pools that support single-token provision, reduce impermanent loss, and minimize slippage for traders. The trading platform also offers SmartTrade, a decentralized liquidity aggregation service that routes to and compares various liquidity sources to quote the optimal prices between any two tokens. In addition, DODO removed all roadblocks hindering liquidity pool creation for the issuance of new assets - asset ratios, liquidity depths, fee rates, and other parameters can all be freely customized and configured in real-time. Based on this breakthrough, DODO has developed Crowdpooling, a permissionless, equal opportunity liquidity offering mechanic, as well as customizable technical solutions geared towards professional on-chain market makers.\n\nMore information about DODO can be found on their website, [https://dodoex.io/](https://dodoex.io/).   \n\nThis bug bounty program is focused around its smart contracts and is mostly concerned with the prevention of the loss of user funds. ",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards for Smart Contract vulnerabilities are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit. \n\nThe calculation of the final reward amounts will be based on the economic impact of the discovered vulnerabilities, as well as the level of difficulty in discovering these vulnerabilities. As for the economic impact, this is capped at 10% of economic damage, which accounts for direct funds at risk as well as other aspects at the discretion of the DODO team. \n\nTo qualify for a reward, please include as much information about the vulnerability as possible in your report, including:\n\n  - The conditions on which reproducing the bug is contingent\n  - The steps needed to reproduce the bug or, preferably, a proof of concept\n  - The potential implications of the vulnerability being abused\n\n__Responsible Publication__\n\nDODO adheres to __category 3__. This Policy determines what information whitehats are allowed to make public from their submitted bug reports. For more information about the category selected, please refer to our Responsible Publication page.\n\nPayouts up to __USD 100 000__ are handled by the __DODO__ team directly and are denominated in USD. However, payouts are done in __DODO__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - FeeRouteProxy exclusions: FeeRouteProxy.sol won't left any tokens in normal swap, so we don't abandon using tokens in the proxy through specific swap method\n\nThe following contracts are out of scope and NO bounty will be paid:\n\n- contracts/CollateralVault/\n- contracts/DODODrops\n- contracts/Factory/Registries/DODONFTRegistry.sol\n- contracts/Factory/DODONFT.sol\n- contracts/Factory/DODONFT1155.sol\n- contracts/Factory/NFTTokenFactory.sol\n- contracts/GeneralizedFragment/\n- contracts/NFTPool/\n- contracts/SmartRoute/helper/DODONFTRouteHelper.sol\n- contracts/SmartRoute/proxies/DODODropsProxy.sol\n- contracts/SmartRoute/proxies/DODONFTPoolProxy.sol\n- contracts/SmartRoute/proxies/DODONFTProxy.sol\n- contracts/SmartRoute/DODONFTApprove.sol\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "The following smart contracts [DODOMemberSystem](https://github.com/DODOEX/contractV2/tree/main/contracts/DODOMemberSystem/) and [https://github.com/DODOEX/contractV2/tree/main/contracts/external](https://github.com/DODOEX/contractV2/tree/main/contracts/external) are not included in this bug bounty program.",
+      "impactsBody": "The following contracts are not included in this bug bounty program:\n- [https://github.com/DODOEX/contractV2/tree/main/contracts/DODOMemberSystem/](https://github.com/DODOEX/contractV2/tree/main/contracts/DODOMemberSystem/)\n- [https://github.com/DODOEX/contractV2/tree/main/contracts/external](https://github.com/DODOEX/contractV2/tree/main/contracts/external)\n",
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "AMM",
+          "Bridge",
+          "Crosschain Liquidity",
+          "DEX",
+          "Liquid Staking"
+        ],
+        "projectType": [
+          "Defi",
+          "Exchange"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Aurora",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "Conflux",
+          "ETH",
+          "Linea",
+          "Manta",
+          "Mantle",
+          "Optimism",
+          "Polygon",
+          "Scroll"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $100,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "Up to USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "Up to USD $1,000"
+          },
+          {
+            "level": "Informational",
+            "payout": "USD $500"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

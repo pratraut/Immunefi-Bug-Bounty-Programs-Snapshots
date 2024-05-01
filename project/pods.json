@@ -1,0 +1,327 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "13qdBk6fj6YMTPfgO6HZCb",
+      "id": "pods",
+      "slug": "pods",
+      "project": "Pods",
+      "maxBounty": 100000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2HNgiB8jmI9Wq4dU3C3bu/565e3bd8490b35e7fd054cd850b34b15/Pods-logo.jpg",
+      "launchDate": "2023-01-12T19:00:00.000Z",
+      "endDate": null,
+      "updatedDate": "2024-03-31T12:26:46.512Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $100,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $7,500",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "36NIX5rS3KrhH74PRZiMow",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x4AAD0755eFd63F4e9B7Fac19Bd426db4a0d9b5E8",
+          "description": "ETHAdapter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6gnvHFJkPfvFFNpNL0rDsR",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x65fD0E32841557CBBe4cE5566e12FB82091824fc",
+          "description": "Migration",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1eqf7NJXFvf68iDRx025f6",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x463F9ED5e11764Eb9029762011a03643603aD879",
+          "description": "Volatility Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "746sAXBK1tuNXwGgyIdPRM",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe982e991a394fb4d91521a14f559c98ae29186e2",
+          "description": "CfgManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1BDSMCmDxWpvZIKruEtuIx",
+          "type": "websites_and_applications",
+          "url": "https://app.pods.finance/",
+          "description": "Web/App ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1T6wUT5P5MeB7OqdY0tqG0",
+          "type": "websites_and_applications",
+          "url": "https://pods.finance",
+          "description": "Web/App ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2b9rICbCe0z3iZVXSVE8VN",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5FE4B38520e856921978715C8579D2D7a4d2274F",
+          "description": "ETHphoria Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6pcOkVTXOoUE3OFMEupIky",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x287f941ab4b5aadad2f13f9363fcec8ee312a969",
+          "description": "FUD Vault",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "5rwQfwSE10JktCJz9hKf9Z",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6KvovItfX88gALLEMsOnxp",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2UNmusSeGkRlgRInJUwHr1",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3frdjPYY4XTx3CJtv6w2b6",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2g5uDlwJ5FLtv2QOJetTJl",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5OR8VCxzsOIQDNaRhx7M22",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2jFy8YtD4Qt0MjYyyHFFYd",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7xS9JwZwHOsxHGn8pwQAin",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6e6MZaXNk0X6zvnJNs65FH",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2JKzgGpXIESjED26FoxOlP",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5KhFj3tj9eD8onsMvd6ota",
+          "title": "Subdomain takeover with already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5pq5RTiIPZpULL4Usa6Kqz",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2EH77AAs5eSYvSt63MEpfQ",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5pCORMMdeE5avCWFAZU1Z7",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5QOVCq9x6lk8nUWev0wU1w",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "52pUDvvFUKEFWiUd5Xk5M7",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2MQgST4yYVU0ai4Mn4Rpv0",
+          "title": "Subdomain takeover without already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "4lJT25i5U4dtiVK8hded2z",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7aCditktm4pUNDHp9zARYt",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7kXJ1ioUKrdUvs0mcfLXG4",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "76pCAerCa8PU98iZjyp6NG",
+          "title": "Temporary freezing of funds for at least 8 days",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6aiHPYlhjqUUf7Ob1YmX8J",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1KM09x54nIUsSU8Sb5ExN1",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7ltKY8fbp4j6e4S00UIwAi",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2fKLaVIU2wfFoAUNCIgqOH",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "OGJUTJQLf7nNh3fQqC4fE",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5r6MqkofeWENT9LEuYC8VE",
+          "title": "Smart contract fails to deliver promised returns, but doesn’t lose value",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Pods  is a DeFi structured product. It is similar to Yearn, but with derivatives strategies. Pods currently have principal protected strategies., low-risk strategy. \n\nWe currently have three strategies: One if you are bearish, and want to earn money in case the market goes down, another one in case the market goes up and one if you don't know the market direction but you know that volatility will be present.\n\nThe strategy also assumes that Lidoand AAVE are a reputable source of a base yield on ETH.\n\nFor more information about Pods, please visit [https://docs.pods.finance/](https://docs.pods.finance/).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.  \n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nKnown issues highlighted in the following audit reports are considered out of scope: \n- [https://github.com/pods-finance/yield-contracts/tree/main/audits](https://github.com/pods-finance/yield-contracts/tree/main/audits)\n\nValid critical vulnerabilities are awarded at 5% of the funds at risk, up to USD __100,000__\n\nPayouts are handled by the __Pods__ team directly and are denominated in USD. However, payouts are done in __USDC__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n\n__Websites and Apps__\n\n- Theoretical vulnerabilities without any proof or demonstration\n- Attacks requiring physical access to the victim device\n- Attacks requiring access to the local network of the victim\n- Reflected plain text injection ex: url parameters, path, etc.\n   - This does not exclude reflected HTML injection with or without javascript\n   - This does not exclude persistent plain text injection\n- Self-XSS\n- Captcha bypass using OCR without impact demonstration\n- CSRF with no state modifying security impact (ex: logout CSRF)\n- Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n- Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n- Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n- Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n- Lack of SSL/TLS best practices\n- DDoS vulnerabilities\n- Feature requests\n- Issues related to the frontend without concrete impact and PoC\n- Best practices issues without concrete impact and PoC\n- Vulnerabilities primarily caused by browser/plugin defects\n- Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n- Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\nThe following activities are prohibited by this bug bounty program:\n\n- Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n- Any testing with pricing oracles or third party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Pods can be found at [https://github.com/pods-finance/yield-contracts](https://github.com/pods-finance/yield-contracts). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf a Critical/High severity impact can be caused to any other asset managed by Pods that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Yield Aggregator",
+          "Derivatives"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $100,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $7,500"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $1,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,335 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "7fhwmv12XXe1hl1ZQeEeBS",
+      "id": "morpho",
+      "slug": "morpho",
+      "project": "Morpho",
+      "maxBounty": 555555,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/21UhSthwaSUQStGZqlLCyY/7f76b5f7ca962da1664dd3fe9b55cfbf/Morpho_Logo_copy.png",
+      "launchDate": "2022-06-17T16:00:00.000Z",
+      "endDate": null,
+      "updatedDate": "2024-04-01T14:31:07.531Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $555,555",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $15,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $50,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "2YcDdSKUZXH9W25Eope0zv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8888882f8f843896699869179fB6E4f7e3B58888",
+          "description": "Morpho Proxy (Compound)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2V9bbEJETSwrnRN3hrQUM",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe3d7a242614174ccf9f96bd479c42795d666fc81?utm_source=immunefi",
+          "description": "Morpho (Compound)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1lwfaobZQw2sqWpY12A2I3",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x79a1b5888009bB4887E00EA27CF52551aAf2A004",
+          "description": "PositionsManager (Compound)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3RwXWcbdlHzDxCFvrDiC5S",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD9B7209eD2936b5c06990A8356D155c3665d43Ab",
+          "description": "InterestRatesManager (Compound)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "62qPF4djb0zwmmYny2zrKu",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x78681e63b6f3ad81ecD64AECC404d765b529C80d",
+          "description": "RewardsManager Proxy (Compound)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7maheCBI7owTleeAsXfl73",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x777777c9898d384f785ee44acfe945efdff5f3e0",
+          "description": "Morpho Proxy (AaveV2)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "01l1bSZwR8z5LZe8ACP02n",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x581c3816589ad0de7f9c76bc242c97fe96c9f100",
+          "description": "RewardsManager (Compound)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2axY5BP1dKuxvWSJjtvWaV",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xFBc7693f114273739C74a3FF028C13769C49F2d0",
+          "description": "Morpho (AaveV2)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7ECRgb1CCFwiULw2HQgixQ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x029Ee1AF5BafC481f9E8FBeD5164253f1266B968",
+          "description": "EntryPositionsManager (AaveV2)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4LdTZ4w1gWEp0lsPob70IK",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xfd9b1Ad429667D27cE666EA800f828B931A974D2",
+          "description": "ExitPositionsManager (AaveV2)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6k5TlyFwP953l5wYWXKOow",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x22a4ecf5195c87605ae6bad413ae79d5c4170ff1",
+          "description": "InterestRatesManager (AaveV2)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "46ZWDsKO9iABPDSdoDKJAB",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x33333aea097c193e66081e930c33020272b33333",
+          "description": "Morpho Proxy (AaveV3 ETH eMode)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3BMeF5UYzbuRa1iUMlsLHi",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xcb5309bdda3463ece2d020c9d0564a95c5a90b53",
+          "description": "Morpho (AaveV3 ETH eMode)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "CFeQsnUAsLP1ttr0alLLf",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x4592e45e0c5dbee94a135720ccff2e4353dac6de",
+          "description": "PositionsManager (AaveV3 ETH eMode)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3n3UNm1QzHG4tgu2LTQR8S",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x39dd7790e75c6f663731f7e1fdc0f35007d3879b",
+          "description": "ma3WETH Vault Proxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "zfsxuO8C9PHbAclAIUryY",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb1c23d9ca977ab301417332def6f91acbd410a96",
+          "description": "ma3WETH Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6GaF9K5O6V2mZwkizRCyNR",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0b9915c13e8e184951df0d9c0b104f8f1277648b",
+          "description": "Morpho Admin (DAO)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "37rb1GDg4fjup7d8OgVCD8",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x68d11129a514c45716e55b9771813f117c4c2fa5",
+          "description": "Delay Modifier (DAO)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5nDXUkSznJG106N5FWrzys",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa8b9650935efb3f2972d1ca4d3a8ba752d1a807a",
+          "description": "Role Modifier (DAO)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3OQX5PyIcCpmNRGy84csNM",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9994e35db50125e0df82e4c2dde62496ce330999",
+          "description": "Morpho Token (DAO)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2vCh3wRaNNNP1IMX4uJgHs",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x640428d38189b11b844daebdbaabbdfbd8ae0143",
+          "description": "Operator (DAO)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2WF4rHSEgSZVL2U5zgwzdW",
+          "type": "websites_and_applications",
+          "url": "https://compound.morpho.xyz/",
+          "description": "Web/App",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2hEzbdr5cKDlZXpQjiP9b3",
+          "type": "websites_and_applications",
+          "url": "https://aave.morpho.xyz/",
+          "description": "Web/App",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "4hD3lR1Qe8YprPOA5Q0e51",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "43yxtZnp8vnZw1sDZxAi2F",
+          "title": "Loss of governance funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "10CmUC5bcNBOlL7PtAmKbh",
+          "title": "Substituting of the contract address",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "59iA6dtOLkacSbZKtHFU5W",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3zkbpLtsMaIYDDswOVyPlR",
+          "title": "Permanent freezing of unclaimed rewards",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1BHdxzZJTndSj1Up93JxJP",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4rAu4T3bBVDWF68t117LH6",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "62He2YkDrVXR7eNVkePpI2",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5Uyyf6TQ9Rvm309hyl9xc8",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4XhQ7G2Dizee5xlM4PpxYN",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4a7FEun0cFjPq1L5FbyGyt",
+          "title": "Infinite/unbounded gas consumptions, infinite loops",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Morpho is a Peer-to-Peer layer on top of lending pools like Compound or Aave. Rates are seamlessly improved for both suppliers and borrowers whilst preserving the same liquidity and liquidation guarantees. In short, Compound Optimizer is an upgraded version of Compound, Aave Optmizers  are  upgraded version of Aave.\n\nFor more information about Morpho, please visit [https://www.morpho.org](https://www.morpho.org).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.1](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-1/) and its likelihood. The classification is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported. For Morpho the “None” has been removed.\n\nThe likelihood can be asses with the following elements:\n  - Very Likely: no capital required, atomic attack, no assumptions to be made\n  - Likely: low capital required, simple attack, some low assumptions to be made\n  - Unlikely: high capital required, attack over several blocks, relying on strong assumptions\n  - Very Unlikely: very high capital required, attack over several blocks or  very complex to perform, relying on very strong assumptions\n\n__Smart Contracts__\n\n__Critical\t\t\tUp to USD 555 555__\n\n|              | Low       | Medium    | High       | Critical      |\n|--------------|-----------|-----------|------------|---------------|\n| Very Likely  | $5,000 | $15,000| $100,000| $555,555   |\n| Likely       | $1,000 | $5,000 | $15,000 | $100,000   |\n| Unlikely     | $0     | $1,000 | $5,000  | $15,000    |\n| Very Unlikely| $0     | $0     | $1,000  | $5,000    |\n\n\n__Websites and Applications__\n\n__Critical\t\t\t\t\tUSD 50 000__\n\n|              | Low       | Medium    | High       | Critical      |\n|--------------|-----------|-----------|------------|---------------|\n| Very Likely  | $500 | $1,000| $10,000| $50,000   |\n| Likely       | $200 | $500 | $1,000 | $10,000   |\n| Unlikely     | $0     | $200 | $500  | $1,000    |\n| Very Unlikely| $0     | $0     | $200  | $500     |\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nRewards for critical smart contract vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of USD 55 555 for Critical smart contract bug reports. \n\nCurrent and past contractors with Morpho Labs or the Morpho Association are not eligible for any rewards from this bug bounty program. \n\nMorpho requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed is a scan of a photo ID. Morpho will also request an invoice with your name, email address and crypto wallet address in order to payout the reward.\n\nThe following known issues are considered to be out of scope of this program: \n  - Rounding errors.\n  - COMP rewards can be claimed as part of the reserve factor if COMP is listed as market.\n  - Someone can repay on behalf of Morpho.\n  - Relatively high gas consumption.\n  - Extreme market turmoil vulnerability.\n  - Some contracts are not set yet (eg: IncentivesVault).\n  - Manipulation of the matching engine. Here are some examples:\n    - Split large amounts: On Morpho, pure supplier whales are always in the first positions of data structures and constantly matched/unmatched. What is possible to do is to supply a large amount with a first account. Borrow-repay (free), to match itself, and then withdraw enough from the supply  to be inserted in the FIFO part of the data structure. The final result is a huge liquidity matched splitted across multiple accounts. \n    - Flashloan to enter peer-to-peer: A user is waiting in the FIFO part of the pool data structure because larger users are placed before this user. With a flash loan, it’s possible to supply enough to become the first user waiting to be matched. Then borrow-repay (free), to match peer-to-peer the user itself as well as the second one. Then withdraw the flasloaned amount and end the tx. The user is thus matched peer-to-peer.\n\n  - All other issues acknowledged  in the audits in this repo: \n    [https://github.com/morpho-dao/morpho-v1/](https://github.com/morpho-dao/morpho-v1/) and [https://github.com/morpho-dao/morpho-aave-v3](https://github.com/morpho-dao/morpho-aave-v3)\n\nPayouts are handled by the __Morpho Labs__ team directly and are denominated in USD. However, payouts are done in __USDC__ or __DAI__, at the discretion of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n    - This does not exclude reflected HTML injection with or without javascript\n    - This does not exclude persistent plain text injection\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Feature requests\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n\nAll contractors with Morpho Labs or with the Morpho Association cannot claim the bounty.",
+      "assetsBodyV2": "For proxy contracts, only the current implementation and any further updates to the implementation contracts are considered in scope. \n\nAll smart contracts of Morpho can be found at [https://github.com/morpho-dao/morpho-v1](https://github.com/morphodao/morpho-core-v1) and [https://github.com/morpho-dao/morpho-aave-v3](https://github.com/morpho-dao/morpho-aave-v3). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nThe DAO setup is also in scope, you can refer to [Morpho’s documentation](https://docs.morpho.org/governance/organization/contracts-architecture#step-4-introduce-modular-decentralization-and-deploy-delay) as a reference. Contracts implementation are not in scope though.\n\nIf any Critical or High severity impacts can be caused to any other asset managed by Morpho that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Lending"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $555,555"
+          },
+          {
+            "level": "High",
+            "payout": "USD $15,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $50,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

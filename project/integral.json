@@ -1,0 +1,341 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "60QHBanMnQBEsgI7QJw3AS",
+      "id": "integral",
+      "slug": "integral",
+      "project": "Integral",
+      "maxBounty": 25000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5dHTFAc230t6p8vYxgilO2/38e96d7cbe65593285dfec560c736985/Integral-logo.jpg",
+      "launchDate": "2021-04-15T00:00-07:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:54:03.638Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $25,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $10,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "3gAtKN2SvFH8yF0jEzkFFE",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD502F487e1841Fdc805130e13eae80c61186Bc98",
+          "description": "IntegralToken",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5RGbshAbio0sWkmrHv5tbX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc8805cebd927941a3b26e2edced20d666fb118ba",
+          "description": "TimeRelease",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2IjYr8NQUzmeM2AzTRLnEg",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x36bD665392236b20bd42e161f02Bf0ae1d9441Ff",
+          "description": "Integral Staking  (6 Months)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3OvEtzIKuIUq0Pv3w3UdrE",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xFFc0EAC1a1aE79C697607229Aca43Ef422625a40",
+          "description": "Integral Staking (3 Years)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4Vac69v0V9U78DB3JCxC69",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xC480b33eE5229DE3FbDFAD1D2DCD3F3BAD0C56c6",
+          "description": "SIZE Factory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "hz5AKhh9wVAck7vrAUAXK",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x35cb375799b28c8d6b7c5c8d494ed180ae2e60cb",
+          "description": "SIZE Delay",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "10LWwEKaAL6U3yW1e0J0dV",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xF4418d9fe76A788F2868a558dD216549aD2d869B",
+          "description": "Fee governor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4yVswyojoIVlc8rO3ljKRd",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x0800fcf3d8b46d56510f8360a4a4d9301cd78d91",
+          "description": "Fee governor (Arbitrum)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "dH0Y40F8XDRhqztVePbXn",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xa400bad76f6bc487ef6acfcda3d68edd2a513d2a",
+          "description": "SIZE (Arbitrum) Delay",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7dA7nLFsFs0gRXmoSLnHX3",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2fe16Dd18bba26e457B7dD2080d5674312b026a2",
+          "description": "SIZE Pair (WETH-USDC)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1x0hyjm4NQWaQ0oFONovpN",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x4bca34ad27df83566016b55c60dd80a9eb14913b",
+          "description": "SIZE (Arbitrum) Pair (USDC-WETH)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1k6Mco0hGpHxbXTaZJ1sVo",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x33B1ee377D97Ef58B5cba81e69aFdb2a4008dBB2",
+          "description": "Merkle Time Release (1)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7EhlbclFkNbpGTO7N1Tj0z",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x6A16630e78f95eEBB11a74dE0bA1503B9D0984d0",
+          "description": "Merkle Time Release (2)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3lVW8XIteClisVVKjD3T0b",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xd25c6DA73ADBbB68508778621621568E07a1f284",
+          "description": "Merkle Time Release (3)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3aBCxHOCFS5d4QsijkrzxF",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2c66Ea3f4D8D056A20FFa14fCFC7956BBEfeB5FD",
+          "description": "Merkle Time Release (4)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3stlBjsfx6dAW0bYzP26CA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1c857a1e3a9687dd788A1B3921de34210708991E",
+          "description": "Merkle Time Release (5)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "eUgkRzDLF0yLbimLGSOCt",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5ADbc8e7458f5ba581BD8d3F4eC46Cd765a6706b",
+          "description": "Merkle Time Release (6)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2lxnnGsfjCAUktsG5bTplE",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x851456EBEE49c8A2A4dd66Fe3D19c431Dd8F56AE",
+          "description": "Merkle Time Release (7)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4tYkg8zQk1RR2SnbBpvSLy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe96f5A2680981AEc61C4980F2F7B9ad666698e61",
+          "description": "Merkle Time Release (8)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5olJR31EADMx9ffPvyuRz",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x048f0e7ea2CFD522a4a058D1b1bDd574A0486c46",
+          "description": "SIZE Pair (WETH-USDT)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4xuDbiHjKHDJf3sLF21vYC",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x37f6df71b40c50b2038329cabf5fda3682df1ebf",
+          "description": " SIZE Pair (WETH-WBTC)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "NTSAI81uu6YO3iKmnsVhr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x6ec472b613012a492693697FA551420E60567eA7",
+          "description": "SIZE Pair (USDC-USDT)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2wYizmVxxuUMkziiK3n6X9",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xd17b3c9784510E33cD5B87b490E79253BcD81e2E",
+          "description": "SIZE Rrelayer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4XnST2lRQAfvjULMpTduO7",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x3c6951fdb433b5b8442e7aa126d50fbfb54b5f42",
+          "description": "SIZE Relayer (Arbitrum)",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "1k32WI3ZnmrnGg5k6Oj49B",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "pQ5rhrj2h9m09yxUe3G02",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "648wa5EvgPWj7FQMBYYLex",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4173UaYLTPwDJtrIjwm0y6",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6ncdMivkqbkJiSFMdhCqFt",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "ejha3CidGAnO1bUjBbWp2",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5bpYik3Rfk0KVGOqIRp080",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7alS8jaZrpVyL195Xnh2lE",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3rn5DhexsiJK49zCdQ9Pxo",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3PzrB9QcP7Pz5Y1BYKaz9G",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2hztknqPWG45Wu5vIYIFya",
+          "title": "Any other minor smart contract vulnerabilities not mentioned above",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "At Integral we build on-chain trading products and tools to rival those of centralized exchanges. Our mission is to serve DeFi users who care about self-custody, decentralization, security, and financial usability. Integral SIZE is a TWAP based DEX with zero price impact swaps on Ethereum. In addition, traders enjoy a MEV-resistant and low-fee trading experience. Further information about Integral can be found here [https://docs.integral.link](https://docs.integral.link).\n\nThe bug bounty program is focused around its smart contracts and is mostly concerned with:\n\n  - Direct theft of any user funds from smart contracts, whether at-rest or in-motion\n  - Loss of user funds through freezing, theft, manipulation of the pools, or denial of service to smart contracts.\n",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the\nfollowing types:\n\n**Smart Contracts/Blockchain:**\n\n- Re-entrancy\n- Logic errors\n  - including user authentication errors\n- Solidity/EVM details not considered\n  - including integer over-/under-flow\n  - including unhandled exceptions\n- Trusting trust/dependency vulnerabilities\n  - including composability vulnerabilities\n- Oracle failure/manipulation\n- Novel governance attacks\n- Economic/financial attacks\n  - including flash loan attacks\n- Congestion and scalability\n  - including running out of gas\n  - including block stuffing\n  - including susceptibility to frontrunning\n- Consensus failures\n- Cryptography problems\n  - Signature malleability\n  - Susceptibility to replay attacks\n  - Weak randomness\n  - Weak encryption\n- Susceptibility to block timestamp manipulation\n- Missing access controls / unprotected internal or debugging interfaces",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on\nthe [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required. All bug reports without a PoC will not be accepted under this bug bounty program.\n\nThe final reward for critical bounty payouts is capped at 10% of economic damage up to USD 25 000, primarily based on the funds at risk, at the discretion of the team. However, the minimum reward is USD 10 000.\n\n__Repeatable Attack Limitations__\n\nIn cases of repeatable attacks for smart contract bugs, only the first attack will be counted, regardless of whether the smart contract is upgradable, pausable, or killable.\n\nThe following scenarios are not eligible for a reward:\n  - Exploits that require access to the admin keys\n  - Cases involving risks of losses to the pools in case the assets in the pools decrease in price\n  - Cases involving risks of impermanent losses in the pools\n  - Exploits or arbitrages which are not economically practical to execute\n  - Exploits or arbitrages which rely on predicting future price movements, and/or price differentials between either the delay or the relayer contract, and other on-chain or off-chain venues regardless of whether it is realistic to execute such exploits or arbitrages.\n  - Cases involving dynamic pool ratios due to the nature of the design\n  - Cases involving dynamic pool ratios due to the nature of the design including but not limited to large changes of pool ratios due to orderflow, temporary guardrail pauses on LP withdrawal when pool ratios are extremely skewed. \n  - Exploits due to issues with hosting providers which cannot be fixed by changing any configuration on our side will be given an Informational classification or lower, these exploits should be reported using the bug bounty program of the hosting providers instead\n\nPayouts are handled by the Integral team directly and are denominated in USD. However, payouts are done in DAI, USDT, USDC, ETH, or ITGR, at the discretion of the team.\n",
+      "outOfScopeAndRules": "**The following vulnerabilities are excluded from the rewards for this bug\nbounty program:**\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, admin, owners of contracts, etc.)\n  - Attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n  - Attacks on test files and configuration files unless stated otherwise in the bug bounty program\n  - Incorrect data supplied by third party oracles\n  - Manipulation and flash loan attacks on third-party oracles\n  - Loss of slippage through sandwich attacks. \n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n\n**The following activities are prohibited by bug bounty program:**\n\n- Any testing with mainnet or public testnet contracts; all testing should be\n  done on private testnets\n- Any testing with pricing oracles or third party smart contracts\n- Attempting phishing or other social engineering attacks against our employees\n  and/or customers\n- Any testing with third party systems and applications (e.g. browser\n  extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n\n__Eligibility__\n\nTo be eligible for a reward under this Program, you must:\n  - Be the first to disclose the unique vulnerability in compliance with the disclosure requirements above.\n  - Provide sufficient information to enable our team to reproduce and fix the vulnerability.\n  - Not engage in any unlawful conduct when disclosing the bug including through threats, demands, or any other coercive tactics.\n  - Make a good faith effort to avoid privacy violations, destruction of data, interruption or degradation of Integral.\n  - Submit only one vulnerability per submission, unless you need to chain vulnerabilities to provide impact regarding any of the vulnerabilities.\n  - Not submit a vulnerability caused by an underlying issue that is the same as an issue on which a reward has been paid under this Program.\n  - Be at least 18 years of age.\n  - Not be subject to US, UK, and EU  sanctions or reside in a US, UK, or EU-embargoed country.\n  - Comply with all the eligibility and disclosure requirements of the Program.\n  - The vulnerability must not already be known by the Integral team.\n",
+      "assetsBodyV2": null,
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "AMM",
+          "DEX"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $25,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

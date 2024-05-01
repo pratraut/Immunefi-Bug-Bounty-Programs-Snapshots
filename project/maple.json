@@ -1,0 +1,426 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "1NFtCGb9Diezav4nEIlC4C",
+      "id": "maple",
+      "slug": "maple",
+      "project": "Maple",
+      "maxBounty": 500000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/eUOQ1h8f4Rp7j6crz0YSq/669fab983d425d27fad87560219065a5/Maple_Logo.jpg",
+      "launchDate": "2022-01-25T16:00-05:00",
+      "endDate": null,
+      "updatedDate": "2023-12-22T13:28:42.109Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $50,000 to USD $500,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $25,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "3pXn8DK5rwTJZA8mrsv0oJ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa2091116649b070D2a27Fc5C85c9820302114c63",
+          "description": "LiquidatorFactory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1OvkwMf2OGQSr9uX1K403f",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe6a03Ba967172a1FF218FEE686445f444258021A",
+          "description": "LiquidatorImplementation (v200)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7tNfaJ2REGVpyUONNfD0Q1",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xED9D14F83eddd08572c403175FFf41c42a35a149",
+          "description": "LiquidatorInitializer (v200)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "H4nFfmWgqFNhWSNREhVhZ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1551717AE4FdCB65ed028F7fB7abA39908f6A7A6",
+          "description": "LoanManagerFactory (Fixed Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1Ef8Ueo0qLKlvNC4jJjGg7",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5b97c9DccE2693844b90Cea40ba1fD15Bf99Eb01",
+          "description": "LoanManagerImplementation (v301 Fixed Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6NfbTZ7qBY8V593A5Au8YJ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xcbe920B1931DA57069b12A19Bc6d11Ad7B5adaBD",
+          "description": " LoanManagerInitializer (v300 Fixed Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1mwtKthXApSUrLTGbJeW7x",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x90b14505221a24039a2d11ad5862339db97cc160",
+          "description": "LoanManagerFactory (Open-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2UsRMYhruhxgst0PO9ePb6",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xbad003da1e107f537ae2f687f5fe7a7affe9b241",
+          "description": "LoanManagerImplementation (v100 - Open-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2R5lWAmysmgok0bdoKjx5i",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x20d0b31c2620c28d22489babfef9445c7d952921",
+          "description": "LoanManagerInitializer (v100 - Open-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "9d2hxKltMKALJuNMyn4SX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5a64417823e8382a7e8957e4411873fe758e73a8",
+          "description": "MapleGlobalsImplementation (v300)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5YnTMI5eTkZ0guhcNf43w",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x804a6F5F667170F545Bf14e5DDB48C70B788390C",
+          "description": "MapleGlobalsProxy (v2)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1eU5tiZl6DuZIUuNTZ1y4y",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xea067db5b32ce036ee5d8607dbb02f544768dbc6",
+          "description": "MapleLoanFactory (Fixed-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7mMY9rE4LlbCPg19jAqjQX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7a6f2c7b4f6ad1cb00ab23ecc5b41d25da439005",
+          "description": "MapleLoanImplementation (v502 - Fixed Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3PIh2hDoWlzuBKXgFpNod4",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8F596D2f57C26FB1CD22F25c9a686e38A62Ce137",
+          "description": "MapleLoanInitializer (v500 Fixed Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "h0lR35S8QGVeWKLuUWl2m",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x6d4416e6c0536fd33127d38af21bc912475584e3",
+          "description": "MapleLoanMigrator (v502 - Fixed Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6qoD5sd2EqQDoHA4D2XYzy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x6fad515fc046dd17166453a79725f50b917b7cf6",
+          "description": "MapleLoanFactory (Open-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "59csNYCrTXEG1D1RDW9kfp",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x085176e2a201c90ce506be00bfc4f411bf9b3998",
+          "description": "MapleLoanImplementation (v101 - Open-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3DiXvDrfRuuCL9mrRf3MeK",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x92d40038e411612e8ce633ccc29158c6a55cd9f3",
+          "description": "MapleLoanInitializer (v100 - Open-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "160zkbYMKpLuDLPXedOOTU",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x12fb5dbbdb06ab973f047cc46d6bb33ba4d03b96",
+          "description": "PoolDeployer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6sfynQqD9eeVYejIRFd5lJ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xE463cD473EcC1d1A4ecF20b62624D84DD20a8339",
+          "description": "PoolManagerFactory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4Bd4fINcMsDtRFL0T36g8I",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0055c00ba4dec5ed545a5419c4d430dada8cb1ce",
+          "description": "PoolManagerImplementation (v300)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6pnkAa6b49S3HIQOgFLKZY",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x252c44a1630095504e3d3972b9b296f5ed494911",
+          "description": "PoolManagerInitializer (v300)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1zPXahMTPe6oIpiaPrJohr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x27ea6e67FB62AB2A603d4ACBc9377D7a9A0fd5e3",
+          "description": "Refinancer (Fixed term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1MnvtMd7kz85xvN4lBzDVJ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x653D4947620B73a433cAbBc9DFb068c3e9c18984",
+          "description": "MapleRefinancer (Open-Term)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1QOVfpby5sGGdidr7VvJpr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xbe10adce8b6e3e02db384e7fada5395dd113d8b3",
+          "description": "MaplePoolPermissionManagerProxy (v100)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5in1AsxsJFoxVHn4vGC6hl",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc3530358e54bc81efce4a2e12a898e996b091753",
+          "description": "MaplePoolPermissionManagerImplementation (v100)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2HVu74dJWFwPb7ivQDUDf1",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb9e25B584dc4a7C9d47aEF577f111fBE5705773B",
+          "description": "WithdrawalManagerFactory (Cyclical)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4glVzFa41n1f8gegoi5YTl",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xcc4e684916aa7fa0e4faef2359b49a755f89c75b",
+          "description": "WithdrawalManagerImplementation (v110) (Cyclical)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "20wiRBiL3TaHehJMQ6euSK",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x485ba3f5235f150bf8e4afbd3a25c266cdadd9dd",
+          "description": "WithdrawalManagerInitializer (v110) (Cyclical)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2OUXFySgQZW2uXLTtN4sI8",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xca33105902e8d232ddfb9f71ff3d79c7e7f2c4e5",
+          "description": "WithdrawalManagerFactory (Queue)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6A1H45S5uPOOg7Wp2S6qrd",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x899b57bbd8597aa2d1898476504f479c982c5c2c",
+          "description": "WithdrawalManagerImplementation (v100) (Queue)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "yp0kaZkyVDfdHpUljYHYc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x637f8dc4c4d07d1cc30ae131fa94a060dee6be96",
+          "description": "WithdrawalManagerInitializer (v100) (Queue)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4JgBfyYFAAhWErU6LRLuuu",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xd3cd37a7299B963bbc69592e5Ba933388f70dc88",
+          "description": "Pool (For reference)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2C62990I4hf3aBf4y4sjOR",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x00d950A41a0d277ed91bF9fD366a5523FEF0371e",
+          "description": "PoolManager (For reference)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5O3M7z8zOUduwnrpIfCVYA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x74CB3c1938A15e532CC1b465e3B641C2c7e40C2b",
+          "description": "LoanManager ( Fixed-Term for reference)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6ZFl96enBCqSui4SSaQiEy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7ED195a0AE212D265511b0978Af577F59876C9BB",
+          "description": "WithdrawalManager Cyclical (For reference)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3GrDvpMygNUgwwspDUbZng",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9c74C5147653041239bb31C799c54767D9953f7D",
+          "description": "PoolDelegateCover (For reference)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5UCiK5lWrvLMQA6YTQnwq1",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3F542d451344Ea0Cb58323d049033Fd46Ae56Ec3",
+          "description": "Loan (Fixed-Term for reference)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "zr5NtZOZ1OJEmtv0gV9mD",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xfAB269CB4Ab4D33A61e1648114f6147742F5eeCC",
+          "description": "LoanManager (Open-Term For reference)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1ktKZdjIDSSpLOSPN12fTi",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xDA8f7941192590408DCe701A60FB3892455669Ce",
+          "description": "Loan (Open-Term For reference)",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6Ut1xUyZ1pJqEa6ojXoBYq",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2kUE0DQBvjiBtIK3DuUx4H",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2hgAURCKrt07WDjT0pFDWi",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5K1Y1QNEr5YIbxOUWaaeaU",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "pmGxba5PokgmsV7vz2W6v",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6xGrUVacZlRwo7Mr0fxBha",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "2FgcTEqaqEZJolormqjowQ",
+          "title": "Temporary freezing of funds for at least 24 hours",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4AxkazVPx96bWG1BuJ2yEX",
+          "title": "Unintended changes in smart contract permissioning",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "Gcz4WYqDLDs8WEKl70OQQ",
+          "title": "Unintended changes in proxy/upgradeability functionality",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3eVmxxEWs9Jd2UZUZpkie0",
+          "title": "Unfair liquidations of collateral",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Founded in 2019 and led by a team of former bankers and credit investment professionals aiming to improve upon legacy capital markets, Maple is an institutional capital network that provides the infrastructure for credit experts to run on-chain lending businesses and connects institutional lenders and borrowers. Built with both traditional financial institutions and decentralized finance leaders, Maple is transforming capital markets by combining industry-standard compliance and due diligence with the transparent and frictionless lending enabled by smart contracts and blockchain technology. Maple is the gateway to growth for financial institutions, pool delegates and companies seeking capital on-chain.\n\nFor more information about Maple, please visit [https://maple.finance/](https://maple.finance/).  \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward.\n\nRewards for critical smart contract vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 50 000__ and a maximum reward of __USD 500 000__.\n\nMaple requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed is a government-issued photo ID as well as a proof of address issued within the last 3 months (eg. utility bill). \n\nAll known issues highlighted in the following audit reports are considered to be out-of-scope:\n- [https://github.com/maple-labs/maple-v2-audits/blob/main/README.md](https://github.com/maple-labs/maple-v2-audits/blob/main/README.md) \n\nIn addition, all issues related to 4626 compliance are considered out of scope of this program. \n\nPayouts are handled by the __Maple__ team directly and are denominated in USD. However, payouts are done in __USDC__ or __MPL__, at the discretion of the team. \n",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n- Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n- Any testing with pricing oracles or third party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "All contracts listed above are in scope, as well as all proxy and contract instances deployed from all factories. Though only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target.\n\nAll contracts that are marked as “(*For reference*)” are instances of contracts that have been deployed by protocol factories and are in scope for the audit. All other instances that are deployed in the same fashion are in scope of the audit, including:\n- Liquidator (Not deployed currently, deployed during loan liquidations of collateral)\n- Loan (Fixed-Term & Open-Term)\n- LoanManager (Fixed-Term & Open-Term)\n- Pool\n- PoolManager\n- PoolDelegateCover\n- WithdrawalManager (Cyclical)\n- WithdrawalManager (Queue)\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Lending"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $50,000 to USD $500,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $25,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

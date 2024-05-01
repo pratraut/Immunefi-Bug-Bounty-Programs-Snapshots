@@ -1,0 +1,162 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "agu8vAoM9WmuIUFQG4hf8",
+      "id": "defly",
+      "slug": "defly",
+      "project": "Defly",
+      "maxBounty": 100000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/73xWJAL4LPoKT9RjLOncBo/ff91c763d77c3d64b6f57ab6a56cdb6c/Defly_logo.jpeg",
+      "launchDate": "2022-07-12T12:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:57:14.724Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "Up to USD $100,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $10,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "USD $2,500",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "7n8TOmjBW7nlTv71XcKc90",
+          "type": "websites_and_applications",
+          "url": "https://play.google.com/store/apps/details?id=io.blockshake.defly.app",
+          "description": "Google Play store app",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "61AFOh3kcYmE7DSEzUVkDh",
+          "type": "websites_and_applications",
+          "url": "https://apps.apple.com/us/app/defly/id1602672723",
+          "description": "Apple store app",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5v6aKqEhckppoztDrDKjGo",
+          "type": "websites_and_applications",
+          "url": "https://v*.api*.defly.app",
+          "description": "API (where * is a wildcard and matches e.g., v7.api01.defly.app)",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "3QVkGfEncvGeGV5OSzRTub",
+          "title": "Any vulnerability in the Defly App allowing the retrieval of Algorand account private keys. This retrieval must not be authorized by the user and the attack must repeatedly be doable.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2uecBC6RAEgYex0TXmaO44",
+          "title": "Any vulnerability in the Defly app allowing outgoing transfers of funds from an Algorand account. This transfer must not be authorized by the user and must be more than or equal to 50 000 USD.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "3sqlW0ldTh21KDKeV0yNqE",
+          "title": "Any vulnerability in the Defly app allowing funds to be destroyed or locked for more than 24h. This destruction or locking must not be authorized by the user and must be more than or equal to 50 000 USD.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1JG5GU13QpD8omz65l8AgG",
+          "title": "Any vulnerability in Defly app allowing outgoing transfers of funds from an Algorand account. This transfer must not be authorized by the user and must be more than or equal to 10 USD and less than 50 000 USD.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "2ZmHBqXXZhuqjZ0USTFcCC",
+          "title": "Any vulnerability in the Defly app allowing funds to be destroyed or locked for more than 24h. This destruction or locking must not be authorized by the user and must be more than or equal to 10 USD and less than 50 000 USD.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "zqKSwMpaeGySJacyc9sb8",
+          "title": "Any vulnerability in the Defly app that allows an attacker to modify information that gets presented to the user and can directly influence the trading decision of the user.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "701dUPgFsHUc4KVeigs70E",
+          "title": "Any vulnerability in Defly app allowing outgoing transfers of funds from an Algorand account. This transfer must not be authorized by the user and must be less than 10 USD.",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "7vwMT6OZ9KoQUVw6bqs6os",
+          "title": "Any vulnerability in the Defly app allowing funds to be destroyed or locked for more than 24h. This destruction or locking must not be authorized by the user and must be less than or equal to 10 USD.",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Defly is a self-custody wallet which means you are the only one who has access to your private keys. Everything about Defly is designed to keep it this way, unlike most crypto exchanges.\n\nFor more information about Defly, please visit [https://defly.app/](https://defly.app/).\n\nThe Algorand Foundation’s sponsorship of this bug  bounty program will expire on 30.06.2024.",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. All High and Critical Smart Contract bug reports require a PoC and a suggestion for a fix to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nReports of __Critical__ application bugs will be rewarded with a bounty of up to USD 100,000. We require the report demonstrates an exploit that could directly lead to a loss of funds greater than or equal to USD 50,000. The bounty amount is 10% of the total value of the affected wallets at the time the report is submitted. However, there is a minimum reward of USD 10,000 and the maximum is USD 100,000. \n\nThe Algorand Foundation has agreed to match 100% of any financial reward offered by Defly for any validated Critical or High impact vulnerability payout. The matching payout is already included in the reward amounts displayed on the program. For example, if a white hat finds a critical vulnerability and it is validated, they will be eligible to receive USD 50,000 from Defly as well as USD 50,000 from the Algorand Foundation for a total of USD 100,000.\n\nThe following vulnerabilities are not eligible for a reward:\n  - All vulnerabilities marked in the (‘Kudelski Security Audit’) are not eligible for a reward\n\n__KYC__ shall be completed for bug bounty hunters submitting a vulnerability report and requesting a reward for Critical and High Smart Contracts vulnerabilities and Critical Websites and Applications vulnerabilities. The basic information needed is full name, residential address, and passport details (DOB, issuing country and passport number). Based on the basic information submitted, Defly Wallet team may request further information at its sole discretion for compliance with applicable laws.\n\nAdditionally, all levels of bug bounty hunters submitting a vulnerability report and requesting a reward need to submit certification that (i) they are not acting, directly or indirectly, for or on behalf of any person, group entity, or nation named by any Executive Order or the United States Treasury Department as a terrorist, “Specially Designated National and Blocked Person,” or other banned or blocked person, entity, nation, or transaction pursuant to any law, order, rule or regulation that is enforced or administered by the Office of Foreign Assets Control; and (ii) they are not engaging in, instigating or facilitating this transaction, directly or indirectly, on behalf of any such person, group, entity, or nation. They also need to submit an attestation that all information provided is true, correct, up-to-date and not misleading. The collection of this information will be done by the __Defly Wallet__ team.\n\nBug bounty reward payouts (including all Matching Payments and top-ups, if any) are handled by the Defly Wallet team directly and are denominated in __USDCa__. ",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n    - This does not exclude reflected HTML injection with or without javascript\n    - This does not exclude persistent plain text injection\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DoS / DDoS vulnerabilities\n  - Feature requests\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n  - Features labeled as “beta”\n  - Non-production releases (i.e., alpha and beta versions are excluded)\n  - Attacks that require a user’s device to be rooted, jailbroken or in developer mode\n  - All issues regarding third party smart contracts or services (e.g. Deflex, Tinyman, Pact, Algofi, Humble, NFD)\n  - Social Engineering\n  - Loss of funds caused by user’s negligence and ignoring best practices (e.g., lack of account backup)\n  - Attacks requiring privileged access from within the organization\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n\nNeither Defly Wallet nor Algorand Foundation will make any payout to the bug bounty hunters who Defly Wallet reasonably believes to have breached the Program Terms and Conditions. Neither Defly Wallet nor Algorand Foundation shall have any responsibility or liability resulting from action taken in accordance with this Program Terms and Conditions.\n",
+      "assetsBodyV2": "Only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf an impact can be caused to any other asset managed by Defly that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical and High impacts.",
+      "impactsBody": "NOTE: In case of discrepancy between Immunefi Vulnerability Severity Classification System V2.2\n([https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2/](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2/)) and Defly\nWallet’s classification above, classification determined by Defly Wallet shall prevail.\n",
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Wallet"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Algorand"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "language": null
+      },
+      "legacy": {
+        "technologies": [
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $100,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,500"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}

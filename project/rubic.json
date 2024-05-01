@@ -1,0 +1,117 @@
+{
+  "pageProps": {
+    "type": "bounty",
+    "bounty": {
+      "contentfulId": "1ufQp74F9dkIlATFNMp8X2",
+      "id": "rubic",
+      "slug": "rubic",
+      "project": "Rubic",
+      "maxBounty": 25000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4zKQP6ZY7W70qsIOV0gs8m/26da22b1236330cdc5804ee5aa73b4b7/Rubic_logo.jpeg",
+      "launchDate": "2023-07-31T12:00+02:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:46:30.283Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $25,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "5V6ZqbTMpuSjZAjW8kRdS9",
+          "type": "smart_contract",
+          "url": "https://github.com/Cryptorubic/multi-proxy-rubic/blob/master/src/Periphery/ERC20Proxy.sol",
+          "description": "Smart Contract Sources",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "49kXvRNHDMuEdguPi80PI2",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3335733c454805df6a77f825f266e136FB4a3333#code",
+          "description": "RBC on ETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7rQidLE3Z6XNh0Ga2IV0kU",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x3335733c454805df6a77f825f266e136fb4a3333#code",
+          "description": "RBC on ARB",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4GOi9bLiyrBbpNJxkz5HZ2",
+          "type": "smart_contract",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6VFEsw7ltq9thVCUmvowVV",
+          "title": "Direct theft of ERC20 user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "73SAjjc6bQEnpwv5DVJDtI",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        }
+      ],
+      "programOverview": "Rubic is a Cross-Chain Tech Aggregator for users & dApps. Rubic aggregates 60+ chains, 90+ DEXs & bridges, and enables swapping of 15,500+ assets in 1 click.\t\t\n\nFor more information about Rubic, please visit [https://rubic.exchange/. ](https://rubic.exchange/) \n\n__For Whitehats:__ It is highly recommended that you review the details of this program in full. Although many Bug Bounty programs have standard terms and conditions, each also has their own unique details that are critical to your success.  \n\nPrior to submitting a report please review the Immunefi [Bug Report Template and Best Practices.](https://immunefisupport.zendesk.com/hc/en-us/articles/12435277406481-Bug-Report-Template) \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are considered out-of-scope and ineligible for payout.",
+      "rewardsBody": "__Reward Distribution__\n\nPlease review how rewards are distributed based on the [Immunefi Vulnerability Severity Classification System V2.3.](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/) This is a simplified 5-level scale system with separate scales for Smart Contracts and Websites/Apps.\n\n__Payouts and Payout Requirements__\n\nPayouts are handled by the Rubic team directly and are denominated in USD. However, payouts are done in RUBIC. Rubic commits to honoring payouts according to the terms set out in this program at the time of report submission, and to treat this program as the agreement and source of truth concerning bug reports and responsible disclosures. \n\nFor the purposes of determining report validity, this is a Primacy of Impact program. \n\nLearn more about report validity best practices here: [Best Practice - Primacy of Impact vs Primacy of Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/12340245635089-Best-Practices-Primacy-of-Impact) \n\n__KYC Requirements__\n\nRubic does not have a Know Your Customer (KYC) requirement for bug bounty payouts. \n\n__Audit Discoveries and Known Issues__\n\nBug reports covering previously-discovered bugs are not eligible for any reward through the bug bounty program. If a bug report covers a known issue, it may be rejected together with proof of the issue being known before escalation of the bug report via Immunefi. \n\n__Previous audits and known issues can be found at:__\n\n- Audit report - [https://github.com/mixbytes/audits_public/tree/master/Rubic ](https://github.com/mixbytes/audits_public/tree/master/Rubic)\n",
+      "outOfScopeAndRules": "The following impacts and attack vectors are excluded from rewards by default for all Immunefi bug bounty programs: \n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist), except in such cases where the contracts are intended to have no privileged access to functions that make the attack possible\n- Broken link hijacking is out of scope\n\n__Smart Contracts and Blockchain/DLT__\n\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n\n__Prohibited Activities__\n\nThe following activities are prohibited by this bug bounty program. Violation of these rules can result in a temporary suspension or permanent ban from the Immunefi platform at the sole discretion of the Immunefi team, which may also result in: 1) the forfeiture and loss of access to all bug submissions, and 2) zero payout. \n\nPlease note that Immunefi has no tolerance for spam/low-quality/incomplete bug reports, “beg bounty” behavior, and misrepresentation of assets and severity. Immunefi exists to protect the global crypto community, not facilitate grift.\n\nProhibited: \n- Any testing with mainnet or public testnet deployed code; all testing should be done on private testnets\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules.](https://immunefi.com/rules/) These rules are subject to change at any time.  \n",
+      "assetsBodyV2": "Impacts only apply to assets in active use by the project like contracts on mainnet or web/app assets used in production. Any impact that applies to assets not in active use, like test or mock files, are out-of-scope of the bug bounty program unless explicitly mentioned as in-scope. \n\n__Smart Contracts__ \n\n- __Smart Contracts - PoC__, Smart Contract bug reports are required to include a runnable Proof of Concept (PoC) in order to prove impact.  \n- For more information on PoCs please visit: [Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)\n\nWhitehats are highly encouraged to review any potential subdomains and what specific port(s) are in scope. Even though the domain may be the same, different ports may point to different assets. Award not guaranteed but possible.  \n\n__Dev Environment and Documentation__\n\nRubic has included dev documentation and/or instructions to help in reviewing code and exploring for bugs:\n- [https://docs.rubic.finance/rubic/introduction ](https://docs.rubic.finance/rubic/introduction)\n- [https://github.com/Cryptorubic/multi-proxy-rubic/tree/master/deployments](https://github.com/Cryptorubic/multi-proxy-rubic/tree/master/deployments) \n\n__Impacts to other assets__\n\nHackers are encouraged to submit issues outside of the outlined Impacts and Assets in Scope. \n\nIf whitehats can demonstrate a critical impact on code in production for an asset not in scope, Rubic encourages you to submit your bug report using the “primacy of impact exception” asset. \n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Crosschain Liquidity",
+          "DEX Aggregator"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $25,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": null,
+    "isBoosted": false,
+    "academyContent": null,
+    "layoutProps": {
+      "headerMarginBottom": null
+    }
+  },
+  "__N_SSG": true
+}
