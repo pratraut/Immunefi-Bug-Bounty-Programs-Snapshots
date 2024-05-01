@@ -1,6 +1,5 @@
 {
   "pageProps": {
-    "type": "bounty",
     "bounty": {
       "contentfulId": "7BRUoqWJ3DVH72POOCE1iC",
       "id": "thesandbox",
@@ -412,12 +411,7 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
-    "isBoosted": false,
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": null
-    }
+    "project": null
   },
   "__N_SSG": true
 }

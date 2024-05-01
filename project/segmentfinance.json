@@ -1,6 +1,5 @@
 {
   "pageProps": {
-    "type": "bounty",
     "bounty": {
       "contentfulId": "1jLiWVhBhAmXDi58zBWxF5",
       "id": "segmentfinance",
@@ -201,12 +200,7 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
-    "isBoosted": false,
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": null
-    }
+    "project": null
   },
   "__N_SSG": true
 }

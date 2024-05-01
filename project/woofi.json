@@ -1,6 +1,5 @@
 {
   "pageProps": {
-    "type": "bounty",
     "bounty": {
       "contentfulId": "7xseT7CSUNhUgSgG7nKUIO",
       "id": "woofi",
@@ -205,12 +204,7 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
-    "isBoosted": false,
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": null
-    }
+    "project": null
   },
   "__N_SSG": true
 }

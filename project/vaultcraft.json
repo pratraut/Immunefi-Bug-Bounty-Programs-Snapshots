@@ -1,6 +1,5 @@
 {
   "pageProps": {
-    "type": "bounty",
     "bounty": {
       "contentfulId": "7xR5cor7K2mO0CaNLxQdo9",
       "id": "vaultcraft",
@@ -496,12 +495,7 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
-    "isBoosted": false,
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": null
-    }
+    "project": null
   },
   "__N_SSG": true
 }
