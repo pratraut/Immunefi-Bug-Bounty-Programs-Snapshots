@@ -1,4 +1,6 @@
 # Immunefi Bug Bounty Programs Snapshots
+> Script runs every day at 12 am and 4 pm IST
+
 Every time a Bug Bounty Program in Immunefi modifies its **policy**, **assets-in-scope**, or **bounties-table**, a bot will commit those changes to this repo.
 
 To get a before/after diff of a project go to `./project/{project-name}.json` and check it's latest commit.
