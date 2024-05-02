@@ -161,7 +161,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null
+    "project": {
+      "premiumTriaging": false
+    }
   },
   "__N_SSG": true
 }

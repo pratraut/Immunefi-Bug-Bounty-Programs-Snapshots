@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "#################################`date`#######################################\n\n"
+echo "#################################`date`#######################################\n"
 
 # Get NEXT_DATA in JSON format for bug bounties
 NEXT_DATA=$(curl -s https://immunefi.com/bug-bounty/ | grep -o "<script id=\"__NEXT_DATA__\" type=\"application/json\">.*</script>" | grep -o "{.*}" | jq)
@@ -39,6 +39,11 @@ bounties_length=$(echo -E "$projects" | jq length)
 for ((c = 0; c <= $bounties_length - 1; c++)); do
 	# Get project's name
 	name=$(echo -E "$projects" | jq -r .[$c].id)
+	if [[ -z $name ]]; then
+		echo -E "ERROR: Empty Name for index [$c/$bounties_length]"
+		exit
+	fi
+
 	echo -E "Scanning: $name [`expr $c + 1`/$bounties_length]"
 	# Get project's data
 	PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json")
@@ -105,6 +110,11 @@ boost_bounties_length=$(echo -E "$boost_projects" | jq length)
 for ((c = 0; c <= $boost_bounties_length - 1; c++)); do
 	# Get project's name
 	name=$(echo -E "$boost_projects" | jq -r .[$c].id)
+	if [[ -z $name ]]; then
+		echo -E "ERROR: Empty Name for index [$c/$boost_bounties_length]"
+		exit
+	fi
+
 	echo -E "Scanning: $name [`expr $c + 1`/$boost_bounties_length]"
 	# Get project's data
 	PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/boost/$name.json")
@@ -154,6 +164,6 @@ else
 
 fi
 
-echo "########################################################################\n\n"
+echo "########################################################################\n"
 
 exit

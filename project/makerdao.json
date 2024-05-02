@@ -1449,9 +1449,11 @@
           }
         ]
       },
-      "premiumTriaging": false
+      "premiumTriaging": true
     },
-    "project": null
+    "project": {
+      "premiumTriaging": true
+    }
   },
   "__N_SSG": true
 }
