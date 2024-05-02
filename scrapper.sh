@@ -21,8 +21,8 @@ paused_programs=$(comm -23 ./prev_projects_name.txt ./current_projects_name.txt 
 added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 
 # Clean temporal files
-rm ./prev_projects_name.txt
-rm ./current_projects_name.txt
+# rm ./prev_projects_name.txt
+# rm ./current_projects_name.txt
 
 # Save current bounties
 echo -E "$projects" > projects.json
@@ -92,8 +92,8 @@ paused_boost_programs=$(comm -23 ./prev_boost_projects_name.txt ./current_boost_
 added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 
 # Clean temporal files
-rm ./prev_boost_projects_name.txt
-rm ./current_boost_projects_name.txt
+# rm ./prev_boost_projects_name.txt
+# rm ./current_boost_projects_name.txt
 
 # Save current bounties
 echo -E "$boost_projects" > boost_projects.json
@@ -153,9 +153,9 @@ else
 	# updated_qty=$(git status -s | grep -o -P '(?<=M project\/).*(?=\.json)' | sed '/^\s*$/d' | wc -l)
 
 	# Commit message
-	echo -e "\n"
-	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\nProjects removed or paused:\n$paused_programs\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\nBoost Projects removed or paused:\n$paused_boost_programs\nBoost Projects updated their program:\n$boost_projects_changed")
-	echo -e "$mg"
+	echo -E "\n"
+	mg=$(echo -E "Update\n\nProjects added or unpaused:\n$added_programs\nProjects removed or paused:\n$paused_programs\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\nBoost Projects removed or paused:\n$paused_boost_programs\nBoost Projects updated their program:\n$boost_projects_changed")
+	echo -E "$mg"
 
 	# Push to github
 	git add --all
@@ -164,6 +164,6 @@ else
 
 fi
 
-echo "########################################################################\n"
+echo "#################################`date`#######################################\n"
 
 exit

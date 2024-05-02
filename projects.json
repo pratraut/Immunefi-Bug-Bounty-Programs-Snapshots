@@ -650,10 +650,10 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 2585,
+      "medianResponseTimeInMinutes": 2509,
       "totalPaidAmount": 1082665.76
     },
-    "vaultBalance": 359204.849246304,
+    "vaultBalance": 372579.97265838,
     "premiumTriaging": false
   },
   {
@@ -817,8 +817,8 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 2200,
-      "totalPaidAmount": 2242042
+      "medianResponseTimeInMinutes": 2330,
+      "totalPaidAmount": 2243042
     },
     "vaultBalance": null,
     "premiumTriaging": false
@@ -1533,7 +1533,7 @@
       "medianResponseTimeInMinutes": 1850,
       "totalPaidAmount": 1379500
     },
-    "vaultBalance": 2404413.72,
+    "vaultBalance": 2399386.41,
     "premiumTriaging": true
   },
   {
@@ -1680,7 +1680,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 86422.5,
+    "vaultBalance": 86154.435,
     "premiumTriaging": false
   },
   {
@@ -1724,7 +1724,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 2534077.69853,
+    "vaultBalance": 2524310.11405,
     "premiumTriaging": false
   },
   {
@@ -2056,7 +2056,7 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 5773,
+      "medianResponseTimeInMinutes": 5495,
       "totalPaidAmount": 293750
     },
     "vaultBalance": null,
@@ -2433,7 +2433,7 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 4469,
+      "medianResponseTimeInMinutes": 4422,
       "totalPaidAmount": 13350
     },
     "vaultBalance": null,
@@ -3114,7 +3114,7 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 1243,
+      "medianResponseTimeInMinutes": 1248,
       "totalPaidAmount": 632100
     },
     "vaultBalance": null,
@@ -4176,7 +4176,7 @@
       "medianResponseTimeInMinutes": 4171,
       "totalPaidAmount": 204700.04
     },
-    "vaultBalance": 79378.8,
+    "vaultBalance": 80815.83,
     "premiumTriaging": false
   },
   {
@@ -4900,10 +4900,10 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 16241,
+      "medianResponseTimeInMinutes": 16242,
       "totalPaidAmount": 40169
     },
-    "vaultBalance": 10020,
+    "vaultBalance": 9988.92,
     "premiumTriaging": false
   },
   {
@@ -6033,7 +6033,7 @@
     "date": "2022-02-08T07:00-06:00",
     "launchDate": "2022-02-08T07:00-06:00",
     "endDate": null,
-    "updatedDate": "2024-02-12T15:50:39.112Z",
+    "updatedDate": "2024-05-02T13:58:06.202Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -6309,7 +6309,7 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 151,
+      "medianResponseTimeInMinutes": 155,
       "totalPaidAmount": 217500
     },
     "vaultBalance": null,
@@ -6457,7 +6457,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 5010,
+    "vaultBalance": 4994.46,
     "premiumTriaging": true
   },
   {
@@ -6503,7 +6503,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 22436.415840206,
+    "vaultBalance": 22597.744933587877,
     "premiumTriaging": false
   },
   {
@@ -7035,7 +7035,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 7540.05,
+    "vaultBalance": 7516.6623,
     "premiumTriaging": false
   },
   {
@@ -9082,7 +9082,7 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 237,
+      "medianResponseTimeInMinutes": 239,
       "totalPaidAmount": 130000
     },
     "vaultBalance": null,
@@ -10512,7 +10512,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 40881.6,
+    "vaultBalance": 40664.0136,
     "premiumTriaging": false
   },
   {
@@ -11061,7 +11061,7 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 1420,
+      "medianResponseTimeInMinutes": 1377,
       "totalPaidAmount": 8950
     },
     "vaultBalance": null,
@@ -11891,7 +11891,7 @@
       "medianResponseTimeInMinutes": 934,
       "totalPaidAmount": 23738.01
     },
-    "vaultBalance": 4810.2682713885,
+    "vaultBalance": 4795.295589880896,
     "premiumTriaging": true
   },
   {
@@ -13089,7 +13089,7 @@
     "performanceMetrics": {
       "totalPaidMetricEnabled": true,
       "responseTimeMetricEnabled": true,
-      "medianResponseTimeInMinutes": 8581,
+      "medianResponseTimeInMinutes": 8639,
       "totalPaidAmount": 104455
     },
     "vaultBalance": null,
@@ -14314,7 +14314,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 300.601609212,
+    "vaultBalance": 299.669204220552,
     "premiumTriaging": false
   },
   {
@@ -14494,7 +14494,7 @@
       "medianResponseTimeInMinutes": null,
       "totalPaidAmount": null
     },
-    "vaultBalance": 5010,
+    "vaultBalance": 4994.46,
     "premiumTriaging": false
   },
   {
