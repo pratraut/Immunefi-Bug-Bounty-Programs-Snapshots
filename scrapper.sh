@@ -23,8 +23,8 @@ paused_programs=$(comm -23 ./prev_projects_name.txt ./current_projects_name.txt 
 added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 
 # Clean temporal files
-# rm ./prev_projects_name.txt
-# rm ./current_projects_name.txt
+rm ./prev_projects_name.txt
+rm ./current_projects_name.txt
 
 # Save current bounties
 echo -e "$projects" > projects.json
@@ -96,8 +96,8 @@ paused_boost_programs=$(comm -23 ./prev_boost_projects_name.txt ./current_boost_
 added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 
 # Clean temporal files
-# rm ./prev_boost_projects_name.txt
-# rm ./current_boost_projects_name.txt
+rm ./prev_boost_projects_name.txt
+rm ./current_boost_projects_name.txt
 
 # Save current bounties
 echo -e "$boost_projects" > boost_projects.json
