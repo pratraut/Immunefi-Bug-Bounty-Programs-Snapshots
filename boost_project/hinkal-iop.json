@@ -139,6 +139,12 @@
     "academyContent": null,
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"
+    },
+    "metaData": {
+      "title": "IOP | Hinkal Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on IOP | Hinkal and get paid.",
+      "url": "https://immunefi.com/boost/hinkal-iop",
+      "ogImg": "/api/bounty/og-image?project=IOP+%7C+Hinkal"
     }
   },
   "__N_SSG": true

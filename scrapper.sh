@@ -1,5 +1,6 @@
 #!/bin/bash
 
+SLEEP_TIME=.1
 start_time=`date +%s`
 echo "#################################`date`#######################################\n"
 
@@ -29,7 +30,7 @@ added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt |
 echo -e "$projects" > projects.json
 
 # Get buildId
-buildId=$(echo -E "$NEXT_DATA" | jq -r '.buildId')
+buildId=$(echo "$NEXT_DATA" | jq -r '.buildId')
 echo "Bounty Build ID: $buildId"
 
 # Create folder if not exist
@@ -41,33 +42,33 @@ echo "Bounties Length: $bounties_length"
 
 for ((c = 0; c <= $bounties_length - 1; c++)); do
 	# Get project's name
-	name=$(echo -E "$projects" | jq -r .[$c].id)
+	name=$(echo "$projects" | jq -r .[$c].id)
 	if [[ -z $name ]]; then
-		echo -E "ERROR: Empty Name for index [$c/$bounties_length]"
+		echo "ERROR: Empty Name for index [$c/$bounties_length]"
 		exit
 	fi
 
-	echo -E "Scanning: $name [`expr $c + 1`/$bounties_length]"
+	echo "Scanning: $name [`expr $c + 1`/$bounties_length]"
 	# Get project's data
 	PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json")
-	echo -E "Calling: https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json"
+	echo "Calling: https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json"
 	# echo -E "$PROJECT_DATA"
 	# There's no try/catch in batch, so this is our way to double check everything went right:
 	# Get name from JSON response
-	name_received=$(echo -E "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
-	echo -E "Name received: $name_received [`expr $c + 1`/$bounties_length]"
+	name_received=$(echo "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
+	echo "Name received: $name_received [`expr $c + 1`/$bounties_length]"
 	# Compare it with stored name
 	if [ "$name_received" = "$name" ]; then
 
 		# All good!
 		echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./project/$name.json
 		#Print DONE
-		echo -E "Scanned: $name [`expr $c + 1`/$bounties_length]"
-		sleep .3
+		echo "Scanned: $name [`expr $c + 1`/$bounties_length]"
+		sleep $SLEEP_TIME
 
 	else
 		# PANIC!
-		echo -E "PANIC ERROR!!! [`expr $c + 1`/$bounties_length]"
+		echo "PANIC ERROR!!! [`expr $c + 1`/$bounties_length]"
 		break
 	fi
 done
@@ -77,7 +78,7 @@ done
 # Get NEXT_DATA in JSON format for boosted bug bounties
 NEXT_DATA_BOOST=$(curl -s https://immunefi.com/boost/ | grep -o "<script id=\"__NEXT_DATA__\" type=\"application/json\">.*</script>" | grep -o "{.*}" | jq)
 
-boost_projects=$(echo -E "$NEXT_DATA_BOOST" | jq '.props.pageProps.bounties')
+boost_projects=$(echo "$NEXT_DATA_BOOST" | jq '.props.pageProps.bounties')
 
 # merged two arrays
 # projects=$(jq -s 'add' <<< "$projects[@] $boost_projects[@]")
@@ -103,42 +104,44 @@ echo -e "$boost_projects" > boost_projects.json
 
 # Get buildId
 buildIdBoost=$(echo "$NEXT_DATA_BOOST" | jq -r '.buildId')
+echo "Boost Bounty Build ID: $buildIdBoost"
 
 # Create folder if not exist
 test -d ./boost_project || mkdir ./boost_project
 
 # Get how many bounties are
 boost_bounties_length=$(echo "$boost_projects" | jq length)
+echo "Boost Bounties Length: $boost_bounties_length"
 
 for ((c = 0; c <= $boost_bounties_length - 1; c++)); do
 	# Get project's name
 	name=$(echo "$boost_projects" | jq -r .[$c].id)
 	if [[ -z $name ]]; then
-		echo -E "ERROR: Empty Name for index [$c/$boost_bounties_length]"
+		echo "ERROR: Empty Name for index [$c/$boost_bounties_length]"
 		exit
 	fi
 
-	echo -E "Scanning: $name [`expr $c + 1`/$boost_bounties_length]"
+	echo "Scanning: $name [`expr $c + 1`/$boost_bounties_length]"
 	# Get project's data
 	PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/boost/$name.json")
-	echo -E "Calling: https://immunefi.com/_next/data/$buildIdBoost/boost/$name.json"
+	echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/boost/$name.json"
 	# echo -E "$PROJECT_DATA"
 	# There's no try/catch in batch, so this is our way to double check everything went right:
 	# Get name from JSON response
-	name_received=$(echo -E "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
-	echo -E "Name received: $name_received [`expr $c + 1`/$boost_bounties_length]"
+	name_received=$(echo "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
+	echo "Name received: $name_received [`expr $c + 1`/$boost_bounties_length]"
 	# Compare it with stored name
 	if [ "$name_received" = "$name" ]; then
 
 		# All good!
 		echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./boost_project/$name.json
 		#Print DONE
-		echo -E "Scanned: $name [`expr $c + 1`/$boost_bounties_length]"
-		sleep .3
+		echo "Scanned: $name [`expr $c + 1`/$boost_bounties_length]"
+		sleep $SLEEP_TIME
 
 	else
 		# PANIC!
-		echo -E "PANIC ERROR!!! [`expr $c + 1`/$boost_bounties_length]"
+		echo "PANIC ERROR!!! [`expr $c + 1`/$boost_bounties_length]"
 		break
 	fi
 done
@@ -172,7 +175,7 @@ else
 fi
 
 end_time=`date +%s`
-echo -e "Total run time = $(expr $end_time - $start_time) seconds\n"
+echo "Total run time = $(expr $end_time - $start_time) seconds\n"
 echo "#################################`date`#######################################\n"
 
 exit

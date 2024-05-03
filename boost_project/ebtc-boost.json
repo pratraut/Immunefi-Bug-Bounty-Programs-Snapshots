@@ -394,6 +394,12 @@
     "academyContent": null,
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"
+    },
+    "metaData": {
+      "title": "Boost | eBTC Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Boost | eBTC and get paid up to $200,000.",
+      "url": "https://immunefi.com/boost/ebtc-boost",
+      "ogImg": "/api/bounty/og-image?project=Boost+%7C+eBTC"
     }
   },
   "__N_SSG": true
