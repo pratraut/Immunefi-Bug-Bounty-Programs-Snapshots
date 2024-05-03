@@ -1,0 +1,206 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "EKIiouzPOBlw9bgCEkqjO",
+      "id": "yamatoprotocol",
+      "slug": "yamatoprotocol",
+      "project": "Yamato Protocol",
+      "maxBounty": 10000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1pOZIVlpMqzkXQ1qs26iPV/5071baa33fb6e404b7391ab606c71294/yamato_logo.png",
+      "launchDate": "2023-09-04T12:00+03:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:56:44.665Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $10,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "3iNKCbEcUCRSHQI2gLy6V2",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/CurrencyOSV2.sol",
+          "description": "CurrencyOSV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3zLef8U0Cq8Qq5cW6V00rP",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/FeePool.sol",
+          "description": "FeePool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4C576AHQJz3Jtish8wpuIr",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/PoolV2.sol",
+          "description": "PoolV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3t4bH6QaRPtxmzhk83eHbR",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/PriceFeedV3.sol",
+          "description": "PriceFeedV3",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4FqiB1klZwk4rOOou0HBzc",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/PriorityRegistryV6.sol",
+          "description": "PriorityRegistryV6",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4xmgF5dZECdfdWbmpC8JfR",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/YamatoBorrower.sol",
+          "description": "YamatoBorrower",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1gwYfDRRwXEItGuRQLKjUH",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/YamatoDepositorV2.sol",
+          "description": "YamatoDepositorV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6JGKfZW2eu5ZEoHXuJ38Nf",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/YamatoRedeemerV4.sol",
+          "description": "YamatoRedeemerV4",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5xZzJoA2pj53WAKUOI1Cqw",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/YamatoRepayerV2.sol",
+          "description": "YamatoRepayerV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1VsI310vcJc4Utb0nI1Y8X",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/YamatoSweeperV2.sol",
+          "description": "YamatoSweeperV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4HFOJaAB4v6He42xtwDdmr",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/YamatoV3.sol",
+          "description": "YamatoV3",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2FU0Y54eYVPNf4dPM1jZxn",
+          "type": "smart_contract",
+          "url": "https://github.com/yamatoprotocol/core/blob/master/contracts/YamatoWithdrawerV2.sol",
+          "description": "YamatoWithdrawerV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "yRQycvLDdjWbYtLEw3gyz",
+          "type": "smart_contract",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        }
+      ],
+      "impacts": [
+        {
+          "id": "5nVHmBC3zE0XFU1wZLADdd",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "24KshgYPSRi3Ud2RAiXKue",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2b4D8RGrc9Be2ZcihBiFv2",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1X1jycgaQC47hfXA0SrJ2s",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3tgMu0D8Pi0g8jBRZtSfKI",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Yamato Protocol is a simple overcollateralized stabled token issuing Dapp with minimal governance (variables).\n\nIt has the following features\n- no liquidation (collateral rate health is maintained by the protocol and user collateral redemption system)\n- no interest (one-time fee system)\n- low collateral ratio (minimum 130%)\n- revenue sharing incentives through governance token staking\n- autonomous collateral ratio maintenance mechanism within the system\n\nFor more information about Yamato Protocol, please visit [https://docs.yamato.fi/v/en/](https://docs.yamato.fi/v/en/)\n\nYamato Protocol provides rewards in ETH, USDC, USDT and crvUSD. For more details about the payment process, please view the Rewards by Threat Level section further below. \n\n__Responsible Publication__\n\nYamato Protocol adheres to category 3: Approval Required. This Policy determines what information whitehats are allowed to make public from their submitted bug reports. For more information about the category selected, please refer to our [Responsible Publication](https://immunefi.com/responsible-publication/) page.\n\n__Primacy of Impact vs Primacy of Rules__\n\nYamato Protocol adheres to the Primacy of Impact for the following severity levels:\n- Smart Contract - Critical\n- Smart Contract - High\n\nIf a category’s severity level is covered within the Primacy of Impact, it means that even if the impacted asset is not in-scope but is owned by the project, then it would be considered as in-scope of the bug bounty program as long as it involves an impact under that respective severity level. When submitting a report, just select the Primacy of Impact asset placeholder. If the team behind this project has multiple projects, those other projects are not covered under the Primacy of Impact of this program. Instead, check if those other projects have a bug bounty program on Immunefi.\n\nTestnet and mock files are not covered under the Primacy of Impact.\n\nAll other severity levels not listed here are considered under the Primacy of Rules, which means that they are bound by the terms of the bug bounty program.\n\n__Known Issue Assurance__\n\nYamato Protocol commits to providing Known Issue Assurance to bug submissions through their program. This means that Yamato Protocol will either disclose known issues publicly or at the very least privately via a self-reported bug submission in order to allow for a more objective and streamlined mediation process to prove that an issue is known. Otherwise, assuming the bug report itself is valid, it would result in the bug report being considered in-scope and due 100% of the reward with respect to the bug bounty program terms. \n\n__Immunefi Standard Badge__\n\nYamato Protocol has satisfied the requirements for the [Immunefi Standard Badge](https://immunefisupport.zendesk.com/hc/en-us/articles/6427157117713-The-Immunefi-Standard-Badge-), which is given to projects that adhere to our best practices. \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact the vulnerability could otherwise cause based on the Impacts in Scope table further below. \n\n__Repeatable Attack Limitations__\n\nIn cases of repeatable attacks for smart contract bugs, only the first attack will be counted, regardless of whether the smart contract is upgradable, pausable, or killable.\n\n__Previous Audits__\n\nYamato Protocol has provided these completed audit review reports for reference. Any unfixed vulnerability mentioned in these reports are not eligible for a reward.\n- [https://blockapex.io/yamato-stablecoin-lending-audit-report/](https://blockapex.io/yamato-stablecoin-lending-audit-report/)\n- [https://blockapex.io/yamato-protocol-audit-report/](https://blockapex.io/yamato-protocol-audit-report/)\n\n__Proof of Concept (PoC) Requirements__\n\nA PoC is required for the following severity levels:\n- Smart Contract - Critical\n- Smart Contract - High\n\nAll PoCs submitted must comply with the Immunefi-wide [PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules) Bug report submissions without a PoC when a PoC is required will not be provided with a reward.\n\n__Reward Payment Terms__\n\nPayouts are handled by the Yamato Protocol team directly and are denominated in USD. However, payments are done in ETH, USDC, USDT and/or crvUSD. Researchers will be able to request which token they prefer to be paid. \n\nThe calculation of the net amount rewarded is based on the average price between CoinMarketCap.com and CoinGecko.com at the time the bug report was submitted. No adjustments are made based on liquidity availability. For avoidance of doubt, if the reward amount is USD 5 000 and the average price is USD 1.75 per token, then the reward will be 2857.142857 units of that token.\n",
+      "outOfScopeAndRules": "These impacts are out of scope for this bug bounty program. \n\n__All Categories__\n\n- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (governance, strategist) except in such cases where the contracts are intended to have no privileged access to functions that make the attack possible\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n\n__Smart Contracts and Blockchain/DLT__ \n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "All code of Yamato Protocol can be found at [https://github.com/yamatoprotocol/core/tree/master/contracts. ](https://github.com/yamatoprotocol/core/tree/master/contracts) Documentation for the assets provided in the table can be found at [https://docs.yamato.fi/. ](https://docs.yamato.fi/)\n\nOther helpful links include:\n- [https://github.com/yamatoprotocol/core/blob/master/README.md](https://github.com/yamatoprotocol/core/blob/master/README.md)\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Stablecoin"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": null,
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $5,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Yamato Protocol Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Yamato Protocol and get paid up to $10,000.",
+      "url": "https://immunefi.com/bug-bounty/yamatoprotocol",
+      "ogImg": "/api/bounty/og-image?project=Yamato+Protocol"
+    }
+  },
+  "__N_SSP": true
+}

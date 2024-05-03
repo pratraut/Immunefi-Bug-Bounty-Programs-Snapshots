@@ -1,0 +1,351 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "4rPnR5EPj41ZRXcP46Pgub",
+      "id": "tokemak",
+      "slug": "tokemak",
+      "project": "Tokemak",
+      "maxBounty": 250000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6k60oMMHjDXQQ6lY5LA8mf/9ac1ddab3bc903d1c2df1c9a94d65f0d/Tokemak.jpeg",
+      "launchDate": "2021-08-24T03:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:52:53.075Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $250,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $20,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $20,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "579LT1fYdQWCeCls1lCqA0",
+          "type": "websites_and_applications",
+          "url": "https://www.tokemak.xyz",
+          "description": "App",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7omYWcHkdO1nbzISK7tOvD",
+          "type": "websites_and_applications",
+          "url": "https://app.tokemak.xyz",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2Xo68hq33hVf0p4D8opwJf",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/balance-tracker/BalanceTracker.sol",
+          "description": "BalanceTracker.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "uwLVjrs5Yy9DWCii6tnu0",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/BalancerV2Controller.sol",
+          "description": "BalancerV2Controller.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Qi9vnFl23tv9Kqh831o2k",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/BaseController.sol",
+          "description": "BaseController.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "01bJFRWtjvL0RKGgmyCLaj",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/ConvexController.sol",
+          "description": "ConvexController.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3vqZ0aXARDASowkqxQQYx9",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/CurveControllerTemplate.sol",
+          "description": "CurveControllerTemplate.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2ZEH1esO2oMd3M5Yyhr21W",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/curve/CurveControllerV2Template.sol",
+          "description": " CurveControllerV2Template.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3UuxsVOVfQtVvKDp4gWTVo",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/curve/CurveControllerETH.sol",
+          "description": "CurveControllerETH.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "68uGXiPBmJfXGedhOhFtlF",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/PoolTransferController.sol",
+          "description": "PoolTransferController.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6FwBABEEYPJDWBpzL6hUN3",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/WethController.sol",
+          "description": "WethController.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3mvcnqbXquKRipGuWfAjAF",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/delegation/DelegateFunction.sol",
+          "description": "DelegateFunction.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "LrUjvXnGg9XQufDs96rhG",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/registry/AddressRegistry.sol",
+          "description": "AddressRegistry.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1hco22qMk1NYju3dQ0AejF",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/SushiswapControllerV1.sol",
+          "description": "SushiswapControllerV1.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "ZVAmNkFRtxWfdFodhSyMq",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/SushiSwapControllerV2.sol",
+          "description": "SushiswapControllerV2.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7H38uGhByDdbvMtGAsV3bM",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/TransferController.sol",
+          "description": "TransferController.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4SymbK6LTjX2K74LQLqOni",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/UniswapController.sol",
+          "description": "UniswapController.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "61JeKPgXC7TsOZVoppJNDc",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/event-proxy/EventProxy.sol",
+          "description": "EventProxy.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4JFZU2l3UfvOkhRvxQckoU",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/manager/Manager.sol",
+          "description": "Manager.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7tS2d3UX4Dkra893j0jED9",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/pools/EthPool.sol",
+          "description": "EthPool.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1BLP4zTOmTSBSmWqTfkRkf",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/pools/Pool.sol",
+          "description": "Pool.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "79sSSsLw6RHbsYCFx9bLpf",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/rewards/Rewards.sol",
+          "description": "Rewards.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6569LobUTWc6EXszYJSBON",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/rewards/RewardsHash.sol",
+          "description": "RewardsHash.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1I5HYinfhktUJXhMlwWb19",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/staking/Staking.sol",
+          "description": "Staking.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7nsGW1Y2XhOkXKZj7NbmhN",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/token/Toke.sol",
+          "description": "Toke.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "35SFUTq6uaAQG8cxAezGrr",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/vote/OnChainVoteL1.sol",
+          "description": "OnChainVoteL1.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5imQrxRyKOXAr5At9TIc5g",
+          "type": "smart_contract",
+          "url": "https://github.comhttps://github.com/Tokemak/contracts-v1/blob/main/contracts/vote/VoteTracker.sol/Tokemak/tokemak-smart-contracts-public/blob/main/contracts/vote/VoteTracker.sol",
+          "description": "VoteTracker.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2zz2Mcv2bLcAKzG1t3z4Wq",
+          "type": "smart_contract",
+          "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/acctoke/AccToke.sol",
+          "description": "AccToke.sol",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "5o6q1CC1mmX39LGzrcktfj",
+          "title": "Direct theft or permanent freezing of staked funds in Tokemak contracts",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3Zk3zmrVIhLsMhI70SBdJ0",
+          "title": "Redirected funds by address modification",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2yFKOwlPHVb3UxgeoAvpRt",
+          "title": "Users spoofing other users leading to loss of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7CoOT08wdlvAFgIipiqcXr",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3BFPuB8PDedBCw7E4Bcp18",
+          "title": "Freezing of staked funds in Tokemak contracts for more than 10 minutes",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1nWrTrneksb6re6potM2mJ",
+          "title": "Freezing of unclaimed yield for a period of more than 10 minutes",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6UjCljQSpIzurQmTjalKVF",
+          "title": "Vote manipulation",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Tokemak is a decentralized liquidity providing/market making protocol designed to create efficient, sustainable liquidity across DeFi.\n\nLiquidity providers deposit assets into their respective ”token reactors” (e.g. ALCX, SNX, FXS, etc.).  Tokemak’s native protocol token, TOKE, is used to direct liquidity for each asset into DeFi markets such as Uniswap, Sushiswap, Balancer and Curve. TOKE can be thought of as tokenized liquidity. When staking to a given asset’s token reactor, TOKE holders control not only where the liquidity gets directed, but also what market receives liquidity, pulling from Tokemak’s reserves of ETH and Stablecoins.\n\nFor more information about Tokemak, please visit [https://www.tokemak.xyz/](https://www.tokemak.xyz/) and [https://medium.com/tokemak](https://medium.com/tokemak)\n\nThis bug bounty program is focused on their smart contracts, website, and application, and is focused on preventing the following impacts:\n\n  - Thefts and freezing of principal of any amount\n  - Thefts and freezing of unclaimed yield of any amount\n  - Theft of governance funds \n  - Redirected funds by address modification\n  - Users spoofing other users",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Missing access controls / unprotected internal or debugging interfaces",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll bug reports are required to come with a PoC. A suggestion for a fix is also required for all severity levels. \n\nCritical smart contract vulnerabilities are further capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and marketing considerations, at the discretion of the team. However, there is a minimum reward of __USD 50 000__. Rewards for critical smart contract bugs have the potential to be paid out over time at $50k USD value per month.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required. Smart contracts bug reports are required to include a runnable PoC in order to prove impact. Exceptions may be made in cases where the vulnerability is objectively evident from simply mentioning the vulnerability and where it exists. However, the bug reporter may be required to provide a PoC at any point in time.\n\nAttacks caused by rebase tokens, fee-on-transfer tokens or non-standard ERC20 tokens are out of scope unless a reactor has been created for that token by Tokemak and configured for deployment.\n\nAttacks caused by data conditions that require privileged access to a contract to set, but are not already in a current and deployed version of the contract are capped at a Medium payout level.\n\nAny vote manipulations are considered at max a High vulnerability.\n\nPayouts are handled by the __Tokemak__ team directly and are denominated in USD. However, payouts are done in __ETH__, __TOKE__, or stablecoins, at the discretion of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\n__Websites and Apps__\n\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR\n  - CSRF with no security impact (logout CSRF, change language, etc.)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)\n  - Server-side information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring unlikely user actions\n  - URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Attacks requiring privileged access from within the organization\n  - Feature requests\n  - Best practices\n  - Any attack via IPFS unless it results in one of the critical web app impacts listed above\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "However, only those in the table are considered as in-scope of the bug bounty program. \n\nAll following known issues, as well as those in past audit reports [https://docs.tokemak.xyz/protocol-information/network-security](https://docs.tokemak.xyz/protocol-information/network-security), are considered out-of-scope of this bug bounty program:\n  - Centralized backend entity\n  - For loop not capped, can have excessive gas consumption\n  - Different Solidity versions\n  - ERC20 allowance double spend exploit\n  - Unsafe cycle durations\n  - Possibility of sandwich attacks during liquidity deployments\n  - Schedule.setup check in the Staking contract always passes it\n\nIf an impact can be caused to any other asset managed by Tokemak that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical impacts.\n\nFor further reference, the relevant GitHub can be found at [https://github.com/Tokemak/contracts-v1/tree/main](https://github.com/Tokemak/contracts-v1/tree/main). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program. \n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Crosschain Liquidity",
+          "Liquid Staking",
+          "Yield Aggregator"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "NextJS",
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $250,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $20,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $20,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Tokemak Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Tokemak and get paid up to $250,000.",
+      "url": "https://immunefi.com/bug-bounty/tokemak",
+      "ogImg": "/api/bounty/og-image?project=Tokemak"
+    }
+  },
+  "__N_SSP": true
+}

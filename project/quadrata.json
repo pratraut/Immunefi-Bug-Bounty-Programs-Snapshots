@@ -1,0 +1,182 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "6aTlACCAFT9XxVEnurIu8s",
+      "id": "quadrata",
+      "slug": "quadrata",
+      "project": "Quadrata",
+      "maxBounty": 20000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2d34GKfB7A8pJ4TgjawG4I/f9ace5c2fe8dc506264f4f0569f2a362/x2HFJeB8_400x400.png",
+      "launchDate": "2023-08-07T16:00+02:00",
+      "endDate": null,
+      "updatedDate": "2023-08-11T17:34:20.555Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $20,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $3,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "2okEbLP1yM5nh1x8eO53jm",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2e779749c40CC4Ba1cAB4c57eF84d90755CC017d",
+          "description": "QuadPassport",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4rzSEBJGh5jgPbiavVZvSp",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xBfa59A31b379A62304327386bC2b03096D7695B3",
+          "description": "QuadGovernance",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1RkSAAPHEERZQlx6f6bnit",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xFEB98861425C6d2819c0d0Ee70E45AbcF71b43Da",
+          "description": "QuadReader",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3d8bEb8clAgluaG7Oyy67H",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x76694A182dB047067521c73161Ebf3Db5Ca988d3",
+          "description": "Timelock",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5c71O5eyO9TSNiToQ3tx1C",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa011eB50e03CaeCb9b551Df9Df478b6a513e0d21",
+          "description": "Multisig",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5kGrHZXkUDQjfSEDjSeDcz",
+          "type": "smart_contract",
+          "url": "https://github.com/QuadrataNetwork/passport-contracts/blob/develop/contracts/QuadSoulbound.sol",
+          "description": "QuadSoulbound",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1HWjcauaNrFCDF7q02WURl",
+          "type": "smart_contract",
+          "url": "https://github.com/QuadrataNetwork/passport-contracts/tree/develop/contracts/storage",
+          "description": "Storage",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6eK94LpSNj5dFqz9IJcdQQ",
+          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2lTJZMjkpVwvNBtwWRlOaG",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6ccabHvkw5MGzM8ZD0Wudt",
+          "title": "Can permanently block Passport minting",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6NPlZuE5vMzRO23eK5Kljj",
+          "title": "Can permanently block reading of Passport values",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4NchKHIRSzUSctjwJxdmkS",
+          "title": "Passport manipulation such as changing attribute values, minting on behalf of an issuer and burning of passports",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4Ct3RWIGETccs50VNXrWd3",
+          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "39UaM1NUV8AGirLwqFRvri",
+          "title": "Unauthorized transaction",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4WC08HW33ydbrA4hPboNce",
+          "title": "Transaction manipulation",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "28IMJuP4Muybwol7hKQxUJ",
+          "title": "Quad Unit payment bypass",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Quadrata Web3 Passport is a privacy-preserving, sybil-resistant technology that brings identity, compliance, and reputation to DApps built on public blockchains.\n\nFor more information about Quadrata, please visit [https://quadrata.com/. ](https://quadrata.com/)\n\n__KYC Requirement__\n\nThe provision of KYC is required to receive a reward for this bug bounty program where the following information will be required to be provided:\n- Government-issued ID or Passport\n- Proof of residency\n\nKYC information is only required on confirmation of the validity of a bug report.  \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the  [Immunefi Vulnerability Severity Classification System V2.3.](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/) This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported. \n\n__Reward Payment Terms__\n\nPayouts are handled by the Quadrata team directly and are denominated in USD. However, payouts are done in ETH or USDC, at the discretion of the team.\n\n__PoC Requirement and Guidelines__\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nAll PoCs submitted must comply with the Immunefi-wide [PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules) Bug report submissions without a PoC when a PoC is required will not be provided with a reward.\n\nFor the purposes of determining report validity, this is a Primacy of Rules Program. \n\nQuadrata adheres to the Primacy of Rules, which means that the whole bug bounty program is run strictly under the terms stated in this page.\n\nLearn more about report validity best practices here: [Best Practice - Primacy of Impact vs Primacy of Rules. ](https://immunefisupport.zendesk.com/hc/en-us/articles/12340245635089-Best-Practices-Primacy-of-Impact)\n\n__Responsible Publication Policy__\n\nQuadrata adheres to category 3. This Policy determines what information whitehats are allowed to make public from their submitted bug reports. For more information about the category selected, please refer to our [Responsible Publication](https://immunefi.com/responsible-publication/) page.\n\n__Known Issue Assurance__\n\nQuadrata commits to providing Known Issue Assurance to bug submissions through their program. This means that Quadrata will either disclose known issues publicly or at the very least privately via a self-reported bug submission in order to allow for a more objective and streamlined mediation process to prove that an issue is known. Otherwise, assuming the bug report itself is valid, it would result in the bug report being considered in-scope and due 100% of the reward with respect to the bug bounty program terms.\n\n__Restrictions on Security Researcher Eligibility__\n\nSecurity researchers who fall under any of the following are ineligible for a reward\n- OFAC-sanctioned country or region\n- Does not pass Quadrata Identity Verification process (not able to mint a Quadrata Passport)\n\nKnown issues previously highlighted in the following audit reports are considered out of scope: \n- [Quantstamp](https://github.com/QuadrataNetwork/passport-contracts/blob/develop/audits/quantstamp-passport-final-2022-07.pdf)\n- [Certik](https://www.certik.com/projects/quadrata)\n",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Basic economic governance attacks (e.g. 51% attack)\n- Any vulnerabilities found in testnet contracts \n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n- Theoretical vulnerabilities without any proof or demonstration\n- Old compiler version\n- The compiler version is not locked\n- Vulnerabilities in imported contracts\n- Code style guide violations\n- Redundant code\n- Gas optimizations\n- Best practice issues\n\n__Prohibited Activities__\n\n- Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n- Any testing with pricing oracles or third party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n\n__Program Rules__\n\n- Avoid using web application scanners for automatic vulnerability searching which generates massive traffic\n- Make every effort not to damage or restrict the availability of products, services, or infrastructure\n- Avoid compromising any personal data, interruption, or degradation of any service\n- Don’t access or modify other user data, localize all tests to your accounts\n- Perform testing only within the scope\n- Don’t exploit any DoS/DDoS vulnerabilities, social engineering attacks, or spam\n- Don’t spam forms or account creation flows using automated scanners\n- In case you find chain vulnerabilities we’ll pay only for vulnerability with the highest severity.\n- Don’t break any law and stay in the defined scope\n- Any details of found vulnerabilities must not be communicated to anyone who is not an ImmuniFi employee without appropriate permission\n\n__Disclosure Guidelines__\n\n- Do not discuss this program or any vulnerabilities (even resolved ones) outside of the program without express consent from the organization\n- No vulnerability disclosure, including partial is allowed for the moment.\n- Do NOT publish/discuss bugs\n\n__Eligibility and Coordinated Disclosure__\n\nWe are happy to thank everyone who submits valid reports which help us improve the security. However, only those that meet the following eligibility requirements may receive a monetary reward:\n- You must be the first reporter of a vulnerability.\n- The vulnerability must be identified before it is discovered internally by the team.\n- The vulnerability must be a qualifying vulnerability\n- Any vulnerability found must be reported no later than 24 hours after discovery and exclusively to Immunefi Platform Dashboard\n- You must send a clear textual description of the report along with steps to reproduce the issue, including attachments such as screenshots or proof of concept code as necessary.\n- You must not be a former or current employee of us or one of its contractors.\n- Provide detailed but to-the point reproduction steps\n- Monetary rewards will not be provided to persons or organizations who violate the Program Rules and Disclosure Guidelines\n",
+      "assetsBodyV2": "Though only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target.\n\nOnly those listed in the Assets in Scope table are considered to be in-scope of the bug bounty program. \n\nBugs found in contracts across multiple chains will only count as a single vulnerability.\n\nAll smart contracts of Quadrata can be found at [https://github.com/QuadrataNetwork.](https://github.com/QuadrataNetwork) However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": null,
+        "projectType": null,
+        "ecosystem": null,
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": null
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $20,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $3,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Quadrata Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Quadrata and get paid up to $20,000.",
+      "url": "https://immunefi.com/bug-bounty/quadrata",
+      "ogImg": "/api/bounty/og-image?project=Quadrata"
+    }
+  },
+  "__N_SSP": true
+}

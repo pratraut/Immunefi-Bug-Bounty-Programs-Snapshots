@@ -1,0 +1,442 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "2CBAUZnn8RPTcRChjtgCK8",
+      "id": "lyra",
+      "slug": "lyra",
+      "project": "Lyra",
+      "maxBounty": 50000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3rpp7fLPif0JTGLDDZO6l6/fe90db1d368b64cf2a361be7b5b90808/Lyra.jpeg",
+      "launchDate": "2021-08-23T09:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:49:17.828Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $5,000 to USD $50,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $2,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $500",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "1t0nAXeHw1tEpoy3tu09tH",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x9B3FE5E5a3bcEa5df4E08c41Ce89C4e3Ff01Ace3",
+          "description": "DepositModule",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "wjz2OuICuYH8sENpSYMll",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xeB8d770ec18DB98Db922E9D83260A585b9F0DeAD",
+          "description": "Matching",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2ij1ceIiGKxXw3uGqa7I6T",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xB8D20c2B7a1Ad2EE33Bc50eF10876eD3035b5e7b",
+          "description": "TradeModule",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "73nB71eGC9Zh7WjRaPvIXf",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x01259207A40925b794C8ac320456F7F6c8FE2636",
+          "description": "TransferModule",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "44RmXgrS2nyPUbGuerCWBB",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083",
+          "description": "WithdrawalModule",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "StmidN3FH28k2aBQZ42B8",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xC51E95b72e116020B138cd5D97Ed4A72DE8Dc48B",
+          "description": "DutchAuction",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7A6c8upnFqxfBl4LO0RH4s",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x57B03E14d409ADC7fAb6CFc44b5886CAD2D5f02b",
+          "description": "CashAsset",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6Vw2NgDlLM2n70ujvWmHYd",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x4e798659b9846F1da7B6D6B5d09d581270aB6FEC",
+          "description": "InterestRateModel",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3s6TP7aCuTFnCcrqL0xQwa",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x8dC92fB0e1C1F1Def6e424E50aaA66dbB124eb54",
+          "description": "SecurityModule",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "adxWNafBQbnyAWcPam50w",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x28c9ddF9A3B29c2E6a561c1BC520954e5A33de5D",
+          "description": "StandardManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "79wPrKE3yHcXBym5I6Kbmp",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xAA8f9D05599F1a5d5929c40342c06a5Da063a4dE",
+          "description": "StandardManagerViewer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5UIo2BvV3wcSdwFQeOJpCo",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x9C61888497D716f5bBd93D5e13d443cC375f1424",
+          "description": "LyraSpotFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5o02DGu56nzpFWyFTka8UG",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xE7603DF191D699d8BD9891b821347dbAb889E5a5",
+          "description": "SubAccounts",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4xfb9vzhEH8Wr29subCcdC",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xE201fCEfD4852f96810C069f66560dc25B2C7A55",
+          "description": "BaseAsset",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7H3eSUdGUimzENz1VnP73N",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x791A570F5785FBdb02EA5C7a794c43111ae2f948",
+          "description": "ForwardFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4XIQco5NfCB1sOvhT4k9Da",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xd464170afe0eE2a4865B2ca6dBcc6dfB8f4Bf125",
+          "description": "LyraSpotDiffFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2AFkLviRAcZ4KxRpfurMKE",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xbfe7Cd69d3983299D3d18D1Ae5C411e1FF61A993",
+          "description": "LyraSpotDiffFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "lHeiBHzK051vNjNzg0F1Y",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x4BB4C3CDc7562f08e9910A0C7D8bB7e108861eB4",
+          "description": "OptionAsset",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3AhPAH4Jufpq04QcwyHFFs",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xAf65752C4643E25C02F693f9D4FE19cF23a095E3",
+          "description": "PerpAsset",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2ZcNiimklfFfBTxf3VUh0v",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x33E18F4f508d7aD3e958aA2DCf4b3eCAec38D7c6",
+          "description": "LyraSpotDiffFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "38Bn2FZ6eHeL1slTiIa08D",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xe7cD9370CdE6C9b5eAbCe8f86d01822d3de205A0",
+          "description": "PMRM",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7AMtZhfOKivTmB8RQwpzie",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x81ed5Dc90F708Dd908DccFfd5128B5C3405f74c5",
+          "description": "PMRMLib",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "0ZlFLK2vuJ6XAdr4hoNqA",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xcAe44C93f7B3b519Fc28f9d4F7Ae22dE770a907b",
+          "description": "BasePortfolioViewer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5rJDSe8Okysqf1Lv60QMNj",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x30A6E6A3851c18aa67429ACC8a1DfAFE20A29FEb",
+          "description": "LyraRateFeedStatic",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1GtWts9mp446fDjoYgA5tc",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x727aD65db6aE99DB5Dbee8F202846DD6009bf6D5",
+          "description": "LyraSpotFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3GS72VvbUUUgpFhAdbQIqc",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xb27cb6b08e6c298C8634D73D5F6649665e90d160",
+          "description": "LyraVolFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4r9jxxu8BvFcjOICTBK56J",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x7da2D398dddDfC946Efd2C758c4688D21887790d",
+          "description": "BaseAsset",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4nhA5PjfnUKoblGoJ1qUM9",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x958c54bFACc0E2dee586564B31Bf3F171f256279",
+          "description": "ForwardFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "44oVptEUcA2CB32lgfZizv",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x4d6e33bf88Ab44212B10bAc4DA448E41a191cb4C",
+          "description": "LyraSpotDiffFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "soOMeMeQnmPOYZw9edWYL",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x35d4D9bc79B0a543934b1769304B90d752691caD",
+          "description": "LyraSpotDiffFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2CL5FDclGnUeAOlvLSTkiq",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xd0711b9eBE84b778483709CDe62BacFDBAE13623",
+          "description": "OptionAsset",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7k0Nq0wOffasQi4S0t18vW",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xDBa83C0C654DB1cd914FA2710bA743e925B53086",
+          "description": "PerpAsset",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2AqmpsaDegygVCGDHQKbR1",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x34BC7Fe1965B4E9f4071B69f2E60b8dC88f34475",
+          "description": "LyraSpotDiffFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "48eSnqnMfILWJVkOnVLT1B",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x45DA02B9cCF384d7DbDD7b2b13e705BADB43Db0D",
+          "description": "PMRM",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1S5C14NLjZqwB4kdsXnwXD",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xFa7f1a242b819A8EC97FD92674C3f0868395B0d3",
+          "description": "PMRMLib",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "xvzStiLaCcNbBnEWOiw07",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0xa364498b361d563921C9A144264205CdaAF1B5E0",
+          "description": "BasePortfolioViewer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1f3MSY4TFMLXqMHLCHAf94",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x6FEf1bb8Ade9A836663d4c15AFd5985Fb545004f",
+          "description": "LyraRateFeedStatic",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5JM7JnIHE1u8AC7q6HvsjD",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x5Eb59391e7870807aD2C8792E8c5e75838E0fdb0",
+          "description": "LyraSpotFeed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5lddbKEYyBJxwRip4aSHDm",
+          "type": "smart_contract",
+          "url": "https://explorer.lyra.finance/address/0x388341d9E5A7D7d5accD738B2a31b0622E0c1b87",
+          "description": "LyraVolFeed",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6Si7GAaONFpvncUSOW6lha",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7Amq3OkHUrvqyt0wcPAB5h",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4zdSVhc8VPbiVAJV3QvVJ2",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "UUDFoXsj7TNG9Xk5chzo9",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7IOw1oEmSSNA5WInmsL7sZ",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5m0JDpOxw1dFkuLlJbrN0M",
+          "title": "Freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1B1NpA1hKcOfC81L15eRdP",
+          "title": "Temporary freezing of funds for any amount of time",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1chUTnQcWHGxGVtsqzZchb",
+          "title": "Unable to call smart contract",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4Gzox7cM9AgjY1PdSAUdb0",
+          "title": "Smart contract gas drainage",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2g4fBos6zqrKS0bNqe6FEv",
+          "title": "Smart contract fails to deliver promised returns",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Lyra V2 is a self-custodial protocol layer built to enable the trading of derivative products in a permissionless way. The component of the Lyra V2 stack covered by this bug bounty program is the **[Lyra Protocol:]([https://docs.lyra.finance/docs/protocol-overview](https://docs.lyra.finance/docs/protocol-overview))** A protocol that enables the margining and settlement of perpetuals, options and spot.\n\nFor more information about Lyra, please visit [https://www.lyra.finance/](https://www.lyra.finance/).     \n",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll High and Critical Smart Contract bug reports require a PoC to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nCritical smart contract vulnerabilities are capped at __10%__ of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. There is a maximum reward of __USD 50 000__, but more could be paid out at the discretion of the team.\n\nAny vulnerability already disclosed in the [audits that have been performed ](https://github.com/sigp/public-audits/blob/master/lyra-finance/review-round2.pdf)are not able to receive a reward.\n\nIssues identified in previous audit reports may not be eligible for payout. \n\nTo be eligible for reward, impact from table below must be demonstrated where all thefts must be profitable and all freezing must be reasonably priced for the impact.\n\nPayouts up to USD __50,000__ are handled by the __Lyra__ team directly and are denominated in USD. However, payouts are done in __USDC__ or __ETH__, at the discretion of the team. ",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\nSmart Contracts and Blockchain\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Contracts in scope are found on the Lyra Chain (https://rpc.lyra.finance; chainId: 957; https://explorer.lyra.finance/), as well as any libraries they inherit.\n\nCode for these contracts can be found in the following repositories:\nhttps://github.com/lyra-finance/v2-core\nhttps://github.com/lyra-finance/v2-matching\nhttps://github.com/lyra-finance/lyra-utils\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "DEX",
+          "Options",
+          "Perpetuals"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Optimism"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $5,000 to USD $50,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $500"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Lyra Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Lyra and get paid up to $50,000.",
+      "url": "https://immunefi.com/bug-bounty/lyra",
+      "ogImg": "/api/bounty/og-image?project=Lyra"
+    }
+  },
+  "__N_SSP": true
+}

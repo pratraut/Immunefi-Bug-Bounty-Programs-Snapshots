@@ -1,0 +1,257 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "5ozlX4zKQnOXlMqQbzVDdq",
+      "id": "rysk",
+      "slug": "rysk",
+      "project": "Rysk",
+      "maxBounty": 120000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6bzTbmxHVMytLkyVWLGvIu/904ed20293ffe6056d18d5c32d291ed0/Rysk_Logo.jpeg",
+      "launchDate": "2022-11-02T11:30-06:00",
+      "endDate": null,
+      "updatedDate": "2023-07-07T14:43:19.735Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD  $60,000-$120,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $10,000-$20,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "4k4Yn91CxVoS8jabEVF8VP",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x48672a2885995cF3Ddc9Da633C22b262e0533f7C",
+          "description": "Accounting.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2i2eSzScUOQgFWU4gazpHW",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xc63717c4436043781a63C8c64B02Ff774350e8F8",
+          "description": "AlphaOptionHandler.sol ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1kjIWtQPwoHqudkPvzUSxN",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x7f9d820CFc109686F2ca096fFA93dd497b91C073",
+          "description": "AlphaPortfolioValuesFeed.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4LeMI2BfrDWCH7kFPFIX8v",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x74948DAf8Beb3d14ddca66d205bE3bc58Df39aC9",
+          "description": "Authority.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2SB4XCyVAJmuUa0a8g835h",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x217749d9017cB87712654422a1F5856AAA147b80",
+          "description": "LiquidityPool.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2mriqbEsqsStAVeU4cVFCH",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x8Bc23878981a207860bA4B185fD065f4fd3c7725",
+          "description": "OptionRegistry.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6LgeVg4DgVQM7T9VE1Sdul",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x44227Dc2a1d71FC07DC254Dfd42B1C44aFF12168",
+          "description": "OptionCatalogue.sol ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6vlARNmM4DMqdOfWGhMW7v",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xC117bf3103bd09552F9a721F0B8Bce9843aaE1fa",
+          "description": "OptionExchange.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4tSwfcCUYAolPnW6f5exoz",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xeA5Fb118862876f249Ff0b3e7fb25fEb38158def",
+          "description": "BeyondPricer.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5o4oDH2AF6UB42tV4GGkvF",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xD404D0eD7fe1EB1Cd6388610F9e5B5E6b6E41E72",
+          "description": "Manager.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2iEqlbCt05AOkKS7CWYLCW",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x7f86AC0c38bbc3211c610abE3841847fe19590A4",
+          "description": "PriceFeed.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5Buw7WjPEcSzrRno55LcYV",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x4e920e9A901069d9b211646B6E191d81BA40E5FB",
+          "description": "Protocol.sol ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4raoXiJGME8xEvHrRWBCeq",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xF204B60A98B3be05914AeC46bcEd2476D13a0225",
+          "description": "VolatilityFeed.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "MmSVecvf8rA1w1dtKP2mb",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x0053849115783b9678DBB173BB852f06e950Fe05",
+          "description": "UniswapV3HedgingReactor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1gxe7edsJg9y5RFgbkrXz9",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xf013767D55954EcCCacb4914d52D2ef8f95d82C5",
+          "description": "PerpHedgingReactor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Znnttojk9S6nLRqV8nd4j",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xbCd871faAf2c36D57B0F4C006c6B0Cc2E1929736",
+          "description": "GMXHedgingReactor",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "SlosihB2TkjTc5wHhuvSr",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "VDPnyZzl2CyKXnUpgOLBp",
+          "title": "Permanent loss of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "vKuJG5XUIPXMEhv5nSVIV",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4zUtBFsM4v7NIbH2bVgOHA",
+          "title": "Unauthorized minting of Tokens",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6xc5zl1Bzvnt3VN97BfKpK",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3Dd6VErHVFqll1QUCE8Iag",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "M1G4xT47PHiKSLrLz8eBe",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "262tevNIbJ8o9xCUbvvQU1",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "10CyeS70uyoVW59rZ89bZI",
+          "title": "Permanent freezing of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3WKjyVOPDeoVgxTWnKQ1oK",
+          "title": "Temporary freezing of funds for at least 1 minute (non self inflicting)",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Rysk provides products that will produce uncorrelated, competitive returns in all market conditions, unlike most token-emission-based yield farms. It does this via the DHV, a pioneering hybrid RFQ and AMM for options, enabling both buying and selling on a multitide of products.\n\nFor more information about Rysk, please visit [https://www.rysk.finance/](https://www.rysk.finance/). ",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nRewards for critical smart contract vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 60 000__ and a maximum reward of __USD 120 000__.\n\nKnown issues previously highlighted in the following audit reports are considered out of scope: \n  - [Dedaub - June 2022](https://1278775960-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7tHAl50whbE5aof8T5A2%2Fuploads%2FrsaS3lKPlgbEZtwfZsvj%2FRysk%20Audit.pdf?alt=media&token=d302fefb-dc22-4567-a5a4-2d75ab962d19)\n  - [AkiraTech - August 2022](https://1278775960-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7tHAl50whbE5aof8T5A2%2Fuploads%2FKE6QwdgVcLyiEStyn1Gr%2FReport.pdf?alt=media&token=660e4ef6-6d5a-4edf-8c1f-029c711da8ad)\n  - [Dedaub - November 2022](https://docs.rysk.finance/security/security-reviews#dedaub-gmx-december-2022)\n  - [Trust - December 2022](https://docs.rysk.finance/security/security-reviews#trust-range-order-december-2022)\n  - [Dedaub - January 2023](https://docs.rysk.finance/security/security-reviews#dedaub-beyond-january-2023)\n  - [Trust - February 2023](https://docs.rysk.finance/security/security-reviews#trust-x-100proof-beyond-february-2023)\n  - [Trust - July 2023](https://docs.rysk.finance/security/security-reviews#rysk-dynamic-hedging-vault)\n\nPayouts are handled by the __Rysk__ team directly and are denominated in USD. However, payouts are done in __USDC__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Rysk can be found at [https://github.com/rysk-finance/dynamic-hedging](https://github.com/rysk-finance/dynamic-hedging). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf a Critical/High severity impact can be caused to any other asset managed by Rysk that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Yield Aggregator"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Arbitrum"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": null
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD  $60,000-$120,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $10,000-$20,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Rysk Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Rysk and get paid up to $120,000.",
+      "url": "https://immunefi.com/bug-bounty/rysk",
+      "ogImg": "/api/bounty/og-image?project=Rysk"
+    }
+  },
+  "__N_SSP": true
+}

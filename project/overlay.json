@@ -1,0 +1,298 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "2nMg93dj7ggFSiQbo7S5EZ",
+      "id": "overlay",
+      "slug": "overlay",
+      "project": "Overlay",
+      "maxBounty": 20000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5MwMIyiAkf1clFUMdixzn1/842aaab89ba611915844b476f6f78892/Black_Overlay_Logo.png",
+      "launchDate": "2022-09-28T11:30-06:00",
+      "endDate": null,
+      "updatedDate": "2023-12-22T12:58:18.446Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $20,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $10,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $2,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "3MlR8fMpDhhLeUWqzaR27Q",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/OverlayV1Token.sol",
+          "description": "ERC20",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1Embxa3ADCujG4UG9ARX5I",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/OverlayV1Market.sol",
+          "description": "Market",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5lzNh1Zup9k1mp9V9eckca",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/OverlayV1Factory.sol",
+          "description": "Factory for Markets",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1MhEFnfBNzig9TOjMcsYQY",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/OverlayV1Deployer.sol",
+          "description": "Deployer for Markets",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1JH4EBIPm92lY3ukWf9uhe",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/feeds/OverlayV1Feed.sol",
+          "description": "Abstract Feed",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3LJpe4RmLyLMiofgtZMFZq",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/feeds/OverlayV1FeedFactory.sol",
+          "description": "Abstract Factory for Feeds",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "59EEpwcQH6HJrWqRo6qlZH",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/feeds/uniswapv3/OverlayV1UniswapV3Feed.sol",
+          "description": "Feed Implementation for Uniswap V3",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5D9Yudfp3VWvPG8C2rqUkL",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/feeds/uniswapv3/OverlayV1UniswapV3Factory.sol",
+          "description": "Factory for Feed Implementation for Uniswap V3",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6y37sgmdbpnBJITdz5Lq5M",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/Cast.sol",
+          "description": "Cast Library",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2cZ6EF2bwOcJBNeYAOnLR6",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/FixedCast.sol",
+          "description": "Fixed Point Cast Library",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2ih2LIz4roVB3jAgX7nuXl",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/FixedPoint.sol",
+          "description": "Fixed Point Library (fork of Balancer V2 Fixed Point Library)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4RCsibJfAp4wcsqAiLEe3F",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/LogExpMath.sol",
+          "description": "LogExp Math Library (fork of Balancer V2 LogExp Math Library)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "15ryc9Xaqg9kARpfTVRp8r",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/Oracle.sol",
+          "description": "Oracle Library",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2389wSHYlWrMlTh3w6VkCh",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/Position.sol",
+          "description": "Position Library",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "432lpLH6JCfOuhc14we0om",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/Risk.sol",
+          "description": "Risk Library",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5YAob2vPCkxec9nC5jZs0R",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/Roller.sol",
+          "description": "Roller Library",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1NpB2gQIDpgKrLf3nrIEVz",
+          "type": "smart_contract",
+          "url": "https://github.com/overlay-market/v1-core/blob/main/contracts/libraries/Tick.sol",
+          "description": "Tick Library",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6e3qzpsYWf8y97h7OVWZiw",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3KdNhoAHAoTuoZb1bDfULH",
+          "title": "Direct theft of >1% of user funds, other than unclaimed yield, in excess of gas costs or swap fees",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "77SuNrjqLtrOnVED1Lcdpy",
+          "title": "Permanent freezing of >1% of total funds in excess of gas costs or swap fees",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7IO9EW4nEmcUbBdDSR4fo6",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3tWDwcr6OkDN26THeMpzAY",
+          "title": "Theft of >1% of total unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3cVmueUOkqvU41Qz9ytjAC",
+          "title": "Permanent freezing of >1% of total unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7mRwAbuqfGfKLw26XjBE8R",
+          "title": "Temporary freezing of funds for any amount of time",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1Y6CAqDlkpBbmnATc5pBj1",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1jofWbAhy1SpY68ftyTypX",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7o2TSJgXsD5l6fAR9G45oZ",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3DNP4azlOx121xGdTOshjw",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "6u8FHJL1t9bgMKyUkA66Qp",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2HAb20jpIZDpTRafkwtI8C",
+          "title": "Smart contract fails to deliver promised returns, but doesn’t lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Overlay enables markets on streams of data without the need for traditional counterparties or liquidity pools. The protocol accomplishes this through its native token, OVL.\n\nThe mechanism is relatively simple: Traders stake OVL as collateral on an Overlay market to enter a position on a particular stream. If the trade is profitable when the trader looks to unwind, the protocol mints more OVL to the circulating supply to compensate the trader for their gains. Conversely, if the trade is at a loss, the protocol burns OVL from the position’s staked collateral, removing the tokens from the circulating supply.\n\nFor more information about Overlay, please visit [https://overlay.market/](https://overlay.market/).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nThe following issues are considered out of scope of this program: \n  - Economic oracle (time-weighted price and liquidity) manipulation \n  - System insolvency if due to economic factors / market movements \n\nIn addition, issues previously highlighted in the following audit reports are considered out of scope: \n  - [https://github.com/overlay-market/v1-core/blob/main/audits/spearbit/audit.pdf](https://github.com/overlay-market/v1-core/blob/main/audits/spearbit/audit.pdf) \n  - [https://github.com/overlay-market/v1-core/blob/main/audits/leastauthority/audit.pdf](https://github.com/overlay-market/v1-core/blob/main/audits/leastauthority/audit.pdf) \n\nPayouts are handled by the __Overlay__ team directly and are denominated in USD. However, payouts are done in __USDC__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Overlay can be found at [https://github.com/overlay-market/v1-core/](https://github.com/overlay-market/v1-core/). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf an impact can be caused to any other asset managed by Overlay that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": null,
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": null,
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": null
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $20,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Overlay Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Overlay and get paid up to $20,000.",
+      "url": "https://immunefi.com/bug-bounty/overlay",
+      "ogImg": "/api/bounty/og-image?project=Overlay"
+    }
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,221 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "7vBVv3z3MGMmUcNozzs0Kr",
+      "id": "opyngamma",
+      "slug": "opyngamma",
+      "project": "Opyn: Gamma",
+      "maxBounty": 100000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/vZUZGK84FUQTVxKGC5bZP/49fd4c2fb8a8c6fb0cea44de19e763b9/opyn_gamma_new_logo.png",
+      "launchDate": "2022-02-07T11:30-07:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T19:00:53.052Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $100,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $25,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "61cxAMB1hVPsUYnowUAhWX",
+          "type": "smart_contract",
+          "url": "https://github.com/opynfinance/GammaProtocol/tree/67a2bff57ec49c4bb7c9c454c8ad945fd5bdcf51/contracts/core",
+          "description": "Core",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "tBLnw34kD88XgvvDf69Rp",
+          "type": "smart_contract",
+          "url": "https://github.com/opynfinance/GammaProtocol/tree/67a2bff57ec49c4bb7c9c454c8ad945fd5bdcf51/contracts/external",
+          "description": "External",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2SlvLEapUr0jfhVwHJ7kfh",
+          "type": "smart_contract",
+          "url": "https://github.com/opynfinance/GammaProtocol/tree/67a2bff57ec49c4bb7c9c454c8ad945fd5bdcf51/contracts/interfaces",
+          "description": "Interfaces",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3xvkyFuF6KZfTcxSMtTyhZ",
+          "type": "smart_contract",
+          "url": "https://github.com/opynfinance/GammaProtocol/tree/67a2bff57ec49c4bb7c9c454c8ad945fd5bdcf51/contracts/libs",
+          "description": "Libs",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5vUwlm76kiIQUMtQVYpHgt",
+          "type": "smart_contract",
+          "url": "https://github.com/opynfinance/GammaProtocol/tree/67a2bff57ec49c4bb7c9c454c8ad945fd5bdcf51/contracts/pricers",
+          "description": "Pricers",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6ftUxB29KeHTFyYyPejtkk",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3SzmQrIqn4S3z17zc5QzVA",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3YuQ9y6S6Rzh4wkoAZZLO9",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4xCzG7iMibsuQ3Wwi4vYH3",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "efCq1CDPFYa1Dobf4RPgZ",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5vzVZLEPRvpfWzp96TuneY",
+          "title": "Freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6j4rh6Kn96JH5Xh0t4PB1H",
+          "title": "Temporary freezing of funds for any amount of time",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5AiGBbi3oVlSQcy6yu2k1h",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3klG7WKflJK7Nx1hT7nGcE",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7ybjbQtkGsFrWGVz7ohgdk",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "WVVEyu3uhhQPLF4w93RHA",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "76vq1hvIlbCa5IOEmDLqDZ",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3pLqbct3d2pXTrmGF6PREa",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Opyn builds DeFi native derivatives and options infrastructure that allow users and protocols to buy, sell, and create options, and utilize brand new primitives like squeeth. DeFi enthusiasts and projects alike rely on Opyn’s smart contracts and interface to hedge themselves against DeFi risks and take positions on different cryptocurrencies.\n\nGamma is a capital efficient option protocol that enables sellers to create spreads and other combinations, trade atomically, flash loan mint oTokens, assign operators to roll over vaults, create perpetual instruments, and more.\n\nJust like Convexity Protocol(Opyn v1), Gamma protocol enables any user to create option tokens, that represent the right to buy or sell a certain asset at a predefined price (strike price) at expiry. \n\nFor more information about Opyn, please visit [https://www.opyn.co/](https://www.opyn.co/).   \n\nThis bug bounty program is focused on their smart contracts and is focused on preventing:\n\n  - Loss of user funds staked (principal) by freezing or theft\n  - Theft of unclaimed yield\n  - Freezing of unclaimed yield",
+      "prioritizedVulnerabilities": "__Impacts in Scope__\n\nOnly the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\n\n__Smart Contracts/Blockchain__\n\n  - Loss of user funds staked (principal) by freezing or theft\n  - Theft of unclaimed yield\n  - Freezing of unclaimed yield\n  - Temporary freezing of funds for any amount of time\n  - Smart contract gas drainage",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nCritical and High severity bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward.\n\nCritical smart contract vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum of __USD 25 000__ for Critical bug reports.\n\nIssues identified in previous audit reports may not be eligible for payout. \n\nTo be eligible for reward, impact from table below must be demonstrated where all thefts must be profitable and all freezing must be reasonably priced for the impact.\n\nPayouts are handled by the __Opyn__ team directly and are denominated in USD. Payouts up to USD 100 000 are done in __USD__, __USDC__, __DAI__ or __ETH__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n    - If your attack requires orders of magnitude more funds than profits, you can submit but we'll evaluate on a case-by-case basis\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Opyn: Gamma can be found at [https://github.com/opynfinance/GammaProtocol/releases/tag/v2.0.0](https://github.com/opynfinance/GammaProtocol/releases/tag/v2.0.0). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Derivatives",
+          "Options"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $100,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $25,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Opyn: Gamma Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Opyn: Gamma and get paid up to $100,000.",
+      "url": "https://immunefi.com/bug-bounty/opyngamma",
+      "ogImg": "/api/bounty/og-image?project=Opyn%3A+Gamma"
+    }
+  },
+  "__N_SSP": true
+}

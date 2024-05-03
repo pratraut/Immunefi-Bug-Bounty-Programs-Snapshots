@@ -1,0 +1,323 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "7KKfjNy5LDy85pV9A6b5OA",
+      "id": "router",
+      "slug": "router",
+      "project": "Router",
+      "maxBounty": 25000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/76RFX4B9jmLtRSPhSGVsUQ/51bf95cc0fa626c08870f825e41c486d/Router.jpeg",
+      "launchDate": "2021-08-06T15:00:00.000Z",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:55:53.649Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $25,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $10,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $3,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "USD $1,500",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "TN4EzAN6MXZvBOfmyK6jh",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x86dfc31d9cb3280ee1eb1096caa9fc66299af973",
+          "description": "Ethereum Gateway Contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "BwLK7DAk8iKJSIPQroJfp",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xf9f4c3dc7ba8f56737a92d74fd67230c38af51f2",
+          "description": "Ethereum Asset Bridge",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2L5tCDo9WsbXaPpTp3Ivpc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc21e4ebd1d92036cb467b53fe3258f219d909eb9",
+          "description": "Ethereum Asset Forwarder",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5ncZp5Cy7BzAtUIqWYOj8n",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x21c1e74caadf990e237920d5515955a024031109",
+          "description": "Polygon Gateway Contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "29lCtVwd2s2TLhJm1ZOEBt",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xa62ec33abd6d7ebdf8ec98ce874820517ae71e4d",
+          "description": "Polygon Asset Bridge",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4jv8ssGb0WJnI2ZctHlmMy",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x1396f41d89b96eaf29a7ef9ee01ad36e452235ae",
+          "description": "Polygon Asset Forwarder",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2scTHCMkFWLzMvwXXtAKcm",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xc21e4ebd1d92036cb467b53fe3258f219d909eb9",
+          "description": "Arbitum Gateway Contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6l3fEoVDcJwkJSRpjLyuBb",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x0Fa205c0446cD9EeDCc7538c9E24BC55AD08207f",
+          "description": "Arbitum Asset Bridge",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2HpCqOlAPNB4wLvL9aSOsX",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0xef300fb4243a0ff3b90c8ccfa1264d78182adaa4",
+          "description": "Arbitrum Asset Forwarder",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5KhpL3FuXe1RJHDccQlRqk",
+          "type": "websites_and_applications",
+          "url": "https://www.routerprotocol.com/",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7q9m5qndzKO6jsSUPebBn9",
+          "type": "websites_and_applications",
+          "url": "https://nitro.routerprotocol.com",
+          "description": "Web/App",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6BJWOVtwXtiUL5uNeE2lID",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7HKJ2bf64PCMhsB0m7wYHB",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "44KBniDlPCm1EekCeTPUl6",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "46Uo3LvU2n35CDWwLQtHJO",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5L3Ld96YHQdt0pHQYsG1Ux",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4urUpjedCCC1IYGNEFeuXN",
+          "title": "Critical Level - Direct economic damage",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "10bJw3SfrxCSnxKUlvgYyq",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "xVqVx3h3rfLnRvkhzW5nx",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1Ev9YRibNHoRkOUMJvtwtk",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "46mODRMtlmaj4eNyfWM76o",
+          "title": "High Level - Direct economic damage",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "7yslorLCImjQbHBXjzSqn1",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "6RBzaL9UyiBjYxZvfVPc7i",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3KoEMYqI3EN0OvKeT1mA4h",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4AhYyDCzh8yU0ZqpjyCiTO",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3f91RXpHBCDXyn70zSELUX",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2ogtkut5JDCEEzj9nii95V",
+          "title": "Medium Level - Direct economic damage",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "3f0xapCLMWepRhguVv2sLF",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Router is a cross chain liquidity infrastructure primitive that aims to seamlessly provide bridging infra between various current and emerging layer-1 and layer-2 blockchain solutions, such as Matic and Ethereum.\n\nThis is achieved with Router's Cross-Chain Liquidity Protocol, (XCLP) acts as a bridging infrastructure between these blockchain solutions to allow contract-level data flow across them, thus enabling asset-level data transfer with stablecoins being the medium of value transfer. Aside from connecting blockchains and enabling a free flow of information, Router will also make smart order-routing possible, enabling users to swap their assets from different networks seamlessly.\n\nFor more information about Router, please visit [https://routerprotocol.com/](https://routerprotocol.com/). \n\nThe bug bounty program covers its smart contracts and app and is focused on preventing the following impacts:\n\n  - Thefts and freezing of principal of any amount\n  - Thefts and freezing of unclaimed yield of any amount\n  - Theft of governance funds \n  - Governance activity disruption\n  - Product App goes down\n  - Access to sensitive pages without authorization\n  - Economic Attacks of any kind",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Inline Assembly Vulnerabilities\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces\n\n__Websites and Apps__\n\n  - Remote Code Execution\n  - Trusting trust/dependency vulnerabilities\n  - Vertical Privilege Escalation\n  - Horizontal Privilege Escalation\n  - CSRF with impact\n  - Internal SSRF\n  - SSL misconfigurations\n  - SSL/TLS issues (weak crypto, improper setup)\n  - Misleading Unicode text (e.g. using right to left override characters)",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll bug reports must come with a PoC in order to be accepted. Additionally, all bug reports that are Medium or higher are required to include a suggestion for a fix in order to be considered for a reward.\n\nCritical smart contract vulnerabilities are capped at __10%__ of economic damage, primarily taking into account the funds at risk. Other considerations such as PR and branding concerns may also be considered by the team at its discretion. However, the minimum reward amount is __USD 10 000__. \n\nPayouts are handled by the __Router__ team directly and are denominated in USD. Payouts are done in __ETH__, __USDT__, or __ROUTE__, at the discretion of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\n__Websites and Apps__\n\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR\n  - CSRF with no security impact (logout CSRF, change language, etc.)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)\n  - Server-side information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring unlikely user actions\n  - URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Attacks requiring privileged access from within the organization\n  - Feature requests\n  - Best practices\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Only web/app vulnerabilities that __directly__ affect the web/app assets listed in this table are accepted within the bug bounty program. All others are out-of-scope.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH",
+          "Polygon"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $25,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $3,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,500"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Router Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Router and get paid up to $25,000.",
+      "url": "https://immunefi.com/bug-bounty/router",
+      "ogImg": "/api/bounty/og-image?project=Router"
+    }
+  },
+  "__N_SSP": true
+}

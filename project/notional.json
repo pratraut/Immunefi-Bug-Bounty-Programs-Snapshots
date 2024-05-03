@@ -1,0 +1,216 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "3wulPtcZiUgKI3fLjIp4q",
+      "id": "notional",
+      "slug": "notional",
+      "project": "Notional",
+      "maxBounty": 250000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4IWAL9hnVKo7ToHawJYKZ1/2b7d9aab624d0fe6646f17bb6171c9fe/Notional_Logo.jpeg",
+      "launchDate": "2021-11-05T03:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:51:33.178Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $250,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $50,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "4mlFNkf7YpJJEbrCqdPWbP",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1344A36A1B56144C3Bc62E7757377D288fDE0369",
+          "description": "Mainnet Proxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2LRka024hvX8aJbPRptwtZ",
+          "type": "smart_contract",
+          "url": "https://arbiscan.io/address/0x1344a36a1b56144c3bc62e7757377d288fde0369",
+          "description": "Arbitrum Proxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4s0PRp5W2pDWyfViyEwF3j",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xCFEAead4947f0705A14ec42aC3D44129E1Ef3eD5",
+          "description": "NOTE ERC20 Proxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1vE9bpnw7f9soGl1vraJ8Q",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x086b4ecD75c494dD36641195E89c25373E06d7cB",
+          "description": "Governor",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "3UyMoRuE795aq78CeeezPK",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "66yk0ZJEqrkuLJKZADgU24",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1lbXWERnX0HERFEPf2SYjr",
+          "title": "Any smart contract code resulting directly in protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6bjseBXyhcYsLeT6kLv88c",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7tqGEHdoSX5oRGEb0cwZD",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "eRzDCfXwBCtuAXc9JlmyW",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "6QN8CMJYtQ3MAh2lTUpkFG",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "272MDiEo25zNjTG9gem52f",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4QYcy0p6iwU8M8r1xdUPrR",
+          "title": "Temporary freezing of fund",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2ANKyo2W76mALNoF3i3sRL",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3I6foc5xqLrf6tsmJyLB94",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        },
+        {
+          "id": "28wNJ4XI2JdrSwqsxdCKeI",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "low"
+        },
+        {
+          "id": "2NZC5Q1XMxVypNqgLaRji7",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Notional is a protocol on Ethereum that facilitates fixed-rate, fixed-term crypto asset lending and borrowing through a novel financial instrument called fCash.\n\nfCash is a tokenized representation of a fCash flow. It represents the amount of tokens (i.e. Dai) that an account is either entitled to receive or obligated to pay at its designated maturity. For example, if an account holds +100 fCash tokens for a maturity on January 1, 2021, it is entitled to 100 Dai at any time greater than or equal to January 1, 2021. Similarly, -100 fCash tokens for the same maturity means that the account is obligated to pay 100 Dai at maturity.\n\nFor more information about Notional, please visit [https://notional.finance/](https://notional.finance/). \n\nThis bug bounty program is focused on their smart contracts and app and is focused on preventing the following impacts:\n\n  - Loss of funds \n  - Voting manipulation\n  - Any function that is outside the intended behavior of the smart contracts\n  - Redirection of funds\n  - Injection of text",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain __\n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces\n\n__Websites and Apps__\n\n  - Remote Code Execution\n  - Trusting trust/dependency vulnerabilities\n  - Vertical Privilege Escalation\n  - XML External Entities Injection\n  - SQL Injection\n  - LFI/RFI\n  - Horizontal Privilege Escalation\n  - Stored XSS\n  - Reflective XSS with impact\n  - CSRF with impact\n  - Direct object reference\n  - Internal SSRF\n  - Session fixation\n  - Insecure Deserialization\n  - DOM XSS\n  - SSL misconfigurations\n  - SSL/TLS issues (weak crypto, improper setup)\n  - URL redirect\n  - Clickjacking (must be accompanied with PoC)\n  - Misleading Unicode text (e.g. using right to left override characters)",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.3](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nMedium and low smart contract bug reports must come with a PoC in order to be considered for a reward. \n\nCritical smart contract vulnerabilities are paid at 10% of economic damage, primarily based on funds at risk. The team may, at its discretion, take into consideration other aspects such as PR and branding effects. However, there is a minimum reward of __USD 50 000__.\n\n__KYC__\n\nNotional rewards both foreigners and USA nationals:\n  - Foreigners must complete the W-8BEN, which is IRS mandated \n  - USA nationals must complete the W9\n\nPayouts are handled by the __Notional__ team directly and are denominated in USD. However, payouts are done in __USDC__, __DAI__, __ETH__, __USDT__, or the project token, at the discretion of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\n__Websites and Apps__\n\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR\n  - CSRF with no security impact (logout CSRF, change language, etc.)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)\n  - Server-side information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring unlikely user actions\n  - URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Attacks requiring privileged access from within the organization\n  - Feature requests\n  - Best practices\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Notional can be found at https://github.com/notional-finance/contracts-v2/. However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program. Any implementation contracts called by Upgradeable Proxies are considered under scope.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Lending",
+          "Staking",
+          "Token"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $250,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $50,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Notional Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Notional and get paid up to $250,000.",
+      "url": "https://immunefi.com/bug-bounty/notional",
+      "ogImg": "/api/bounty/og-image?project=Notional"
+    }
+  },
+  "__N_SSP": true
+}

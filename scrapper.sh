@@ -18,9 +18,9 @@ cat ./projects.json | jq -r '.[].project' | sort > prev_projects_name.txt
 echo "$projects" | jq -r '.[].project' | sort > current_projects_name.txt
 
 # Paused or Removed
-paused_programs=$(comm -23 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
+paused_programs=$(comm -23 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
 # Added or Unpaused
-added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
+added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
 
 # Clean temporal files
 rm ./prev_projects_name.txt
@@ -91,9 +91,9 @@ cat ./boost_projects.json | jq -r '.[].project' | sort > prev_boost_projects_nam
 echo "$boost_projects" | jq -r '.[].project' | sort > current_boost_projects_name.txt
 
 # Paused or Removed
-paused_boost_programs=$(comm -23 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
+paused_boost_programs=$(comm -23 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
 # Added or Unpaused
-added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
+added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
 
 # Clean temporal files
 rm ./prev_boost_projects_name.txt

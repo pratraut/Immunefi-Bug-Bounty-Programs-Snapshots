@@ -1,0 +1,300 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "3kGQMeZE6a5JQIT4Msb0Ur",
+      "id": "spot",
+      "slug": "spot",
+      "project": "SPOT",
+      "maxBounty": 10000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/q7Elyme0pU01MOFrCVxhw/6c61788e17042d7dec56b1523fe88e68/SPOT_Symbol-06.svg",
+      "launchDate": "2022-12-22T18:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T19:00:08.501Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $10,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $2,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "4rtpxvLC8IbNqgQJZ18AXQ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc1f33e0cf7e40a67375007104b929e49a581bafe",
+          "description": "SPOT ERC-20",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2dObx6d73jQk2tsqNupyNA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x38f600e08540178719bf656e6b43fc15a529c393",
+          "description": "Router",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7AThHGnCj7iOaeQAEk30aV",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2b135C839d61808E1eC6F84151CD9429B0920374",
+          "description": "Bond Factory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1Wqs6AZM262jUCVatkxpi1",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2E2E49eDCd5ce08677Bab6d791C863f1361B52F2",
+          "description": "Bond Issuer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2LXCIyQgiFnr6ofpAgnz1A",
+          "type": "websites_and_applications",
+          "url": "https://app.spot.cash",
+          "description": "Web/App",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "1gR949l0IvSiBmxmDomigL",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6X3ZLT6ErL8Mzg3tarGYFD",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1b5Dztmq7Zcdrn5DGc0qnu",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "74zcxG8zPow3OMQ4eM6qgp",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5yepaQ9EzH56Upv1PfwNpF",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7FANzs3LIdurLc7Y9rVzno",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2VvBlqHcUPT2GYBRULVFcq",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5tdUqmO52LllSEqmRimXY5",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1kZwnS1JNeiWTw2LfwMy4v",
+          "title": "Subdomain takeover with already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6fvtRGPOwS4skA79oo4cW4",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "Oa5m04dI0zqf5XMvEg2dE",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6aGgL5pmzQXpg5H0lLvgDt",
+          "title": "Injection of malicious HTML or XSS through NFT metadata",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1m1UgsCCLiQ49PK0aU0Hsz",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3HS3zbIkbTCuVuohvkU3Kz",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "678rEpTGJvnB3siaYneLc2",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "2jGtzvn2Wcm7TrxYh9KfJg",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "3UDJoGjKCzmGNkFabSQTN9",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "31mxK11vWLISuQldQ6ZUMO",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "3p2jHq4N5OeHJ59y2X3d3x",
+          "title": "Subdomain takeover without already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "396scvjRhstXK9nq2kk3pI",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "32YZr4YuapzbIBitJ5z92v",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3fNDN6h3JegH7ctKNke3dA",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2LVAq4YEji3sNCYGcAMCla",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5Ncrd7uR7zcsZnVLJy8f1B",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "SPOT is a perpetual note backed by fully collateralized AMPL derivatives. SPOT can fulfill many properties of modern day stablecoins but is not pegged to any particular value. Its price will likely float within a range similar to AMPL and you can think of SPOT as a derivative that strips away most of AMPL's supply volatility.\n\nFor more information about SPOT, please visit [https://app.spot.cash  ](https://app.spot.cash)\n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nPayouts are handled by the __SPOT__ team directly and are denominated in USD. However, payouts are done in __AMPL, SPOT, ETH, USDC__, or __USDT__ at the choice of the whitehat.\n",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program: \n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n\n__Websites and Apps__\n\n- Theoretical vulnerabilities without any proof or demonstration\n- Attacks requiring physical access to the victim device\n- Attacks requiring access to the local network of the victim\n- Reflected plain text injection ex: url parameters, path, etc.\n   - This does not exclude reflected HTML injection with or without javascript\n   - This does not exclude persistent plain text injection\n- Self-XSS\n- Captcha bypass using OCR without impact demonstration\n- CSRF with no state modifying security impact (ex: logout CSRF)\n- Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n- Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n- Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n- Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n- Lack of SSL/TLS best practices\n- DDoS vulnerabilities\n- Feature requests\n- Issues related to the frontend without concrete impact and PoC\n- Best practices issues without concrete impact and PoC\n- Vulnerabilities primarily caused by browser/plugin defects\n- Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n- Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\nThe following activities are prohibited by this bug bounty program:\n\n- Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n- Any testing with pricing oracles or third party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "All smart contracts of SPOT can be found at [https://github.com/ampleforth/spot/tree/main/spot-contracts](https://github.com/ampleforth/spot/tree/main/spot-contracts). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nKnown issues highlighted in the following audit reports are considered out of scope: \n\n- [https://github.com/ampleforth/ampleforth-audits/tree/master/spot/v1.0.0](https://github.com/ampleforth/ampleforth-audits/tree/master/spot/v1.0.0)\n\nThe following known issues are also considered out of scope of this program: \n\n- MEV around rebases\n- Insolvency\n\nIf an impact can be caused to any other asset managed by SPOT that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. \n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Derivatives"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity",
+          "Typescript"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $2,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $1,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "SPOT Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on SPOT and get paid up to $10,000.",
+      "url": "https://immunefi.com/bug-bounty/spot",
+      "ogImg": "/api/bounty/og-image?project=SPOT"
+    }
+  },
+  "__N_SSP": true
+}

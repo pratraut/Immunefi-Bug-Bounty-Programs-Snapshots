@@ -1,0 +1,273 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "7T8JLglyuv6pDmVPNz7D8",
+      "id": "toucan",
+      "slug": "toucan",
+      "project": "Toucan",
+      "maxBounty": 200000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7AcBUADA7IW95jTvkwxxF5/1b175e555e12b85bf5f6fb4c0ef3104c/tc_symbol_OnDark_color.jpg",
+      "launchDate": "2022-11-03T12:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:55:56.313Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $50,000 to USD $200,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $40,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $7,500",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "swkrrOyO5y7JIIU6sle5V",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x2F800Db0fdb5223b3C3f354886d907A671414A7F",
+          "description": "BaseCarbonTonne",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4UI4HCK0g3yI3oDUO9Y9V3",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x8A4d7458dDe3023A3B24225D62087701A88b09DD",
+          "description": "CarbonOffsetBatches",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "24C1pQ8yeoHGBmjlzf7fT0",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x98a7840c33a9aa42FFE16F7Da9a0E6dd6Ea5f98f",
+          "description": "CarbonProjectVintages",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3JOVyJ8AAbn7B1mAo3YjtH",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x599a978c43F5cEa1B26a399D28869Ad4690DC07d",
+          "description": "CarbonProjects",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6OF3FEk3LX7YK19wCbaIVc",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xD838290e877E0188a4A44700463419ED96c16107",
+          "description": "NatureCarbonTonne",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7oVraoVLO2mwDWQOATkFaB",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x5e377f16E4ec6001652befD737341a28889Af002",
+          "description": "RetirementsCertificate",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4lJq9XBkHcQ6SwPN7EaLNC",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xD46eE8815F141749834AF0Df21E744459eFEc75F",
+          "description": "ToucanCarbonOffsets",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7BWHqYFxW4YjhPQkF19fMo",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x2359677E513Bc83106268514c5B2De3C29C849ea",
+          "description": "ToucanCarbonOffsetsFactory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4sltgBYHlYkncon8xuBy3m",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x263fA1c180889b3a3f46330F32a4a23287E99FC9",
+          "description": "ToucanContractRegistry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2lhp9vWmelytQ84v7wyHzK",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xABaC3D6b281Bbe0Fc0F67b26247cB27994eaAcaf",
+          "description": "ToucanCrosschainMessenger",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "7AeijPSPvsz7FHPcddEVh2",
+          "title": "Direct theft of any funds belonging to specific users, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3NkKQdtunW2Tv6EaszSWa3",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1UQwxltFrErXmVJG1cd6tz",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3It0LhPhovq3kNFaExokvP",
+          "title": "Permanent freezing of NFTs",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "nDPrtDJ8qQeeX91AoRMVn",
+          "title": "Unauthorized minting of NFTs or tokens",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "dr1QOkvfaeGRbLfP8SXyD",
+          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5QfZLhhQVFZcoxIDFk2OWf",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1uVNgxByaNtgXitASUjcUo",
+          "title": "Obtaining admin access or any other privileged role which can lead to abuse of the protocol",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1ZvpWvI2nG49I5P2rUItxF",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "M1G4xT47PHiKSLrLz8eBe",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7kG2DPK5qlAF210CJgKali",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "10CyeS70uyoVW59rZ89bZI",
+          "title": "Permanent freezing of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "37n7vy1Gx2ArTAEKdrdNx9",
+          "title": "Temporary freezing of funds for at least 24 hours",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "33q6tm2SqyWRhsLVlc4IpL",
+          "title": "Temporary freezing NFTs for at least 24 hours",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5VILXOn68PhVMbf88GVWva",
+          "title": "Deposits of TCO2s into pools that exclude these TCO2s",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7cP74OI66PSC3TOKFeq53k",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2QA8i8b7McuJhbpfip9vtk",
+          "title": "Permanent or temporary freezing of any functionality for less than 24 hours",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1IWB1P0IGdTwPIdGLoBBVo",
+          "title": "Permanent or temporary freezing of any functionality not captured above",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Toucan is building technology to finance climate action at scale. They are developing infrastructure to move carbon credits onto open blockchains, which helps make carbon markets more transparent, efficient, accessible, and scalable. \n\nToucans infrastructure is composed of four key modules:\n  1. The Carbon Bridge verifiably 1:1 tokenizes carbon credits from a supported registry and turns them into ERC-20 tokens that anyone can use. More than 20m carbon credits (or around 85 % of all on-chain carbon credits) have been tokenized using Toucans bridge\n  2. Their Carbon Pools are a way of grouping together tokens linked to credits with similar attributes. The result: standardized and deeply liquid carbon reference tokens (like NCT) that can be easily priced and traded on cryptocurrency exchanges.\n  3. Information about all tokenized carbon credits is stored on Toucans Open Carbon Registry. This is a unified global ledger with consistent data standards to be used across organizations. On the Open Carbon Registry, everyone can view the project information, trading history and retirement details of all tokenized carbon credits. The Open Carbon Registry brings much-needed transparency into a previously opaque market.\n  4. The retirement module helps companies retire carbon credits with the full transparency of a public blockchain.\n\nFor more information about Toucan, please visit [https://toucan.earth/](https://toucan.earth/).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nRewards for critical smart contract vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 50 000__ and a maximum reward of __USD 200 000__.\n\nKnown issues highlighted in the following audit reports are considered out of scope: \n  - [https://byterocket.com/audit/toucan-protocol](https://byterocket.com/audit/toucan-protocol)\n  - [https://byterocket.com/audit/toucan-protocol-nct](https://byterocket.com/audit/toucan-protocol-nct)\n  - [https://byterocket.com/audit/toucan-protocol-retirement-certificates](https://byterocket.com/audit/toucan-protocol-retirement-certificates)\n\nPayouts are handled by the __Toucan__ team directly and are denominated in USD. However, payouts are done in __USDC (ERC20)__.  All payouts require invoice with email and crypto wallet address.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Attacks involving functionality which is currently paused, e.g. the process of bridging credits from Verra, which includes:\n\n    - linking of batch NFTs in CarbonOffsetBatches contract with project vintages\n    - approval / rejection of batch NFTs in CarbonOffsetBatches contract\n\nNevertheless, any such attacks which are new discoveries may be eligible for discretionary payouts if they help harden future bridging when that resumes.\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Though only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target.\n\nAll smart contracts of Toucan can be found at [https://github.com/ToucanProtocol/contracts](https://github.com/ToucanProtocol/contracts). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": null,
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Polygon"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $50,000 to USD $200,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $40,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $7,500"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Toucan Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Toucan and get paid up to $200,000.",
+      "url": "https://immunefi.com/bug-bounty/toucan",
+      "ogImg": "/api/bounty/og-image?project=Toucan"
+    }
+  },
+  "__N_SSP": true
+}

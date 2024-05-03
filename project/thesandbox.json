@@ -1,0 +1,425 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "7BRUoqWJ3DVH72POOCE1iC",
+      "id": "thesandbox",
+      "slug": "thesandbox",
+      "project": "The Sandbox",
+      "maxBounty": 200000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6JrIhCrEMoZplnS6zBi2vc/87eca69d81f586ce017aba75db5e456e/The_Sandbox_Logo.png",
+      "launchDate": "2022-07-05T09:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:55:38.761Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to $200,000 USD",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Up to $20,000 USD",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $2,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "6OpJsebyaFzjVVFnkqrZcW",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xDbc52cd5b8EdA1A7BCBABb838ca927d23E3673e5",
+          "description": "ASSET (Polygon)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1pY0WVgnig33eMNNN8oeVF",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x58E0e4b0C6D99bEbC95a2be635a677D947b5C912",
+          "description": "ASSETCreate",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1qNszSoDSxSxJZsEWrG298",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x1f980CFDf257792f2D85523094cD6B7210CAb509",
+          "description": "CATALYST",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "434tQANEAd8C8vMryuEdvG",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x687B573233791b96b51a47B6FCB8D7D9eceF118e",
+          "description": "Marketplace",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7ljICAoH8IfRmCm7GQ8R2w",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x4063c6Ccd3D9541E53A514E83fba3843A7848E2F",
+          "description": "RoyaltyManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7t1kdos08im7tY8HbFrJhx",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xafd5f5c6e72f0f6441e4abf2ae8ff23dee21a87a",
+          "description": "RoyaltySplitter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2Cotw4ZmNuNMZZ5JgiEz57",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5CC5B05a8A13E3fBDB0BB9FcCd98D38e50F90c38",
+          "description": "LAND",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7z5QusHIMumrprepeQgPDv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x6cE82874EAf6E7602fD21Cf8bBDEd82705680A99",
+          "description": "LAND Tunnel",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "65aZLyhZQEYXPWAF8oeCQF",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3845badade8e6dff049820680d1f14bd3903a5d0",
+          "description": "SAND",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5tuxb9WsPQ7KSLrPvbGnUr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x942DaEbbec2ab2307223E58E2C4360d4EBf88FA4",
+          "description": "EstateSalesWithAuth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3j4yvUuLS1cHvV14mE9wyp",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa5d562c1f5dc561db10796f42b7f6933c5045152#code",
+          "description": "CommonMinter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1wMknOqq3toLrk3muw8H8u",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x53B5f276a4b5A842B162b204f13c286a5C16C8b6",
+          "description": "StarterPackV1",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6LEea4Nzx0UmIIdU3A1nbb",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x4ab071c42c28c4858c4bac171f06b13586b20f30",
+          "description": "MATIC-SAND Staking Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "nMmlM6PBe3zy94uybxzb4",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xa6e383bda26e4c52a3a3a3463552c42494669abd",
+          "description": "SAND Staking Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5U2FZ0iPA87MR4g4vDRGgU",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x7695b9ac52e49f1a8c4c554a072edb225eebfe70",
+          "description": "SAND Staking Pool Contribution Calculator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "QzeODKkw8UFTCSGJocaDY",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xbbba073c31bf03b8acf7c28ef0738decf3695683",
+          "description": "SAND",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "nDzDxhXMIYJQyabZtm2ej",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x9d305a42a3975ee4c1c57555bed5919889dce63f",
+          "description": "LAND",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "75jUwSK3DmrEDwOSwqdZy0",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x21B083e128fa7BcC31214a0c000B56Fd4372EEa8",
+          "description": "LAND Tunnel",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6spYCgS2B8u2B9tETl2fFo",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x5df78ee0568befc4b1e5e9f3ac4611235c3e5f76",
+          "description": "Cashback",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3peFa2ygqBjUvG854xCUeN",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xc3f3ef3929392fdc697c5800d6cd18af73377a8f",
+          "description": "Avatar collections",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2OUsfwmQhmNFEKvrvQ87pZ",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x5cd67Daa17F708d6489E7Bb7648b7D0B823eA7bF",
+          "description": "Staking v4 - SAND Staking pool Rewards Calculator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2hv2kynEtpq0g3KgVunC4v",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x6b4831e24F0cd73d4150EF4694aA87d6c104A774",
+          "description": "Staking v4 - SAND Staking pool Contribution Rules",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2WfbiPuLeHcUOvBfMpi8ZH",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xD3A9CAa25393765c05ce9f332B5E33b5E33D8B8F",
+          "description": "Staking v4 - SAND Staking pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7gxHhoecDdfoA1QGaBs4IJ",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x3eF580A4A6B862183558625126bcC186436bfF4a",
+          "description": "Collection Factory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "VElFYNVtFxQUJzt30nWVd",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x90262e888bbf1f5f375a9286da324f2aeeeebec2",
+          "description": "Avatar collections v2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3vVgG6QQTz61fg7zeKlfQe",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa342f5d851e866e18ff98f351f2c6637f4478db5",
+          "description": "ASSET (Ethereum) ",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "RklhFRXiT8yRuoThmhYId",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6Uc3brQH1y5Z2uAox1ey3P",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "21NamcymiCybGOgF7fUBrV",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2MdaBVvVFPepDSoRFzYxMS",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5oR4vyKShQkMQ5OTuYkfMR",
+          "title": "Permanent freezing of NFTs",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5YiSMVLpla5Lmo3VELlRR5",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6vKQHfGdT70e2AlVM6CCLz",
+          "title": "Unauthorized minting of NFTs",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2zR3w33Xd7pb1b24xcNArA",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5mYePPxdKU4BXU4GFKuGEK",
+          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7ye7NPxJ9ltJgChEpvmnPZ",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2euT9LdeIBgso2EIxpPxZ8",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4rwV8adhjnY87KoTzX4C6L",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3w2SEWGXG3c6cn30o8nSmX",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "t2CBmXI6NAOM0nTVwIPfA",
+          "title": "Permanent freezing of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6FtXSrlRev3n6igNGf5jlb",
+          "title": "Temporary freezing of funds for any amount of time",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3gSrP4pNiK7lw4ww3ebIE4",
+          "title": "Temporary freezing NFTs",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "SUEP9qx0GdQ2UBi1k7fdE",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3ucVJJRAPRapcbvI8MZ3ML",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "6O16nQErqiiySMt0IsFf6f",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "50oVdjuFuyXQjhAIjGqs3s",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "DHCn7uyvTpaTnWDtRwvxw",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1MaC2B8KOeMFeIkjiM1T4v",
+          "title": "Smart contract fails to deliver promised returns, but doesn’t lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "The Sandbox is a virtual gaming world where players can build, own, and monetize gaming experiences in the metaverse.\n\nFor more information about The Sandbox, please visit [https://www.sandbox.game/](https://www.sandbox.game/)",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nRewards for critical smart contract vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 50 000__ and a maximum reward of __USD 200 000__ for Critical smart contract bug reports. In cases of repeatable attacks, only the first attack is considered unless the smart contract cannot be upgraded or paused.\n\nHigh severity smart contract vulnerabilities will be further capped at up to 100% of the funds affected. In the event of temporary freezing, the reward doubles for every additional 5 blocks that the funds could be temporarily frozen, rounded down to the nearest multiple of 5, up to the hard cap of 20 000 USD. This is implemented in order to account for the increased relative impact based on the duration of the freezing of funds.\n\nAll calculations of the amount of funds at risk are done based on the time the bug report is submitted.\n\nThe Sandbox requires all bug bounty hunters to complete the program’s KYC requirements if they are submitting a report and wanting a reward. The information needed is an ID photo along with a scan of a utility bill to show residency proof.\n\nBug reports from compensated team members of any The Sandbox core units will not be eligible for a reward. Employees and team members of third-party suppliers to core units that operate in a technical capacity and have assets covered in this bug bounty program will also not be eligible for a reward. All team members of the audit companies The Sandbox works with, and its third-party suppliers, including Immunefi itself and its subsidiaries, are not eligible for a reward.\n\nBug reports from team members and third-party suppliers of businesses and organizations that are not a The Sandbox Core Unit but have assets considered as critical infrastructure covered under the bug bounty program are also not eligible for the bug bounty program.\n\nBug reports covering previously-discovered bugs are not eligible for the program. If a bug report covers a known issue, it may be rejected together with proof of the issue being known before escalation of the bug report.\n\nThe following issues are considered known and are not eligible for a reward:\n  - __Contract:__ ERC20BasicApproveExtension (Ethereum & Polygon)\n    __Method:__ paidCall\n    __Description:__ The paidCall method when called on Sand contract can add an allowance for the caller to transfer Sand tokens owned by the contract itself. However, the contract will have a sand balance only if users send it to the contract address by mistake.\n  - __Contract:__ all the implementation contracts\n    __Description:__ the implementation contracts’ lack of initialization will end up with anyone owning/managing/minting tokens.\n\nAll issues previously highlighted in the following audit reports are also considered out of scope:\n[https://github.com/thesandboxgame/sandbox-smart-contracts/tree/master/packages/core/documentation/audits](https://github.com/thesandboxgame/sandbox-smart-contracts/tree/master/packages/core/documentation/audits)  \n\nPayouts are handled by the __The Sandbox__ team directly and are denominated in USD. Payouts are done in __SAND__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "For proxy contracts, only the current implementation and any further updates to the implementation contracts are considered in scope.\n\nAll smart contracts of The Sandbox can be found at [https://github.com/thesandboxgame/sandbox-smart-contracts](https://github.com/thesandboxgame/sandbox-smart-contracts). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Gaming",
+          "Staking",
+          "Token"
+        ],
+        "projectType": [
+          "Defi",
+          "NFT"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Polygon"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to $200,000 USD"
+          },
+          {
+            "level": "High",
+            "payout": "Up to $20,000 USD"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "The Sandbox Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on The Sandbox and get paid up to $200,000.",
+      "url": "https://immunefi.com/bug-bounty/thesandbox",
+      "ogImg": "/api/bounty/og-image?project=The+Sandbox"
+    }
+  },
+  "__N_SSP": true
+}

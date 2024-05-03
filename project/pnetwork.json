@@ -1,0 +1,627 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "bEcfVN3VcxRDxSEJYxM4e",
+      "id": "pnetwork",
+      "slug": "pnetwork",
+      "project": "pNetwork",
+      "maxBounty": 200000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6cMB5OFI6eqRCGQxhK5d1r/4e7afe6625053e247609af062c7b7e9f/pTokens-icon-white-eye_copy.png",
+      "launchDate": "2021-12-27T09:00-07:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:57:16.432Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $200,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $20,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $50,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $3,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "1QWb2Wj9YkjJMhotANN4Jk",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xab83bd5169f58e753d291223dcaba4f7644ad3a9",
+          "description": "pERC20-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "72UKgXcDnsM8pPNwRuTidZ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa55D3a3fe645E1f47f11C13B157e3767c7Fda913",
+          "description": "pERC20-on-telos",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5wmNqqvpsIDqRVo2YNN9fv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x112334f50Cb6efcff4e35Ae51A022dBE41a48135",
+          "description": "pERC20-on-eos",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6PRhfy711fx6L3NszxLquc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9f8622b11984afc8f0a42a394928702017c5968d",
+          "description": "pERC20-on-ultra",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2NfCARKXEf08OX9f9NCzdp",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8DEf733E0F1907104f17dc138AD5705caA5eCEDE",
+          "description": "pERC20-on-polygon",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6BmwGB1aoKMaWTFmePowGl",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8e220b9d3f09c56dc306cab1d7644b846066cc43",
+          "description": "pEOS-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "59QiWVk1nRsfIadU0X8c9m",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa23d33d5e0a61ba81919bfd727c671bb03ab0fea",
+          "description": "IQ-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1xQ9G1sFQqumMLfIg4iY5l",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x917847de47b375C59ddC66AAfae113604b205039",
+          "description": "pVAI-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4TK30HKRl6BZNSrKGcU42t",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe1590a6fa0cff9c960181cb77d8a873601772f64",
+          "description": "WSB-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "OMHNBNlSjrnCGdzCrnXvK",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7825e833d495f3d1c28872415a4aee339d26ac88",
+          "description": "TLOS-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6EOAxza9oEXU9tNTQguaWv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xADCdB2C1613752Efc6C71DEFcC7e48B259c1C87F",
+          "description": "pERC20-on-xdai",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "20xl17i8AEMyoLvPJx9hSX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9b917D94Fb0138eDF520332f3d45494f1a74Bec8",
+          "description": "EFX-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4msDvZsOjxpeYXMuK1zZ6H",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x6db338e6ed75f67cd5a4ef8bdf59163b32d4bd46",
+          "description": "pSEEDS-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4czpPnRGBUqMfaz4LsgDCy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa4b85d23238396051d554b1f8918e484ee9f08e2",
+          "description": "OCP-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7GahtdAAspWMunpAUDiquS",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x16631e53c20fd2670027c6d53efe2642929b285c",
+          "description": "pSAFEMOON-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2PQ7kH6U56NqGXKbQ8zwPJ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x4f640f2529ee0cf119a2881485845fa8e61a782a",
+          "description": "ORE-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3DC5JlQxhTPjihV8w1dhtv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb44c36bbfd660f81ff379c0591f218248c2d87bb#code",
+          "description": "ERC20Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6QjV4rUgCJ7kxKv4BwVXoj",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x32895326d1456cbba301aa936c5a0b673546ab65",
+          "description": "pBEP20-on-polygon",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3Eh2gbarHik6ZbHufKbHWW",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x6075F749d9C0F93fBbcd65C48B8e26A688Db1B0F",
+          "description": "pBEP20-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "mS7xAwX3M4aD3PGChaPIP",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x92b1d615aa1511ea24c203ff48b0815800079a88",
+          "description": "pSFM-on-eth",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "47BTNBCRO8CC0AW6CT15hI",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xde960267b9aabfb5404d9a566c1ed6db9db09522",
+          "description": "ZMT-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6gV2E0ENiNXQL8Saqm1s3K",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xbd525e51384905c6c0936a431bc7efb6c4903ea0",
+          "description": "BIST-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2XOz5dwTolbbzCOFmbvotD",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xabae871b7e3b67aeec6b46ae9fe1a91660aadac5",
+          "description": "pOPEN-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5z4PRcNUxT4HIuMh1bLOTW",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x7ddee176f665cd201f93eede625770e2fd911990",
+          "description": "GALA-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "18Y81X4NbqBXdUuxb88BzT",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xb6c53431608e626ac81a9776ac3e999c5556717c",
+          "description": "TLOS-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2lyVPeNdUB0QeYtZgRqre",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xe2e7329499e8ddb1f2b04ee4b35a8d7f6881e4ea",
+          "description": "ANRX-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1CuiZenWr80XD9UY5Acijg",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92",
+          "description": "PNT-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1cLXMxJ3MU5uL9g5amGVrH",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x566cedd201f67e542a6851a2959c1a449a041945",
+          "description": "pOPIUM-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5BrEkSLHfx3VXKUypec3Vl",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xae22e27d1f727b585549c10e26192b2bc01082ca",
+          "description": "pdefiplusplus-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4xXvAZM6d6Q7gRHOOHputS",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xa114f89b49d6a58416bb07dbe09502c4f3a19e2f",
+          "description": "pBCP-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6UUnn2NUMRU9OAA993DjPs",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x9f5377fa03dcd4016a33669b385be4d0e02f27bc",
+          "description": "PTERIA-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2wM1ZTJ1E9Wg37mLw0wuc0",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x1613957159e9b0ac6c80e824f7eea748a32a0ae2",
+          "description": "CGG-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5mj17MMb1NFi0L4NNi0j2M",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xc51ef828319b131b595b7ec4b28210ecf4d05ad0",
+          "description": "EFX-on-bsc",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5TFtNIkK32iJhhNUGmKLe4",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x2d9eef197371ff2309000a8fc2a1aeeaba401089",
+          "description": "pEOS-on-polygon",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7vkdGdxINGINgfpKMht5Xw",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xb6bcae6468760bc0cdfb9c8ef4ee75c9dd23e1ed",
+          "description": "PNT-on-polygon",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2SfVgJjZtSI00b4FL3Uv5u",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xad178e5d81dbbf0e7da5106e8c035d9289091c45",
+          "description": "TFF-on-polygon",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "mkJfLl6sk73vNZjPYL9u0",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xc79358de3868a7c751f52cfeecd650595aee8b18",
+          "description": "USDO-on-polygon",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2OeN9IkJv6UbfQ4QAaEapV",
+          "type": "smart_contract",
+          "url": "https://blockscout.com/xdai/mainnet/address/0x0259461eed4d76d4f0f900f9035f6c4dfb39159a",
+          "description": "PNT-on-xdai",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "m0kBRT0MwfZXO6ONQHvIb",
+          "type": "smart_contract",
+          "url": "https://github.com/provable-things/ptokens-eos-smart-contracts/blob/master/ptoken/ptokens.token.cpp",
+          "description": "Vault EOS-like",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7EbFbSZjme2n2rdjiq6HdJ",
+          "type": "websites_and_applications",
+          "url": "https://dapp.ptokens.io",
+          "description": null,
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "64zhoR2YQ1mfljNoLU9Z4t",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4Sb1aJZcYF3v4bq3Nch5oa",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "15XWGDJkeIe036dJaBqw9R",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3FsD2hcZzV4UdsEBPcY0IK",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3qETCCg9yCPWfbCDAgekNi",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5AuwAjnmI0x6fyWrnEAvAt",
+          "title": "Ability to execute system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1ZJP2ZFLWoEbvcrSP62wgN",
+          "title": "Extract Sensitive data/files from the server such as /etc/passwd",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7DYXbaqR3ITCXwA3QcoTmM",
+          "title": "Taking Down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7AleCugDADIS9xxsAsSMh",
+          "title": "Stealing User Cookies",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1WYQefhcMmUpMbl2a5g7j4",
+          "title": "Bypassing Authentication",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "3C4YJnXYz9WgxRAv42OFIk",
+          "title": "Signing transactions for other users",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7DoT8LmhxSnbVz2OUeJosd",
+          "title": "Redirection of user deposits and withdrawals",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6J0cTZGSQdAuhqFnRnuqIw",
+          "title": "Wallet interaction modification resulting in financial loss",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "50TEpNTVV5HohKbWDbTQnl",
+          "title": "Subdomain takeover resulting in financial loss (applicable for subdomains with addresses published)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "57XEn6FUSYkTSUlmbm1SUF",
+          "title": "Tampering with transactions submitted to the user’s wallet",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1XlrtYmYT9erhlblwpOf81",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7ttBOvKmHfX44mX1HUm4bz",
+          "title": "Submitting malicious transactions to an already-connected wallet",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5eDTXlBDKTR9otCunhLoX5",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5YRH2gPOTSx9CEQEbUc9B8",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "20gRAdWYJKd2kHbATTn2kY",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "W4EzE4TwaAgHIB7pqNZKn",
+          "title": "Spoofing content on the target application (Persistent)",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "6WGunHXhti7ZihybTWpsBI",
+          "title": "Subdomain Takeover without financial loss (applicable for subdomains with no addresses published)",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "3EbAIfguPjKF0SbNElVkNd",
+          "title": "Users Confidential information disclosure such as Email",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "6xlOVCdH2VcrUliADIRi5G",
+          "title": "Privilege escalation to access unauthorized functionalities",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "3Ph4PMQagjSCkxDljdRhDt",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "P7Algna90qmqQWMlBtTko",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2tTCK9UTFFgZ1k0uu0GGQb",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "pww2UEaJeF4QRRdpNBml8",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2gezWQOoqa0sp0XbRusR9p",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "70vHDK6TpTgIv9TrumgFlw",
+          "title": "Changing details of other users without direct financial impact (CSRF)",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "6X7TIvnidvGrynKn1t1ZQX",
+          "title": "Third-Party API keys leakage that demonstrates loss of funds or modification on the website",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "7yY1RtJsaGAhGT41vSt6OX",
+          "title": "Redirecting users to malicious websites (Open Redirect)",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "7iCAZW2PZaOyzNdvx724WC",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "pNetwork is an open-source multi-chain routing protocol that enables the movement and interoperability of assets, NFTs and data across more than 15 blockchains. These cross-blockchain functionalities enable, for example, the release of “wrapped” tokens called pTokens that rely on maintaining a 1-to-1 peg in-between the native blockchain and the host blockchain (e.g. Bitcoins wrapped to operate on the Ethereum blockchain).\n\nTo know more about pNetwork, visit [https://p.network/](https://p.network/), try our dApp [dapp.ptokens.io](http://dapp.ptokens.io/)  join the community at [https://twitter.com/pNetworkDeFi](https://twitter.com/pNetworkDeFi) and browse the analytic dashboard [https://pnetwork.watch/](https://pnetwork.watch/)\n\nThis bug bounty program is focused on their smart contracts and app and is focused on preventing:\n\n  - Thefts and freezing of principal of any amount\n  - Thefts and freezing of unclaimed yield of any amount\n  - Theft of governance funds\n  - Forging data returned by pNetwork nodes before it gets presented to the user by the dapp (XSS)",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain __\n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces\n\n__Websites and Apps__\n\n  - Remote Code Execution\n  - Trusting trust/dependency vulnerabilities\n  - Vertical Privilege Escalation\n  - XML External Entities Injection\n  - SQL Injection\n  - LFI/RFI\n  - Horizontal Privilege Escalation\n  - Stored XSS\n  - Reflective XSS with impact\n  - CSRF with impact\n  - Direct object reference\n  - Internal SSRF\n  - Session fixation\n  - Insecure Deserialization\n  - DOM XSS\n  - SSL misconfigurations\n  - SSL/TLS issues (weak crypto, improper setup)\n  - URL redirect\n  - Clickjacking (must be accompanied with PoC)\n  - Misleading Unicode text (e.g. using right to left override characters)",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll web/app bug reports must come with a PoC in order to be considered for a reward.\n\nCritical vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum of __USD 10 000__ for Critical bug reports. \n\nThe following is a known issue that is considered as out of scope. There is an \"unhandled exception\" (which is on the list of vulnerabilities) in the ERC777; Namely that the ERC777 tokens received hook combined with a tag for automatic peg-in on sends can fail if the user ABI encodes the other information incorrectly. This will revert but with no reason because there's no way to catch the error to add a message.\n\npNetwork requires KYC to be done for all bug bounty hunters submitting Critical bug reports and wanting a reward. The information needed is an ID photo together with a selfie. Reports for other severity levels do not require any KYC. \n\nPayouts are handled by the __pNetwork__ team directly and are denominated in USD. However, payouts are done in __PNT__ or __USDC__, up to the discretion of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\n__Websites and Apps__\n\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR\n  - CSRF with no security impact (logout CSRF, change language, etc.)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)\n  - Server-side information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring unlikely user actions\n  - URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Attacks requiring privileged access from within the organization\n  - Feature requests\n  - Best practices\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of pNetwork can be found at [https://github.com/provable-things](https://github.com/provable-things) and [https://github.com/pnetwork-association](https://github.com/pnetwork-association). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity",
+          "L2"
+        ],
+        "projectType": [
+          "Defi",
+          "NFT"
+        ],
+        "ecosystem": [
+          "Algorand",
+          "Arbitrum",
+          "BSC",
+          "ETH",
+          "Polygon",
+          "Telos",
+          "Telos"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $200,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $20,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $50,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $3,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "pNetwork Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on pNetwork and get paid up to $200,000.",
+      "url": "https://immunefi.com/bug-bounty/pnetwork",
+      "ogImg": "/api/bounty/og-image?project=pNetwork"
+    }
+  },
+  "__N_SSP": true
+}

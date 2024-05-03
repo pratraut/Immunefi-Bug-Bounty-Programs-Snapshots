@@ -1,0 +1,687 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "2JPAat0SyIFogowPJY45dm",
+      "id": "raydium",
+      "slug": "raydium",
+      "project": "Raydium",
+      "maxBounty": 505000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4X5hbah3bOvGiEZIPrFmeW/30eb4e2d5a47c3eca8d10b3fcff3ee7c/Raydium_logo.jpeg",
+      "launchDate": "2023-04-25T12:00:00.000Z",
+      "endDate": null,
+      "updatedDate": "2024-03-26T15:24:40.328Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $50,000 to USD $505,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $40,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "21MMDLCRBfDz3XwZo8zYLe",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/collect_fund_fee.rs",
+          "description": "collect_fund_fee ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6Tf5pUWeCUJ9Gb3XlMZUNi",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/collect_protocol_fee.rs",
+          "description": "collect_protocol_fee",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "xut8H2wW9oRIQmZzfyQ8c",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/create_operation_account.rs",
+          "description": "create_operation_account",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "76hXj66l5zMVXHw4YuMCEO",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/mod.rs",
+          "description": "admin/mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "kTmKooV5Fcrbf0tAlWQaQ",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/transfer_reward_owner.rs",
+          "description": "transfer_reward_owner",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "60EQc3Zbtg7DYfkyjCyqAf",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/update_amm_config.rs",
+          "description": "update_amm_config",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "456Vqsr4rz5Up6CXGYOSy9",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/update_operation_account.rs",
+          "description": "update_operation_account",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "01bbpcWp0jlxbfxAZXMm4w",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/admin/update_pool_status.rs",
+          "description": "update_pool_status",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1uvuqU0ibJ4qCicqeuOC9m",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/close_position.rs",
+          "description": "close_position",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "777KtUlC5PDxV8MnBXYt5U",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/collect_remaining_rewards.rs",
+          "description": "collect_remaining_rewards",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6Qxk3KzKdFYIp0fkLGjeIo",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/create_pool.rs",
+          "description": "create_pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "ZYrm8zPDGR6egygGu2rnK",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/decrease_liquidity.rs",
+          "description": "decrease_liquidity",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "17r3lQmHxnKD2QeLsGZrpD",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/increase_liquidity.rs",
+          "description": "increase_liquidity",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "486uIoRgvUtjmIvHC4bZ2x",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/initialize_reward.rs",
+          "description": "initialize_reward",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7xTxC5eJrXc86LD241XR7s",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/mod.rs",
+          "description": "instructions/mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4RTH4Nu0DsGQd4lCo3oTUV",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/open_position.rs",
+          "description": "open_position",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1NRrkBkpHyGNrBq76B6Xdr",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/set_reward_params.rs",
+          "description": "set_reward_params",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4WmIe4fjB4PfsNdarr4LlZ",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/swap.rs",
+          "description": "swap",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6VRucZLFFaMjESc3GMiaoK",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/swap_router_base_in.rs",
+          "description": "swap_router_base_in",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5tMIpwpq8RteoCBv3m50ZQ",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/instructions/update_reward_info.rs",
+          "description": "update_reward_info",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5W29Quicr6WoSQFJFFdVNl",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/big_num.rs",
+          "description": "big_num",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3hvY6aszP94IzYX2oVqG4K",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/fixed_point_64.rs",
+          "description": "fixed_point",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6vzzX6yIA2xX71lyuQtLPh",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/full_math.rs",
+          "description": "full_math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "vVAY48h0kx71IvDfUlz33",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/liquidity_math.rs",
+          "description": "liquidity_math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5H77grUbcFLNdnC9ZgTx4Z",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/mod.rs",
+          "description": "libraries/mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4zaot7ZveNYB7GN1FGgqVM",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/sqrt_price_math.rs",
+          "description": "sqrt_price_math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3l44sXLD4uZr0kF7qsuETT",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/swap_math.rs",
+          "description": "swap_math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5rmYt3tZU8q154xTdgsdVP",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/tick_array_bit_map.rs",
+          "description": "tick_array_bit_map",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2v7NQj97yFofCA82oLn3gK",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/tick_math.rs",
+          "description": "tick_math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "oyh7egCVYdzvgbvLf4Oig",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/libraries/unsafe_math.rs",
+          "description": "unsafe_math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2LyTTDlTOacMVKhsRIs8sX",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/config.rs",
+          "description": "config",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4uq14lU4rxDhzw2Nj7wb1J",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/mod.rs",
+          "description": "states/mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4qDiQTyljJS3Sn77T45N85",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/operation_account.rs",
+          "description": "operation_account",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6gUcTO8ciIi9tKIGtisWH0",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/oracle.rs",
+          "description": "oracle",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3200dQUv168H69hZ7ORtiS",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/personal_position.rs",
+          "description": "personal_position",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3bn4uMuqBirZIoB8cJ8mrd",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/pool.rs",
+          "description": "pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3O4pimGr5LIxlvCUsthbio",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/protocol_position.rs",
+          "description": "protocol_position",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1xRKcrIYTZq0sd3eBYiqnr",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/states/tick_array.rs",
+          "description": "tick_array",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "17NTiVe3nyUQ4wprk1Y8dg",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/util/access_control.rs",
+          "description": "access_control",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "49b3I1QxyayoOWPZRd2wdt",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/util/mod.rs",
+          "description": "util/mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3g1n6tTpba2Zka9mAQdX54",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/util/system.rs",
+          "description": "system",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3m9Rt7cqpj7mnWBqk5bGz4",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/util/token.rs",
+          "description": "token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2xsSLk6HFny6NUrH9viwqW",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/error.rs",
+          "description": "error",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5f23K4urUvjF7Hfzjqyyd7",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm-v3/blob/master/programs/amm/src/lib.rs",
+          "description": "lib",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7LYX6Zv0VTvy7kDDmLzJ08",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/lib.rs",
+          "description": "lib",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3nlyvCWsEZRtL5m7CPY1xQ",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/entrypoint.rs",
+          "description": "entrypoint",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2EToSW77M5EcXCjeWQuDIx",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/instruction.rs",
+          "description": "instruction",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6xGORb2i6l4s5x2saAicOf",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/error.rs",
+          "description": "error",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3XGeDFTzD14I1vGcVVlU0h",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/invokers.rs",
+          "description": "invokers",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7eM063QiBGdLNAEUR2lLPR",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/log.rs",
+          "description": "log",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5jM7OV4l3WOrwdB1y4l7Ax",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/math.rs",
+          "description": "math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "aOK0pO728LRTWKnI3VyME",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/processor.rs",
+          "description": "processor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "76uh4XiN3aG1bWmw8FSWdo",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-amm/blob/master/program/src/state.rs",
+          "description": "state",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "56xMffkpjD4FmamoDTzgC2",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/lib.rs",
+          "description": "lib",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2tDvQXwIOVLyHLKJjTPDFX",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/error.rs",
+          "description": "error",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7v8hZrIwb6Uo17RbuL4Fvq",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/admin/collect_fund_fee.rs",
+          "description": "collect_fund_fee",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4eb2wSMzzWHoLcWNdLHW38",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/admin/collect_protocol_fee.rs",
+          "description": "collect_protocol_fee",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2DNojC9iVlW3W5nAcPdj0k",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/admin/create_config.rs",
+          "description": "create_config",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1qQbY63qutJD4PP4CALhlQ",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/admin/mod.rs",
+          "description": "admin mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4HsWWB5fzYDtTt3VscKcHX",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/admin/update_config.rs",
+          "description": "update_config",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6qr6eEUmeq73uatS1wsCqX",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/admin/update_pool_status.rs",
+          "description": "update_pool_status",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7oBMrB0I7GDuydPQv2jnKL",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/deposit.rs",
+          "description": "deposit",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "xezr8WBz4cKnEMtBzXvKx",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/initialize.rs",
+          "description": "initialize",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "77iopYPA5b56jMaZDTVn4e",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/mod.rs",
+          "description": "instructions mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "44GckWUDoq1ygzJR8WcQTl",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/swap_base_input.rs",
+          "description": "swap_base_input",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3Fj2O00Ieyon9tRwS27geA",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/swap_base_output.rs",
+          "description": "swap_base_output",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4X7Av9osMDTg536GW4Zf6X",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/withdraw.rs",
+          "description": "withdraw",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7BmvOTrpnZnVfbl8tpRaVf",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/states/config.rs",
+          "description": "config",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4HD220XTUCArMHhwg2KEgy",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/states/events.rs",
+          "description": "events",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "336ldZC8KTOFBdSrlXPaLW",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/states/mod.rs",
+          "description": "states mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "14cHdYCkKx2im2Ifxs4aNV",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/states/pool.rs",
+          "description": "pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7ms8PPYNKejCHeOz4cxRDS",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/utils/math.rs",
+          "description": "math",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6tZRLJc3awZk2WP8RFvdkN",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/utils/mod.rs",
+          "description": "utils mod",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6NZZCdfBzTUeG6yr8FPXB8",
+          "type": "smart_contract",
+          "url": "https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/utils/token.rs",
+          "description": "utils token",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "5QAPhVo23BYfdqF178FG8F",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "VczD33ydvh21swbT6Famp",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2tzdAg9w6sQHJmcfOikTP9",
+          "title": "Vulnerabilities that could freeze user funds permanently or involve the draining or theft of funds without user transaction approval",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5ggDNuBa5FMnA8WwqjqPDB",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3ubGaL0TSFsqSH25i5YcId",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5ObZIOJibto4LmxxeKQ7yg",
+          "title": "Temporary freezing of funds for any amount of time",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "16JDNFSUDuIGcx1DTYR4Jy",
+          "title": "Vulnerabilities that could freeze user funds temporarily or intentionally alter the value of user funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "0RoP0XU8pQm9XFzwvmQOe",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "44out7wRyEw67Rr7mCB3Fc",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1tVa5rp77c4lUnoJ4ptk6q",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1AERvcOYhF1GBhksnExhAw",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "50SVo3VfR3pycZkQSBrL4n",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Raydium is an automated market maker (AMM) built on the Solana blockchain which leverages a central limit order book to enable lightning-fast trades, shared liquidity and new features for earning yield.\n\nFor more information about Raydium, please visit [https://raydium.io/.](https://raydium.io/)",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [ Immunefi Vulnerability Severity Classification System V2.3.](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/) This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported. \n\nAll bug reports must include a Proof of Concept (PoC) demonstrating how the vulnerability can be exploited to impact an asset-in-scope to be eligible for a reward. Critical and High severity bug reports should also include a suggestion for a fix. Explanations and statements are not accepted as PoC and code is required.\n\nRewards for critical smart contract bug reports will be further capped at __10%__ of direct funds at risk if the bug discovered is exploited. However, there is a minimum reward of __USD 50 000__.\n\nThe following vulnerabilities are not eligible for a reward:\n\n- For the CLMM contract, vulnerabilities marked in the [Ottersec security review](https://drive.google.com/file/d/1d9SiGarziu9TgPKO_6sAG8odr2qBdMO0/view?usp=share_link) are not eligible for a reward. For the Hybrid AMM program, vulnerabilities marked in the [Kudelski security review](https://drive.google.com/file/d/1q_2NpwlQmEGfMXQ7w8l6U5XjT2AqOWlC/view?usp=sharing), [Ottersec security review](https://drive.google.com/file/d/1hxFVIRgNEcCqr02yQMwTpHMQUM3LTt5g/view?usp=sharing), and [MadShield security review](https://drive.google.com/file/d/1GVDUrKziNJ9Ut8ewO7vCtqFem2MaVAjH/view) are not eligible for a reward. \n- The CLMM contract emits trading fee and farming yield tokens to LPs. If tokens from the vault or fees were drained by an attacker however, users would not be able to claim yield and transactions would fail. This is by design and not a vulnerability.\n\nPayouts are handled by the __Raydium__ team directly and are denominated in USD. However, payouts are done in __RAY__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n- Attacks that the reporter has already exploited themselves, leading to damage\n- Attacks requiring access to leaked keys/credentials\n- Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Basic economic governance attacks (e.g. 51% attack)\n- Lack of liquidity\n- Best practice critiques\n- Sybil attacks\n- Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n- Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n- Any testing with pricing oracles or third party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Documentation and instruction for PoC can be found here:\n- https://github.com/raydium-io/raydium-docs/blob/master/dev-resources/raydium-clmm-dev-doc.pdf\n\nA public testnet of Raydium’s CLMM can be found at [https://explorer.solana.com/address/proKtffCScMcwkFkPHFcuHawN7mWxRkhyh8PGxkTwYx.](https://explorer.solana.com/address/proKtffCScMcwkFkPHFcuHawN7mWxRkhyh8PGxkTwYx) However, note that testing on the public testnet is prohibited by the program rules. The public testnet is provided for reference only.\n\nDocumentation and instruction for PoC can be found here:\n- [Raydium Hybrid AMM overview document ](https://drive.google.com/file/d/1VQINU3Lw92CU0p-fKAGyk7my_rO-gINF/view?usp=sharing)\n\nA public testnet of Raydium’s AMM can be found at [https://explorer.solana.com/address/AMMjRTfWhP73x9fM6jdoXRfgFJXR97NFRkV8fYJUrnLE.](https://explorer.solana.com/address/proKtffCScMcwkFkPHFcuHawN7mWxRkhyh8PGxkTwYx) \n\nA public testnet of OpenBook’s Central Limit Order Book can be found at [https://explorer.solana.com/address/EoTcMgcDRTJVZDMZWBoU6rhYHZfkNTVEAfz3uUJRcYGj\t](https://explorer.solana.com/address/proKtffCScMcwkFkPHFcuHawN7mWxRkhyh8PGxkTwYx)\t \n\nHowever, note that testing on the public testnet is prohibited by the program rules. The public testnet is provided for reference only.\n\nDocumentation and instruction for PoC can be found here:\n- TODO\n\nA public testnet of Raydium’s AMM can be found at [https://explorer.solana.com/address/CPMDWBwJDtYax9qW7AyRuVC19Cc4L4Vcy4n2BHAbHkCW?cluster=devnet](https://explorer.solana.com/address/CPMDWBwJDtYax9qW7AyRuVC19Cc4L4Vcy4n2BHAbHkCW?cluster=devnet).\n\nIf a Critical Impact can be caused to any other asset managed by Raydium that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical impacts.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "AMM"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Solana"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Rust"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $50,000 to USD $505,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $40,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Raydium Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Raydium and get paid up to $505,000.",
+      "url": "https://immunefi.com/bug-bounty/raydium",
+      "ogImg": "/api/bounty/og-image?project=Raydium"
+    }
+  },
+  "__N_SSP": true
+}

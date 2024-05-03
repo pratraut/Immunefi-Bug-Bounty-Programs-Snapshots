@@ -1,0 +1,128 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "1cJKfumlB1KMEfO8FBoOev",
+      "id": "parallelwallet",
+      "slug": "parallelwallet",
+      "project": "Parallel Wallet",
+      "maxBounty": 10000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/62sohBSnh4Y2Tmvk312Rp1/86b30e9a1c791ee707ec926a18d05bf0/Parallel_Logo.svg",
+      "launchDate": "2022-09-27T11:30-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:46:10.514Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $10,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "2lMhpRfWr00j48BAMxH4LL",
+          "type": "websites_and_applications",
+          "url": "https://chrome.google.com/webstore/detail/parallel-wallet/jbkgjmpfammbgejcpedggoefddacbdia",
+          "description": "Web/App - Latest version of Chrome Extension",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3yrNPYYlu5tFyoC8eZ2gRW",
+          "type": "websites_and_applications",
+          "url": "https://github.com/parallel-finance/wallet-services",
+          "description": "Wallet Services - Github Source Code",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "39xh8afcln3y6Q1LcmdsKb",
+          "title": "Extract private key from the extension while extension is in an unauthenticated state",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2PXkWX3kC9eddrt7qDclSV",
+          "title": "Bypassing Authentication to perform sensitive actions (send, sign)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "67yCI0fmRwsUf7whEkEev0",
+          "title": "Redirection of user deposits and withdrawals",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5AtmRQtOnLVOv4yj0gK2nh",
+          "title": "Wallet interaction modification resulting in financial loss",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "3jIYHN0sHtlnUkBvMtaAnr",
+          "title": "Tampering with transactions submitted to the user’s wallet",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6mfKHj7hLcbOvUG8ABgPpk",
+          "title": "Submitting malicious transactions to an already-connected wallet",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        }
+      ],
+      "programOverview": "Manage your crypto across all blockchains. Send using emails. Earn yield with DeFi securely.\n\nFor more information about Parallel Wallet, please visit [https://parallel.fi/](https://parallel.fi/).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required. In addition, bug reports must come with a suggestion for a fix in order to be considered for a reward. \n\nKnown issues highlighted in previous audit reports listed here are considered out of scope: \n  - [https://github.com/parallel-finance/auditing-report](https://github.com/parallel-finance/auditing-report)\n\nPayouts are handled by the __Parallel__ team directly and are denominated in USD. However, payouts are done in __PARA__. The __PARA__ price would be taken from the closing price recorded on [coinmarketcap](https://coinmarketcap.com/currencies/parallel-finance/) on the day the bug report is submitted, assuming the bug is legitimate and within the scope of the program.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Attacks or modifications to the browser running the Parallel wallet extension\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n    - This does not exclude reflected HTML injection with or without javascript\n    - This does not exclude persistent plain text injection\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Feature requests\n  - MITM attacks or bypassing SSL\n  - Capturing, tracing, inspecting or modifying network packet data\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n  - Any modifications to the extension (in memory or on disk)\n  - The chrome extension cannot be installed from any other source, other than the latest version available on the Chrome Extension Store",
+      "assetsBodyV2": null,
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "L2",
+          "Wallet"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "ecosystem": [
+          "Parallel"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "language": [
+          "Typescript"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $10,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Parallel Wallet Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Parallel Wallet and get paid up to $10,000.",
+      "url": "https://immunefi.com/bug-bounty/parallelwallet",
+      "ogImg": "/api/bounty/og-image?project=Parallel+Wallet"
+    }
+  },
+  "__N_SSP": true
+}

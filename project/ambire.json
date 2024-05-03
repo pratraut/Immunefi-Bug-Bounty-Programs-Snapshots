@@ -1,0 +1,230 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "6q0DpnpBpGr9hw7gzhR66W",
+      "id": "ambire",
+      "slug": "ambire",
+      "project": "Ambire",
+      "maxBounty": 80000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4a5seFcJe2gN0TkXgSBrlX/972767e0ccae9a3e66350203e85c4934/Ambire_logo.jpeg",
+      "launchDate": "2021-12-17T08:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:55:03.692Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $80,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $30,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $10,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $3,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "5Fy91Exd7vphPOn5s6nPf7",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xBf07a0Df119Ca234634588fbDb5625594E2a5BCA",
+          "description": "IdentityFactory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "14D5j3p9KVbSJkqysR6V2m",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2A2b85EB1054d6f0c6c2E37dA05eD3E5feA684EF",
+          "description": "Identity - base",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4l8JYCLUnMUbgiPo1L8wVh",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xfF3f6D14DF43c112aB98834Ee1F82083E07c26BF",
+          "description": "QuickAccManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2AaLDDOpRtgE8Jd4AXnXzo",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x460fad03099f67391d84c9cc0ea7aa2457969cea",
+          "description": "Batcher",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "79VFySp11LGytWt5g93nYT",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6VO5Iepxi84grRArgjOE7F",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1nhC1pKPXpl1a5SznouzCW",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4xSlzVvjWDjMc8hkOyaG5S",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7FP8fvdbPBS8esuFov5IQJ",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1DMElwCQkqdDuvIhTaMZrP",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5JQm2rwWunP7HZh0CjbNMO",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1srfDrqD6Y6I8Ovn88uDJH",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2L7sNbvrcAk9JQURwSO3ee",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2KZ6R5yMa6XPhDSlX2Fyz2",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2MK33nO3tfzwwDaSl6zyjo",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "6mwkZpMY34TfRllfzhEsTO",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "684Cy6QHeaff5TV3x8ZxJk",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "6hgANU4sUrBXiWupFw3CDs",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        },
+        {
+          "id": "10e0uPWz0TZbd20ECipBA1",
+          "title": "Centralization risks",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Ambire Wallet is a DeFi-focused smart wallet that aims to provide better UX than Metamask, while still having power user features. Ambire is a smart wallet, which enables paying gas in stablecoins, automatic Flashbots/Eden frontrunning protection, batching (doing multiple things in one tx!), hardware wallets (Trezor/Ledger). It is web based, there’s no extension required, and you can connect to any dApp with WalletConnect.\n\nFor more information about Ambire, please visit [https://www.ambire.com/](https://www.ambire.com/). \n\nThis bug bounty program is focused on their smart contracts and is focused on preventing:\n\n  - Thefts and freezing of principal of any amount \n  - Thefts and freezing of unclaimed yield of any amount\n  - Theft of governance funds \n  - Governance activity disruption",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll High and Critical Smart Contract bug reports require a PoC and a suggestion for a fix to be eligible for a reward. All Low and Medium Smart contract bug reports require a suggestion for a fix to be eligible for a reward. \n\nThe following vulnerabilities are not eligible for a reward:\n\n[https://github.com/AmbireTech/code4rena#known-tradeoffs](https://github.com/AmbireTech/code4rena#known-tradeoffs)\n\nPayouts are handled by the __Ambire__ team directly and are denominated in USD. However, payouts are done in __ETH__ unless agreed otherwise.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that are already reported in other reports (see [github.com/ambireTech/wallet#audits](https://github.com/ambireTech/wallet#audits)), regardless of their current status\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Characteristics related to the nature of public blockchains, for example being able to publicly enumerate all Ambire smart wallet accounts\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Any issue related to third-party contracts not supporting smart contract signatures (EIP 1271). Those should be reported to the said third-party contracts.\n  - Anything documented in [https://github.com/AmbireTech/code4rena#known-tradeoffs](https://github.com/AmbireTech/code4rena#known-tradeoffs)\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Ambire can be found at \n[https://github.com/AmbireTech/ambire-wallet/tree/development/contracts](https://github.com/AmbireTech/ambire-wallet/tree/development/contracts) and \n[https://github.com/AmbireTech/wallet/tree/main/contracts](https://github.com/AmbireTech/wallet/tree/main/contracts). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Wallet"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Fantom",
+          "Moonbeam",
+          "Polygon"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $80,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $30,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $3,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Ambire Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Ambire and get paid up to $80,000.",
+      "url": "https://immunefi.com/bug-bounty/ambire",
+      "ogImg": "/api/bounty/og-image?project=Ambire"
+    }
+  },
+  "__N_SSP": true
+}

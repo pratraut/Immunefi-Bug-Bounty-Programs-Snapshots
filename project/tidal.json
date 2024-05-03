@@ -1,0 +1,611 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "6CJeWVll2NNEV2kYrB7rOQ",
+      "id": "tidal",
+      "slug": "tidal",
+      "project": "Tidal",
+      "maxBounty": 25000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/8W7fFTes98r7bTeodG3k2/41f7abb907cee9c722b38dd49b2dcb75/Tidal.jpeg",
+      "launchDate": "2021-07-29T09:00-05:00",
+      "endDate": null,
+      "updatedDate": "2023-03-22T17:17:21.651Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $25,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $10,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $2,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $12,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $8,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "low",
+          "payout": "USD $2,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "51N9D1rLjXFu8Bdit1hl9h",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/AssetManager.sol",
+          "description": "AssetManager.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2S1M4ZPtEou89q4wMKhKQC",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Bonus.sol",
+          "description": "Bonus.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2RloKzZhPCKM0f6JF0JbEO",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Buyer.sol",
+          "description": "Buyer.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "MdtIwYde8g36qeU2YBfFn",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/CommitteeAlpha.sol",
+          "description": "CommitteeAlpha.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2ZHhAxsZqdSr3kjWUjPBlj",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/GovernorAlpha.sol",
+          "description": "GovernorAlpha.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2aE0o44Y9k2xibHgnJ99qR",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Guarantor.sol",
+          "description": "Guarantor.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6ZbacpcmrLVkIN2Bx7QVru",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Migrations.sol",
+          "description": "Migrations.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6UXw2vQHHCfmv9IOhzVaeb",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/PremiumCalculator.sol",
+          "description": "PremiumCalculator.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2qh5k9nvfnIytWah8VskmQ",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IRegistry.sol",
+          "description": "IRegistry.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5xCwNppvrMeEkZb8IoPj4b",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Seller.sol",
+          "description": "Seller.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "69aaf6EBC1O0tm0juUhasd",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Staking.sol",
+          "description": "Staking.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Vk1nUfzMrmRKOUPCh4Drn",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Timelock.sol",
+          "description": "Timelock.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "JwrV2H7VWSzc1Mz0w3bVU",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/common/BaseRelayRecipient.sol",
+          "description": "BaseRelayRecipient.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1tQGRnXbi8LzOm1uvAIiNh",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/common/NonReentrancy.sol",
+          "description": "NonReentrancy.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2VW9ObOl6DFVacVjStMvb1",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/common/WeekManaged.sol",
+          "description": "WeekManaged.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "32lUY74Vr8rqySxuGMTp1V",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/helper/StakingHelper.sol",
+          "description": "StakingHelper.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1XKlYeZnH7secyKhMNrlGP",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/helper/UpdateHelper.sol",
+          "description": "UpdateHelper.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Cw2Lk1AVGTv8iFNE9ALKV",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IAssetManager.sol",
+          "description": "IAssetManager.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "JsGzA1KoRGXsTJOumplxK",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IBonus.sol",
+          "description": "IBonus.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "17ohm5XUzbQJaKq6Rljlho",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IBuyer.sol",
+          "description": "IBuyer.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3LcyH56LHWHp5FO5nl2Am3",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IGuarantor.sol",
+          "description": "IGuarantor.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "v7yTuMR56yWzthxpQsJOo",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IPolicy.sol",
+          "description": "IPolicy.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2Y00CHg5zo4w26vPsBi7Oa",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IPremiumCalculator.sol",
+          "description": "IPremiumCalculator.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4QED70fvRSucJHoM5bS2cc",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IRegistry.sol",
+          "description": "IRegistry.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "23dxLHfImHg4LN2q268G6X",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IRelayRecipient.sol",
+          "description": "IRelayRecipient.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2GNQ3eXzE2aYxnZqyXDYDg",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/ISeller.sol",
+          "description": "ISeller.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4PowQ8dfsFhReoS8HuRGVy",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/interfaces/IStaking.sol",
+          "description": "IStaking.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3vu9fsYD3JCDH6UB9RO0fc",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/GovernanceToken.sol",
+          "description": "GovernanceToken.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4x3aqrBKzIbAYA5E5wOEqq",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/TidalToken.sol",
+          "description": "TidalToken.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7rb7Er6HmnRro0dRYHYTa5",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/TidalTokenChild.sol",
+          "description": "TidalTokenChild.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "CqecVB2W2MHmPBOKDnclI",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/matic/AccessControlMixin.sol",
+          "description": "AccessControlMixin.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2YyAJwWPq6yjBLzP3poSOG",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/matic/ContextMixin.sol",
+          "description": "ContextMixin.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3BxrYadggKENi7y8u3NW9J",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/matic/EIP712Base.sol",
+          "description": "EIP712Base.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "j7zeLN1XDRavP2KyPHHJx",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/matic/IChildToken.sol",
+          "description": "IChildToken.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1xMiF4ivayeGGb4OGwwLog",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/matic/Initializable.sol",
+          "description": "Initializable.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4GeVU3eeiRj9njOTKxdpTR",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/tokens/matic/NativeMetaTransaction.sol",
+          "description": "NativeMetaTransaction.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Wo5l0Wxlk9kNYDFtlaENC",
+          "type": "websites_and_applications",
+          "url": "https://tidal-ropsten.vercel.app/",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4IDsCFrnOY0ygjyI9KWtJz",
+          "type": "smart_contract",
+          "url": "https://github.com/TidalFinance/tidal-contracts/blob/main/contracts/Registry.sol",
+          "description": "Registry.sol",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "WfdwDS2BR4a23jMriq3Lc",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5epAEEzJx0w6KKzjVq7wCv",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1XVFANnIxVeEDGIYGchta6",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4d3uz28FxJ2s56FQhyOKqV",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5M6Gdb1BuvvGhumSlgy5mJ",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1zHIVGEvb5174xuI9AWgZ0",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "19edtOuS0W75NHK1CJIueo",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1934OZlDXmDBjdRZ2QFolp",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5BrcFehG5fbM7GZxCMze6m",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "75KJw4mzlcqXtEQLnLrnhd",
+          "title": "Subdomain takeover with already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "4Sp9WfpRdx7BXjPhuI3W7P",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "4InXPxZCicSPjQIGbwuedk",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "45kJtondPpzQoM81FLdq50",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4o1sMf06Hg3AF1Xj0DQjmb",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "22pOalNPXsIGtkWZsZv7im",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4xu4RA2NDPTOnWrACWcwVU",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "2ugTmuWXfr5r0Ifmr5BGX4",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "2lukPl8PodmH2odJg74V86",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "353mEhwTlmURFEeTgABDVK",
+          "title": "Subdomain takeover without already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "4KaDrxcifLrbWRZZVErn5D",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5HBNicWHlEvUNSxl6NUB4u",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "wGDhf6p246NbS88PRLLt5",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3Hzzkv8gRjdpgo0zplX82n",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "17GuYkYbfo7yniZELH6ps5",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1F5NCe4qeB5luNjtR24WFX",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the user name, or enabling/disabling notifications",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "4ESlC7qppITdFUCuuuQ5mI",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "QfUkbp2u6PnX261V1UOSf",
+          "title": "Redirecting users to malicious websites (Open Redirect)",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "2bquCna0yv2FLpzjdCmTQV",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        },
+        {
+          "id": "79zXAg7GFelwud5oylYR2I",
+          "title": "Changing user details (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction such as iframing leading to modifying the backend/browser state (must demonstrate impact with PoC)",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "3jzxWYL9RgIhrzCNVcaw1D",
+          "title": "Any impact involving a publicly released CVE without a working PoC",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "2rysn34quVf0CCPhriXNXR",
+          "title": "Taking over broken or expired outgoing links such as social media handles, etc",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "3sFLWd9QR64nxW1G8iXSGy",
+          "title": "Temporarily disabling user to access target site, such as locking up the victim from login, cookie bombing, etc",
+          "type": "websites_and_applications",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "TIDAL is a decentralized discretionary mutual cover protocol that offers the DeFi community the ability to hedge against the failure of any DeFi protocol or asset. By directly leveraging up the reserve to cover multiple protocols at the same time, the enhanced capital efficiency attracts reserve providers while a competitive insurance premium attracts buyers.\nTidal primarily consists of cover (insurance) buyers and reserve providers. Since pure peer-to-peer matching platforms on an individual bases have failed to gain traction in areas related to both lending and insurance, Tidal pools capital from reserve providers to offer covers to buyers. This allows for higher capital efficiency as the same reserve backs more covers than can be individually paid out and also eliminates a peer matching process resulting from double coincidence of wants. \n\nFor more information about Tidal, please visit [https://tidal.finance](https://tidal.finance). \n\nThis bug bounty program covers its smart contracts and apps and is focused on the prevention of the following:\n\n  - Thefts and freezing of principal of any amount\n  - Thefts and freezing of unclaimed yield of any amount\n  - Theft of governance funds \n  - Governance activity disruption\n  - Website goes down\n  - Leak of user data\n  - Deletion of user data\n  - Access to sensitive pages without authorization",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types as long as they result in one of the impacts listed in the Impacts in Scope table:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces\n\n__Websites and Apps__\n\n  - Remote Code Execution\n  - Trusting trust/dependency vulnerabilities\n  - Vertical Privilege Escalation\n  - XML External Entities Injection\n  - SQL Injection\n  - LFI/RFI\n  - Horizontal Privilege Escalation\n  - Stored XSS\n  - Reflective XSS with impact\n  - CSRF with impact\n  - Direct object reference\n  - Internal SSRF\n  - Session fixation\n  - Insecure Deserialization\n  - DOM XSS\n  - SSL misconfigurations\n  - SSL/TLS issues (weak crypto, improper setup)\n  - URL redirect\n  - Clickjacking (must be accompanied with PoC)\n  - Misleading Unicode text (e.g. using right to left override characters)",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll web and app bugs must come with a PoC in order to be accepted. All web and app bug reports without a PoC will be rejected with a request for a PoC.\n\nPayouts are handled by the __Tidal__ team directly and are denominated in __USD__. Payouts are done in __USDC__ or __USDT__ at the selection of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\n__Websites and Apps__\n\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR\n  - CSRF with no security impact (logout CSRF, change language, etc.)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)\n  - Server-side information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring unlikely user actions\n  - URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Attacks requiring privileged access from within the organization\n  - Feature requests\n  - Best practices\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Only web/app vulnerabilities that __directly__ affect the web/app assets listed in this table are accepted within the bug bounty program. All others are out-of-scope.\n\nFurther information about Tidal’s smart contracts can be found at [https://github.com/TidalFinance/tidal-contracts](https://github.com/TidalFinance/tidal-contracts). However, only the smart contracts listed in the Assets in Scope table are considered as in-scope.\n",
+      "impactsBody": "These accepted impacts are then based on the severity classification system of this bug bounty program. When submitting a bug report, please select the severity level you feel best corresponds to the severity classification system as long as the impact itself is one of the listed items. ",
+      "immunefiStandard": null,
+      "tags": {
+        "productType": [
+          "Insurance",
+          "Lending"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Polkadot"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $25,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $2,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $12,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $8,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $2,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Tidal Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Tidal and get paid up to $25,000.",
+      "url": "https://immunefi.com/bug-bounty/tidal",
+      "ogImg": "/api/bounty/og-image?project=Tidal"
+    }
+  },
+  "__N_SSP": true
+}

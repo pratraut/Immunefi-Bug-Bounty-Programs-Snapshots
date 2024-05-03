@@ -1,0 +1,562 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "1LayWkFsh6OTw0rAQqNCZt",
+      "id": "eco",
+      "slug": "eco",
+      "project": "Eco",
+      "maxBounty": 250000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6kiS0Qjgphh89IAYZfLrFH/037e338a5ca38be6f3b48b8098046456/eco_logo__2_.jpg",
+      "launchDate": "2022-11-08T19:00:00.000Z",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:44:03.229Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $25,000 to USD $250,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $5,000 to USD $25,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $2,500",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $25,000 to USD $50,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "USD $2,500",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "3pENc0rsit6nwq6ukXBkGY",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8dBF9A4c99580fC7Fd4024ee08f3994420035727#code",
+          "description": "ECO.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1q3pbGVcKwIv8tyU2kLc95",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xcccD1Ba9f7acD6117834E0D28F25645dECb1736a#code",
+          "description": "ECOx.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7dInjy62KejXpbECDiSX05",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1E5F34C1281BE1249074b987FdDd295685e1ACCb#code",
+          "description": "TimedPolicies.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "74NhBksU9GRE5WlQCSTkQB",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9fA130E9d1dA166164381F6d1de8660da0afc1f1#code",
+          "description": "TrustedNodes.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1KpKrx3Zll9fKY8tlVKv20",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x963721014CCDf8941a3B67d4FD96002aBF63057B#code",
+          "description": "PolicyProposals.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7BXxoCDLbXYq4D4JgkCarc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5D2956458CC367536EC953465c1b326abAd6794f#code",
+          "description": "PolicyVotes.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6aVQrUbFhGTThXsRySUe7r",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xf4e903BD6fFc1464F7938f6E1a27E369eDBD715D#code",
+          "description": "CurrencyGovernance.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2h4W6FLnSdGNblNo0ZKgAI",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x953d8bC7410D189C83713151bA506D33ea5Bf995#code",
+          "description": "CurrencyTimer.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "CIVG8xhJd5heMGl0CrMwR",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x12cD0e8a2bd86bc17E773b500e7BBC316901b75E#code",
+          "description": "ECOxStaking.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "68u3CMMNH31KgVeiE5Q1G0",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8c02D4cc62F79AcEB652321a9f8988c0f6E71E68#code",
+          "description": "Policy.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2C80W02VLVWUjckQmgXMgs",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD4818Db69745cDa49fA96Ebe7404fB3E6D09d552#code",
+          "description": "InflationRootHashProposal.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2dGMtmkjJSL2omvu7xfojN",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xF72d11cAcb8fd5919dEF0075c7432E04420aa246#code",
+          "description": "RandomInflation.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6tVMrfDaeSyRmHg0sOC4vc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2597Ed851635175c1306186C3b73eD4C72F3A6Db#code",
+          "description": "Lockup.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2gWUFKmJpIysZmOlhen2gi",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x133764bBb0F7f2c2a4FA510778F8fC0A9AC7B8b1#code",
+          "description": "VDFVerifier.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "zDLsjx1GvYYPjJT5PD1Ag",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5bc2fa9426e882710d055c1a60f8cc93a31edc58#code",
+          "description": "EcoID.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4u117AJwVKeJKtfyNDecJs",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa28f219BF1e15f5217B8Eb5f406BcbE8f13d16DC#code",
+          "description": "EcoClaim.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5k9Zrre9nmOVxwqIWKjXqi",
+          "type": "websites_and_applications",
+          "url": "http://nft.eco.id",
+          "description": "NFT dApp",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5RqTYpw6d9mhic8QScGWfk",
+          "type": "websites_and_applications",
+          "url": "https://claim.eco.id/",
+          "description": "Claim dApp",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3eLX2icUoXZQF3VT0oZaCU",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0ccf53bc6354889682020bbd2c440f8265abe1e1",
+          "description": "ECOxChunkedLockup.sol (example lockup)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5D9gz4ffvJcG9yhHJM2Wmm",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x4D5254bF6734584d6f6b6b8a49E057F6b7FeAeC3",
+          "description": "ECOxChunkedLockupFactory.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3eIbGgSgfh8Zd6GrqmzU1c",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2014E294A0741Cd128FCe236FB74F8b9F97feD27",
+          "description": "ECOxCliffLockup.sol (example lockup)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "445st9TmEowYoDJpiU1Dge",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x825ADa890293917EB4f5937e3Ae6954B21c143D1",
+          "description": "ECOxCliffLockupFactory.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5TFRLjrmGx5FgiEeVLEJ2r",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0c37EeE8eE5B4a16d69c095F961b8b33109B497A",
+          "description": "L1ECOBridge.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "14xetmTLyfwCCMEmCUMSlz",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0x0c37EeE8eE5B4a16d69c095F961b8b33109B497A",
+          "description": "L2ECOBridge.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6VZiV9xRoCLa44B0AEZkEK",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0xe7BC9b3A936F122f08AAC3b1fac3C3eC29A78874",
+          "description": "L2ECO.sol",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "WkRY9U4lpqFjDeYyZD3LL",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4l4sm1RpvCpZpeM4Q7NGVF",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3NkKQdtunW2Tv6EaszSWa3",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3mBF0shtgYGx5978Fyg4vi",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "nDPrtDJ8qQeeX91AoRMVn",
+          "title": "Unauthorized minting of NFTs or tokens",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3qlePGvqGhxPvBxpuxAmSS",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2a67rj4aE5YnbJjc1zn4c5",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2Y79xW9edX9fhEUJlxfdKC",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6yGzR9T4IGON6u6DcEk58Z",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2DJbqwFAphgNV95w1LXDjm",
+          "title": "Taking down the NFT URI",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7paBQXhjPCg3vPy7JYQaQS",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1tyh7L4W1W6UyUCEhrcn2b",
+          "title": "Changing the NFT metadata",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2m2PICoVg43nTz8QVXnB3e",
+          "title": "Subdomain takeover with already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5Jlwl6rlFo9dvxMm97384Q",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "3BrNRfao2cmHglymHBPD3y",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "4zsbvTSlMf6GM3xovXJGWX",
+          "title": "Direct theft of user NFTs",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1B07jTdkkoV7OQvX7T84yi",
+          "title": "Injection of malicious HTML or XSS through NFT metadata",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1ZvpWvI2nG49I5P2rUItxF",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5uwl9oI3DeyjnVCg4jMQQt",
+          "title": "Theft of unclaimed fees / refunds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7kG2DPK5qlAF210CJgKali",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "2X9s5LspSTrvjeneI0aJ98",
+          "title": "Temporary freezing of funds for at least 1 day",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "F68bj22iO1bQPSv9BjdAM",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "6OkfLGxL0qmzuCyo8eq8US",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "4pT4gIWOD8SX3WmtE8oo3O",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "3hPzZ7T7GikCLvz2s5pBfr",
+          "title": "Subdomain takeover without already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "4SkY00BY8R63fJlPvqaXPf",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7xyfNgxZ2uAsmAFsdug6t",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7cP74OI66PSC3TOKFeq53k",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5TKn13VnVl4hh05lThK3Mh",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3AnmbQ2XipO9rbjBs8v7zH",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2YedWon9GZiArhtGIHIkXU",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the first/last name of user, or en/disabling notification",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "6pnJ19lBORx12rkSQRxRWI",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "7F7ukkpCibfb2ldjerRnRZ",
+          "title": "Redirecting users to malicious websites (Open Redirect)",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "5GirMcm1T2bSamZyt8EB5D",
+          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7h23xVHbFr9Lj4EMbviO0Y",
+          "title": "Smart contract fails to deliver promised returns, but doesn’t lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        },
+        {
+          "id": "497465HJ3q9pgRgHsDSbu7",
+          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction such as iframing leading to modifying the backend/browser state (demonstrate impact with PoC)",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "grHSqrzCvBbw981CTFcmw",
+          "title": "Any impact involving a publicly released CVE without a working PoC",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "6J53xvklR4068XX5ZsklWh",
+          "title": "Taking over broken or expired outgoing links such as social media handles, etc.",
+          "type": "websites_and_applications",
+          "severity": "low"
+        },
+        {
+          "id": "21gm06gMKzT5lu4JZ1SB5T",
+          "title": "Temporarily disabling user to access target site, such as locking up the victim from login, cookie bombing, etc.",
+          "type": "websites_and_applications",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "The Eco Currency is intended to serve as a decentralized alternative to fiat currencies. Other cryptocurrencies either fix their monetary policies and admit exchange rate volatility, or attempt to limit volatility and achieve dollar parity through various policies.  \n\nEco does not treat dollar-parity as a proxy for utility. Eco is a free-floating currency designed to achieve its aims through monetary policy transparently established and managed by a representative group of governing “Trustees” who are elected by the community of Eco holders. Trustees have one core mandate: to maximize the wealth held in ECO. As with many other token systems, Eco currency holders are also empowered to vote on community proposals and protocol upgrades.\n\nEco features two tokens: the variable supply base currency (ECO), and a deflationary supply token (ECOx) intended to incentivize long-term holders and bootstrap an open market signaling expectations for ECO adoption. These tokens, together with the various contracts and components that support them, form the Eco Currency Protocol. \n\nThis bug bounty covers the following core components and peripherals:\n  - The core Eco Protocol contracts\n  - The ECO NFT and ECO Claim contracts\n  - All associated dApp\n    - ECO ID dApp\n    - ECO claim dApp\n\nFor more information about Eco, please visit [https://eco.org/](https://eco.org/).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. All Smart Contract bug reports require a PoC to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required.\n\n__Smart Contracts__\n\nCritical smart contract vulnerabilities are capped at 5% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects and market liquidity, at the discretion of the team. However, there is a minimum reward of __USD 25 000__, unless the bug falls under the “Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield or fees/refunds” category, in which case the 10% cap still applies. \n\nHigh smart contract vulnerabilities are capped at 100% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 5 000__ and a maximum reward of __USD 25 000__ regardless of the economic damage.\n\n__Websites and Applications__\n\nCritical website and application bug reports will be rewarded with __USD 50 000__ only if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result. All other impacts that would be classified as Critical would be rewarded __USD 25 000__\n\nBridge Contracts\nCritical smart contract vulnerabilities are capped at 5% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects and market liquidity, at the discretion of the team. However, there is a minimum reward of __USD 10 000__.\n\nHigh smart contract vulnerabilities are capped at 100% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 2 000__ and a maximum reward of __USD 5 000__ regardless of the economic damage.\n\nThe reward structure listed below applies only to the following Bridge Contracts:\n  - L1ECOBridge.sol\n  - L2ECOBridge.sol\n  - L2ECO.sol\n\n| Severity     | Reward     |\n| ---------- | ---------- |\n| Critical       | USD $10,000 to USD $25,000       |\n| High       | USD $2,000 to USD $5,000       |\n| Medium       | USD $1,000       |\n\nThe following vulnerabilities are not eligible for a reward:\n\n  - All vulnerabilities mentioned in the audits in the relevant repos for each contract. \n    - [https://github.com/helix-foundation/currency](https://github.com/helix-foundation/currency)\n    - [https://github.com/helix-foundation/eco-claim](https://github.com/helix-foundation/eco-claim)\n    - [https://github.com/helix-foundation/eco-id](https://github.com/helix-foundation/eco-id)\n    - [https://github.com/eco/ecox-lockup](https://github.com/eco/ecox-lockup)\n    - [https://github.com/eco-association/op-eco](https://github.com/eco-association/op-eco)\n   - Any vulnerabilities that are vulnerabilities in the Bridge Contracts that arise from a bug in the core Optimism Contracts or Bridge Application, including to, but not limited to, the Optimism Blockchain, the L1Messenger, etc. are not eligible for a reward. The bug in the bridge contracts MUST arise from a code issue in the [https://github.com/eco-association/op-eco](https://github.com/eco-association/op-eco) repository. \n\nThe Eco Association requires an affidavit that the bug bounty hunter is not from a [sanctioned](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information) county or a sanctioned entity.  The collection of this information will be done by the Eco Association.\n\nPayouts are handled by the __Eco__ Association directly and are denominated in USD. However, payouts are done in __USDC__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Delegation chaining issue if address with 0 voting power is delegating to a primary delegate\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n    - This does not exclude reflected HTML injection with or without javascript\n    - This does not exclude persistent plain text injection\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Feature requests\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\n__Bridge Contracts__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n  - Any vulnerabilities that are vulnerabilities in the Bridge Contracts that arise from a bug in the core Optimism Contracts or Bridge Application, including to, but not limited to, the Optimism Blockchain, the L1Messenger, etc. are not eligible for a reward. The bug in the bridge contracts MUST arise from a code issue in the [https://github.com/eco-association/op-eco](https://github.com/eco-association/op-eco) repository.  \n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Eco can be found at [https://github.com/helix-foundation/currency](https://github.com/helix-foundation/currency) and [https://github.com/eco/ecox-lockup](https://github.com/eco/ecox-lockup). All the web/app of Eco can be found at [https://github.com/helix-foundation/eco-id-app](https://github.com/helix-foundation/eco-id-app) and [https://github.com/helix-foundation/eco-claim-dapp](https://github.com/helix-foundation/eco-claim-dapp). All of the bridge can be found at [https://github.com/eco-association/op-eco](https://github.com/eco-association/op-eco). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nThough only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target. \n\nIf an impact can be caused to any other asset managed by Eco that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical and High impacts.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "DAO",
+          "Token"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Optimism"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "Solidity",
+          "Typescript"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $25,000 to USD $250,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $5,000 to USD $25,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,500"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $25,000 to USD $50,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,500"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Eco Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Eco and get paid up to $250,000.",
+      "url": "https://immunefi.com/bug-bounty/eco",
+      "ogImg": "/api/bounty/og-image?project=Eco"
+    }
+  },
+  "__N_SSP": true
+}

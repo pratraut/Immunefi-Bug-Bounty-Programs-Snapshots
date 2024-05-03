@@ -1,0 +1,419 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "3Z9ORMDR5BLj2GvsrzxEOi",
+      "id": "yearnfinance",
+      "slug": "yearnfinance",
+      "project": "Yearn Finance",
+      "maxBounty": 200000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Dpad2OkwlP4SAfEzsQk5j/9064a1846d23ecad7b306fe81d5bb501/Yearn.png",
+      "launchDate": "2021-07-01T00:00-07:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:51:02.138Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $20,000 to USD $200,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $5,000 to USD $20,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $1,000 to USD $5,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $100 to USD $1,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "4zrBrwqX0lJXwVmv3t9mS2",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e#code",
+          "description": "YFI Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5zCFJTHH6vECdumiaVFiVm",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xd0660cd418a64a1d44e9214ad8e459324d8157f1#code",
+          "description": "Woofy Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2rszBurN4m8KUtN2ZLmBGO",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xFCc5c47bE19d06BF83eB04298b026F81069ff65b#code",
+          "description": "yCRV contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3D4XCec83IeQ3UZbYJ5fXg",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/name-lookup-search?id=donatooor.ychad.eth",
+          "description": "Donator contract for ycrv system",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1nPT5ztf9IQKL3Zw7YtWqh",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/name-lookup-search?id=bribe-splitter.ychad.eth",
+          "description": "Bribe splitter contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6h8KdYyKjihP7sQfhDtR9L",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/name-lookup-search?id=ybribe.ychad.eth",
+          "description": "yBribe",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Vk6U4vvUEnzAS5gzHwdaC",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xE9E8C89c8Fc7E8b8F23425688eb68987231178e5#code",
+          "description": "v3 Vault Factory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7HGTTzlGB4Kg1P6lCjZlHR",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xDFC8cD9F2f2d306b7C0d109F005DF661E14f4ff2#code",
+          "description": "v3 Tokenized Strategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4Tv8DjXehrZ0Wg7FTnBJD7",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe1d0549702C0beC3d3F918159449542738e6F942#code",
+          "description": "v3 Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5cUjiesOIgXMAw606dgjEs",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1BED97CBC3c24A4fb5C069C6E311a967386131f7#code",
+          "description": "yETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5lUBXveBnEOTyu4H1RVRnW",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4#code",
+          "description": "St-yETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4RRBDwwR9fULTJ0bSmIrD2",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x929401e30Aab6bd648dEf2d30FF44952BaB04478#code",
+          "description": "yETH Protocol Owned Liquidity",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4FTsEUWMXTJC49S2UmxMqk",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x41B994C192183793bB9cc35bAAb8bD9C6885c6bf#code",
+          "description": "yETH Bootstrap",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1KGBVSvoCFE9mUcTVHMxOW",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xCE62d9Eb4409af3800e24719e08A736aab7D2022#code",
+          "description": "yETH Curve Module",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2PTDqxyrT1h8bt6HFDRj9C",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe9462885290eb79ece41367d92712d6f525Ba5FA#code",
+          "description": "yETH Shutdown Module",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2qXBLqPWgRqygQU1k7dd2q",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x27a2FC2D47c5063A551C8fE81F580b84Ab78aC52#code",
+          "description": "yETH Stake Module",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "47s1IfS4vAXujkP3NpAVqk",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xAE9De8A3e62e8E2f1e3800d142D23527680a5179#code",
+          "description": "yETH Merkle Incentives",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7u2h40fz8dZ6YKE24y3Cg7",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7cf484D9d16BA26aB3bCdc8EC4a73aC50136d491#code",
+          "description": "yETH Boostrap v2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5b9OzFNcyuvGBwvpiAAuvR",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2cced4ffA804ADbe1269cDFc22D7904471aBdE63#code",
+          "description": "yETH Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "315E3SyKgKgHPXV6uxZb5b",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2fBa208E1B2106d40DaA472Cb7AE0c6C7EFc0224#code",
+          "description": "dYFI Redemption",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1kyOC2q5S0v8r4XiEijG3z",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7Fd8Af959B54A677a1D8F92265Bd0714274C56a3#code",
+          "description": "yGauge Curve YFI-ETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3Gm9nMhD0Nqcov6DbEg1OJ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb287a1964AEE422911c7b8409f5E5A273c1412fA#code",
+          "description": "YFI Reward Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5Q8enqva4hJLgR7DlxfGVp",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2391Fc8f5E417526338F5aa3968b1851C16D894E#code",
+          "description": "dYFI Reward Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2vIHBEiDfYoEbpEXv5ddLm",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7dC3A74F0684fc026f9163C6D5c3C99fda2cf60a#code",
+          "description": "dYFI",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "OFqCbZyKTUzq8253DLC0q",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x90c1f9220d90d3966FbeE24045EDd73E1d588aD5#code",
+          "description": "veYFI",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "2RC0QPEpwDbNKnPb7cEy4z",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2AZ4dBaS7BPGpD2UN5Xrk4",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5MpNB7IOOYfbFIYmYa40KT",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3BsRtejtLICfxYmREjDg59",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "44JQXtuHHETe156x5Ae6zF",
+          "title": "Permanent freezing of NFTs",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5UdtQU0yvrhwzH1SFkThXV",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2Mvfc3tGBgHVlT7GD1rCpM",
+          "title": "Unauthorized minting of NFTs",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4ZfPPczUPTC5m83ZkjEFgy",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4uPCTQlPaVXdzbcZkZQBux",
+          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "35gQSEEG0gN6a8rYRENhe7",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4AyHfR56iMGAAYV6rJrwXl",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7EEtCF6BXIqhzUc730H2Z",
+          "title": "Theft of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "7yK1et0Tp7meHRnJ08aYlJ",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "50TAR4BF0AY9TAPJAQMP4r",
+          "title": "Permanent freezing of unclaimed royalties",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5FpKn20t0v7vYlKB0e8QJB",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1ZE8yLMClZIuIVPGmuJjaq",
+          "title": "Temporary freezing NFTs",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "62Yqb1nNMooQnmfceviCOS",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7vnIRZJ84woBJYGwuRmElM",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7FRuBs5aLU4fwpTFH7tsxt",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3Eo9oJCrcqPdzZo6TvBwqF",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7hfQfo632snnHQ2OYPloUm",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1hkE740bOKbEtvD1ex6WFd",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation and yield generation on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders. Their products include: \n\n__Vaults__\nCapital pools that automatically generate yield based on opportunities present in the market. Vaults benefit users by socializing gas costs, automating the yield generation and rebalancing process, and automatically shifting capital as opportunities arise. End users also do not need to have a proficient knowledge of the underlying protocols involved or DeFi, thus the Vaults represent a passive-investing strategy.\n\nFurther resources regarding Yearn Finance can be found on their website, [https://yearn.finance/](https://yearn.finance/) and [documentation](https://docs.yearn.finance/).  \n\nThe bug bounty program is focused around its smart contracts and is mostly concerned with the prevention of the loss of user funds. ",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n- Re-entrancy\n- Logic errors\n  - including user authentication errors\n- Solidity/EVM details not considered\n  - including integer over-/under-flow\n  - including unhandled exceptions\n- Trusting trust/dependency vulnerabilities\n  - including composability vulnerabilities\n- Oracle failure/manipulation\n- Novel governance attacks\n- Economic/financial attacks\n  - including flash loan attacks\n- Congestion and scalability\n  - including running out of gas\n  - including block stuffing\n  - including susceptibility to frontrunning\n- Consensus failures\n- Cryptography problems\n- Signature malleability\n- Susceptibility to replay attacks\n- Weak randomness\n- Weak encryption\n- Susceptibility to block timestamp manipulation\n- Missing access controls / unprotected internal or debugging interfaces",
+      "rewardsBody": "Rewards for Smart Contract vulnerabilities are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit. \n\nTo determine the final reward amount, the likelihood to have a meaningful impact on availability, integrity, and/or loss of funds is considered. The final decision on the payout amount will be determined by the Yearn Finance team at its discretion.\n\nPayouts are handled by the __Yearn Finance__ team directly and are denominated in USD. Payouts can be made in USDC, DAI, YFI, or their Yearn Vault counterparts. ",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist) This includes roles that potentially can be opened.\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Any report on contracts not actively/directly supported by Yearn Finance. E.g.: Ironbank.\n  - Any report for the following helper contracts are not valid for bounties or in scope:\n    - https://etherscan.io/address/0x5b4F3BE554a88Bd0f8d8769B9260be865ba03B4a\n    - https://etherscan.io/address/0x437758D475F70249e03EDa6bE23684aD1FC375F0\n    - https://etherscan.io/address/0xa0B57619A980DFEfD50f24F310EE1b55A40A9D46\n    - https://ftmscan.com/address/0x97D0bE2a72fc4Db90eD9Dbc2Ea7F03B4968f6938\n    - https://ftmscan.com/address/0x8ca27a3ab8917a033f278D20135d2467faA099bA\n    - https://ftmscan.com/address/0x5ABdfDfa0cF2d83c4755E0a2a782eF57FEd5c23B\n    - https://arbiscan.io/address/0x3a8efa2d87d60c0289f19b44a0928f4269c0f094\n    - https://arbiscan.io/address/0x66a1a27f4b22dcaa24e427dcffbf0cddd9d35e0f\n    - https://optimistic.etherscan.io/address/0xD63aB09ac2048a7eCac92f0fFad5F104edD0E032\n    - https://optimistic.etherscan.io/address/0xD3A93C794ee2798D8f7906493Cd3c2A835aa0074\n\n__Rules__\n\nThe rules of this bug bounty are as follows:\n\n- Bug has not been publicly disclosed.\n- Vulnerabilities that have been previously submitted by another contributor or already known by the Yearn development team are not eligible for rewards.\n- The size of the bounty payout depends on the assessment of the severity of the exploit. Please refer to the rewards section below for additional details.\n- Bugs must be reproducible in order for us to verify the vulnerability.\n- Rewards and the validity of bugs are determined by the Yearn security team and any payouts are made at their sole discretion.\n- Terms and conditions of the Bug Bounty program can be changed at any time at the discretion of Yearn.\n- Details of any valid bugs may be shared with complementary protocols utilized in the Yearn ecosystem in order to promote ecosystem cohesion and safety.\n\n__Bug Bounty FAQ__\n\nQ: Is there a time limit for the Bug Bounty program?\nA: No. The Bug Bounty program currently has no end date, but this can be changed at any time at the discretion of Yearn.\n\nQ: Can I submit bugs anonymously and still receive payment?\nA: Yes. If you wish to remain anonymous you can do so and still be eligible for rewards as long as they are for valid bugs. Rewards will be sent to the valid Ethereum address that you provide.\n\nQ: Can I donate my reward to charity?\nA: Yes. You may donate your reward to a charity of your choosing, or to a gitcoin grant.",
+      "assetsBodyV2": "__Finding More Assets in Scope__\nYearn adds and removes Vaults and Strategies from Production on an ongoing basis. Yearn provides helper contracts (see table below) to list the __actual contracts__ that are considered in scope for this bug bounty program.\n\nThe following functions can be called to obtain a list of smart contract addresses that are currently in Production and that are covered by the program:\n\n| Network     | Contracts     | Addresses (NOT IN SCOPE)     |\n| ---------- | ---------- | ---------- |\n| Ethereum       | StrategiesHelper AddressesGeneratorV2 Vaults       | 0x5b4F3BE554a88Bd0f8d8769B9260be865ba03B4a 0x437758D475F70249e03EDa6bE23684aD1FC375F0    |\n| Fantom       | StrategiesHelper AddressesGeneratorV2Vaults       | 0x97D0bE2a72fc4Db90eD9Dbc2Ea7F03B4968f6938 0x8ca27a3ab8917a033f278D20135d2467faA099bA       |\n| Optimism       | StrategiesHelper AddressesGeneratorV2Vaults       | 0xD3A93C794ee2798D8f7906493Cd3c2A835aa0074 0xD63aB09ac2048a7eCac92f0fFad5F104edD0E032       |\n| Arbitrum       | StrategiesHelper AddressesGeneratorV2Vaults       | 0x66a1a27f4b22dcaa24e427dcffbf0cddd9d35e0f 0x3a8efa2d87d60c0289f19b44a0928f4269c0f094       |\n\nFunctions to list bounty program contracts:\nStrategiesHelper - assetsStrategiesAddresses()\n\nAddressesGeneratorV2Vaults - assetsAddresses()\n\nAddressesGeneratorIronBank - assetsAddresses()\n\nOther contracts, outside of the ones mentioned here, might be considered on a case by case basis, as long as economic damage can be achieved. \n\nFor more further information about in-scope contracts from yearn refer to the following doc [https://github.com/yearn/yearn-security/blob/master/SECURITY.md](https://github.com/yearn/yearn-security/blob/master/SECURITY.md). For information about vaults and strategiesplease refer to their GitHub repository - [https://github.com/yearn/yearn-vaults](https://github.com/yearn/yearn-vaults). Additionally, you may refer to [https://seafood.yearn.watch](https://yearn.watch) and [https://yearn.watch/stats](https://yearn.watch/stats) for more information about each smart contract.  \n\n__Submission Requirements__\n\nIn order to be considered for a reward, all bug reports must contain the following:\n\n- Description of suspected vulnerability\n- Steps to reproduce the issue\n- A valid POC showing the attack where the outcome has clear economic damage for any of the contracts listed in scope.\n- Your name and/or colleagues if you wish to be later recognized\n- (Optional) A patch and/or suggestions to resolve the vulnerability\n\n__Ethical Behavior Requirements__\n\nResponsible disclosure is predicated on ethical behavior. These guidelines outline best practices for the community as whole, whether you are reporting, or the recipient of a report. By stating that you adhere to this policy, you’re claiming to handle vulnerability information ethically, and abide by the following:\n\n- Do not attempt to leverage a vulnerability, or information of its existence, as part of a financial trading strategy or otherwise for financial gain.\n- Do not attempt to compromise systems upon which development of a product relies; including but not limited to compromising development systems, accounts, domains, email etc..\n- Do not attempt to sell vulnerability information or exploits.\n- Do not ask for any form of compensation from an affected party.\nYou may compensate a disclosing party if you would like to after all known vulnerability details have been disclosed.\n- Do not disclose a bug or vulnerability on mailing lists, public boards, forums, social media or any other channel prior to Responsibly Disclosing to the organizations you have a published relationship with\n- Do not attempt any illegal acts, including phishing, physical attacks, DDoS, or any attempt to gain access without authorization\n\n__3rd Party Affected Projects__\n\nIn the case where we become aware of security issues affecting other projects that has never affected Yearn, our intention is to inform those projects of security issues on a best effort basis.\n\nIn the case where we fix a security issue in Yearn that also affects the following neighboring projects, our intention is to engage in responsible disclosures with them as described in the adopted standard, subject to the deviations described in the deviations section below.\n\n__Deviations from the Standard__\n\nIn the case of a counterfeiting or fund-stealing bug affecting Yearn, however, we might decide not to include those details with our reports to partners ahead of coordinated release, as long as we are sure that they are not vulnerable.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Lending",
+          "Yield Aggregator"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH",
+          "Fantom",
+          "Optimism"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $20,000 to USD $200,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $5,000 to USD $20,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $1,000 to USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $100 to USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Yearn Finance Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Yearn Finance and get paid up to $200,000.",
+      "url": "https://immunefi.com/bug-bounty/yearnfinance",
+      "ogImg": "/api/bounty/og-image?project=Yearn+Finance"
+    }
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,207 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "1Vmhi1m73vwE5nHW4QhJlG",
+      "id": "bankx",
+      "slug": "bankx",
+      "project": "BankX",
+      "maxBounty": 10000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1AVW8dU4G3wnbqcGMuaLP3/e04b779c5701717a28f468f5eea4270d/BankX_logo.png",
+      "launchDate": "2024-01-02T12:00+02:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:46:00.662Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $10,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "6YWpLDh1RbHbTtcNMvwmYn",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x13e636cbfd6a7d33a8df7ebbf42f63adc9bb592a#code",
+          "description": "BankX Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3agRUshCLbpG7aeBDb5SI1",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x75cae30025a514b7ae069917e132cc99762a0e16#code",
+          "description": "XSDToken",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "40d6rAYqTvKHFMSPapr9s3",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x4d369bd339709021267e92702a9e4ce30be85706#code",
+          "description": "BankX Token (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5YitO27uUxw0CawmpNDGJp",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x39400e67820c88a9d67f4f9c1fbf86f3d688e9f6#code",
+          "description": "XSD Token (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3kNTMXGhRiOlhlKqVXM2oX",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xfa0870077A65dBFde9052ad16B04C3e1A885CE2d#code",
+          "description": "BankX Pool (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "lUhuzXKnmMIchMHgn5iKA",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x8A4e0e2A778dF8cE4EA5D5108FFfE690CC9Ae07a#code",
+          "description": "XSD Pool (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4QbZUsIBkFvR4O2tiAV4PG",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x55A75059065296a5a8cdfadCF6945ed2cC5B8eC6#code",
+          "description": "Collateral Pool (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "s9dKuYUA0qbQHsFW2OdTG",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x6683FFdA5267e1F7E9Bf6790849a4eCdD63ed134#code",
+          "description": "PID Controller (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4skfSXx1XEo50k5P8lPG9d",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xc8d2cde3fc9690dffa365a2c7e5c6bc8961893b8#code",
+          "description": "Reward Manager (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5obNYL4RaHXgzjK0ro8PVs",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xEf8ef7e50Dc49AAe7beEb3D0004CB196F5a850C5#code",
+          "description": "Router (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "20j2e9uEUV66xAiUv37G23",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x79471BA0cCA010D8623f896C593d546691E53e5e#code",
+          "description": "Arbitrage (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "hwToGrGTqdYNaPNvtLUwf",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xed024d771261d765b9dc7b0947ef271ea006248f#code",
+          "description": "Certificate of Deposit (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2dme7xymlSzjN64Cm3sqXK",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x11214D41a85306f725cdd9A318993b122bAa6DFe#code",
+          "description": "NFT (BNB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5zAESuwrEUPGctkohY7wpK",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x369b83fe557ef815572a340f5275d8d764615d15#code",
+          "description": "NFT Bonus (BNB)",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "7ad4ZQMWgkGYcpkTD7WBV8",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1IllxAqQxpFLVZIUa9Sq3J",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3DWEfBFv8ZBFnVqqMNlQWU",
+          "title": "Any exploit that results in loss of in either of the liquidity pools or the collateral pool.",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3W3fNrf9qNZbngPIPGtzhD",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6iHywTQTrV5iHtahJaV821",
+          "title": "Any exploit that results in system or user loss of funds or unauthorized control of the system can be found.",
+          "type": "smart_contract",
+          "severity": "critical"
+        }
+      ],
+      "programOverview": "BankX Is A Dual-Token System Stablecoin: Stablecoin - BankX Silver Dollar (XSD)\n\nThe BankX token – Utility token used as partial collateral to mint the stablecoin and stake in the Certificate of Deposit\n\nFor more information about BankX, please visit [https://bankx.io/. ](https://bankx.io/) \n\nBankX provides rewards in USDC. For more details about the payment process, please view the Rewards by Threat Level section further below.\n\nThe scope is focused solely on any exploit that results in loss in either of the liquidity pools or the collateral pool.  Contracts are on the BSC chain only.\n\n__Responsible Publication__\n\nBankX adheres to category 3: Approval Required. This Policy determines what information whitehats are allowed to make public from their submitted bug reports. For more information about the category selected, please refer to our [Responsible Publication](https://immunefi.com/responsible-publication/) page.\n\nBankX adheres to the Primacy of Rules, which means that the whole bug bounty program is run strictly under the terms stated in this page.\n\n__Known Issue Assurance__\n\nBankX commits to providing Known Issue Assurance to bug submissions through their program. This means that BankX will either disclose known issues publicly or at the very least privately via a self-reported bug submission in order to allow for a more objective and streamlined mediation process to prove that an issue is known. Otherwise, assuming the bug report itself is valid, it would result in the bug report being considered in-scope and due 100% of the reward with respect to the bug bounty program terms. \n",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact the vulnerability could otherwise cause based on the Impacts in Scope table further below. \nIn cases of repeatable attacks for smart contract bugs, only the first attack will be counted, regardless of whether the smart contract is upgradable, pausable, or killable.\n\n__Previous Audits__\n\nBankX has provided these completed audit review reports for reference. Any unfixed vulnerability mentioned in these reports are not eligible for a reward.\n- [https://docs.bankx.io/docs/doc-SmartContractAudit/ ](https://docs.bankx.io/docs/doc-SmartContractAudit/)\n\n__Proof of Concept (PoC) Requirements__\n\nA PoC is required for the following severity levels:\n- Smart Contact, Critical Severity Level\n\nAll PoCs submitted must comply with the Immunefi-wide [PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules) Bug report submissions without a PoC when a PoC is required will not be provided with a reward.\n\n__Reward Payment Terms__\n\nPayouts are handled by the BankX team directly and are denominated in USD. However, payments are done in USDC.\n",
+      "outOfScopeAndRules": "These impacts are out of scope for this bug bounty program. \n\n__All Categories__\n\n- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (governance, strategist) except in such cases where the contracts are intended to have no privileged access to functions that make the attack possible\n- Impacts caused by attacks on the NFT\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n\n__Smart Contracts__\n\n- Incorrect data supplied by third party oracles\n   - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks\n- Best practice recommendations\n\nThe following activities are prohibited by this bug bounty program:\n\n- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "All code of BankX can be found at [https://github.com/BankXio.](https://github.com/BankXio) Documentation for the assets provided in the table can be found at [https://docs.bankx.io/docs/doc-Whitepaper/.](https://docs.bankx.io/docs/doc-Whitepaper/)   \n\nUnless explicitly listed, only pages of the web/app assets in addition to the direct link are considered in-scope of the bug bounty program. Other subdomains are not considered as in-scope. However, for subdomain takeovers that lead to an impact on the in-scope asset, please refer to our page about [Reported Subdomain Takeovers.](https://immunefisupport.zendesk.com/hc/en-us/articles/14352199704593-Reported-Subdomain-Takeovers)",
+      "impactsBody": "The scope is focused solely on any exploit that results in loss in either of the liquidity pools or the collateral pool.  Contracts are on the BSC chain only.",
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Stablecoin",
+          "Staking"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "BSC",
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $10,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "BankX Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on BankX and get paid up to $10,000.",
+      "url": "https://immunefi.com/bug-bounty/bankx",
+      "ogImg": "/api/bounty/og-image?project=BankX"
+    }
+  },
+  "__N_SSP": true
+}

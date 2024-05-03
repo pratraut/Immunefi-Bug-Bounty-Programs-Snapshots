@@ -1,0 +1,421 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "5hGeEYBaimwrEqTPdcs5B7",
+      "id": "origindefi",
+      "slug": "origindefi",
+      "project": "Origin DeFi (OUSD and OETH)",
+      "maxBounty": 1000000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/vnibB6fbR7hfXGN73S247/1f539c58b51eb6aedfb6cab8b17b8c82/Origin_Dollar_Logo__1_.jpeg",
+      "launchDate": "2021-11-22T07:15:00.000Z",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:53:41.631Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $1,000,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $15,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "USD $25,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "ox38hMUV4qMzBkGNsNs7F",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+          "description": "OUSD",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3E5FfMOmZpS4Wc3mJdnV9n",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe75d77b1865ae93c7eaa3040b038d7aa7bc02f70",
+          "description": "Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3YHzJCLbbYQQwnu7eCZHF4",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa7695eED05094E28AA575CB0cCa3CF17848a7981",
+          "description": "Oracle Router",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "RTcE363oMeSHOudPI9cQr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5e3646A1Db86993f73E6b74A57D8640B69F7e259",
+          "description": "Aave Strategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5abd8HMQpbPINqSvePosP4",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9c459eeb3FA179a40329b81C1635525e9A0Ef094",
+          "description": "Compound Strategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1ukSUUBOEM57jjtaK4LDYL",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xea2ef2e2e5a749d4a66b41db9ad85a38aa264cb3",
+          "description": "Convex Strategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "HCsqI6bpUhndviXBNvYBF",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x89eb88fedc50fc77ae8a18aad1ca0ac27f777a90#code",
+          "description": "Convex OUSD Metastrategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "62grkFnHgGFqiu3q7jg0Hb",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5A4eEe58744D1430876d5cA93cAB5CcB763C037D",
+          "description": "Morpho Strategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7JTDxKivDN7R5OMlFJNPBk",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9c354503c38481a7a7a51629142963f98ecc12d0",
+          "description": "OGV",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4n1vGh7jcZIfbtKpNJJyPj",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0c4576ca1c365868e162554af8e385dc3e7c66d9",
+          "description": "veOGV",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6CB91aQWlskpwFnpgGNEQW",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7d82e86cf1496f9485a8ea04012afeb3c7489397",
+          "description": "OGV Inflation Controller",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6sbeXi5HZhiyh6jMzmgexr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x72426BA137DEC62657306b12B1E869d43FeC6eC7",
+          "description": "Governor / Timelock",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6Oqh9hZaeK2PiFHmzol7KC",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x77314EB392b2be47C014cde0706908b3307Ad6a9",
+          "description": "OGN Buyback",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4L7FpJeSR5va1IkzmCtAPK",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x501804B374EF06fa9C427476147ac09F1551B9A0",
+          "description": "OGN Staking",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5NTOzubKjCuk8dsnQ9FZS6",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xcecaD69d7D4Ed6D52eFcFA028aF8732F27e08F70",
+          "description": "OUSD Swap",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6raEdX4tNnOa6HN07ZniUd",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x21fb5812d70b3396880d30e90d9e5c1202266c89",
+          "description": "Harvester",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5ki5pKomHAvufed4W9RXRk",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x80c898ae5e56f888365e235ceb8cea3eb726cb58",
+          "description": "Dripper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2UH4y4SDWYdI9TaE6ku9kI",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+          "description": "OETH Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5xvdatsC4cqGtVXyTh7n5K",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+          "description": "wOETH Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "BjCXQnbwKSuyj84STj99U",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x39254033945AA2E4809Cc2977E7087BEE48bd7Ab",
+          "description": "OETH Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "PojWKrOrFbR2DHRMPciku",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3fF8654D633D4Ea0faE24c52Aec73B4A20D0d0e5",
+          "description": "OETH Frax Staking Strategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3tnHwfSfWLEem3uG7Jm3bX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0D017aFA83EAce9F10A8EC5B6E13941664A6785C",
+          "description": "OETH Harvester",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "28Wi2ecYdSP6D0eSoG3Atk",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1827F9eA98E0bf96550b2FC20F7233277FcD7E63",
+          "description": "Convex OETH Meta Strategy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2XXA3W87V5iOGHcTRzamns",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc0F42F73b8f01849a2DD99753524d4ba14317EB3",
+          "description": "OETH Dripper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "YohPfAcEEMQAVhmAuLqOS",
+          "type": "websites_and_applications",
+          "url": "https://www.ousd.com/",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3J2MlNDdNTk1g17pBqWoRX",
+          "type": "smart_contract",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        },
+        {
+          "id": "4a6UXPTyToNNKXVax9dh66",
+          "type": "websites_and_applications",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
+        },
+        {
+          "id": "15KmAvq9njObHYfWObLYHK",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
+          "description": "PrimeStakedETH Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2lmTvco35nQ88l5rAmqKCl",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xA479582c8b64533102F6F528774C536e354B8d32",
+          "description": "Prime LRTDepositPool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2YspV2PF6mjvEsLaYaddtQ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xF879c7859b6DE6FAdaFB74224Ff05b16871646bF",
+          "description": "Prime LRTConfig",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6Fgw25k8TfFfIfkIOcRGE4",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xA755c18CD2376ee238daA5Ce88AcF17Ea74C1c32",
+          "description": "Prime LRTOracle",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5TaAJSLhoPjIj6qVOdtbfr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8bBBCB5F4D31a6db3201D40F478f30Dc4F704aE2",
+          "description": "Prime NodeDelegator",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "698vQ4twUCO638KBqs9NT8",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1j5MtWszQsAPVRAHQ0fXci",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6ogiKZLv3hicRocEMQipSB",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7rYVVLeYkjhXvalnytL7k4",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6Jvt8QTwjSA7wSlMOIpXBV",
+          "title": "Ability to execute system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "1VhZBr2WMcU8AeZb0BnrEo",
+          "title": "Stealing User Cookies",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "7Aq9h2h2ipfFMTqv8IMEyM",
+          "title": "Signing transactions for other users",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5OiAU2Dxp1PjSndtAcoZwy",
+          "title": "Redirection of user deposits and withdrawals",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "39g5JJZ5mDFLGGJUoUnZmz",
+          "title": "Subdomain takeover resulting in financial loss (applicable for subdomains with addresses published)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5S9gF4AIbc5aGmUMllYD9M",
+          "title": "Wallet interaction modification resulting in financial loss",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5vVJonEmE812LMqYSK36QB",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6S3P6RPiyBUan2kGqdrhSu",
+          "title": "Tampering with transactions submitted to the user’s wallet",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2Qa1Vk7MeRBvNHPxwcXNso",
+          "title": "Submitting malicious transactions to an already-connected wallet",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5WmzMvieQ6WsVKS1WNBXJz",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "4EC2hcemEJyHyZoWZTQw7P",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3h1wFMU4yrsRWUmmCfg3GU",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "Created by cryptocurrency and fintech veterans, the Origin Dollar is brought to you by the team at Origin Protocol that includes serial entrepreneurs, early cryptocurrency investors, early employees at YouTube, engineering managers at Google/Dropbox, and one of the Paypal co-founders, Yu Pan.\n\nOrigin Dollar (OUSD) is a new, fully backed stablecoin that was initially launched in September 2020 on the Ethereum network. Its design is superior to existing stablecoins because OUSD captures competitive yields while being passively held in wallets.\n\nFor more information about Origin Dollar, please visit [https://www.ousd.com/](https://www.ousd.com/).  \n\nThis bug bounty program is focused on their smart contracts and app and is focused on preventing:\n\n  - Loss of funds\n  - Loss of more than 10% of yield\n  - Freezing of funds that cannot be undone by admin actions\n  - Ability for an unauthorized user to use admin actions\n  - Governance process failures\n  - Redirected funds by address modification\n  - Shell access on server\n  - Injection of text\n  - Ability to have other users run arbitrary code on the site\n\n__Primacy of Impact vs Primacy of Rules__\n\nOrigin Dollar adheres to the Primacy of Impact for the following severity levels:\n  - Smart Contract: Critical\n\nIf a category’s severity level is covered within the Primacy of Impact, it means that even if the impacted asset is not in-scope but is owned by the project, then it would be considered as in-scope of the bug bounty program as long as it involves an impact under that respective severity level. When submitting a report, just select the Primacy of Impact asset placeholder. If the team behind this project has multiple projects, those other projects are not covered under the Primacy of Impact of this program. Instead, check if those other projects have a bug bounty program on Immunefi.\n\nNon-deployed contracts on Github are not covered under the Primacy of Impact. \n\nAll other severity levels not listed here are considered under the Primacy of Rules, which means that they are bound by the terms of the bug bounty program.",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n   - including flash loan attacks\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Missing access controls / unprotected internal or debugging interfaces\n\n__Websites and Apps__\n\n  - Remote Code Execution\n  - Trusting trust/dependency vulnerabilities\n  - Vertical Privilege Escalation\n  - XML External Entities Injection\n  - SQL Injection\n  - LFI/RFI\n  - Horizontal Privilege Escalation\n  - Stored XSS\n  - Reflective XSS with impact\n  - CSRF with impact\n  - Direct object reference\n  - Internal SSRF\n  - Session fixation\n  - Insecure Deserialization\n  - DOM XSS\n  - SSL misconfigurations\n  - SSL/TLS issues (weak crypto, improper setup)\n  - URL redirect\n  - Clickjacking (must be accompanied with PoC)\n  - Misleading Unicode text (e.g. using right to left override characters)",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit. \n\nAll Smart Contract and Web/app bug reports must come with a PoC in order to be considered for a reward.\n\nThe known issues listed below are considered out of scope: \n\n  - All issues found in their past audits here: [https://docs.ousd.com/security-and-risks/audits](https://docs.ousd.com/security-and-risks/audits)\n\n  - OUSD does not guarantee which stablecoins will make up the backing stablecoins nor the value of those backing stable coins. Attacks which only change the mix of stablecoins, but do not reduce the total number of stablecoins held are excluded.\n\n  - Reductions in the number of backing stablecoins due to governance or strategist actions that move coins into or out of strategies, where the reduction comes from the normal fees of the underlying strategy or the price difference of stablecoins being moved in or out are excluded.\n\n  - Rounding in the flipper contract is intentional.\n\nCritical vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum of __USD 50 000__ for Critical bug reports on smart contracts. \n\nPayouts are handled by the __Origin Protocol__ team directly and are denominated in USD. However, payouts are done in __OUSD__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\n__Websites and Apps__\n\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR\n  - CSRF with no security impact (logout CSRF, change language, etc.)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)\n  - Server-side information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring unlikely user actions\n  - URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Attacks requiring privileged access from within the organization\n  - Feature requests\n  - Best practices\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "In addition, the current implementation contracts of all the listed proxy contracts are in scope. \n\nAll smart contracts of Origin Dollar can be found at [https://github.com/OriginProtocol/origin-dollar/tree/master/contracts/contracts](https://github.com/OriginProtocol/origin-dollar/tree/master/contracts/contracts). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Stablecoin"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $1,000,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $15,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $25,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Origin DeFi (OUSD and OETH) Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Origin DeFi (OUSD and OETH) and get paid up to $1,000,000.",
+      "url": "https://immunefi.com/bug-bounty/origindefi",
+      "ogImg": "/api/bounty/og-image?project=Origin+DeFi+%28OUSD+and+OETH%29"
+    }
+  },
+  "__N_SSP": true
+}

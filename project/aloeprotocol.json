@@ -1,0 +1,201 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "38ZVnQbEIp7jWIDjYGRhK9",
+      "id": "aloeprotocol",
+      "slug": "aloeprotocol",
+      "project": "Aloe Protocol",
+      "maxBounty": 25000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/51IzSZLBt894lnbsstJ8eT/f146559e85c54edd25a80d2856940394/Aloe_Protocol_logo.jpeg",
+      "launchDate": "2022-05-03T10:30-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:50:31.920Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $25,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Up to USD $10,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $2,500",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "4FbdSFEMsrB9XzcoMl0ptx",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0xcA91bb5e6F98BD99b9Ca8aED1B9c5d12e139DB3d",
+          "description": "Volatility Oracle",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "18lfDzinF22qesLtg5764F",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0xBD477956Ad74329664f45978A3876B024E3da73d",
+          "description": "Rate Model",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2RGeZio8vc7zeXyJ4XYdCJ",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0x95110c9806833d3d3c250112fac73c5a6f631e80",
+          "description": "Factory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6FmBRknmyykXOdnSX47wE3",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0x62eAa8b180faebfBb0627dBd07E23f27379c147e",
+          "description": "Lender (implementation; proxies count too)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6YtNCeXFm8M95vRetXugR5",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0x1f76900b7a3757dC54F12f84a4F3DF4440af8a05",
+          "description": "FrontendManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3hWOFt6bpBa1L4jOd3XDR9",
+          "type": "smart_contract",
+          "url": "https://optimistic.etherscan.io/address/0x3E24f42f17436347e76121b5e9c632E0d3A66fCb",
+          "description": "Router",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6uD8bOhEgfEtF4Eyxa2Pk7",
+          "title": "Theft of user funds from `Lender.sol` or `Borrower.sol` instances",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5WjR7KDj3nh4kKEnr3TH1d",
+          "title": "Freezing of user funds in `Lender.sol` or `Borrower.sol` instances for any amount of time (other than what’s expected from borrow utilization)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3VSMZjAlj6dOp134EqweYe",
+          "title": "Storage conflicts between implementations and proxies",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6A2OpQ20ECHFvLc8XQYjHk",
+          "title": "Manipulation of `Lender.sol` or `Borrower.sol` including but not limited to: causing errant deposits and withdrawals via overflows, significant rounding errors, poor input validation, , or similar",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "39m7jyoVDNHXwU8v1PA30g",
+          "title": "Manipulation of `Lender.sol` or `Borrower.sol` including but not limited to: calling `accrueInterest` such that it loses track of or freezes funds, Causing premature liquidations or out-of-spec liquidation rewards",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3BrLdXcWoLJpP7DYxkJLf7",
+          "title": "Theft of unclaimed user yields from `Lender.sol` instances",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "pA0o2lmMu7cDXduNDsd1z",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5uUM16vAW6LipgGCGWgjfc",
+          "title": "Oversights in contract efficiency (optimizations > 50000 gas)",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "The Aloe Protocol is a suite of free, open-source software that Aloe Labs published on various blockchains. Aloe Blend was an automated liquidity management system for Uniswap V3. Aloe II is a money-market that lets users earn yield, use Uniswap positions as collateral, or create new ones on margin. This bug bounty covers Aloe II only, not Aloe Blend.\n\nFor more information about Aloe Protocol, please visit [https://docs.aloe.capital](https://docs.aloe.capital).",
+      "prioritizedVulnerabilities": "__Impacts in Scope__\n\nOnly the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\n\n__Smart Contracts__\n\n__Critical__\n  - Theft of user funds from `AloeBlend.sol` instances\n  - Freezing of user funds in `AloeBlend.sol` instances for any amount of time\n  - Theft of Yield is considered Critical if the theft is greater than what the endangered entity (may be a specific Blend pool, set of pools, or protocol as a whole) generates in an average week.\n  - Manipulation of `AloeBlend.sol`. This includes but is not limited to:\n    - Calling `rebalance` such that it loses track of or freezes funds\n    - Calling `rebalance` such that it gives the caller more than `maintenanceBudget{0,1}` worth of `token{0,1}` or allows them to divert more than 10% of `token{0,1}` earnings to the maintenance budgets\n    - Causing errant deposits and withdrawals to/from Uniswap V3 via overflows, rounding errors, poor input validation, or similar\n    - Causing errant deposits and withdrawals to/from the protocols with which Aloe integrates (silos)\n\n__High__\n  - Any attack which causes pool performance to dip below the `sqrt(price)` baseline. For example, the USDC/ETH pool should perform at least as well as `sqrt(ETH price)`. Examples:\n    - Incorrect math in the `_computeMagicAmounts` function\n    - Flaws in `rebalance` that accrue too much value to the maintenance budgets\n  - Theft of unclaimed user yields from `AloeBlend.sol` instances\n\n__Medium__\n  - Unbounded gas consumption \n  - `rebalance` incentivization exploits that freeze incentives for more than 1 month:\n    - Gas price oracle manipulation. Note: If the cost of oracle manipulation is >>> than the reward for doing so, we’re not so worried about it.\n\n__Low__\n  - Oversights in contract efficiency (optimizations > 50000 gas)\n\n__Websites and Applications__\n\n__Critical__\n  - Execute arbitrary system commands\n  - Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys (this does not include non-sensitive environment variables, open source code, or usernames)\n  - Taking down the application/website\n  - Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.\n  - Subdomain takeover with already-connected wallet interaction\n  - Direct theft of user funds\n  - Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions \n\n__High__\n  - Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.\n  - Subdomain takeover without already-connected wallet interaction\n\n__Medium__\n  - Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data\n  - Redirecting users to malicious websites (Open Redirect)\n\n__Low__\n  - Any impact involving a publicly released CVE without a working PoC\n  - Temporarily disabling user to access target site, such as locking up the victim from login, cookie bombing, etc.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll Low and Medium Smart Contract bug reports require a suggestion for a fix to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nCritical smart contract vulnerabilities are capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 5 000__. \n\nHigh smart contract vulnerabilities are capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 1 000__. \n\nThe following vulnerabilities are not eligible for a reward:\n\n  - Aloe II is incompatible with fee-on-transfer tokens\n  - Known issues listed on GitHub (like this) unless one can demonstrate that user funds are in immediate danger\n  - Anything that would take more than 10 years to become a real threat (e.g. storing timestamps as `uint32`)\n  - Equation for implied volatility is an approximation. See [here](https://docs.aloe.capital/aloe-blend/mathematics)\n\nAloe Labs requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed is a W9 or W8-BEN. This includes information like name, address, and taxpayer identification number. The collection of this information will be done by the project team.\n\nPayouts are handled by the __Aloe Labs__ team directly and are denominated in USD. However, payouts are done in __USDC and USDT__, with the choice of the ratio at the discretion of the reporters. \n",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Attacks on the protocols with which Aloe is integrated (Uniswap)\n  - Loss/freezing of tokens other than the pool’s primary tokens (`token0` and `token1`).\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts for Aloe II can be found at [https://github.com/aloelabs/aloe-ii/tree/v0.0.1-beta](https://github.com/aloelabs/aloe-ii/tree/v0.0.1-beta). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf an impact can be caused to any other asset published by Aloe Labs that isn’t on this table, but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. Note that the usual minimum bounties do not apply to out-of-scope assets.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "AMM",
+          "Lending"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Base",
+          "ETH",
+          "Optimism"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $25,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,500"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Aloe Protocol Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Aloe Protocol and get paid up to $25,000.",
+      "url": "https://immunefi.com/bug-bounty/aloeprotocol",
+      "ogImg": "/api/bounty/og-image?project=Aloe+Protocol"
+    }
+  },
+  "__N_SSP": true
+}

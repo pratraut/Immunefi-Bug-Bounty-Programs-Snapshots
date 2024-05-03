@@ -1,0 +1,146 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "4WzXJzRyYzHvF3OhSfBKVO",
+      "id": "gamma",
+      "slug": "gamma",
+      "project": "Gamma",
+      "maxBounty": 50000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2teADVeqlZjb4p9u7YbiMX/9c40208f8f56b9beb73bb3077228fa2c/Gamma_Logo.png",
+      "launchDate": "2021-10-08T10:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:52:21.126Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $50,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "21zPm19TlbEQqK0SR1jK48",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x26805021988F1a45dC708B5FB75Fc75F21747D8c",
+          "description": "xGamma",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2zW4jVKz9ikehx9XfuQkKY",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa8076ae31e4b6c64d07b1ed27889924a962a70d3",
+          "description": "Hypervisor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5HYeXpcawP3e58xcFJJJrT",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x83de646a7125ac04950fea7e322481d4be66c71d",
+          "description": "UniProxy",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "6K5e1URbnne8iDT4rJh3rc",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2437m0ZpgAEgScPT3hHpVO",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5vO8zwqkWuv7AUkOw4qAcg",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1lS8fumElDQ3eUdOOUFtyp",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "74IHgx9xYaVEFYmFoQ3Hfu",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "FQjpmmlpryS0rA2VDY0vq",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Access active liquidity management on Uniswap v3. Gamma has developed a protocol, a management infrastructure, and a variety of strategies used by managers and market makers. As an LP, you can deposit your assets for Gamma to actively manage in Uniswap v3 positions, returning yield in the asset you deposit.\n\nFor more information about Gamma, please visit [https://www.gammastrategies.org/](https://www.gammastrategies.org/).   \n\nThis bug bounty program is focused on their smart contracts and is focused on preventing:\n\n  - Loss of user funds\n  - Theft of unclaimed yield or principal\n  - Freezing of unclaimed yield",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n    - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces\n",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the Immunefi Vulnerability Severity Classification System. This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit. \n\nAll bug reports must come with a PoC in order to be considered for a reward. \n\nThe following known issues would be considered as out-of-scope of this bounty program: \n  - For the UniProxy contract, its deposit configuration is its operational context. Attacks which depend on different configuration than provided for their example hypervisor contract are not to be considered\n  - For the xGamma contract, an attack is possible wherein the attacker deposits just before and withdraws just after rebase. In our operational context, they do not send funds (rebase) to the xGamma contract outside of private rpc.\n\nPayouts are handled by the __Gamma__ team directly and are denominated in USD. However, payouts are done in either __GAMMA__, __ETH__ or __USDC__, up to the discretion of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Attacks which require differing operational configuration than targets supplied\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "All smart contracts of Gamma can be found at [https://github.com/GammaStrategies/hypervisor/tree/stable](https://github.com/GammaStrategies/hypervisor/tree/stable). \nHowever, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "AMM",
+          "Liquid Staking"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $50,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Gamma Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Gamma and get paid up to $50,000.",
+      "url": "https://immunefi.com/bug-bounty/gamma",
+      "ogImg": "/api/bounty/og-image?project=Gamma"
+    }
+  },
+  "__N_SSP": true
+}

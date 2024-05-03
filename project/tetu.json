@@ -1,0 +1,371 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "6nbwr3ngW1Aj8NVKom2OHT",
+      "id": "tetu",
+      "slug": "tetu",
+      "project": "Tetu",
+      "maxBounty": 13300,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7CCYGOBFsU41GSuxkFGa16/7e0eeb6ee440d7433975d3832e762a74/Tetu_Logo___1_.jpeg",
+      "launchDate": "2021-11-30T12:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:55:00.930Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to 1,000,000 TETU (~USD $13,300)",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "150,000 TETU",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "75,000 TETU",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "25,000 TETU",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "7wNUVpft2AwrvuPaBqKDAL",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x255707b70bf90aa112006e1b07b9aea6de021424",
+          "description": "TETU Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1jN2kL9l0eJmZlip3UqC46",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x225084d30cc297f3b177d9f93f5c3ab8fb6a1454",
+          "description": "xTETU Profit Share Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3mtt2c2wDLvDE4v0mhFu6m",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x6678814c273d5088114B6E40cC49C8DB04F9bC29",
+          "description": "Controller",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1LP1rj09BIRo6PChUDEDZJ",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x286c02C93f3CF48BB759A93756779A1C78bCF833",
+          "description": "Announcer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5H8adeMsHJHvE43ZN0bEJi",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x81367059892aa1D8503a79a0Af9254DD0a09afBF",
+          "description": "MintHelper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5uqa6OoZ5FoHBoDAJlrxTM",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2",
+          "description": "FundKeeper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5FuETTn7RITaYXLKKl9vve",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x7fc9e0aa043787bfad28e29632ada302c790ce33",
+          "description": "tetuBAL(poly)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7iBLilKXtkZiE0wslnaQGW",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xFE700D523094Cc6C673d78F1446AE0743C89586E",
+          "description": "tetuBAL(eth)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "50HgCplLmD9crdbHUK0PVu",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9cc56fa7734da21ac88f6a816af10c5b898596ce",
+          "description": "BalLocker(eth)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6qaSPbz8Ob3VfMPF9RYOlm",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xBb84098e47d217f51cB014f692eada1F2280a179",
+          "description": "BalDepositor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2dRma7A5BMP767GKiYTbP3",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x6fb29dd17fa6e27bd112bc3a2d0b8dae597aeda4",
+          "description": "veTETU",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3iPQ7IhLMhtslgxS5bHNJy",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x33b27e0a2506a4a2fbc213a01c51d0451745343a",
+          "description": "ControllerV2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7Hu7vhtGikvZoBpYQZdaGp",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x0d397f4515007ae4822703b74b9922508837a04e",
+          "description": "TetuVault V2 USDC",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6XyTQxoMpyzk31dQGAZnCd",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x088d316ee4943b04fe949b091e90a8cfd793d82b",
+          "description": "TetuVault V2 WETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5QAHWr2v5Kz3vzbXD4w8T5",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x34d4017f547d3d5d28d773f0a7c999a11c2b786b",
+          "description": "TetuVault V2 WBTC",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3wq7CHYoMtMkVggPgYY8iJ",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xf9d7a7fdd6fa57ebca160d6d2b5b6c4651f7e740",
+          "description": "TetuVault V2 WMATIC",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4wZR0kbTrRtDdqx9wee8Ax",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xc5690f7063eb60d474bcdb38b60ebf4c3a8ece3c",
+          "description": "BorrowManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6MuvEHsFKYQIgxSmRwZ5PI",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x2df21e2a115fcb3d850fbc67237571bbfb566e99",
+          "description": "ConverterController",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6gNTKPl6w0t0GB3ti5kInz",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xaf2decd5ad64d833be5bbd4d7eb16fea57d473a2",
+          "description": "DebtMonitor",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5Fcwq4UlqLhDnLsOm7wi51",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x8e24157016b0ea7693a3bb8a62c585f5b77828ec",
+          "description": "PriceOracle",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6wWdsmy2VbB1nu0MCAtOsu",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x59d34f2fa054369ebce4ad244f4ab3a9f51700f3",
+          "description": "SwapManager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3khEPmmsOcptLc3XcjuGHe",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x5e1226f7e743ca56537b3fab0c1a9ea2fae7bab1",
+          "description": "TetuConverter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2RtsMmZdKFh3ibHf9na6on",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xee97b67609cd92dad3772bc9c0a672c38effaf6c",
+          "description": "Aave3PlatformAdapter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2D08yElrn4hZORNo8h1Lbe",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x11d108c51486cc5ae8f099d5c0ed2ec1294e5573",
+          "description": "AaveTwoPlatformAdapter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "vCXQt4jkxHsjpM9r9zDDr",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xb86fc63f7409ffde027cb75cd2a424e85f6eff42",
+          "description": "DForcePlatformAdapter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2OMMZYtyCeakL3ZOlGSrfD",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x16f31fdbb251844624886eec1bcaa452cde4a135",
+          "description": "Compound3PlatformAdapter",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "1J9f2qP8gQAtLy254rb9Sp",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3G7p2tofOilZmcROHwgj7m",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4d56lTsEA11En1dL6NulfB",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4y5CvTcwJM2GBABHKLrxzZ",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "76A1k30h9qfZon5ov0HUHU",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "bpv6IEWmG67O69bDHuVGh",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "33xJ0AH9fXr0Vn4lF2n8oZ",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1trP8Io7IEw1WlI10hkR6N",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5SCc71vrqxCnidNiAA6kyD",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "qb1joPXntsgoaO6YFykJm",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2cmSEdefGgkFTRltyoeC2G",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "bdVfL1vOXlwmIYX5nbOqi",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3brEopZdh6wCf965gSmZLV",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "TETU is a DeFi application built on Polygon that implements automated yield farming strategies in order to provide investors with a safe and secure method of receiving high and stable yield on their investments. Tetu's innovative solutions provide automated yield aggregation and distribution through xTETU.\n\nTetu's development focus is to build a self-sustaining yield management ecosystem that provides stable and attractive yields for users. Tetu aims to make the development of automated and decentralized Yield management solutions the main structure of the protocol.\n\nFor more information about Tetu, please visit [https://tetu.io/](https://tetu.io/).  \n\nThis bug bounty program is focused on their smart contracts and app and is focused on preventing:\n\n  - Thefts and freezing of principal of any amount\n  - Thefts and freezing of unclaimed yield of any amount\n  - Theft of governance funds \n  - Governance activity disruption\n",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces\n",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit. \n\nAll critical smart contract bug reports must come with a PoC and a suggestion for a fix in order to be considered for a reward. \n\nCritical smart contract vulnerabilities are further capped at 10% of economic damage, primarily taking into account the funds at risk. However, there is a minimum reward of 50 000 TETU tokens. Additionally, the maximum reward is capped at 1 000 000 TETU, even if 10% of the damage in USD equivalent is greater than the USD equivalent of 1 000 000 TETU. \n\nThe USD amounts provided in this bug bounty program is just an estimate of the equivalent USD value at the time of this publication. The rewards are only paid out in TETU. \n\nVulnerabilities that require moderator-approved access in order to be exploited will only receive a maximum of 20% of the advertised reward. For Critical Smart Contract and Blockchain vulnerability reports, this 20% is applied after the cap of 10% of economic damage.  \n\nTheft of yield/interest is considered as Medium for this bug bounty program.\n\nPayouts are handled by the __Tetu__ team directly and are denominated in TETU. Payouts are done in __TETU__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Tetu can be found at:\n\n  - [https://github.com/tetu-io/tetu-contracts](https://github.com/tetu-io/tetu-contracts)\n  - [https://github.com/tetu-io/tetu-contracts-v2](https://github.com/tetu-io/tetu-contracts-v2)\n  - [https://github.com/tetu-io/tetu-converter](https://github.com/tetu-io/tetu-converter)\n  - [https://github.com/tetu-io/tetu-liquidator](https://github.com/tetu-io/tetu-liquidator)\n  - [https://github.com/tetu-io/tetu-v2-strategies-polygon](https://github.com/tetu-io/tetu-v2-strategies-polygon)\n\nHowever, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Asset Management",
+          "DEX",
+          "Lending",
+          "Token",
+          "Yield Aggregator"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Polygon"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to 1,000,000 TETU (~USD $13,300)"
+          },
+          {
+            "level": "High",
+            "payout": "150,000 TETU"
+          },
+          {
+            "level": "Medium",
+            "payout": "75,000 TETU"
+          },
+          {
+            "level": "Low",
+            "payout": "25,000 TETU"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Tetu Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Tetu and get paid up to $13,300.",
+      "url": "https://immunefi.com/bug-bounty/tetu",
+      "ogImg": "/api/bounty/og-image?project=Tetu"
+    }
+  },
+  "__N_SSP": true
+}

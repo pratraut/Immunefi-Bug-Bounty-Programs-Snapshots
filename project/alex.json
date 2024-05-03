@@ -1,0 +1,238 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "2GcWHqa62tzKseBJCnuC0t",
+      "id": "alex",
+      "slug": "alex",
+      "project": "ALEX",
+      "maxBounty": 100000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5tF3UdYVrbkjGeIg96gbd/d8bdfa09ca4945ae30cb4d6e90b029d7/ALEX_logo.jpeg",
+      "launchDate": "2021-12-12T18:00-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:49:24.348Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $100,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Up to USD $20,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "7N0vaSsTkwrl6P6UEjCZQm",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/pool/alex-launchpad-v1-1.clar",
+          "description": "ALEX Launchpad v1.1",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "18D6Md4dRFvGZzNtIiqDG3",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/pool/alex-reserve-pool.clar",
+          "description": "ALEX Reserve Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4qAoKrS3TkH8n5JEuionF",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/pool/fixed-weight-pool-v1-01.clar",
+          "description": "Fixed Weight Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4ULE2Yl2Rnd1B2dBITAbyz",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/pool/simple-weight-pool-alex.clar",
+          "description": "Simple Weight Pool (ALEX)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4FIwofSkZlhrbXCxaeb8rA",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/alex-vault.clar",
+          "description": "ALEX Vault",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1HLYAH5XoUz4yW2AU4Y5aj",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-dao/blob/main/contracts/executor-dao.clar",
+          "description": "ALEX DAO",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3xN50CzipGnomCqLZLXEUx",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-dao/blob/main/contracts/extensions/age000-governance-token.clar",
+          "description": "ALEX Governance Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2xGOLPYOyP0z6f2Dqnht2Y",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-dao/blob/main/contracts/extensions/age001-proposal-voting.clar",
+          "description": "AGE 001",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "b63909e3evZbUNRqn85qx",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-dao/blob/main/contracts/extensions/age002-emergency-proposals.clar",
+          "description": "AGE 002",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "DYLZmtXS9gyDsZfP7iBPj",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-dao/blob/main/contracts/extensions/age003-emergency-execute.clar",
+          "description": "AGE 003",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3lCb33XbHmHn0P5ohvTRkM",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/pool/collateral-rebalancing-pool.clar",
+          "description": "Collateral Rebalancing Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4bPKzHS11ZzEL6AdhOnceU",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/pool/yield-token-pool.clar",
+          "description": "Yield Token Pool",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6NZyeTet94bCkFhx5e6QWM",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-v1/blob/dev/clarity/contracts/auto-token/auto-alex.clar",
+          "description": "AutoALEX",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1OxKS1rE3Qagpw2QwLsvhT",
+          "type": "smart_contract",
+          "url": "https://github.com/alexgo-io/alex-bridge-contracts",
+          "description": "Bridge",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "5AsUqEB0f7v8ADmeoOwH2x",
+          "title": "Loss of user funds staked (principal) by freezing or theft",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5Y5np8CTZCfW0dkcFPHO3z",
+          "title": "Vote manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "7GZjgMV2gtaNRJjwrJ2GrJ",
+          "title": "Miner-extractable value (MEV)",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "5ou7NgQP7gIZ3I7kwjDur6",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2SBSju9mFpl2w2fS83ob3h",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6XO5n7OBPulh8rteu8Pylz",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "9xOAleXws9aYmznGlhpWH",
+          "title": "Freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5Q0Q6SbuyVeaChkVs6MLv5",
+          "title": "Temporary freezing of funds for a minimum period of 1 day",
+          "type": "smart_contract",
+          "severity": "high"
+        }
+      ],
+      "programOverview": "At ALEX, we build DeFi primitives targeting developers looking to build ecosystem on Bitcoin, enabled by Stacks. As such, we focus on trading, lending and borrowing of crypto assets with Bitcoin as the settlement layer and Stacks as the smart contract layer. At the core of this focus is the automated market making (\"AMM\") protocol, which allows users to exchange one crypto asset with another trustlessly.\n\nFor more information about ALEX, please visit [https://alexgo.io/](https://alexgo.io/). \n\nThis bug bounty program is focused on their smart contracts and is focused on preventing:\n\n  - Thefts and freezing of principal of any amount\n  - Thefts and freezing of unclaimed yield of any amount\n  - Theft of governance funds \n  - Governance activity disruption",
+      "prioritizedVulnerabilities": "__Impacts in Scope__\n\nOnly the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.\n\n__Smart Contracts__\n\n__Critical__\n  - Any governance voting result manipulation\n  - Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield\n  - Permanent freezing of funds\n  - Miner-extractable value (MEV)\n  - Protocol insolvency\n\n__High__\n  - Theft of unclaimed yield\n  - Permanent freezing of unclaimed yield\n  - Temporary freezing of funds for a minimum period of 1 day",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll High and Critical Smart Contract bug reports require a PoC in order to be considered for a reward.  Explanations and statements are not accepted as PoC and code is required. \n\nCritical smart contract vulnerabilities are capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 20 000__ paid in __ALEX__. Additionally, the maximum reward is capped at __USD 100 000)__ paid in __ALEX__, even if 10% of the damage in USD equivalent is greater than the __USD 100 000__. \n\nThe following vulnerabilities are not eligible for a reward:\n\n  - All vulnerabilities marked in the CoinFabrik Security Review [Pool / Equation](https://cdn.alexlab.co/pdf/AlexGo_Audit_202111_Pool_Equation.pdf), [Launchpad / Vault / Reserve](https://cdn.alexlab.co/pdf/AlexGo_Audit_202201_Launchpad_Vault_Reserve.pdf)\n  - All vulnerabilities marked in the CoinFabrik Security Review [DAO](https://cdn.alexlab.co/pdf/AlexGo_Audit_202202_DAO.pdf)\n  - All vulnerabilities marked in the CoinFabrik Security Review [Launchpad v1.1 / AutoALEX / Collateral Rebalancing Pool](https://cdn.alexlab.co/pdf/AlexGo_Audit_202204_Launchpadv1.1_AutoALEX_CRP.pdf)\n  - All vulnerabilities marked in the CoinFabrik Security Review [Bridge Endpoints](https://cdn.alexlab.co/pdf/ALEX_Audit_bridge_coinfabrik_202212.pdf)\n  - All vulnerabilities marked in the CoinFabrik Security Review [Bridge backend and endpoints](https://cdn.alexlab.co/pdf/ALEX_Audit_Bridge_2023-04.pdf)\n  - All vulnerabilities marked in the [Least Authority Security Review](https://cdn.alexlab.co/pdf/Least_Authority_ALEX_Protocol_Smart_Contracts_Final_Audit_Report.pdf) \n\nALEX requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed are Name, Email address, Stacks wallet address, and Identity Proof (Passport, / Driving License / National ID). The collection of this information will be done by the ALEX team.\n\nPayouts are handled by the __ALEX__ team directly. Payouts are done in __ALEX__. \n",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": null,
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Bridge",
+          "DEX",
+          "Launchpad",
+          "Lending"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Stacks"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Clarity",
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $100,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $20,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "ALEX Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on ALEX and get paid up to $100,000.",
+      "url": "https://immunefi.com/bug-bounty/alex",
+      "ogImg": "/api/bounty/og-image?project=ALEX"
+    }
+  },
+  "__N_SSP": true
+}

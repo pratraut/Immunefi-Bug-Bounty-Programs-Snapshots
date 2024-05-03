@@ -1,0 +1,326 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "3RQk4Lv0SHZa53SKCnJMpW",
+      "id": "foundation",
+      "slug": "foundation",
+      "project": "Foundation",
+      "maxBounty": 50000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/74yETFj2nb4JRzxTG8n6fj/8c2e580ac82c0f240095903858c94833/Foundation.jpeg",
+      "launchDate": "2021-05-19T00:00-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:50:51.106Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $50,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Up to USD $10,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "Up to USD $2,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "Up to USD $10,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "Up to USD $4,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "Up to USD $2,000",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "4ok9En4yPBwovTtSu10qLz",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x67df244584b67e8c51b10ad610aaffa9a402fdb6",
+          "description": "Treasury Contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1nfVyLZmDH7BM67L6qlETg",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xcda72070e455bb31c7690a170224ce43623d0b6f",
+          "description": "Market Contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "GGUHiOGlQhprsyPCZ0Fsq",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
+          "description": "NFT Contract",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1jPLpzd6wEN01oqzHEuCHc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x00fc4bb5349f1104d3252c36c308688651e3eb1f",
+          "description": "Percent Splits",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5V8Dz09GCsHF6LS4sHOsuy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x49128CF8ABE9071ee24540a296b5DED3F9D50443",
+          "description": "Foundation ETH",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3VOVLwTIO1CXCainWlwn3m",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3b612a5b49e025a6e4ba4ee4fb1ef46d13588059",
+          "description": "Collection Factory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6kAmKS2lwc26Rye6LEB9h9",
+          "type": "websites_and_applications",
+          "url": "https://foundation.app",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5TW5rfughJXatO5caa8kxa",
+          "type": "websites_and_applications",
+          "url": "https://hasura2.foundation.app",
+          "description": null,
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "NxUpNvNlFJjFGbF9p3sea",
+          "type": "websites_and_applications",
+          "url": "https://api-v2.foundation.app",
+          "description": null,
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "3cHD6r8YMGRFKCkKnyBWP0",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "1SxM1uvyQMdHojokkBc5mf",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3xl16Fln7Y5YY8wFHoumQp",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3QDQipTVqfjv1lFtjof5Xn",
+          "title": "Execute arbitrary system commands",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "4tq8ZWUpfBS3nWS17xsQGn",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "gKFWeU0Jtoy04Qe7dgr3C",
+          "title": "Taking down the application/website",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "NFme9uBB3grlP5l9JFDo2",
+          "title": "Subdomain takeover with already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "2K4t5PyWRyh6c9hT7SpNDl",
+          "title": "Direct theft of user funds",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "12ESlLvysXna0SkLdokyWL",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "6LsiTSWDsB5E7pN9eIGNp2",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3ANMz7LbwTWMckiq5zckMe",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1BueHWQZTYx67X4oi1MKt1",
+          "title": "Temporary freezing of funds",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "rCMX6CJtXeDVvqtXnrSUq",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc.",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "41bVOAUoHsjWRKqlQJHB8w",
+          "title": "Subdomain takeover without already-connected wallet interaction",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "6tvojOqytPSi9uKJtmH9Bk",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5gykcP8r3ZLj8HSJ4UPaDw",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4ekJHy8djlWYFiAALqV47Q",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2UecwZDSVVpIr2XZQuAHK8",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "2Gn9lmKnxXxNn5xkSsOzHi",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "6Tblbn6FNcdj34E38lYZqW",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "77pm4hzhppcSrpUsfwl6QL",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "IGH054wNgkLDjjjWULk17",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        }
+      ],
+      "programOverview": "Foundation helps creators mint and auction their digital artworks as NFTs on the Ethereum blockchain. As collectors bid, they fuel a new system of value for online expression. \n\nFoundation bridges crypto and culture to create mutual support between artists and collectors. They’re forging a community-driven path, providing culturally pioneering curation, and sharing our tools with the rapidly evolving community of developers who are excited to define this future with us. Foundation wants anyone and everyone who cares about the future of digital expression to be a part of it. \n\nFor more information about Foundation, please visit [https://foundation.app/](https://foundation.app/)  ",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts__\n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces\n\n__Web/App__\n\n  - Exploits leading to backend downtime\n  - Modifying content a user shouldn’t be permitted to\n  - SSL or server misconfiguration issues, if shown to be insecure",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the  [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported. \n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required. \n\nIn addition, all bug reports must also come with a suggestion for a fix to be considered for a reward. \n\nKnown issues highlights in the following audit report are considered out of scope:\n  - [https://code4rena.com/reports/2022-02-foundation/](https://code4rena.com/reports/2022-02-foundation/)\n\nFoundation requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed is a national ID and proof of residency (ex. utility bill, bank statement)\n\nPayouts are handled by the __Foundation__ team directly and are denominated in __USD__. However, payouts are done in __USDC__.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Smart Contracts and Blockchain\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n  - Miner-extractable value (MEV)\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n  - This does not exclude reflected HTML injection with or without javascript\n  - This does not exclude persistent plain text injection\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Feature requests\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requires browser bugs for exploitation. ex: CSP bypass \n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n",
+      "assetsBodyV2": "Though only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target.\n\nAll smart contracts of Foundation can be found at [https://github.com/f8n/fnd-protocol](https://github.com/f8n/fnd-protocol) . However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf Critical and High severity impact can be caused to any other asset managed by Foundation that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. \n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "Services"
+        ],
+        "projectType": [
+          "NFT"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $50,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $10,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "Up to USD $2,000"
+          }
+        ],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $10,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $4,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "Up to USD $2,000"
+          }
+        ]
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Foundation Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Foundation and get paid up to $50,000.",
+      "url": "https://immunefi.com/bug-bounty/foundation",
+      "ogImg": "/api/bounty/og-image?project=Foundation"
+    }
+  },
+  "__N_SSP": true
+}

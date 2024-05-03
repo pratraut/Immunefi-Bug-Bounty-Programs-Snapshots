@@ -1,0 +1,368 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "2cbDwLoeZI3Bx1yP4Q8MWe",
+      "id": "autonolas",
+      "slug": "autonolas",
+      "project": "Autonolas",
+      "maxBounty": 50000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4r8fmQqm5emK0IceVDJtLF/1c5f298890761f6b5342c04aa0df8c63/Autonolas_logo.jpeg",
+      "launchDate": "2022-08-10T11:30-06:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:49:52.442Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Up to USD $50,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Up to USD $20,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $5,000",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "USD $1,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "5j72Jx4bynncnIKwF8yE70",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0001A500A6B18995B03f44bb040A5fFc28E45CB0#code",
+          "description": "Autonolas (OLAS)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "43vSdqOVOSiIqNElQAZIDV",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE#code",
+          "description": "Timelock",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4o0Hn2HvBr3X028MezIXm3",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7e01A500805f8A52Fad229b3015AD130A332B7b3#code",
+          "description": "Voting Escrow OLAS (veOLAS)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2einRNN6s1oyWUClqscpMa",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x8e84b5055492901988b831817e4ace5275a3b401#code",
+          "description": "Governor OLAS",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Ko6I5O6QPhQxE5iUvtvT1",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xb09CcF0Dbf0C178806Aaee28956c74bd66d21f73#code",
+          "description": "Burnable Locked Olas (buOLAS)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "31zoszd1YULl3MWF5YgAjA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x4039B809E0C0Ad04F6Fc880193366b251dDf4B40#code",
+          "description": "Wrapped Voting Escrow OLAS (wveOLAS)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "Fz04KTo6PZeMqBA8eQAGe",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0x9338b5153AE39BB89f50468E608eD9d764B755fD#code",
+          "description": "FxGovernorTunnel",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1xCnr82r0OadQWqHvXkm2c",
+          "type": "smart_contract",
+          "url": "https://gnosisscan.io/address/0x15bd56669F57192a97dF41A2aa8f4403e9491776#code",
+          "description": "HomeMediator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "zahGuclhaf4u1UFztqwqw",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x15bd56669f57192a97df41a2aa8f4403e9491776#code",
+          "description": "Component Registry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "77J5EMMqpHGRzaQXD9UJI3",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x7bB7998b210cFfE10ca1e41f16341Abe53f76f3a#cod",
+          "description": "Smart Contract - GuardCM",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1v3ddS1omTVTUjb5jTntBv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2f1f7d38e4772884b88f3ecd8b6b9facdc319112#code",
+          "description": "Agent Registry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3dBOoCy33bpcqQyvTEuVCi",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x48b6af7B12C71f09e2fC8aF4855De4Ff54e775cA#code",
+          "description": "Service Registry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5rWx9GcsGjKW40Akf2ASiT",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3Fb926116D454b95c669B6Bf2E7c3bad8d19affA#code",
+          "description": "Service Registry Token Utility",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7hxGV306qQ8muSc04sRqWo",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x9ec9156def5c613b2a7d4c46c383f9b58dfcd6fe#code",
+          "description": "Registries Manager",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2eNEM1zMWERrmVmV44sncY",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2EA682121f815FBcF86EA3F3CaFdd5d67F2dB143#code",
+          "description": "Service Manager Token",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2S91UghhIP6hk091SVWlOX",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x42042799B0DE38AdD2a70dc996f69f98E1a85260#code",
+          "description": "Operator Whitelist",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6sL6zl47hp245eqkCqMGLG",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x46C0D07F55d4F9B5Eed2Fc9680B5953e5fd7b461#code",
+          "description": " Gnosis Safe Multisig",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "8NguerROkzW4FJEMijWNr",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xfa517d01DaA100cB1932FA4345F68874f7E7eF46#cod",
+          "description": "Gnosis Safe Multisig Same Address",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "AsOGxJigkqGDqCFO79zBG",
+          "type": "smart_contract",
+          "url": "https://polygonscan.com/address/0xE3607b00E75f6405248323A9417ff6b39B244b50#code",
+          "description": "Service Registry L2",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2Y6W98EdfnQQDYRfZpj70h",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa0DA53447C0f6C4987964d8463da7e6628B30f82#code",
+          "description": "Treasury",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1V7vbMgKuQ9moDkS9DTw5u",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xc096362fa6f4A4B1a9ea68b1043416f3381ce300#code",
+          "description": "Tokenomics Proxy",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "NUzjjHHY7gCwZeIjbL4eh",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD599ED4a5c45Fa66AA3C474b00701Fd452a2C30e#code",
+          "description": "Tokenomics",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1z9lMW1fp6GkFi78ySnP98",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1521918961bDBC9Ed4C67a7103D5999e4130E6CB#code",
+          "description": "Generic Bond Calculator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "72sn4X3L8zfsuR4x2LeiRA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xff8697d8d2998d6aa2e09b405795c6f4beeb0c81#code",
+          "description": "Depository",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5IZ1axdaVEp0b9aRKOWujs",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xeED0000fE94d7cfeF4Dc0CA86a223f0F603A61B8#code",
+          "description": "Dispenser",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5xyg4RFe3MnkxfIQkA4Fxb",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xE85791B18F5df42163092Acc5C9da1c479AFEa9d#code",
+          "description": "Donator Blacklist",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "pKx2g3ezuzN6vpTwqLZu4",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6jsRssKAAUvVaAwOkgYg6e",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3pweAAjwksyItqLNx0ybkv",
+          "title": "Permanent freezing of funds",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "4J595C1S1GJoLo2TnsYl5t",
+          "title": "Protocol insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3pGh2Wan2w24kx5SE06DGX",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "2SI8bN2FGfKHpGuPd0Q9KI",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "6ql7CuuhwYswQIq3oMcRP",
+          "title": "Temporary freezing of funds for more that 7 days",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "DLsT1baTPRzNXOxc6vvbc",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1B2gYcVJVwFauABsGMXLFZ",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7DjQhuqeva2aNMu1QBPSBz",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "5rtdQmngOh6w3Pgafo4RnV",
+          "title": "Theft of gas",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "75qNoR5700wpYS1CGVmCFr",
+          "title": "Unbounded gas consumption  (Only governance related contracts are in scope for this kind of vulnerability, i.e. OLAS, Timelock, veOLAS, wveOLAS, Governor OLAS, buOLAS, FxGovernorTunnel, HomeMediator)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "1hJSSxx3g7ZTOFY6wgsdRB",
+          "title": "Smart contract fails to deliver promised returns, but doesn’t lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Autonolas enables DAOs to create, run and own autonomous services that power next-gen apps in DAO operations, treasury management, AI, and beyond. Autonolas protocol provides means to build, register, co-own, manage and secure autonomous services: off-chain services which run as a multi-agent-system (MAS) and are replicated on a temporary consensus gadget (blockchain) while being crypto-economically secured on a public blockchain, hence offering robustness, transparency and decentralization off-chain.\n\nFor more information about Autonolas, please visit [https://olas.network](https://olas.network).",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nCritical and high smart contract vulnerabilities are capped at 10% of economic damage, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of __USD 6 000__ for high smart contract vulnerabilities and __12 000__ for critical ones.\n\nAll Critical, High, and Medium Smart Contract bug reports must come with a PoC, have an end-effect impact, and an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nThe following vulnerabilities are not eligible for a reward:\n\n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-governance/tree/main/audits](https://github.com/valory-xyz/autonolas-governance/tree/main/audits) \n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-governance/tree/main/docs](https://github.com/valory-xyz/autonolas-governance/tree/main/docs) \n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-governance/tree/main/test](https://github.com/valory-xyz/autonolas-governance/tree/main/test)\n  - All vulnerabilities mentioned in the comments on the contracts code [https://github.com/valory-xyz/autonolas-governance/tree/main/contracts](https://github.com/valory-xyz/autonolas-governance/tree/main/contracts)\n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-registries/tree/main/audits](https://github.com/valory-xyz/autonolas-registries/tree/main/audits) \n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-registries/tree/main/docs ](https://github.com/valory-xyz/autonolas-registries/tree/main/docs)\n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-registries/tree/main/test ](https://github.com/valory-xyz/autonolas-registries/tree/main/test)\n  - All vulnerabilities mentioned in the comments on the contracts code [https://github.com/valory-xyz/autonolas-registries/tree/main/contracts](https://github.com/valory-xyz/autonolas-registries/tree/main/contracts)\n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-tokenomics/tree/main/audits ](https://github.com/valory-xyz/autonolas-tokenomics/tree/main/audits)\n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-tokenomics/tree/main/docs ](https://github.com/valory-xyz/autonolas-tokenomics/tree/main/docs)\n  - All vulnerabilities mentioned in [https://github.com/valory-xyz/autonolas-tokenomics/tree/main/test ](https://github.com/valory-xyz/autonolas-tokenomics/tree/main/test)\n  - All vulnerabilities mentioned in the comments on the contracts code [https://github.com/valory-xyz/autonolas-tokenomics/tree/main/contracts](https://github.com/valory-xyz/autonolas-tokenomics/tree/main/contracts) \n  - All vulnerabilities found in the inherited source code from OpenZeppelin ([https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)) and Solmate ([https://github.com/transmissions11/solmate](https://github.com/transmissions11/solmate))\n  - All vulnerabilities found in the inherited source code for the bridging contracts from [Polygon](https://github.com/maticnetwork) and [Gnosis Chain Docs](https://docs.gnosischain.com/bridges/tokenbridge/amb-bridge).\n  - All vulnerabilities found in code based on or inspired by Maple Finance ([https://github.com/maple-labs](https://github.com/maple-labs)) Curve DAO [https://github.com/curvefi/curve-dao-contracts](https://github.com/curvefi/curve-dao-contracts) Uniswap Labs [(https://github.com/Uniswap/v2-core)](https://github.com/Uniswap/v2-core), PaulRBerg [(https://github.com/paulrberg/prb-math)](https://github.com/paulrberg/prb-math), Jeiwan [(https://github.com/Jeiwan/zuniswapv2)](https://github.com/Jeiwan/zuniswapv2), Safe Ecosystem [(https://github.com/safe-global/safe-contracts)](https://github.com/safe-global/safe-contracts) and that are already reported to one of those projects.\n  - All vulnerabilities that arise from misconfigured registration from users (e.g. component owners, agent owners, service owners, agents operators) or misuse of the registration logic (e.g. accidental locking of funds, loss of keys to control services, etc.).  \n\nAutonolas requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed is an invoice with Name, Address, and Country of the hacker or a legal entity used for transactions. If the hacker is based in Switzerland they need to account for VAT in the invoice.\nThe collection of this information will be done by the Autonolas team. \n\nPayouts are handled by the __Autonolas__ team directly and are denominated in USD. However, payouts are done in __USDT and USDC__, with the choice of the ratio at the discretion of the team. ",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist, community multisig)\n  - Attacks building on already identified attacks\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n  - Attacks that attempt to disrupt the protocol's availability, such as flooding the system with an excessive number of non-useful components or non-useful components within agents, resulting in gas resource exhaustion. Additionally, attacks that attempt to cause gas resource exhaustion issues by making minimal donations to a large number of services with numerous components.\n  - All vulnerabilities that arise from misconfigured registration from users (e.g. component owners, agent owners, service owners, agents operators) or misuse of the registration logic (e.g. accidental locking of funds, loss of keys to control services, etc.). \n  - Vulnerabilities that arise or are built upon the fact that GuardCM implies a reduction of the  community multisig functionalities as originally designed, such us self-calls within community multisig.\n  - The following are considered out of scope for “permanent freezing of funds” Critical Impact: when the freezing of funds is attributed to unintended use of the contracts: Component Registry, Agent Registry, Service Registry,  Service Registry Token Utility, Registries Manager, Service Manager Token, Operator Whitelist, Gnosis Safe Multisig, Gnosis Safe Multisig Same Address, Service Registry L2, Service Manager.\n  - The following contract are not in scope for “Griefing” Medium Impact: Component Registry, Agent Registry, Service Registry,  Service Registry Token Utility, Registries Manager, Service Manager Token, Operator Whitelist, Gnosis Safe Multisig, Gnosis Safe Multisig Same Address, Service Registry L2, Service Manager\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All smart contracts of Autonolas can be found at\n\n- [https://github.com/valory-xyz/autonolas-governance/tree/v1.1.9-post-c4a-report](https://github.com/valory-xyz/autonolas-governance/tree/v1.1.9-post-c4a-report)\n- [https://github.com/valory-xyz/autonolas-registries/tree/v1.1.9-post-c4a-report](https://github.com/valory-xyz/autonolas-registries/tree/v1.1.9-post-c4a-report) \n- [https://github.com/valory-xyz/autonolas-tokenomics/tree/v1.0.3-post-c4a-report](https://github.com/valory-xyz/autonolas-tokenomics/tree/v1.0.3-post-c4a-report) \n\nHowever, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n",
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "DAO",
+          "Services"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Up to USD $50,000"
+          },
+          {
+            "level": "High",
+            "payout": "Up to USD $20,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $5,000"
+          },
+          {
+            "level": "Low",
+            "payout": "USD $1,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Autonolas Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Autonolas and get paid up to $50,000.",
+      "url": "https://immunefi.com/bug-bounty/autonolas",
+      "ogImg": "/api/bounty/og-image?project=Autonolas"
+    }
+  },
+  "__N_SSP": true
+}

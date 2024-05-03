@@ -1,0 +1,285 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "2MV2r6eQl85ZVAlHEQ39yK",
+      "id": "buttonwood",
+      "slug": "buttonwood",
+      "project": "Buttonwood",
+      "maxBounty": 500000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4KQLVXSS65vjjJRtqM1PbQ/85eeab1addc2bdf186d9f37032c21fe2/logo__black___1_.png",
+      "launchDate": "2021-10-28T04:15-05:00",
+      "endDate": null,
+      "updatedDate": "2024-04-08T18:49:35.472Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "USD $100,000 to USD $500,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "USD $25,000 to USD $100,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "USD $2,000 to USD $25,000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "low",
+          "payout": "Up to USD $2,000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "6Dbvtc768ixrGPZYMyNoGc",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/tranche/blob/main/contracts/BondController.sol",
+          "description": "BondController.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2DLw5c01M6NaXOwLM9P9J",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/tranche/blob/main/contracts/UniV3LoanRouter.sol",
+          "description": "UniV3LoanRouter.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3jOhranVOlHLtByHXemjpW",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/tranche/blob/main/contracts/TrancheFactory.sol",
+          "description": "TrancheFactory.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "NcHhvSN4EzYKTHIs0KUuw",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/tranche/blob/main/contracts/Tranche.sol",
+          "description": "Tranche.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "wkImDXuozt4PERs4GnypH",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/tranche/blob/main/contracts/BondFactory.sol",
+          "description": "BondFactory.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5wlrYkt68vvMTghMocl32S",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/button-wrappers/blob/main/contracts/ButtonToken.sol",
+          "description": "ButtonToken.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4GtneJXuVZuq9BPLCRUW1Z",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/button-wrappers/blob/main/contracts/oracles/ChainlinkOracle.sol",
+          "description": "ChainlinkOracle.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6YDvd9OGBPQf17jUni1UAE",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/button-wrappers/blob/main/contracts/ButtonTokenFactory.sol",
+          "description": "ButtonTokenFactory.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1eRhli6BU0K2Y0Vei0HKj5",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/button-wrappers/blob/main/contracts/UnbuttonTokenFactory.sol",
+          "description": "UnbuttonTokenFactory.sol ",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5RjYMCCgIY6D49bqjmZaX",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/button-wrappers/blob/main/contracts/UnbuttonToken.sol",
+          "description": "UnbuttonToken.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2FjcBXjtodON2C0YADpivm",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/tranche/blob/main/contracts/WamplLoanRouter.sol",
+          "description": "WamplLoanRouter.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3OIZNxGW9e3MXVfpNfoHoF",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/tranche/blob/main/contracts/WethLoanRouter.sol",
+          "description": "WethLoanRouter.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2aeWg3MbRAmNPg4XiJeaky",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/button-wrappers/blob/main/contracts/ButtonTokenWamplRouter.sol",
+          "description": "ButtonTokenWamplRouter.sol",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "39rHfERf2OtJXTpCnI965i",
+          "type": "smart_contract",
+          "url": "https://github.com/buttonwood-protocol/button-wrappers/blob/main/contracts/ButtonTokenWethRouter.sol",
+          "description": "ButtonTokenWethRouter.sol",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "7q8OkBexmWlp27Gf08qc2H",
+          "title": "Loss of user funds staked (principal) by freezing or theft",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "3Jr7s4S4n8HiGdElbeP0ye",
+          "title": "Protocol Insolvency",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "2eYPqKTlOcB0fOw4t8k4SX",
+          "title": "Any governance voting result manipulation",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "1cKefOfoXOPODZ5bN6vLKI",
+          "title": "Theft of funds in excess of gas costs or swap fees",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "3vFDPYa56XE2xWg2sd3JUE",
+          "title": "Permanent freezing of funds (dependent on the value at stake)",
+          "type": "smart_contract",
+          "severity": "high"
+        },
+        {
+          "id": "5FEDWFjqk7bFuXRKk06P12",
+          "title": "Smart contract unable to operate due to lack of token funds",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4cCEBimxJwaWjpgouemz5a",
+          "title": "Block stuffing for profit",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4rBp2Gdex4Y0NJ8nGK06zi",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3enBAeCIObm4Me2PKZUKzK",
+          "title": "Unbounded gas consumption",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3HngypKaEtlqJ6TvXbE6yK",
+          "title": "Temporary freezing of funds (dependent on the value at stake)",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "3JwPokIWDgkoQSdFEEh2Eu",
+          "title": "Permanent freezing of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "7kNiIzfIJbCLExBxxGLr87",
+          "title": "Theft of unclaimed yield",
+          "type": "smart_contract",
+          "severity": "medium"
+        },
+        {
+          "id": "4HYfYQ8DyxPMgr9CDoFkXr",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "type": "smart_contract",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Buttonwood is a DeFi project creating and implementing various DeFi protocols, including liquidity aggregation, price-stabilization wrappers, governance, peer-to-peer lending, and risk stratification.\n\nButtonwood’s approach to innovation focuses on composability—we believe the most useful smart contracts are building blocks, not walled gardens. They should be open-source and as minimal as possible—we seek to build primitives to be used by the entirety of digital finance, not platforms to extract value from the ecosystem. These protocols can be used and incorporated into any other protocol without restriction.\n\nFor more information about Buttonwood, please visit [https://button.foundation](https://button.foundation).\n\nThis bug bounty program is focused on their smart contracts and website and is focused on preventing the following impacts:\n\n  - Theft and freezing of principal\n  - Theft and freezing of unclaimed yield\n  - Theft and freezing of fees\n  - Griefing of core functionality",
+      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types:\n\n__Smart Contracts and Blockchain__ \n\n  - Re-entrancy\n  - Logic errors\n    - including user authentication errors\n  - Solidity/EVM details not considered\n    - including integer over-/under-flow\n    - including rounding errors\n    - including unhandled exceptions\n  - Trusting trust/dependency vulnerabilities\n    - including composability vulnerabilities\n  - Oracle failure/manipulation\n  - Novel governance attacks\n  - Economic/financial attacks\n    - including flash loan attacks\n  - Congestion and scalability\n    - including running out of gas\n    - including block stuffing\n    - including susceptibility to frontrunning\n  - Consensus failures\n  - Cryptography problems\n    - Signature malleability\n    - Susceptibility to replay attacks\n    - Weak randomness\n    - Weak encryption\n  - Susceptibility to block timestamp manipulation\n  - Missing access controls / unprotected internal or debugging interfaces",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit. \n\nCritical smart contract bug reports are further capped at 10% of economic damage, primarily taking into consideration the funds at risk, but also considering other aspects such as PR and branding considerations, at the discretion of the team. However, there is a minimum reward of __USD 100 000__.\n\nBug reports of other severity levels will take into consideration the exploitability and impact of the bug reports had they been executed. Buttonwood reserves the right to make the final decision on the reward amount.\n\nPayouts are handled by the __Buttonwood__ team directly and are denominated in USD. However, payouts are done in  __ETH__ or __USDC__, at the discretion of the team.",
+      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third-party systems and applications (e.g., browser extensions) as well as websites (e.g., SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "All code of  Buttonwood can be found at [https://github.com/buttonwood-protocol](https://github.com/buttonwood-protocol). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nOnce deployed on mainnet, the smart contract addresses can be found at [https://docs.prl.one/buttonwood/developers/deployed-contracts/ethereum-mainnet](https://docs.prl.one/buttonwood/developers/deployed-contracts/ethereum-mainnet).\n\nOnly files in the parent \"contracts\" folder for both of the assets listed in this table are in scope.\n",
+      "impactsBody": "__Informational__\n  - Best practice critiques\n",
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "AMM",
+          "Oracle",
+          "Stablecoin"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "USD $100,000 to USD $500,000"
+          },
+          {
+            "level": "High",
+            "payout": "USD $25,000 to USD $100,000"
+          },
+          {
+            "level": "Medium",
+            "payout": "USD $2,000 to USD $25,000"
+          },
+          {
+            "level": "Low",
+            "payout": "Up to USD $2,000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": false
+    },
+    "project": {
+      "premiumTriaging": false
+    },
+    "metaData": {
+      "title": "Buttonwood Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Buttonwood and get paid up to $500,000.",
+      "url": "https://immunefi.com/bug-bounty/buttonwood",
+      "ogImg": "/api/bounty/og-image?project=Buttonwood"
+    }
+  },
+  "__N_SSP": true
+}
