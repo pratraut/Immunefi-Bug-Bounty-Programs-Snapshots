@@ -41,13 +41,6 @@
     "features": [
       "IOP (Invite Only Program)"
     ],
-    "performanceMetrics": {
-      "totalPaidMetricEnabled": false,
-      "responseTimeMetricEnabled": false,
-      "medianResponseTimeInMinutes": null,
-      "totalPaidAmount": null
-    },
-    "vaultBalance": null,
     "premiumTriaging": true
   },
   {
@@ -107,13 +100,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       "Managed Triage: Time Saver",
       "Boost"
     ],
-    "performanceMetrics": {
-      "totalPaidMetricEnabled": false,
-      "responseTimeMetricEnabled": false,
-      "medianResponseTimeInMinutes": null,
-      "totalPaidAmount": null
-    },
-    "vaultBalance": null,
     "premiumTriaging": true
   },
   {
@@ -170,13 +156,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "hideAssetsInScope": null,
     "boostedLeaderboard": null,
     "features": [],
-    "performanceMetrics": {
-      "totalPaidMetricEnabled": false,
-      "responseTimeMetricEnabled": false,
-      "medianResponseTimeInMinutes": null,
-      "totalPaidAmount": null
-    },
-    "vaultBalance": null,
     "premiumTriaging": true
   },
   {
@@ -245,13 +224,6 @@ The Boost is primarily concerned with the loss of user funds.",
     "features": [
       "Boost"
     ],
-    "performanceMetrics": {
-      "totalPaidMetricEnabled": false,
-      "responseTimeMetricEnabled": false,
-      "medianResponseTimeInMinutes": null,
-      "totalPaidAmount": null
-    },
-    "vaultBalance": 0,
     "premiumTriaging": true
   },
   {
@@ -323,13 +295,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       "Boost",
       "Managed Triage: Expert Assessment"
     ],
-    "performanceMetrics": {
-      "totalPaidMetricEnabled": false,
-      "responseTimeMetricEnabled": false,
-      "medianResponseTimeInMinutes": null,
-      "totalPaidAmount": null
-    },
-    "vaultBalance": 0,
     "premiumTriaging": true
   },
   {
@@ -404,13 +369,6 @@ When the Boost has ended Immunefi will publish a whitehat leaderboard and findin
       "Managed Triage: Time Saver",
       "Boost"
     ],
-    "performanceMetrics": {
-      "totalPaidMetricEnabled": false,
-      "responseTimeMetricEnabled": false,
-      "medianResponseTimeInMinutes": null,
-      "totalPaidAmount": null
-    },
-    "vaultBalance": null,
     "premiumTriaging": true
   },
   {
@@ -477,13 +435,6 @@ When the Boost has ended Immunefi will publish a whitehat leaderboard and findin
       "Vault",
       "Boost"
     ],
-    "performanceMetrics": {
-      "totalPaidMetricEnabled": false,
-      "responseTimeMetricEnabled": false,
-      "medianResponseTimeInMinutes": null,
-      "totalPaidAmount": null
-    },
-    "vaultBalance": 19370.8563186,
     "premiumTriaging": true
   }
 ]
