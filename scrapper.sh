@@ -2,13 +2,16 @@
 
 SLEEP_TIME=.3
 start_time=`date +%s`
-echo "#################################`date`#######################################\n"
+echo -e "#################################`date`#######################################\n"
 
 # Get NEXT_DATA in JSON format for bug bounties
 NEXT_DATA=$(curl -s https://immunefi.com/bug-bounty/ | grep -o "<script id=\"__NEXT_DATA__\" type=\"application/json\">.*</script>" | grep -o "{.*}" | jq)
 
 # Get bounties in a variable
 projects=$(echo "$NEXT_DATA" | jq '.props.pageProps.bounties')
+
+# Delete vault and performance metrics field
+projects=$(echo "$projects" | jq -r 'del(.[].vaultBalance)' | jq -r 'del(.[].performanceMetrics)')
 
 # Create projects.json and boost_projects.json files if not exist
 touch ./projects.json
@@ -80,6 +83,9 @@ NEXT_DATA_BOOST=$(curl -s https://immunefi.com/boost/ | grep -o "<script id=\"__
 
 boost_projects=$(echo "$NEXT_DATA_BOOST" | jq '.props.pageProps.bounties')
 
+# Delete vault and performance metrics field
+boost_projects=$(echo "$boost_projects" | jq -r 'del(.[].vaultBalance)' | jq -r 'del(.[].performanceMetrics)')
+
 # merged two arrays
 # projects=$(jq -s 'add' <<< "$projects[@] $boost_projects[@]")
 
@@ -148,7 +154,7 @@ done
 
 
 # If there are any changes, commit them.
-if [[ -z $(git status -s | ggrep -oP 'project/.*') ]]; then
+if [[ -z $(git status -s | ggrep -oP '.*.json') ]]; then
 	echo "Nothing changed"
 else
 
@@ -164,7 +170,7 @@ else
 
 	# Commit message
 	echo -e "\n"
-	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\nProjects removed or paused:\n$paused_programs\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\nBoost Projects removed or paused:\n$paused_boost_programs\nBoost Projects updated their program:\n$boost_projects_changed")
+	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\nProjects removed or paused:\n$paused_programs\n\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\nBoost Projects removed or paused:\n$paused_boost_programs\nBoost Projects updated their program:\n$boost_projects_changed")
 	echo -e "$mg"
 
 	# Push to github
@@ -176,6 +182,6 @@ fi
 
 end_time=`date +%s`
 echo -e "\nTotal run time = $(expr $end_time - $start_time) seconds"
-echo "#################################`date`#######################################\n"
+echo -e "#################################`date`#######################################\n\n"
 
 exit
