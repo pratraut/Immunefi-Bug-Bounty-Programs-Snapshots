@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SLEEP_TIME=.1
+SLEEP_TIME=.3
 start_time=`date +%s`
 echo "#################################`date`#######################################\n"
 
@@ -18,9 +18,9 @@ cat ./projects.json | jq -r '.[].project' | sort > prev_projects_name.txt
 echo "$projects" | jq -r '.[].project' | sort > current_projects_name.txt
 
 # Paused or Removed
-paused_programs=$(comm -23 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
+paused_programs=$(comm -23 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 # Added or Unpaused
-added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
+added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 
 # Clean temporal files
 rm ./prev_projects_name.txt
@@ -69,7 +69,7 @@ for ((c = 0; c <= $bounties_length - 1; c++)); do
 	else
 		# PANIC!
 		echo "PANIC ERROR!!! [`expr $c + 1`/$bounties_length]"
-		break
+		exit
 	fi
 done
 
@@ -91,9 +91,9 @@ cat ./boost_projects.json | jq -r '.[].project' | sort > prev_boost_projects_nam
 echo "$boost_projects" | jq -r '.[].project' | sort > current_boost_projects_name.txt
 
 # Paused or Removed
-paused_boost_programs=$(comm -23 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
+paused_boost_programs=$(comm -23 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 # Added or Unpaused
-added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs -0)
+added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | sed -r 's/\s+//g' | xargs)
 
 # Clean temporal files
 rm ./prev_boost_projects_name.txt
@@ -142,7 +142,7 @@ for ((c = 0; c <= $boost_bounties_length - 1; c++)); do
 	else
 		# PANIC!
 		echo "PANIC ERROR!!! [`expr $c + 1`/$boost_bounties_length]"
-		break
+		exit
 	fi
 done
 
@@ -175,7 +175,7 @@ else
 fi
 
 end_time=`date +%s`
-echo "Total run time = $(expr $end_time - $start_time) seconds\n"
+echo -e "\nTotal run time = $(expr $end_time - $start_time) seconds"
 echo "#################################`date`#######################################\n"
 
 exit
