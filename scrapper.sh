@@ -4,6 +4,10 @@ SLEEP_TIME=.3
 start_time=`date +%s`
 echo -e "#################################`date`#######################################\n"
 
+# clear logs
+echo "" > ./logs/stdout.log
+echo "" > ./logs/stderr.log
+
 # Get NEXT_DATA in JSON format for bug bounties
 NEXT_DATA=$(curl -s https://immunefi.com/bug-bounty/ | grep -o "<script id=\"__NEXT_DATA__\" type=\"application/json\">.*</script>" | grep -o "{.*}" | jq)
 
@@ -52,25 +56,35 @@ for ((c = 0; c <= $bounties_length - 1; c++)); do
 	fi
 
 	echo "Scanning: $name [`expr $c + 1`/$bounties_length]"
-	# Get project's data
-	PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json")
-	echo "Calling: https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json"
-	# echo -E "$PROJECT_DATA"
-	# There's no try/catch in batch, so this is our way to double check everything went right:
-	# Get name from JSON response
-	name_received=$(echo "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
-	echo "Name received: $name_received [`expr $c + 1`/$bounties_length]"
-	# Compare it with stored name
-	if [ "$name_received" = "$name" ]; then
 
-		# All good!
-		echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./project/$name.json
-		#Print DONE
-		echo "Scanned: $name [`expr $c + 1`/$bounties_length]"
-		sleep $SLEEP_TIME
+	# Loop for 3 times until we get the record properly
+	found=false
+	for ((t = 0; t < 3; t++)); do
+		# Get project's data
+		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json")
+		echo "Calling: https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json"
+		# echo -E "$PROJECT_DATA"
+		# There's no try/catch in batch, so this is our way to double check everything went right:
+		# Get name from JSON response
+		name_received=$(echo "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
+		# echo "Name received: $name_received"
+		# Compare it with stored name
+		if [ "$name_received" = "$name" ]; then
 
-	else
-		# PANIC!
+			# All good!
+			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./project/$name.json
+			#Print DONE
+			echo "Scanned: $name"
+			sleep $SLEEP_TIME
+			found=true
+			break
+		else
+			# PANIC!
+			# echo "PANIC ERROR!!! [`expr $c + 1`/$bounties_length]"
+			echo "Error: name_received is empty, Try #`expr $t + 1` Retrying [`expr $c + 1`/$bounties_length]"
+		fi
+	done
+	if [ "$found" == false ] ; then
 		echo "PANIC ERROR!!! [`expr $c + 1`/$bounties_length]"
 		exit
 	fi
@@ -128,25 +142,35 @@ for ((c = 0; c <= $boost_bounties_length - 1; c++)); do
 	fi
 
 	echo "Scanning: $name [`expr $c + 1`/$boost_bounties_length]"
-	# Get project's data
-	PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/boost/$name.json")
-	echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/boost/$name.json"
-	# echo -E "$PROJECT_DATA"
-	# There's no try/catch in batch, so this is our way to double check everything went right:
-	# Get name from JSON response
-	name_received=$(echo "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
-	echo "Name received: $name_received [`expr $c + 1`/$boost_bounties_length]"
-	# Compare it with stored name
-	if [ "$name_received" = "$name" ]; then
 
-		# All good!
-		echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./boost_project/$name.json
-		#Print DONE
-		echo "Scanned: $name [`expr $c + 1`/$boost_bounties_length]"
-		sleep $SLEEP_TIME
+	# Loop for 3 times until we get the record properly
+	found=false
+	for ((t = 0; t < 3; t++)); do
+		# Get project's data
+		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name.json")
+		echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name.json"
+		# echo -E "$PROJECT_DATA"
+		# There's no try/catch in batch, so this is our way to double check everything went right:
+		# Get name from JSON response
+		name_received=$(echo "$PROJECT_DATA" | jq -r '.pageProps.bounty.id')
+		# echo "Name received: $name_received"
+		# Compare it with stored name
+		if [ "$name_received" = "$name" ]; then
 
-	else
-		# PANIC!
+			# All good!
+			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./boost_project/$name.json
+			#Print DONE
+			echo "Scanned: $name"
+			sleep $SLEEP_TIME
+			found=true
+			break
+		else
+			# PANIC!
+			# echo "PANIC ERROR!!! [`expr $c + 1`/$bounties_length]"
+			echo "Error: name_received is empty, Try #`expr $t + 1` Retrying [`expr $c + 1`/$boost_bounties_length]"
+		fi
+	done
+	if [ "$found" == false ] ; then
 		echo "PANIC ERROR!!! [`expr $c + 1`/$boost_bounties_length]"
 		exit
 	fi
@@ -170,7 +194,7 @@ else
 
 	# Commit message
 	echo -e "\n"
-	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\nProjects removed or paused:\n$paused_programs\n\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\nBoost Projects removed or paused:\n$paused_boost_programs\nBoost Projects updated their program:\n$boost_projects_changed")
+	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\nProjects removed or paused:\n$paused_programs\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\nBoost Projects removed or paused:\n$paused_boost_programs\nBoost Projects updated their program:\n$boost_projects_changed")
 	echo -e "$mg"
 
 	# Push to github

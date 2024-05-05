@@ -488,36 +488,15 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-05-03T08:00:00.000Z",
-      "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. \n\nKYC is required.\n\nImmunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Immunefi technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"immunefiarb-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nOn launch day, Tuesday March 12th, Immunefi will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.\n\n\n[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdBLJGLkTNEJLTnPPak-5b5bwV2I6GVGRBKia_FHO9KB4UbFQ/viewform?usp=sf_link)",
-      "boostedIntroLive": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. \n\nKYC is required.\n\nThe rewards pool is partly distributed with the following formula, and partly at Immunefi’s discretion. The portion at Immunefi’s discretion is to reward high-quality whitehat contributions, such as exceptionally well-written reports, the best report among duplicates, and valuable but technically invalid bug reports. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/23262277256849-Immunefi-Arbitration-Boost-Reward-Terms)\n\nImmunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Immunefi within the “immunefiarb-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).\n\nWhen the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
-      "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
-      "rewardsToken": "USDC",
-      "rewardsPool": 30000,
-      "sourceLinesOfCode": 1922,
-      "boostedSummaryReport": null,
-      "inviteOnly": false,
-      "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
-      "features": [
-        "Managed Triage: Time Saver",
-        "Vault",
-        "Boost"
-      ],
       "premiumTriaging": true
     },
     "project": {
       "premiumTriaging": true
     },
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": "mb-12 lg:mb-16"
-    },
     "metaData": {
       "title": "Boost | Immunefi Arbitration Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Boost | Immunefi Arbitration and get paid up to $30,000.",
-      "url": "https://immunefi.com/boost/immunefiarbitration-boost",
+      "url": "https://immunefi.com/bug-bounty/immunefiarbitration-boost",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+Immunefi+Arbitration"
     }
   },

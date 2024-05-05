@@ -262,143 +262,15 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-04-09T20:00:00.000Z",
-      "boostedIntroStartingIn": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).\n\nBadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).\n\nWhen the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nTo kick-off the launch BadgerDAO will be presenting a [live technical walkthrough and AMA](https://discord.com/events/787092485969150012/1207964956167897098), hosted by Immunefi. It starts Monday at 4:30pm UTC+0.\n\n[Sign up for the Boost here](https://docs.google.com/forms/d/e/1FAIpQLSf0lo3wkUsWPUMutcV1xliBEU9-c8Dcwh0YjAkROGak8bZtUw/viewform).",
-      "boostedIntroLive": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).\n\nBadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).\n\nWhen the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event. \n\nThe Boost is primarily concerned with the loss of user funds.",
-      "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
-      "rewardsToken": "USDC",
-      "rewardsPool": 200000,
-      "sourceLinesOfCode": 5000,
-      "boostedSummaryReport": "https://drive.google.com/file/d/1CrK9PWe8BhGmoWNb5NIjXqN50dF2mwJx/view?usp=sharing",
-      "inviteOnly": false,
-      "hideAssetsInScope": null,
-      "boostedLeaderboard": [
-        {
-          "high": 0,
-          "name": "Stormy",
-          "critical": 0,
-          "earnings": 20517,
-          "insights": 1,
-          "mediumLow": 2,
-          "totalValidBugs": 2
-        },
-        {
-          "high": 0,
-          "name": "moonsimon",
-          "critical": 0,
-          "earnings": 11034,
-          "insights": 2,
-          "mediumLow": 1,
-          "totalValidBugs": 1
-        },
-        {
-          "high": 0,
-          "name": "holydevoti0n",
-          "critical": 0,
-          "earnings": 10000,
-          "insights": 0,
-          "mediumLow": 1,
-          "totalValidBugs": 1
-        },
-        {
-          "high": 0,
-          "name": "shanb1605",
-          "critical": 0,
-          "earnings": 1724,
-          "insights": 2,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "savi0ur",
-          "critical": 0,
-          "earnings": 1724,
-          "insights": 2,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "cheatcode",
-          "critical": 0,
-          "earnings": 1552,
-          "insights": 3,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "cryptonoob2k",
-          "critical": 0,
-          "earnings": 862,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "OxG0P1",
-          "critical": 0,
-          "earnings": 862,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "Hunterx2",
-          "critical": 0,
-          "earnings": 517,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "thomastech",
-          "critical": 0,
-          "earnings": 517,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "Mirrors",
-          "critical": 0,
-          "earnings": 517,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "Saediek",
-          "critical": 0,
-          "earnings": 172,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        }
-      ],
-      "features": [
-        "Boost"
-      ],
       "premiumTriaging": true
     },
     "project": {
       "premiumTriaging": true
     },
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": "mb-12 lg:mb-16"
-    },
     "metaData": {
       "title": "Boost | eBTC Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Boost | eBTC and get paid up to $200,000.",
-      "url": "https://immunefi.com/boost/ebtc-boost",
+      "url": "https://immunefi.com/bug-bounty/ebtc-boost",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+eBTC"
     }
   },

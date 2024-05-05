@@ -293,35 +293,15 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-06-04T12:00:00.000Z",
-      "boostedIntroStartingIn": "$125,000 USD in rewards is available for finding bugs on Alchemix, specifically vote-escrowed ALCX (veALCX). Their brand new assets will be in-scope.\n\nNo KYC is required.\n\nAlchemix will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Alchemix technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"alchemix-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nOn launch day, April 30th, Alchemix will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.\n\n[Sign up for updates](https://forms.gle/z9SZtJhFLrXofQvm6)",
-      "boostedIntroLive": "$125,000 USD is available in rewards for finding bugs in Alchemix’s codebase of about 3000 nSLOC. There is no KYC required.\n\nAlchemix team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Alchemix or Immunefi in the [Alchemix Boost Discord channel](https://discord.com/invite/immunefi).\n\nWhen the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-      "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
-      "rewardsToken": "USDC",
-      "rewardsPool": 125000,
-      "sourceLinesOfCode": 3181,
-      "boostedSummaryReport": null,
-      "inviteOnly": false,
-      "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
-      "features": [
-        "Managed Triage: Time Saver",
-        "Boost"
-      ],
       "premiumTriaging": true
     },
     "project": {
       "premiumTriaging": true
     },
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": "mb-12 lg:mb-16"
-    },
     "metaData": {
       "title": "Boost | Alchemix Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Boost | Alchemix and get paid up to $125,000.",
-      "url": "https://immunefi.com/boost/alchemix-boost",
+      "url": "https://immunefi.com/bug-bounty/alchemix-boost",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+Alchemix"
     }
   },

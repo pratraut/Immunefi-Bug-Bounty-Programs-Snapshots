@@ -857,36 +857,15 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-05-03T08:00:00.000Z",
-      "boostedIntroStartingIn": "$200,000 USD in rewards is available for finding bugs on ZeroLend. Their entire deployed codebase holding $50 million TVL will be in-scope. As well, their brand new as-yet undeployed governance contracts will be in-scope.\n\nNo KYC is required.\n\nZeroLend will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the ZeroLend technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"zerolend-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nOn launch day, Thursday Feb 29th, ZeroLend will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.\n\n\n[Sign up for updates](https://forms.gle/xn7SkhFsUUhwM82s9)",
-      "boostedIntroLive": "ZeroLend has $60 million TVL needing to be secured. There is no KYC.\n\nA flat $200,000 USD reward pool will be distributed among whitehats who find bugs on ZeroLend’s ~6500 nSLOC codebase.\n\nDuplicates will be rewarded, with the first to submit the greatest severity of the bug receiving a greater portion of the reward pool. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/22902062811281-ZeroLend-Boost-Reward-Terms). \n\nZeroLend will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to ZeroLend or Immunefi within the “zerolend-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).\n\nWhen the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
-      "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
-      "rewardsToken": "USDC",
-      "rewardsPool": 200000,
-      "sourceLinesOfCode": 6500,
-      "boostedSummaryReport": null,
-      "inviteOnly": false,
-      "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
-      "features": [
-        "Vault",
-        "Managed Triage: Time Saver",
-        "Boost"
-      ],
       "premiumTriaging": true
     },
     "project": {
       "premiumTriaging": true
     },
-    "academyContent": null,
-    "layoutProps": {
-      "headerMarginBottom": "mb-12 lg:mb-16"
-    },
     "metaData": {
       "title": "Boost | ZeroLend Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Boost | ZeroLend and get paid up to $200,000.",
-      "url": "https://immunefi.com/boost/zerolend-boost",
+      "url": "https://immunefi.com/bug-bounty/zerolend-boost",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+ZeroLend"
     }
   },
