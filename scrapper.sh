@@ -9,7 +9,7 @@ echo "" > ./logs/stdout.log
 echo "" > ./logs/stderr.log
 
 # Get NEXT_DATA in JSON format for bug bounties
-NEXT_DATA=$(curl -s https://immunefi.com/bug-bounty/ | grep -o "<script id=\"__NEXT_DATA__\" type=\"application/json\">.*</script>" | grep -o "{.*}" | jq)
+NEXT_DATA=$(curl -s https://immunefi.com/bug-bounty/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
 
 # Get bounties in a variable
 projects=$(echo "$NEXT_DATA" | jq '.props.pageProps.bounties')
@@ -93,7 +93,7 @@ done
 # --------------- BOOST PROGRAMS ---------------
 
 # Get NEXT_DATA in JSON format for boosted bug bounties
-NEXT_DATA_BOOST=$(curl -s https://immunefi.com/boost/ | grep -o "<script id=\"__NEXT_DATA__\" type=\"application/json\">.*</script>" | grep -o "{.*}" | jq)
+NEXT_DATA_BOOST=$(curl -s https://immunefi.com/boost/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
 
 boost_projects=$(echo "$NEXT_DATA_BOOST" | jq '.props.pageProps.bounties')
 
