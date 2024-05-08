@@ -10,6 +10,10 @@ echo "" > ./logs/stderr.log
 
 # Get NEXT_DATA in JSON format for bug bounties
 NEXT_DATA=$(curl -s https://immunefi.com/bug-bounty/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
+if [[ -z $NEXT_DATA ]]; then
+	echo "ERROR: Empty NEXT_DATA"
+	exit
+fi
 
 # Get bounties in a variable
 projects=$(echo "$NEXT_DATA" | jq '.props.pageProps.bounties')
@@ -33,11 +37,21 @@ added_programs=$(comm -13 ./prev_projects_name.txt ./current_projects_name.txt |
 rm ./prev_projects_name.txt
 rm ./current_projects_name.txt
 
+if [[ -z $projects ]]; then
+	echo "ERROR: Empty projects"
+	exit
+fi
+
 # Save current bounties
 echo -e "$projects" > projects.json
 
 # Get buildId
 buildId=$(echo "$NEXT_DATA" | jq -r '.buildId')
+if [[ -z $buildId ]]; then
+	echo "ERROR: Empty buildId"
+	exit
+fi
+
 echo "Bounty Build ID: $buildId"
 
 # Create folder if not exist
@@ -47,7 +61,7 @@ test -d ./project || mkdir ./project
 bounties_length=$(echo -E "$projects" | jq length)
 echo "Bounties Length: $bounties_length"
 
-for ((c = 0; c <= $bounties_length - 1; c++)); do
+for ((c = 0; c < $bounties_length; c++)); do
 	# Get project's name
 	name=$(echo "$projects" | jq -r .[$c].id)
 	if [[ -z $name ]]; then
@@ -70,7 +84,6 @@ for ((c = 0; c <= $bounties_length - 1; c++)); do
 		# echo "Name received: $name_received"
 		# Compare it with stored name
 		if [ "$name_received" = "$name" ]; then
-
 			# All good!
 			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./project/$name.json
 			#Print DONE
@@ -94,6 +107,10 @@ done
 
 # Get NEXT_DATA in JSON format for boosted bug bounties
 NEXT_DATA_BOOST=$(curl -s https://immunefi.com/boost/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
+if [[ -z $NEXT_DATA_BOOST ]]; then
+	echo "ERROR: Empty NEXT_DATA_BOOST"
+	exit
+fi
 
 boost_projects=$(echo "$NEXT_DATA_BOOST" | jq '.props.pageProps.bounties')
 
@@ -119,11 +136,21 @@ added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_p
 rm ./prev_boost_projects_name.txt
 rm ./current_boost_projects_name.txt
 
+if [[ -z $boost_projects ]]; then
+	echo "ERROR: Empty boost_projects"
+	exit
+fi
+
 # Save current bounties
 echo -e "$boost_projects" > boost_projects.json
 
 # Get buildId
 buildIdBoost=$(echo "$NEXT_DATA_BOOST" | jq -r '.buildId')
+if [[ -z $buildIdBoost ]]; then
+	echo "ERROR: Empty buildIdBoost"
+	exit
+fi
+
 echo "Boost Bounty Build ID: $buildIdBoost"
 
 # Create folder if not exist
@@ -133,7 +160,7 @@ test -d ./boost_project || mkdir ./boost_project
 boost_bounties_length=$(echo "$boost_projects" | jq length)
 echo "Boost Bounties Length: $boost_bounties_length"
 
-for ((c = 0; c <= $boost_bounties_length - 1; c++)); do
+for ((c = 0; c < $boost_bounties_length; c++)); do
 	# Get project's name
 	name=$(echo "$boost_projects" | jq -r .[$c].id)
 	if [[ -z $name ]]; then
@@ -156,7 +183,6 @@ for ((c = 0; c <= $boost_bounties_length - 1; c++)); do
 		# echo "Name received: $name_received"
 		# Compare it with stored name
 		if [ "$name_received" = "$name" ]; then
-
 			# All good!
 			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' > ./boost_project/$name.json
 			#Print DONE
