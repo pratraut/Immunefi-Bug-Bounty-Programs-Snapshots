@@ -10881,11 +10881,11 @@
     "id": "balmy",
     "project": "Balmy",
     "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3BxBJhNMuTTt3beUQqo7ea/17c603fffa3c06431523f67de3576f23/PFP__1_.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/48EeACTPNaXdX3MxAzXCh8/193738f2b128538d0e054a5845c4db12/dDWZyR_r_400x400.png",
     "date": "2022-04-12T19:00:00.000Z",
     "launchDate": "2022-04-12T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-08T11:50:14.312Z",
+    "updatedDate": "2024-05-09T11:55:23.059Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -11012,7 +11012,7 @@
     "date": "2021-11-15T15:00:00.000Z",
     "launchDate": "2021-11-15T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:56:09.140Z",
+    "updatedDate": "2024-05-09T14:00:58.627Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -12026,6 +12026,43 @@
       ],
       "programType": [
         "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2Wym9ufqPTkgooceu8k30g",
+    "id": "synfutures",
+    "project": "SynFutures",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7wD3JybK66MoaLgQMktFQi/72ddc481655af90da53d34d97fcdbf03/synfutures_logo.png",
+    "date": "2024-05-09T03:49:00.000Z",
+    "launchDate": "2024-05-09T03:49:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-09T13:16:00.764Z",
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "DEX",
+        "Perpetuals"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Blast"
+      ],
+      "programType": [
         "Websites and Applications"
       ],
       "language": [
