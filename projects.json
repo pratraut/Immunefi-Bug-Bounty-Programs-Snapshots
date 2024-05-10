@@ -3651,6 +3651,45 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "6PCxizyL9qyBVTcZUywB85",
+    "id": "ens",
+    "project": "ENS",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4eTVMLtAvVcZKfzuVivfV0/fa593db62bd32e8d72b2194b76ae4205/ethereum-name-service-ens-logo.png",
+    "date": "2024-05-10T03:11:00.000Z",
+    "launchDate": "2024-05-10T03:11:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-10T15:36:08.806Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Services"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity",
+        "NextJS"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "3qOvksX8v9QTF6lxe907zl",
     "id": "renzoprotocol",
     "project": "Renzo Protocol",
