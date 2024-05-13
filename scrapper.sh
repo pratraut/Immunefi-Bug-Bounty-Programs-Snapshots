@@ -25,7 +25,9 @@ projects=$(echo "$projects" | jq -r 'del(.[].vaultBalance)' | jq -r 'del(.[].per
 touch ./projects.json
 
 # Let's see if new projects were added or paused
-cat ./projects.json | jq -r '.[].project' | sort > prev_projects_name.txt
+contents=$(< ./projects.json)
+echo $contents | jq -r '.[].project' | sort > prev_projects_name.txt
+# cat ./projects.json | jq -r '.[].project' | sort > prev_projects_name.txt
 echo "$projects" | jq -r '.[].project' | sort > current_projects_name.txt
 
 # Paused or Removed
@@ -124,7 +126,9 @@ boost_projects=$(echo "$boost_projects" | jq -r 'del(.[].vaultBalance)' | jq -r 
 touch ./boost_projects.json
 
 # Let's see if new projects were added or paused
-cat ./boost_projects.json | jq -r '.[].project' | sort > prev_boost_projects_name.txt
+boost_file_contents=$(< ./boost_projects.json)
+echo $boost_file_contents | jq -r '.[].project' | sort > prev_boost_projects_name.txt
+# cat ./boost_projects.json | jq -r '.[].project' | sort > prev_boost_projects_name.txt
 echo "$boost_projects" | jq -r '.[].project' | sort > current_boost_projects_name.txt
 
 # Paused or Removed

@@ -5825,7 +5825,7 @@
     "date": "2024-04-08T04:27:33.000Z",
     "launchDate": "2024-04-08T04:27:33.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-15T12:39:12.522Z",
+    "updatedDate": "2024-05-13T10:36:38.871Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -8945,10 +8945,10 @@
     "project": "Range Protocol",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2ByPTsOCo1ihurbQOM0PMK/3cab96ed1b2b59f5c28e8462e9b4c7df/Range-logo.jpeg",
-    "date": "2023-11-30T12:00+03:00",
-    "launchDate": "2023-11-30T12:00+03:00",
+    "date": "2023-11-30T09:00:00.000Z",
+    "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:56:22.634Z",
+    "updatedDate": "2024-05-13T10:31:52.588Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -8976,7 +8976,9 @@
         "Scroll",
         "ZetaChain"
       ],
-      "programType": null,
+      "programType": [
+        "Smart Contract"
+      ],
       "language": [
         "Solidity"
       ],
@@ -11051,7 +11053,7 @@
     "date": "2021-11-15T15:00:00.000Z",
     "launchDate": "2021-11-15T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-09T14:00:58.627Z",
+    "updatedDate": "2024-05-13T10:04:10.736Z",
     "technologies": [
       "Smart Contract"
     ],
