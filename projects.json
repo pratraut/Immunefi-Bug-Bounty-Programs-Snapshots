@@ -5497,46 +5497,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "JppSOY676PExwZtWrsXOm",
-    "id": "tranchess",
-    "project": "Tranchess",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6NNBYNKONDM4mwNU4Y5ik/a719c3c7861f9b647c9d012884236356/Tranchess_logo.jpg",
-    "date": "2021-06-22T10:30-05:00",
-    "launchDate": "2021-06-22T10:30-05:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:56:53.192Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Asset Management",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6maMoSfz28fQA804b60PBd",
     "id": "sushiswap",
     "project": "SushiSwap",
@@ -6103,6 +6063,40 @@
       "general": [
         "Immunefi Standard",
         "Vaults"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "7AnCqSUsSEWIYStLwL7q4B",
+    "id": "econia",
+    "project": "Econia",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/36AfO1anvucweo4MCCseL7/8529432f760093f91cba7d78baed39ee/Black-Econia-Logo-Mark_copy.png",
+    "date": "2024-01-10T14:00:00.000Z",
+    "launchDate": "2024-01-10T14:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-04-09T08:29:37.706Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "DEX"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Move"
+      ],
+      "general": [
+        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -8825,7 +8819,8 @@
       ],
       "language": null,
       "general": [
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "Vaults"
       ]
     },
     "premiumTriaging": false
