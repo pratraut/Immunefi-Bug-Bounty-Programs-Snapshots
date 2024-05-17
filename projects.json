@@ -719,47 +719,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "57JufLmAOWJ1B4bKjX5ZWa",
-    "id": "sei",
-    "project": "Sei",
-    "maximum_reward": 2000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1lOFdVmQG8KNmJhGtr8lhs/40400407c90b0736a8e506b081b70887/Sei_Labs_Logo.png",
-    "date": "2023-11-30T09:00:00.000Z",
-    "launchDate": "2023-11-30T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-05-14T14:51:40.304Z",
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Bridge",
-        "L1",
-        "Staking"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Sei"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Go",
-        "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "173zrA4gMhyL4sDF5ME325",
     "id": "rhinofi",
     "project": "Rhino.fi",
@@ -1353,6 +1312,48 @@
         "Smart Contract"
       ],
       "language": null,
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "57JufLmAOWJ1B4bKjX5ZWa",
+    "id": "sei",
+    "project": "Sei",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1lOFdVmQG8KNmJhGtr8lhs/40400407c90b0736a8e506b081b70887/Sei_Labs_Logo.png",
+    "date": "2023-11-30T09:00:00.000Z",
+    "launchDate": "2023-11-30T09:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-17T13:18:14.976Z",
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Bridge",
+        "L1",
+        "Staking"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Sei"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Go",
+        "Rust"
+      ],
       "general": [
         "Immunefi Standard"
       ]
@@ -2627,14 +2628,14 @@
     "project": "Lybra Finance V2",
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1kLNXEgOqks1bUdqV4xy3C/4fa7d5cd069f8cd62ced4e3c05b69058/New_LBR_V2.png",
-    "date": "2023-05-15T12:00+03:00",
-    "launchDate": "2023-05-15T12:00+03:00",
+    "date": "2023-05-15T09:00:00.000Z",
+    "launchDate": "2023-05-15T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:51:05.737Z",
+    "updatedDate": "2024-05-17T13:19:40.782Z",
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": true,
+    "immunefiStandard": null,
     "tags": {
       "productType": [
         "Lending",
@@ -2652,9 +2653,7 @@
       "language": [
         "Solidity"
       ],
-      "general": [
-        "Immunefi Standard"
-      ]
+      "general": []
     },
     "premiumTriaging": false
   },
