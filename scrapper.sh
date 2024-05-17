@@ -224,7 +224,7 @@ else
 
 	# Commit message
 	echo -e "\n"
-	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\nProjects removed or paused:\n$paused_programs\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\nBoost Projects removed or paused:\n$paused_boost_programs\nBoost Projects updated their program:\n$boost_projects_changed")
+	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\n\nProjects removed or paused:\n$paused_programs\n\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\n\nBoost Projects removed or paused:\n$paused_boost_programs\n\nBoost Projects updated their program:\n$boost_projects_changed")
 	echo -e "$mg"
 
 	# Push to github
