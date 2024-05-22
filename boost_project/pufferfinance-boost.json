@@ -197,12 +197,6 @@
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+Puffer+Finance"
     },
     "flags": [
-      "860qayrcz_Sign-on-with-Google",
-      "861m7qk8c_WhitehatLevel_v2",
-      "861mz69gk_notification-settings",
-      "86ayd29f5_managed_triage_landing_page",
-      "EMAILS_CHECK_CRON",
-      "NewQuickActions",
       "86aymt6ev_Timeboxed-BBP-MVP",
       "86az14h3m_Boosted_Additional_Statuses",
       "86az4nt4j_Boosted_Additional_Tabs",
@@ -283,7 +277,13 @@
       "PROTOCOL__VAULTS__MARKETING_EXPLORE_PAGE",
       "30znjtv_AM_Macros",
       "861mz69gk_notification-settings-announcement",
-      "PROTOCOL__VAULTS__MARKETING_BOUNTY_PAGE"
+      "PROTOCOL__VAULTS__MARKETING_BOUNTY_PAGE",
+      "860qayrcz_Sign-on-with-Google",
+      "861m7qk8c_WhitehatLevel_v2",
+      "861mz69gk_notification-settings",
+      "86ayd29f5_managed_triage_landing_page",
+      "EMAILS_CHECK_CRON",
+      "NewQuickActions"
     ]
   },
   "__N_SSG": true

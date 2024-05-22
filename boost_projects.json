@@ -1,49 +1,5 @@
 [
   {
-    "contentfulId": "4sYyL78EIHj6qFwcLHia0G",
-    "id": "hinkal-iop",
-    "project": "IOP | Hinkal",
-    "maximum_reward": 0,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3OvEzCcwvc8cwkI2RbpKZG/3baa2fd3878da589927b20e0971b3a90/64daffc4c7d038c50674a94c_ZMBTU6JE8ER4m6Kpd16qKGU6jA0GmoR70ZQ7oPwzDqA.png",
-    "date": "2024-04-16T18:00:00.000Z",
-    "launchDate": "2024-04-16T18:00:00.000Z",
-    "endDate": "2024-05-07T21:00:00.000Z",
-    "updatedDate": "2024-05-08T18:07:31.409Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
-    },
-    "evaluationEndDate": "2024-05-21T21:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "tbd",
-    "rewardsToken": "USDC",
-    "rewardsPool": 0,
-    "sourceLinesOfCode": 0,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": null,
-    "features": [
-      "IOP (Invite Only Program)"
-    ],
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "4MqLVRmFp3FOT0n16HgNrx",
     "id": "alchemix-boost",
     "project": "Boost | Alchemix",
@@ -433,6 +389,50 @@ When the Boost has ended Immunefi will publish a whitehat leaderboard and findin
       "Managed Triage: Time Saver",
       "Vault",
       "Boost"
+    ],
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "4sYyL78EIHj6qFwcLHia0G",
+    "id": "hinkal-iop",
+    "project": "IOP | Hinkal",
+    "maximum_reward": 0,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3OvEzCcwvc8cwkI2RbpKZG/3baa2fd3878da589927b20e0971b3a90/64daffc4c7d038c50674a94c_ZMBTU6JE8ER4m6Kpd16qKGU6jA0GmoR70ZQ7oPwzDqA.png",
+    "date": "2024-04-16T18:00:00.000Z",
+    "launchDate": "2024-04-16T18:00:00.000Z",
+    "endDate": "2024-05-07T21:00:00.000Z",
+    "updatedDate": "2024-05-22T10:09:10.703Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": null,
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "evaluationEndDate": "2024-05-21T21:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 0,
+    "sourceLinesOfCode": 0,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": null,
+    "features": [
+      "IOP (Invite Only Program)"
     ],
     "premiumTriaging": true
   }

@@ -218,11 +218,6 @@
       "ogImg": "/api/bounty/og-image?project=Serai"
     },
     "flags": [
-      "863fykwdq_Premium_Rollout2",
-      "863g079z3_WH-Onboarding-Email",
-      "Automatic-SLA-Breakage-Responses-22rah46",
-      "PROTOCOL__VAULTS__SELF_SERVE",
-      "TC_acceptance_system",
       "2n9ke9q_Username_Enforcement",
       "37wmrca_Project-Reopen-Setting",
       "866at49h0_Spam_Prevention_Discord",
@@ -304,7 +299,12 @@
       "CU-861mygt08_hacker_success_role",
       "CU-861n8bhkh_disable_duplicate_banned_users",
       "CU-863gvk6hh_god-mode-replacement",
-      "QuickAction_Categories"
+      "QuickAction_Categories",
+      "863fykwdq_Premium_Rollout2",
+      "863g079z3_WH-Onboarding-Email",
+      "Automatic-SLA-Breakage-Responses-22rah46",
+      "PROTOCOL__VAULTS__SELF_SERVE",
+      "TC_acceptance_system"
     ]
   },
   "__N_SSG": true

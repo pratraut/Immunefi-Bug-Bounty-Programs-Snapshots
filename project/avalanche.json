@@ -468,6 +468,9 @@
       "ogImg": "/api/bounty/og-image?project=Ava+Labs+Avalanche"
     },
     "flags": [
+      "21gqt4q_Whitehat_Post_Report_Survey",
+      "PROTOCOL__VAULTS__SUBMIT_REPORT_VAULT_INFO",
+      "PriorityInbox--Sort-By-Last_Updated-By--2d4k0tt",
       "37hgea5_MFA-Increase-Request-Time",
       "86ayeaeya_Managed_Triage_Banner",
       "86azgrjc6_Explore_Page_Separation",
@@ -551,10 +554,7 @@
       "86ayt718j_Partners-Section",
       "86ayu3n01_optimize_social_media_with_immunefi_badge",
       "86azkdwfg_IOP_Landing_Page",
-      "Project-Admin-Settings-Page",
-      "21gqt4q_Whitehat_Post_Report_Survey",
-      "PROTOCOL__VAULTS__SUBMIT_REPORT_VAULT_INFO",
-      "PriorityInbox--Sort-By-Last_Updated-By--2d4k0tt"
+      "Project-Admin-Settings-Page"
     ]
   },
   "__N_SSG": true

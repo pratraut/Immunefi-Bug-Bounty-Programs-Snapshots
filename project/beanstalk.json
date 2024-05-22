@@ -357,6 +357,20 @@
       "ogImg": "/api/bounty/og-image?project=Beanstalk"
     },
     "flags": [
+      "2n9ke9q_Username_Enforcement",
+      "37wmrca_Project-Reopen-Setting",
+      "866at49h0_Spam_Prevention_Discord",
+      "PROTOCOL__VARIABLE_FEE",
+      "PROTOCOL__VAULTS__MARKETING_EXPLORE_PAGE",
+      "30znjtv_AM_Macros",
+      "861mz69gk_notification-settings-announcement",
+      "PROTOCOL__VAULTS__MARKETING_BOUNTY_PAGE",
+      "861m7qk8c_WhitehatLevel_v2",
+      "861mz69gk_notification-settings",
+      "86ayd29f5_managed_triage_landing_page",
+      "EMAILS_CHECK_CRON",
+      "NewQuickActions",
+      "860qayrcz_Sign-on-with-Google",
       "86aymt6ev_Timeboxed-BBP-MVP",
       "86az14h3m_Boosted_Additional_Statuses",
       "86az4nt4j_Boosted_Additional_Tabs",
@@ -429,21 +443,7 @@
       "863g079z3_WH-Onboarding-Email",
       "Automatic-SLA-Breakage-Responses-22rah46",
       "PROTOCOL__VAULTS__SELF_SERVE",
-      "TC_acceptance_system",
-      "2n9ke9q_Username_Enforcement",
-      "37wmrca_Project-Reopen-Setting",
-      "866at49h0_Spam_Prevention_Discord",
-      "PROTOCOL__VARIABLE_FEE",
-      "PROTOCOL__VAULTS__MARKETING_EXPLORE_PAGE",
-      "30znjtv_AM_Macros",
-      "861mz69gk_notification-settings-announcement",
-      "PROTOCOL__VAULTS__MARKETING_BOUNTY_PAGE",
-      "861m7qk8c_WhitehatLevel_v2",
-      "861mz69gk_notification-settings",
-      "86ayd29f5_managed_triage_landing_page",
-      "EMAILS_CHECK_CRON",
-      "NewQuickActions",
-      "860qayrcz_Sign-on-with-Google"
+      "TC_acceptance_system"
     ]
   },
   "__N_SSG": true

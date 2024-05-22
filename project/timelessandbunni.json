@@ -267,10 +267,6 @@
       "ogImg": "/api/bounty/og-image?project=Timeless+and+Bunni"
     },
     "flags": [
-      "SAFE_HARBOR__MARKETING_PAGE",
-      "37hge9y_AM-Mass-Unsubscribe",
-      "861n4c612_control-mediations",
-      "86ayg4nhx_Remove-Deprecated-Status-In-UI",
       "CU-861mygt08_hacker_success_role",
       "CU-861n8bhkh_disable_duplicate_banned_users",
       "CU-863gvk6hh_god-mode-replacement",
@@ -353,7 +349,11 @@
       "2r7a3y7_Premium-Services-MVP",
       "32k7m6c_Whitehat_Score_Internal",
       "86azqwf42_Whitehat_Impact_Report_Page",
-      "CU-860qayyfq_Additional-user-roles"
+      "CU-860qayyfq_Additional-user-roles",
+      "SAFE_HARBOR__MARKETING_PAGE",
+      "37hge9y_AM-Mass-Unsubscribe",
+      "861n4c612_control-mediations",
+      "86ayg4nhx_Remove-Deprecated-Status-In-UI"
     ]
   },
   "__N_SSG": true

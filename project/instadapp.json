@@ -273,6 +273,11 @@
       "ogImg": "/api/bounty/og-image?project=Instadapp"
     },
     "flags": [
+      "Automatic-SLA-Breakage-Responses-22rah46",
+      "PROTOCOL__VAULTS__SELF_SERVE",
+      "TC_acceptance_system",
+      "863fykwdq_Premium_Rollout2",
+      "863g079z3_WH-Onboarding-Email",
       "866at49h0_Spam_Prevention_Discord",
       "PROTOCOL__VARIABLE_FEE",
       "PROTOCOL__VAULTS__MARKETING_EXPLORE_PAGE",
@@ -354,12 +359,7 @@
       "PREMIUM_TRIAGING_ROTATIONS",
       "3c5v9an_Project_post_report_survey",
       "86ayu13a2-async-local-storage",
-      "QuickAction_Categories",
-      "Automatic-SLA-Breakage-Responses-22rah46",
-      "PROTOCOL__VAULTS__SELF_SERVE",
-      "TC_acceptance_system",
-      "863fykwdq_Premium_Rollout2",
-      "863g079z3_WH-Onboarding-Email"
+      "QuickAction_Categories"
     ]
   },
   "__N_SSG": true
