@@ -4734,6 +4734,43 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "79hqJlFGEpIi7y64Y6Hh8b",
+    "id": "yieldnest",
+    "project": "YieldNest",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5THhXbvg5r0Y0AroHykN26/e9f6ca536390eb07d8113b04f04cf00c/B3hF3KTP_400x400_copy.png",
+    "date": "2024-05-22T02:29:00.000Z",
+    "launchDate": "2024-05-22T02:29:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-22T13:42:30.490Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Yield Aggregator"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "77iGw7bZ2iQGwLoODoKQOq",
     "id": "polymarket",
     "project": "Polymarket",
@@ -8623,6 +8660,52 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "1hax7qU84Oi5S074srQIrp",
+    "id": "inversefinance",
+    "project": "Inverse Finance",
+    "maximum_reward": 60000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
+    "date": "2023-11-30T11:00:00.000Z",
+    "launchDate": "2023-11-30T11:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-22T13:54:11.030Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "DAO",
+        "Lending",
+        "Stablecoin",
+        "Token"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "Base",
+        "ETH",
+        "Optimism"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity",
+        "Typescript"
+      ],
+      "general": [
+        "Immunefi Standard",
+        "Vaults"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "2fi9Y3a3dvqwile6SUdgBD",
     "id": "cowprotocol",
     "project": "CoW Protocol",
@@ -8889,52 +8972,6 @@
       ],
       "general": [
         "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1hax7qU84Oi5S074srQIrp",
-    "id": "inversefinance",
-    "project": "Inverse Finance",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
-    "date": "2023-11-30T14:00+03:00",
-    "launchDate": "2023-11-30T14:00+03:00",
-    "endDate": null,
-    "updatedDate": "2024-05-03T10:29:13.020Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "DAO",
-        "Lending",
-        "Stablecoin",
-        "Token"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Base",
-        "ETH",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults"
       ]
     },
     "premiumTriaging": false
@@ -9771,10 +9808,10 @@
     "project": "dHEDGE",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jfCx6b5D8nfAMemuBnaOW/25d35d4095909785d015401d8cff263f/dHEDGE_logo.jpeg",
-    "date": "2021-11-09T06:00-06:00",
-    "launchDate": "2021-11-09T06:00-06:00",
+    "date": "2021-11-09T12:00:00.000Z",
+    "launchDate": "2021-11-09T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2023-11-11T08:18:03.399Z",
+    "updatedDate": "2024-05-22T12:48:04.974Z",
     "technologies": [
       "Smart Contract"
     ],
