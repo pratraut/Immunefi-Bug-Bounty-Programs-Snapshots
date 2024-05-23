@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/wWFjbdt3jrcKZ4OmOjvBc/84c670c9370bc2b2feb25fb721191d45/Bifi_logo.jpeg",
       "launchDate": "2021-10-21T08:00-05:00",
       "endDate": null,
-      "updatedDate": "2024-04-08T18:54:48.935Z",
+      "updatedDate": "2024-05-23T12:37:10.280Z",
       "kyc": false,
       "rewards": [
         {
@@ -39,13 +39,6 @@
       ],
       "audits": null,
       "assets": [
-        {
-          "id": "1GZKZ2GGtbypPFjbNxLEcj",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x06c8fec203be5b45fadc3f139efdf4444cf8828e",
-          "description": "Observer Oracle",
-          "isPrimacyOfImpact": null
-        },
         {
           "id": "2ABQVI0XooxG4OWiVE1F87",
           "type": "smart_contract",

@@ -650,12 +650,6 @@
           "severity": "medium"
         },
         {
-          "id": "5LNaGRaHAm6OryntkARGQj",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
-          "type": "smart_contract",
-          "severity": "low"
-        },
-        {
           "id": "1qFse20Vw4c67yeqnYfrIV",
           "title": "Reentrancy or frontrunning attacks with no users assets loss involvement but lead to an undesired product behaviour by design",
           "type": "smart_contract",

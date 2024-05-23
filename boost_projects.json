@@ -249,7 +249,8 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "features": [
       "Vault",
       "Boost",
-      "Managed Triage: Expert Assessment"
+      "Managed Triage: Expert Assessment",
+      "Subscription Plan: Pro"
     ],
     "premiumTriaging": true
   },
@@ -401,7 +402,7 @@ When the Boost has ended Immunefi will publish a whitehat leaderboard and findin
     "date": "2024-04-16T18:00:00.000Z",
     "launchDate": "2024-04-16T18:00:00.000Z",
     "endDate": "2024-05-07T21:00:00.000Z",
-    "updatedDate": "2024-05-22T10:09:10.703Z",
+    "updatedDate": "2024-05-23T13:44:09.587Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -427,12 +428,13 @@ When the Boost has ended Immunefi will publish a whitehat leaderboard and findin
     "rewardsToken": "USDC",
     "rewardsPool": 0,
     "sourceLinesOfCode": 0,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1DomEnIQ0o4Fv7ELFvnVAIP9vgd6Ez__A/view?usp=sharing",
     "inviteOnly": true,
     "hideAssetsInScope": true,
     "boostedLeaderboard": null,
     "features": [
-      "IOP (Invite Only Program)"
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver"
     ],
     "premiumTriaging": true
   }

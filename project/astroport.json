@@ -367,12 +367,6 @@
           "severity": "medium"
         },
         {
-          "id": "5LNaGRaHAm6OryntkARGQj",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
-          "type": "smart_contract",
-          "severity": "low"
-        },
-        {
           "id": "6hGsLMuIlmIPW0n2TiorqA",
           "title": "Smart contract fails to deliver promised returns, but doesn’t lose value",
           "type": "blockchain_dlt",

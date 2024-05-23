@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5THhXbvg5r0Y0AroHykN26/e9f6ca536390eb07d8113b04f04cf00c/B3hF3KTP_400x400_copy.png",
       "launchDate": "2024-05-22T02:29:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-05-22T13:42:30.490Z",
+      "updatedDate": "2024-05-23T15:42:44.894Z",
       "kyc": false,
       "rewards": [
         {
@@ -111,6 +111,13 @@
           "url": "https://app.yieldnest.finance/",
           "description": "Main app page",
           "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2S0Bea2Yq8DKVktt5Wq9wo",
+          "type": "smart_contract",
+          "url": "https://immunefi.com/",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true
         }
       ],
       "impacts": [

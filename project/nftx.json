@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2znSWgmnYpypWSL8mndKTA/e07cab4e385ad1f79fb7c02dbad5d3a8/NFTX_logo_copy.png",
       "launchDate": "2024-02-22T03:56:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-03-05T15:52:24.220Z",
+      "updatedDate": "2024-05-23T13:43:12.613Z",
       "kyc": false,
       "rewards": [
         {
@@ -186,16 +186,23 @@
       "immunefiStandard": true,
       "tags": {
         "productType": [
-          "AMM"
+          "AMM",
+          "L2"
         ],
         "projectType": [
-          "Defi"
+          "Defi",
+          "NFT"
         ],
-        "ecosystem": null,
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
         "programType": [
           "Smart Contract"
         ],
-        "language": null
+        "language": [
+          "Solidity"
+        ]
       },
       "legacy": {
         "technologies": [
