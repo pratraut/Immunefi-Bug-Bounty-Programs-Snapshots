@@ -1857,7 +1857,7 @@
     "date": "2022-06-16T16:30:00.000Z",
     "launchDate": "2022-06-16T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-02-27T11:04:17.480Z",
+    "updatedDate": "2024-05-22T19:02:14.982Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -3495,7 +3495,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-24T12:37:56.189Z",
+    "updatedDate": "2024-05-22T19:15:09.432Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -5583,6 +5583,42 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "5ZctiuVmVDYDNiAvbWUpJQ",
+    "id": "aera",
+    "project": "Aera",
+    "maximum_reward": 180000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7hifnzGwAruruZmx5bipNS/60b066ddd7ba77d14fa095ccce48bd26/Aera_Logo_Black.png",
+    "date": "2023-11-20T12:00:00.000Z",
+    "launchDate": "2023-11-20T12:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-22T19:06:49.755Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Asset Management"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "5dQ0rFmlbPuB8XNeDBHKoe",
     "id": "nftx",
     "project": "NFTX",
@@ -5766,42 +5802,6 @@
       ],
       "language": [
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "5ZctiuVmVDYDNiAvbWUpJQ",
-    "id": "aera",
-    "project": "Aera",
-    "maximum_reward": 120000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7hifnzGwAruruZmx5bipNS/60b066ddd7ba77d14fa095ccce48bd26/Aera_Logo_Black.png",
-    "date": "2023-11-20T14:00+02:00",
-    "launchDate": "2023-11-20T14:00+02:00",
-    "endDate": null,
-    "updatedDate": "2024-01-10T16:59:39.790Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Asset Management"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "general": [
         "Immunefi Standard"
@@ -9409,10 +9409,10 @@
     "project": "GhostMarket",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2jVzkkyroD7248F4telELR/8fbbd1aa1f04a15a99341e7c9caed38a/GhostMarket.jpeg",
-    "date": "2022-09-14T11:30-06:00",
-    "launchDate": "2022-09-14T11:30-06:00",
+    "date": "2022-09-14T17:30:00.000Z",
+    "launchDate": "2022-09-14T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:57:07.277Z",
+    "updatedDate": "2024-05-22T18:52:28.361Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -12098,11 +12098,11 @@
         "Solidity"
       ],
       "general": [
-        "Immunefi Standard",
-        "Vaults"
+        "Triaged by Immunefi",
+        "Immunefi Standard"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "5XH0txDLDFK7z08L3FnyyK",
@@ -12299,7 +12299,7 @@
     "date": "2023-12-04T09:00:00.000Z",
     "launchDate": "2023-12-04T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-02T09:07:02.136Z",
+    "updatedDate": "2024-05-22T19:21:18.351Z",
     "technologies": [
       "Websites and Applications"
     ],

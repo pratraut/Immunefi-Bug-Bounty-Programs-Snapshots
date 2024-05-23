@@ -7,9 +7,9 @@
       "project": "GhostMarket",
       "maxBounty": 50000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2jVzkkyroD7248F4telELR/8fbbd1aa1f04a15a99341e7c9caed38a/GhostMarket.jpeg",
-      "launchDate": "2022-09-14T11:30-06:00",
+      "launchDate": "2022-09-14T17:30:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-04-08T18:57:07.277Z",
+      "updatedDate": "2024-05-22T18:52:28.361Z",
       "kyc": false,
       "rewards": [
         {
@@ -220,35 +220,35 @@
         {
           "id": "3H7PSOCrxG39mjph7pZ17S",
           "type": "smart_contract",
-          "url": "https://bscscan.com/address/0x48a01604B48730B9DeD362C000968D5361362d76",
-          "description": "BSC Incentives Contract ",
+          "url": "https://bscscan.com/address/0x791f72163f7aed3a5b358fea12240aeacf20d6ca",
+          "description": "BSC Incentives Contract",
           "isPrimacyOfImpact": null
         },
         {
           "id": "2z9w1KWADZMivnNTkpJP8N",
           "type": "smart_contract",
-          "url": "https://snowtrace.io/address/0xb57201fa5c1E81bA8FcC8BeFB8C59c6cE96Adf1d",
+          "url": "https://snowtrace.io/address/0x81b1b8E8212016fD44C4347352718717Aa4Ea121",
           "description": "Avalanche Incentives Contract",
           "isPrimacyOfImpact": null
         },
         {
           "id": "5i5zEJ8xVZAb1whSAAMysX",
           "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x3417E77e81Cf31bb210c2364883EB83E5077f0Dd",
+          "url": "https://etherscan.io/address/0x215ee5f7392294dc36a989a53dc670315a4abd07",
           "description": "Ethereum Incentives Contract",
           "isPrimacyOfImpact": null
         },
         {
           "id": "2xtSF7xKku3vRdmvnhkWhX",
           "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0x8bd85e91b20308449e4115FAF544a4275B4b30F1",
+          "url": "https://polygonscan.com/address/0xc284ffe91b170005ab8f67288789e266c7880e39",
           "description": "Polygon Incentives Contract",
           "isPrimacyOfImpact": null
         },
         {
           "id": "5IVpddbug4ZM4HuCZluLet",
           "type": "smart_contract",
-          "url": "https://bscscan.com/address/0x5992cD0fF3074A7849AA2f2799bD3ce1DD17e747#code",
+          "url": "https://basescan.org/address/0x42bd1b1c84ad8cf576d25fcd86a7efbe2752fe02",
           "description": "BSC Liquidity Provider Staking Contract",
           "isPrimacyOfImpact": null
         },

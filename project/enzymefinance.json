@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4a7y72EOvOMZWlUx3h2ZNi/7877774da8145f9d7cbd85f902d7198a/Enzymefinance-logo.jpg",
       "launchDate": "2021-03-29T07:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-04-24T12:37:56.189Z",
+      "updatedDate": "2024-05-22T19:15:09.432Z",
       "kyc": false,
       "rewards": [
         {
@@ -1528,6 +1528,27 @@
           "type": "smart_contract",
           "url": "https://polygonscan.com/address/0x42637a6fe8dD32448be441a10782b4E29bFeA3DE",
           "description": "SharePriceThrottledAssetManagerFactory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3dEKF7XnPoR5fbxOLArmpC",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2",
+          "description": "PendleV2MarketRegistry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4Iyvf33wmLJAHsNmnpsK5U",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x85c474a1dbf7fdc22c592382ad554bb42cebce0b",
+          "description": "PendleV2PositionLib",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "586cF4eRw48qVblPJ2ZB2n",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2",
+          "description": "PendleV2MarketRegistry",
           "isPrimacyOfImpact": null
         }
       ],

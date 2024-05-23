@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5aOBSUu0V6jW0Op03W4NDF/beec6ccbe2927310dffb147f24fdb902/Twitter_profile_400x400.png",
       "launchDate": "2022-06-16T16:30:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-02-27T11:04:17.480Z",
+      "updatedDate": "2024-05-22T19:02:14.982Z",
       "kyc": false,
       "rewards": [
         {
@@ -319,6 +319,90 @@
           "url": "https://bscscan.com/address/0x25787055964a8d2a0de4387d6ec9ebc0dc139dd5",
           "description": "Oracle(wBETH)",
           "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2KaOnAHVMlLDezanA82jHX",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xad9eAAe95617c39019aCC42301a1dCa4ea5b6f65",
+          "description": "Gemjoin(BTCB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5X3sjAHmOHPrDO2JdiK8AI",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xb12fF6FD1885a9Cb2b26302c98092644604B1e92",
+          "description": "clipCE(BTCB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6wx7vP7q2NFVhyjVqLll8o",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x2eeDc4723b1ED2f24afCD9c0e3665061bD2D5642",
+          "description": "Oracle(BTCB)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1UUbGsb4JlSgMxqayx36ZQ",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xd7E33948e2a43e7C1ec2F19937bf5bf8BbF9BaE8",
+          "description": "Gemjoin(ezETH)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1l5MuMkI3jucxm7RyLm790",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x5784e62b4495c7Cc4B09CcD3f206Cc7128449CE0",
+          "description": "clipCE(ezETH)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3vGAlL9vSpEeOcY5w127BD",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xE859f3f6EE5532313C33A02283150E201290F45F",
+          "description": "Oracle(ezETH)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "23KE1bQnpsGggdac9xEWg1",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x2367f2Da6fd39De6944218CC9EC706BCdc9a6918",
+          "description": "Gemjoin(weETH)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "54U6Dke5hzFq6IKco3ccOO",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xF21B35EdF7A927799b80F09C395C460C3d31D057",
+          "description": "clipCE(weETH)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4EoGODUnmrIuSnrSDoBJbm",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xE514851E324B54f152F7D9631ACe1A0a87248b46",
+          "description": "Oracle(weETH)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "a8zRXVG4mOxcm437HMJ60",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x876cd9a380Ee7712129b52f8293F6f06056c3104",
+          "description": "Gemjoin(STONE)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4rtqEJ147E1G66H2DYlqkC",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x5AaBBBe154C0AFA072e313d46b29592936493b26",
+          "description": "clipCE(STONE)",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1BvImTBI46Bk1sARAVy886",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0xDF5A8e190CF63D74a4Ec743253fA26D4C7539Be8",
+          "description": "Oracle(STONE)",
+          "isPrimacyOfImpact": null
         }
       ],
       "impacts": [
@@ -403,9 +487,9 @@
       ],
       "programOverview": "Lista DAO, powered by the BNB Smart Chain, introduces an innovative integration of Liquid Staking and Staking services. Lista DAO's native CDP stablecoin is known as lisUSD, and it is over-collateralized against a variety of tokens such as BNB, ETH, wBETH and slisBNB. Upon borrowing lisUSD, users can opt to stake their holdings for long-term yield on affiliated partner DEXes, engage in trading activities, or utilize lisUSD as a form of monetary payment.\n\nLista DAO also offers simple and secure liquid staking solutions on the BNB Smart Chain, with users minting Lista Staked BNB, slisBNB, in exchange for staking their BNB. The staked BNB is held securely on BSC validator nodes providing attractive liquid staking yields on their staked BNB.",
       "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
-      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\n__Reward calculation of Critical bug reports__\n\nFor critical smart contract bugs, the reward amount is __10%__ of the funds directly affected up to a maximum of __USD 1 000 000 USD__, however there is a minimum of __USD 100 000__\n\n__Reward calculation of High bug reports__\t\n\nHigh severity vulnerabilities concerning theft of unclaimed yield, permanent freezing of unclaimed yield, and temporary freezing of funds for a minimum period of 30 days are considered at the full amount of funds at risk, capped at the maximum high reward. This is to incentivize security researchers to uncover and responsibly disclose vulnerabilities that may have not have significant monetary value today, but could still be damaging to the project if it goes unaddressed. \n\nAll vulnerabilities marked in the [Certik security review](https://drive.google.com/file/d/1A_iAbKkRyToXjFA25v8gLFfuSqFuIPEd/view?usp=sharing), [Peckshield security review](https://drive.google.com/file/d/1tyH5DAg0EE12TKOvucORw-kSsXpJFofu/view?usp=sharing), [Slowmist security review](https://drive.google.com/file/d/1ki1MrZcnkHReKuR5cMY40n2j-U9bnx25/view?usp=sharing), [Veridise security review](https://github.com/lista-dao/lista-dao-contracts/blob/master/audits/Veridise_270622.pdf) and [https://github.com/lista-dao/lista-dao-contracts/tree/master/audits](https://github.com/lista-dao/lista-dao-contracts/tree/master/audits) are not eligible for a reward.\n\nAll rewards for the Lista bug bounty program are scaled based on an internally established team criteria, taking into account the exploitability of the bug, the impact it causes, and the likelihood of the vulnerability presenting itself, which is especially factored in with bug reports requiring multiple conditions to be met that are currently not in-place. However, there is a minimum reward of __USD 1,000__ for each severity level, rewards will be provided at the determined fair value by the team depending on these conditions, assuming that the bug report is in-scope of the bug bounty program.\n\nPayouts are handled by the __Lista__ team directly and are denominated in __USD__. However, payouts are done in __USDT, USDC and lisUSD__, with the choice of the ratio at the discretion of the team.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\n__Reward calculation of Critical bug reports__\n\nFor critical smart contract bugs, the reward amount is __10%__ of the funds directly affected up to a maximum of __USD 1 000 000 USD__, however there is a minimum of __USD 100 000__\n\n__Reward calculation of High bug reports__\t\n\nHigh severity vulnerabilities concerning theft of unclaimed yield, permanent freezing of unclaimed yield, and temporary freezing of funds for a minimum period of 30 days are considered at the full amount of funds at risk, capped at the maximum high reward. This is to incentivize security researchers to uncover and responsibly disclose vulnerabilities that may have not have significant monetary value today, but could still be damaging to the project if it goes unaddressed. \n\nAll vulnerabilities marked in the [Certik security review](https://drive.google.com/file/d/1A_iAbKkRyToXjFA25v8gLFfuSqFuIPEd/view?usp=sharing), [Peckshield security review](https://drive.google.com/file/d/1tyH5DAg0EE12TKOvucORw-kSsXpJFofu/view?usp=sharing), [Slowmist security review](https://drive.google.com/file/d/1ki1MrZcnkHReKuR5cMY40n2j-U9bnx25/view?usp=sharing), [Veridise security review](https://github.com/lista-dao/lista-dao-contracts/blob/master/audits/Veridise_270622.pdf) and https://github.com/lista-dao/synclub-contracts/tree/master/audit and https://github.com/lista-dao/lista-dao-contracts/tree/master/audits are not eligible for a reward.\n\nAll rewards for the Lista bug bounty program are scaled based on an internally established team criteria, taking into account the exploitability of the bug, the impact it causes, and the likelihood of the vulnerability presenting itself, which is especially factored in with bug reports requiring multiple conditions to be met that are currently not in-place. However, there is a minimum reward of __USD 1,000__ for each severity level, rewards will be provided at the determined fair value by the team depending on these conditions, assuming that the bug report is in-scope of the bug bounty program.\n\nPayouts are handled by the __Lista__ team directly and are denominated in __USD__. However, payouts are done in __USDT, USDC and lisUSD__, with the choice of the ratio at the discretion of the team.",
       "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
-      "assetsBodyV2": "All smart contracts of Lista can be found at [https://github.com/lista-dao/lista-dao-contracts](https://github.com/lista-dao/lista-dao-contracts). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nFor proxy contracts, both the current implementation and any further updates to the implementation contracts are considered in scope.\n\nIf an impact can be caused to any other asset managed by Lista that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
+      "assetsBodyV2": "All smart contracts of Lista can be found at https://github.com/lista-dao/lista-dao-contracts and https://github.com/lista-dao/synclub-contracts \nHowever, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nFor proxy contracts, both the current implementation and any further updates to the implementation contracts are considered in scope.\n\nIf an impact can be caused to any other asset managed by Lista that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
