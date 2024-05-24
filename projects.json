@@ -3161,6 +3161,51 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "2GlvGQbTcB2y5W9Sn4YyTX",
+    "id": "instadapp",
+    "project": "Instadapp",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jHZEinQjaABm48Sct1BZs/3d224c5a05bff575e14b98970f939667/Instadapp.jpeg",
+    "date": "2021-09-20T01:30:00.000Z",
+    "launchDate": "2021-09-20T01:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-24T12:49:37.462Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "L1",
+        "L2",
+        "Wallet"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Avalanche",
+        "BSC",
+        "ETH",
+        "Fantom",
+        "Optimism",
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "496ujkJo91BuYMOeW2qI35",
     "id": "goldfinch",
     "project": "Goldfinch",
@@ -4442,51 +4487,6 @@
       ],
       "programType": [
         "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2GlvGQbTcB2y5W9Sn4YyTX",
-    "id": "instadapp",
-    "project": "Instadapp",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jHZEinQjaABm48Sct1BZs/3d224c5a05bff575e14b98970f939667/Instadapp.jpeg",
-    "date": "2021-09-19T20:30-05:00",
-    "launchDate": "2021-09-19T20:30-05:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:49:26.010Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "L1",
-        "L2",
-        "Wallet"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Avalanche",
-        "BSC",
-        "ETH",
-        "Fantom",
-        "Optimism",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
       ],
       "language": [
         "Solidity"
