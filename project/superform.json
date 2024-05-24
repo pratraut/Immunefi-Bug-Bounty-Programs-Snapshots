@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6UWbmMwr5z3HtSFtq01Sa9/ffa00ddc2411ebd72228843b433579a7/superform_logo_white_black2.png",
       "launchDate": "2024-01-26T00:00+04:00",
       "endDate": null,
-      "updatedDate": "2024-05-14T11:57:34.937Z",
+      "updatedDate": "2024-05-23T18:50:02.237Z",
       "kyc": true,
       "rewards": [
         {
@@ -1024,6 +1024,146 @@
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x722669cbE532F08bb4EB81127e6Ef386627E90be",
           "description": "PaymentHelper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "789fY0PyQDruB96THtyzcF",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xf631CA98f1884Ca3AD5abC510F071C54fbd3d8E9",
+          "description": "BroadcastRegistry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5sgj7PMZrevOtfaPhmoCaM",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xc4e6b51bcE2F92666207214965CBeb0Bd9B5d6BF",
+          "description": "CoreStateRegistry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5XN7stLhoWQYpcxyYvvmUG",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x3c6C2D73ED864E25c2C0599F5716192a89554695",
+          "description": "DstSwapper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2G5KUMGc3zsHozWgCI3fcq",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x290dE2677EC5056458D60202B112ac44e9b3d90d",
+          "description": "ERC4626Form",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3NoPDaxF5yx2s2ofK4qWAo",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x898e4E8a442C079e74c9E61E956d2FD183e5Eb99",
+          "description": "EmergencyQueue",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4VHyGUSOk8l3cH3A8Tb9RQ",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x2551c2218a37e8e28BF3C1658d8A315cD4209847",
+          "description": "LayerzeroImplementation",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6UF6mLlIYqMHXqBFDeRMZe",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xbB7d1453487043Aa8db8512eC22498a8F2fB652B",
+          "description": "LiFiValidator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "efV8ttkNWWXbAiWeEtpXI",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xeE8695cDa4697987e1Fcd191F3c69FFF5Ef02eD0",
+          "description": "PayMaster",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "6i6BsDCxfxTabSsH4xALYl",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xEBDf673A9A0c40149641E50244415C67DD2B5CE8",
+          "description": "PayloadHelper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "15Zf8ZysTdR1Ap8pvnaWpN",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xA7fEEE543b40d9Ca37722A8bda03D1fff4b2EE53",
+          "description": "PaymentHelper",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1Cskoke9iobyWBkeELPMSa",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xeb077f9CB0406667DDD7BE945f393297578372F1",
+          "description": "SocketOneInchValidator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "P3tTTGHxdDnhxsxHVmHwC",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xfDf661e1e7e8F617b383516688A8aFC9c6176A04",
+          "description": "SocketValidator",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "7CbHcEGeVkQA82N0OFnCe6",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x7F1535FF0f0A099eb7D314e1655BD4dC92986aAD",
+          "description": "SuperPositions",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2JeHviWyAwpREbhpSCsmZX",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xd831b4ba49852F6E7246Fe7f4A7DABB5b0C56e1F",
+          "description": "SuperRBAC",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "66NltRNiAhL3vydngvVRTZ",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x7feB31d18E43E2faeC718EEd2D7f34402c3e27b4",
+          "description": "SuperRegistry",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "ObSVQeiYtupRykqpKj1fm",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xbc85043544CC2b3Fd095d54b6431822979BBB62A",
+          "description": "SuperformFactory",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "4Nax0Q2rmWbSwIEVUYBH3A",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x50DFeb29B462a64867f421C585BDaE89cf4656d4",
+          "description": "SuperformRouter",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "3s6JUk3CrE725wbqbKZh4Y",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x861e766B97eEE8774fA96C16Ee8cc448A3d68d1C",
+          "description": "VaultClaimer",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "5ArEu6NUZJL5HJFRV7y26Y",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0xE4350dFcB29Fd580B662522b3fC85Dc5c3E9aBC8",
+          "description": "WormholeARImplementation",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "1AdpvosYHIaKKsijz0ZCkE",
+          "type": "smart_contract",
+          "url": "https://ftmscan.com/address/0x0Bb3468d5b3Cd0842eEc911C735a9B128B21B0C9",
+          "description": "WormholeSRImplementation",
           "isPrimacyOfImpact": null
         }
       ],
