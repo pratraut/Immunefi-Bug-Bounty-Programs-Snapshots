@@ -2472,6 +2472,35 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "XROwrT6tWvOPznjsl9vhu",
+    "id": "dexeprotocol",
+    "project": "DeXe Protocol",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZQ0i4NAKMQyO19x7Z65k8/257b06a35dfa48dcdb2ec16351267695/71133570.png",
+    "date": "2024-01-23T20:00:00.000Z",
+    "launchDate": "2024-01-23T20:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-27T12:34:36.394Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": null,
+      "general": [
+        "Immunefi Standard",
+        "Vaults"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "7aadNIsaUh4D1Z6RDYNKA1",
     "id": "mantlelsp",
     "project": "Mantle LSP",
@@ -8744,6 +8773,43 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "6xiFrxdTQ45lAwKmjtu95A",
+    "id": "floki",
+    "project": "Floki",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/153M0ieVbcBBdWFp0BHaUd/0d63caf14d9fe1901c99e6606f90495c/6CJDOThO_400x400.png",
+    "date": "2024-05-27T02:57:00.000Z",
+    "launchDate": "2024-05-27T02:57:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-05-27T10:58:33.547Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Gaming"
+      ],
+      "projectType": [
+        "NFT"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "726D9ls5tKdv1wVhZSWGLh",
     "id": "cove",
     "project": "Cove",
@@ -8842,35 +8908,6 @@
       "language": null,
       "general": [
         "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "XROwrT6tWvOPznjsl9vhu",
-    "id": "dexeprotocol",
-    "project": "DeXe Protocol",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZQ0i4NAKMQyO19x7Z65k8/257b06a35dfa48dcdb2ec16351267695/71133570.png",
-    "date": "2024-01-23T20:00:00.000Z",
-    "launchDate": "2024-01-23T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-05-23T13:28:56.293Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "Vaults"
       ]
     },
     "premiumTriaging": false
@@ -10112,10 +10149,10 @@
     "project": "Immunefi",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1XjTFUMSo1pLNrTF0aIH4U/353cf547e2cd9dcfc4e464ce9c328c07/Logo_square.png",
-    "date": "2020-12-02T00:00-05:00",
-    "launchDate": "2020-12-02T00:00-05:00",
+    "date": "2020-12-02T05:00:00.000Z",
+    "launchDate": "2020-12-02T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-03-11T15:02:05.494Z",
+    "updatedDate": "2024-05-27T13:30:59.576Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -10130,7 +10167,7 @@
       ],
       "ecosystem": [
         "ETH",
-        "xDAI"
+        "Optimism"
       ],
       "programType": [
         "Smart Contract",
