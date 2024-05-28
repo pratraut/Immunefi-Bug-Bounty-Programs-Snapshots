@@ -255,6 +255,71 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
+    "contentfulId": "4w1C45ry290axkrzHIR77m",
+    "id": "immunefiarbitration-boost",
+    "project": "Boost | Immunefi Arbitration",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2V4kHwGy9dzUAcs61R7mC6/0dea15f36e83e9429d47c7685b2cfba0/Logo_Mark_Badge_White_Round_4x.png",
+    "date": "2024-03-12T08:00:00.000Z",
+    "launchDate": "2024-03-12T08:00:00.000Z",
+    "endDate": "2024-04-02T08:00:00.000Z",
+    "updatedDate": "2024-05-28T09:14:41.905Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": null,
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "evaluationEndDate": "2024-05-03T08:00:00.000Z",
+    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
+
+KYC is required.
+
+Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Immunefi technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"immunefiarb-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+On launch day, Tuesday March 12th, Immunefi will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
+
+
+[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdBLJGLkTNEJLTnPPak-5b5bwV2I6GVGRBKia_FHO9KB4UbFQ/viewform?usp=sf_link)",
+    "boostedIntroLive": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
+
+KYC is required.
+
+The rewards pool is partly distributed with the following formula, and partly at Immunefi’s discretion. The portion at Immunefi’s discretion is to reward high-quality whitehat contributions, such as exceptionally well-written reports, the best report among duplicates, and valuable but technically invalid bug reports. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/23262277256849-Immunefi-Arbitration-Boost-Reward-Terms)
+
+Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Immunefi within the “immunefiarb-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).
+
+When the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Post-Boost cards for the security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1V992rR-DhkUr4y8Kz0jpicdMw4cjWxst?usp=sharing).",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 1922,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1dES_h4V-8XISqI0gFTgsh1ZbcopqSYPO/view?usp=sharing",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Managed Triage: Time Saver",
+      "Vault",
+      "Boost"
+    ],
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "4RlYsMPzIHbHbWLH2bq9bS",
     "id": "zerolend-boost",
     "project": "Boost | ZeroLend",
@@ -324,71 +389,6 @@ When the Boost has ended Immunefi will publish a whitehat leaderboard and findin
     "features": [
       "Vault",
       "Managed Triage: Time Saver",
-      "Boost"
-    ],
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "4w1C45ry290axkrzHIR77m",
-    "id": "immunefiarbitration-boost",
-    "project": "Boost | Immunefi Arbitration",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2V4kHwGy9dzUAcs61R7mC6/0dea15f36e83e9429d47c7685b2cfba0/Logo_Mark_Badge_White_Round_4x.png",
-    "date": "2024-03-12T08:00:00.000Z",
-    "launchDate": "2024-03-12T08:00:00.000Z",
-    "endDate": "2024-04-02T08:00:00.000Z",
-    "updatedDate": "2024-04-24T14:19:08.515Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
-    },
-    "evaluationEndDate": "2024-05-03T08:00:00.000Z",
-    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
-
-KYC is required.
-
-Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Immunefi technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"immunefiarb-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-On launch day, Tuesday March 12th, Immunefi will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
-
-
-[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdBLJGLkTNEJLTnPPak-5b5bwV2I6GVGRBKia_FHO9KB4UbFQ/viewform?usp=sf_link)",
-    "boostedIntroLive": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
-
-KYC is required.
-
-The rewards pool is partly distributed with the following formula, and partly at Immunefi’s discretion. The portion at Immunefi’s discretion is to reward high-quality whitehat contributions, such as exceptionally well-written reports, the best report among duplicates, and valuable but technically invalid bug reports. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/23262277256849-Immunefi-Arbitration-Boost-Reward-Terms)
-
-Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Immunefi within the “immunefiarb-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).
-
-When the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 1922,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Managed Triage: Time Saver",
-      "Vault",
       "Boost"
     ],
     "premiumTriaging": true
