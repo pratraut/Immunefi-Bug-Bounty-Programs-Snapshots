@@ -85,7 +85,7 @@
           "id": "25yrvB9j87ZQQY73ZoB5XK",
           "type": "smart_contract",
           "url": "https://github.com/Instadapp/avocado-contracts-public",
-          "description": "Avocado",
+          "description": "Avocado (excluding the helper folder within avo-contracts)",
           "isPrimacyOfImpact": null
         },
         {
