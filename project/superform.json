@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6UWbmMwr5z3HtSFtq01Sa9/ffa00ddc2411ebd72228843b433579a7/superform_logo_white_black2.png",
       "launchDate": "2024-01-26T00:00+04:00",
       "endDate": null,
-      "updatedDate": "2024-05-23T18:50:02.237Z",
+      "updatedDate": "2024-05-30T13:19:28.181Z",
       "kyc": true,
       "rewards": [
         {
@@ -1094,13 +1094,6 @@
           "type": "smart_contract",
           "url": "https://ftmscan.com/address/0xA7fEEE543b40d9Ca37722A8bda03D1fff4b2EE53",
           "description": "PaymentHelper",
-          "isPrimacyOfImpact": null
-        },
-        {
-          "id": "1Cskoke9iobyWBkeELPMSa",
-          "type": "smart_contract",
-          "url": "https://ftmscan.com/address/0xeb077f9CB0406667DDD7BE945f393297578372F1",
-          "description": "SocketOneInchValidator",
           "isPrimacyOfImpact": null
         },
         {
