@@ -1,0 +1,116 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "3GK41DXimLkjluCUDLq24f",
+      "id": "fuel-network-attackathon",
+      "slug": "fuel-network-attackathon",
+      "project": "Attackathon | Fuel Network",
+      "maxBounty": 1300000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Fk02TUogACJYRTBgFHDjr/d34c2b33d5debf44e37143e6e4448b62/FUEL_Symbol_Circle_Green_RGB__1_.png",
+      "launchDate": "2024-06-17T08:00:00.000Z",
+      "endDate": "2024-07-22T08:00:00.000Z",
+      "updatedDate": "2024-05-31T16:04:06.466Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "blockchain_dlt",
+          "level": "critical",
+          "payout": "1000",
+          "pocRequired": false
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "1000",
+          "pocRequired": false
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "3JBMzGC1SOOo8hID3BJ6TI",
+          "type": "smart_contract",
+          "url": "https://immunefi.com",
+          "description": "placeholder",
+          "isPrimacyOfImpact": null
+        },
+        {
+          "id": "2XPO5dQQruEZEpVoEIO2X4",
+          "type": "blockchain_dlt",
+          "url": "https://immunefi.com",
+          "description": "placeholder",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "10Uzbe67x6eKOuAPqFFL9G",
+          "title": "placeholder",
+          "type": "smart_contract",
+          "severity": "critical"
+        },
+        {
+          "id": "6aJFq7GgTUIZOeUNxcntb9",
+          "title": "placeholder",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        }
+      ],
+      "programOverview": "To be determined",
+      "prioritizedVulnerabilities": "To be determined",
+      "rewardsBody": "To be determined",
+      "outOfScopeAndRules": "To be determined",
+      "assetsBodyV2": null,
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": [
+          "L2"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "ecosystem": [
+          "Fuel Network"
+        ],
+        "programType": [
+          "Blockchain/DLT",
+          "Smart Contract"
+        ],
+        "language": [
+          "Sway"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract",
+          "Blockchain/DLT"
+        ],
+        "blockchain_rewards": [
+          {
+            "level": "Critical",
+            "payout": "1000"
+          }
+        ],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "1000"
+          }
+        ],
+        "web_rewards": []
+      },
+      "premiumTriaging": true
+    },
+    "project": {
+      "premiumTriaging": true
+    },
+    "metaData": {
+      "title": "Attackathon | Fuel Network Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Attackathon | Fuel Network and get paid up to $1,300,000.",
+      "url": "https://immunefi.com/bug-bounty/fuel-network-attackathon",
+      "ogImg": "/api/bounty/og-image?project=Attackathon+%7C+Fuel+Network"
+    }
+  },
+  "__N_SSG": true
+}
