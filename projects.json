@@ -2480,7 +2480,7 @@
     "date": "2024-01-23T20:00:00.000Z",
     "launchDate": "2024-01-23T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-27T12:34:36.394Z",
+    "updatedDate": "2024-06-03T13:13:39.262Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -5234,6 +5234,43 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "5Ofmg07XDu5W3IF6CgWT3k",
+    "id": "superfluid",
+    "project": "Superfluid",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2OOJdM7H7ZWI54ZO8sv9NX/fc52c455ed577f0aa83b99ba45beef22/Superfluid_Logo.png",
+    "date": "2022-02-10T16:00:00.000Z",
+    "launchDate": "2022-02-10T16:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-06-03T11:28:46.981Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Services"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "JavaScript",
+        "Solidity"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "35Rpt4Tm3kh4T9wS3TqMUq",
     "id": "gearbox",
     "project": "Gearbox",
@@ -5834,6 +5871,42 @@
         "Smart Contract"
       ],
       "language": null,
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2UM6ZJsDWnsUZ9RnbXCnBZ",
+    "id": "arkadiko",
+    "project": "Arkadiko",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jrH7DqiZ86zEEUx473Bit/6a9e7bfe578a231c669df87b47ccb06a/iXZxqXae_400x400.png",
+    "date": "2024-06-03T02:44:00.000Z",
+    "launchDate": "2024-06-03T02:44:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-06-03T15:29:33.216Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Stablecoin"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Clarity"
+      ],
       "general": [
         "Immunefi Standard"
       ]
@@ -7443,43 +7516,6 @@
         "Websites and Applications"
       ],
       "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "5Ofmg07XDu5W3IF6CgWT3k",
-    "id": "superfluid",
-    "project": "Superfluid",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2OOJdM7H7ZWI54ZO8sv9NX/fc52c455ed577f0aa83b99ba45beef22/Superfluid_Logo.png",
-    "date": "2022-02-10T16:00:00.000Z",
-    "launchDate": "2022-02-10T16:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-09T12:39:14.224Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "JavaScript",
         "Solidity"
       ],
       "general": [
