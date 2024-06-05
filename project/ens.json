@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4eTVMLtAvVcZKfzuVivfV0/fa593db62bd32e8d72b2194b76ae4205/ethereum-name-service-ens-logo.png",
       "launchDate": "2024-05-10T03:11:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-06-05T09:23:03.513Z",
+      "updatedDate": "2024-06-05T14:14:04.204Z",
       "kyc": false,
       "rewards": [
         {
@@ -221,39 +221,33 @@
         },
         {
           "id": "2mgQfJUztkIIX9yyWNK34G",
-          "title": "Direct theft of user funds that does not require phishing or social engineering",
+          "title": "Direct theft of user funds",
           "type": "websites_and_applications",
           "severity": "critical"
         },
         {
           "id": "5VVvyz95VbS1kBIiGHNNG7",
-          "title": "Malicious interactions with an already-connected wallet that does not require phishing or social engineering, such as:  Modifying transaction arguments or parameters, Substituting contract addresses, Submitting malicious transactions",
+          "title": "Malicious interactions with an already-connected wallet, such as:  Modifying transaction arguments or parameters, Substituting contract addresses, Submitting malicious transactions",
           "type": "websites_and_applications",
           "severity": "critical"
         },
         {
           "id": "6S01yz1eka40Sv7dcUTswy",
-          "title": "Direct theft of user NFTs that does not require phishing or social engineering",
+          "title": "Direct theft of user NFTs",
           "type": "websites_and_applications",
           "severity": "critical"
         },
         {
-          "id": "4X93nZLkgQYe0NuANZUscN",
-          "title": "Direct theft of user funds that does require phishing or social engineering",
+          "id": "3eXI53Y6iaONEYKiEBr5w9",
+          "title": "Injection of malicious HTML or XSS through metadata",
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "critical"
         },
         {
-          "id": "5duwpMjfLhOqs54qG03Gk2",
-          "title": "Malicious interactions with an already-connected wallet that does require phishing or social engineering, such as:  Modifying transaction arguments or parameters, Substituting contract addresses, Submitting malicious transactions",
+          "id": "1TgTf5W34X69wrwGj7kizD",
+          "title": "Changing sensitive details of transactions (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as: Registration Timer, Cached Transaction History",
           "type": "websites_and_applications",
-          "severity": "high"
-        },
-        {
-          "id": "4A9OqBfTGnjlasN25uyjzO",
-          "title": "Direct theft of user NFTs that does require phishing or social engineering",
-          "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "critical"
         },
         {
           "id": "7zwC835YmG3rYF6oBf1N1T",
@@ -312,18 +306,6 @@
         {
           "id": "3HudsDycmtog8cufO6MDZw",
           "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction, such as: Iframing leading to modifying the backend/browser state (demonstrate impact with PoC)",
-          "type": "websites_and_applications",
-          "severity": "high"
-        },
-        {
-          "id": "1NVAb4yrELEe3A89mFZ113",
-          "title": "Injection of malicious HTML or XSS through metadata",
-          "type": "websites_and_applications",
-          "severity": "high"
-        },
-        {
-          "id": "6sVWTK90JJVLS8QehfeRFs",
-          "title": "Changing sensitive details of transactions (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as:  Registration Timer, Cached Transaction History",
           "type": "websites_and_applications",
           "severity": "high"
         },
