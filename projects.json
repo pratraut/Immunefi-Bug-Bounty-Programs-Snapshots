@@ -72,10 +72,11 @@
         "Solidity"
       ],
       "general": [
+        "Triaged by Immunefi",
         "Immunefi Standard"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "4MSwmyXBE9T6RRVOHPX6fj",
@@ -1250,7 +1251,7 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-23T13:28:06.283Z",
+    "updatedDate": "2024-06-06T07:46:38.934Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -2496,6 +2497,47 @@
       "general": [
         "Immunefi Standard",
         "Vaults"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3qOvksX8v9QTF6lxe907zl",
+    "id": "renzoprotocol",
+    "project": "Renzo Protocol",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vS0LqsY8aTwXw4AXCjNrB/3a1542886af81a0885485f9187ecb693/2.0_Renzo_Black_Logo__1_.png",
+    "date": "2023-12-14T21:00:00.000Z",
+    "launchDate": "2023-12-14T21:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-06-06T07:11:46.468Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Asset Management",
+        "Liquid Restaking",
+        "Token"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "JavaScript",
+        "Solidity"
+      ],
+      "general": [
+        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -3749,47 +3791,6 @@
       "language": [
         "Solidity",
         "NextJS"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3qOvksX8v9QTF6lxe907zl",
-    "id": "renzoprotocol",
-    "project": "Renzo Protocol",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vS0LqsY8aTwXw4AXCjNrB/3a1542886af81a0885485f9187ecb693/2.0_Renzo_Black_Logo__1_.png",
-    "date": "2023-12-14T21:00:00.000Z",
-    "launchDate": "2023-12-14T21:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:51:22.505Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Asset Management",
-        "Liquid Restaking",
-        "Token"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
       ],
       "general": [
         "Immunefi Standard"
@@ -5484,10 +5485,10 @@
     "project": "Yearn Finance",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Dpad2OkwlP4SAfEzsQk5j/9064a1846d23ecad7b306fe81d5bb501/Yearn.png",
-    "date": "2021-07-01T00:00-07:00",
-    "launchDate": "2021-07-01T00:00-07:00",
+    "date": "2021-07-01T07:00:00.000Z",
+    "launchDate": "2021-07-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:51:02.138Z",
+    "updatedDate": "2024-06-06T12:20:22.995Z",
     "technologies": [
       "Smart Contract"
     ],
