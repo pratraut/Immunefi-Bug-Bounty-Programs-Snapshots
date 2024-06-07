@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5sXJAYkgjf0BtH2uarlVA3/1f1993cf792814921c5c289b57004768/token-symbol-purple.svg",
       "launchDate": "2023-04-28T09:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-06-05T08:30:56.560Z",
+      "updatedDate": "2024-06-07T08:38:22.459Z",
       "kyc": false,
       "rewards": [
         {
@@ -153,13 +153,6 @@
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x0125c8977a02b2Fa3970b1ED9AF02f5Bedd4eF27",
           "description": "EcdsaDkgValidator",
-          "isPrimacyOfImpact": null
-        },
-        {
-          "id": "6iuQ5kB8h3LItRk51tA0RT",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xc2731fb2823af3Efc2694c9bC86F444d5c5bb4Dc",
-          "description": "SortitionPool",
           "isPrimacyOfImpact": null
         },
         {
