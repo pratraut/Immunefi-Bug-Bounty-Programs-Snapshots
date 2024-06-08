@@ -124,7 +124,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Pillar Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Pillar and get paid up to $1,250.",

@@ -658,7 +658,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "GhostMarket Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on GhostMarket and get paid up to $50,000.",

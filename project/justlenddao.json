@@ -427,7 +427,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "JustLend DAO Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on JustLend DAO and get paid up to $50,000.",

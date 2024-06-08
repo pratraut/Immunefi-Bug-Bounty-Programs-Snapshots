@@ -152,7 +152,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Ichi Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Ichi and get paid up to $50,000.",

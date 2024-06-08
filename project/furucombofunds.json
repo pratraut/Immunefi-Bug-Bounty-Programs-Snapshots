@@ -363,7 +363,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Furucombo Funds Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Furucombo Funds and get paid up to $50,000.",

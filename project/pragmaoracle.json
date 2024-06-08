@@ -183,7 +183,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Pragma Oracle Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Pragma Oracle and get paid up to $50,000.",

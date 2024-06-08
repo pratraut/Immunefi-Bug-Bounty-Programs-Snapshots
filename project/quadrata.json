@@ -168,7 +168,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Quadrata Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Quadrata and get paid up to $20,000.",

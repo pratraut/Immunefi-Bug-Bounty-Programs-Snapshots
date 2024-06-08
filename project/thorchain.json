@@ -314,7 +314,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "THORChain Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on THORChain and get paid up to $1,672,500.",

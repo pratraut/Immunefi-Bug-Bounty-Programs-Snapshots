@@ -179,7 +179,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Money on Chain Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Money on Chain and get paid up to $10,000.",

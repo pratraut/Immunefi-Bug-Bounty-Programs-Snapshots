@@ -232,7 +232,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Celer Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Celer and get paid up to $2,000,000.",

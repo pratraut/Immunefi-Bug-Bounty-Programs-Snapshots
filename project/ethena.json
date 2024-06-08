@@ -401,9 +401,11 @@
           }
         ]
       },
-      "premiumTriaging": false
+      "premiumTriaging": true
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": true
+    },
     "metaData": {
       "title": "Ethena Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Ethena and get paid up to $3,000,000.",

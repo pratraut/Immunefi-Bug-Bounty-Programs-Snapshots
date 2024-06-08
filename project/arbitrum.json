@@ -1228,7 +1228,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Arbitrum Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Arbitrum and get paid up to $2,000,000.",

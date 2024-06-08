@@ -129,7 +129,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Octopus Network Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Octopus Network and get paid up to $50,000.",

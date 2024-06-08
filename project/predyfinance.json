@@ -140,7 +140,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Predy Finance Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Predy Finance and get paid up to $20,000.",

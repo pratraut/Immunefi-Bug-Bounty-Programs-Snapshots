@@ -119,7 +119,9 @@
       },
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false
+    },
     "metaData": {
       "title": "Ceres Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on Ceres and get paid up to $30,000.",
