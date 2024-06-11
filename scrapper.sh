@@ -5,8 +5,8 @@ start_time=`date +%s`
 echo -e "#################################`date`#######################################\n"
 
 # clear logs
-echo "" > ./logs/stdout.log
-echo "" > ./logs/stderr.log
+# echo "" > ./logs/stdout.log
+# echo "" > ./logs/stderr.log
 
 # Get NEXT_DATA in JSON format for bug bounties
 NEXT_DATA=$(curl -s https://immunefi.com/bug-bounty/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)

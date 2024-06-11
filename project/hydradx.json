@@ -603,7 +603,7 @@
         },
         {
           "id": "16WNIRr4NIX0io8Pvq9MA2",
-          "title": "Subdomain takeover (only applies to main HydraDX web app)",
+          "title": "Subdomain takeover (only applies to main Hydration web app)",
           "type": "websites_and_applications",
           "severity": "critical"
         },
@@ -737,9 +737,7 @@
       },
       "premiumTriaging": false
     },
-    "project": {
-      "premiumTriaging": false
-    },
+    "project": null,
     "metaData": {
       "title": "HydraDX Bug Bounties | Immunefi",
       "description": "Find bugs and vulnerabilities on HydraDX and get paid up to $1,000,000.",

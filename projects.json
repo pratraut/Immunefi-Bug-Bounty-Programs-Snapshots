@@ -1761,7 +1761,7 @@
         "Immunefi Standard"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": null
   },
   {
     "contentfulId": "4ayFbs6wJjaoW7nAFF4UpU",
@@ -8840,7 +8840,8 @@
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "Vaults"
       ]
     },
     "premiumTriaging": true
