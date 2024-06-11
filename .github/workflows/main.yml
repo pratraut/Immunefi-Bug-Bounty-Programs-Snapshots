@@ -1,22 +1,16 @@
 name: Immunefi-Snapshot-Script
 
-# Controls when the workflow will run
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron: "0 0,16 * * *"
+    - cron: "30 18 * * *"  # 12:00 AM IST
+    - cron: "30 10 * * *"  # 4:00 PM IST
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: macos-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -32,9 +26,9 @@ jobs:
       - name: Verify ggrep installation
         run: ggrep --version
 
-      # Runs a set of commands using the runners shell
       - name: Run scrapper.sh script
         run: |
+          git config user.name "github-actions[bot]"
           chmod +x ./scrapper.sh
           ./scrapper.sh
         shell: bash
