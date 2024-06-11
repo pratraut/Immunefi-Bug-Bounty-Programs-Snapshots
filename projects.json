@@ -1724,14 +1724,14 @@
   },
   {
     "contentfulId": "4S3wKY9duk9qogverDN2Bp",
-    "id": "hydradx",
-    "project": "HydraDX",
+    "id": "hydration",
+    "project": "Hydration",
     "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/319sKv8S9ohy78NgAx7xGs/4843c6ba1dfbcd10656f026fcaaeb661/HydraDX_logo.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3lm40Mobfxo3pFJkKBXPuc/b12c4e4926c6c5185a9b2a0ce7ae106a/Hydration.png",
     "date": "2023-02-20T20:00:00.000Z",
     "launchDate": "2023-02-20T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-21T15:56:18.656Z",
+    "updatedDate": "2024-06-11T10:34:21.826Z",
     "technologies": [
       "Websites and Applications",
       "Blockchain/DLT"
@@ -1761,7 +1761,7 @@
         "Immunefi Standard"
       ]
     },
-    "premiumTriaging": null
+    "premiumTriaging": false
   },
   {
     "contentfulId": "4ayFbs6wJjaoW7nAFF4UpU",
@@ -6586,7 +6586,7 @@
     "date": "2023-06-29T11:00+02:00",
     "launchDate": "2023-06-29T11:00+02:00",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:54:25.708Z",
+    "updatedDate": "2024-06-11T11:35:42.613Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -7649,12 +7649,14 @@
     "id": "woofi",
     "project": "WOOFi",
     "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/11hxnxgrTQdOtcvzTXw3Na/a0c87fdf3e8a150b0f453224d3f0aae6/WOOFi_Logo_Option_1.png",
-    "date": "2022-01-17T00:00-07:00",
-    "launchDate": "2022-01-17T00:00-07:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2pkxnnF4HGjcXfdwHaF4vT/154024f02b72c685178a08570765c57e/WOOFi_Logo_Option_1__1_.png",
+    "date": "2022-01-17T07:00:00.000Z",
+    "launchDate": "2022-01-17T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T19:00:56.769Z",
-    "technologies": [],
+    "updatedDate": "2024-06-11T15:39:22.439Z",
+    "technologies": [
+      "Smart Contract"
+    ],
     "immunefiStandard": true,
     "tags": {
       "productType": [
