@@ -2510,7 +2510,7 @@
     "date": "2023-12-14T21:00:00.000Z",
     "launchDate": "2023-12-14T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-06T07:11:46.468Z",
+    "updatedDate": "2024-06-12T13:19:57.552Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -2639,6 +2639,38 @@
       "ecosystem": [
         "Arbitrum",
         "BSC",
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "DjKxK4rroIAblcPKG9J0n",
+    "id": "utix",
+    "project": "Utix",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/11JCYUuvvCgVwDyzMmDklA/79a4bfd3682951f96d5ca851f6d9abdb/10_copy.png",
+    "date": "2023-07-26T12:00:00.000Z",
+    "launchDate": "2023-07-26T12:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-06-12T14:07:47.892Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": [
         "ETH"
       ],
       "programType": [
@@ -5880,6 +5912,39 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "1TwVacL83Wjb83NmpQ8DNe",
+    "id": "termstructurelabs",
+    "project": "Term Structure Labs",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5TIaWxbM1WD1RGRYe2e6iu/115df1c11ffc0241cf375e7aa010e799/izMPc8Ke_400x400.png",
+    "date": "2024-06-12T03:22:00.000Z",
+    "launchDate": "2024-06-12T03:22:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-06-12T13:19:09.372Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "2UM6ZJsDWnsUZ9RnbXCnBZ",
     "id": "arkadiko",
     "project": "Arkadiko",
@@ -6501,38 +6566,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "DjKxK4rroIAblcPKG9J0n",
-    "id": "utix",
-    "project": "Utix",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3FBZBeGlxisM8GFXA3O9zG/8a6915470fd680d7388843d7d5a2a6f2/10.png",
-    "date": "2023-07-26T14:00+02:00",
-    "launchDate": "2023-07-26T14:00+02:00",
-    "endDate": null,
-    "updatedDate": "2023-07-27T19:08:16.478Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "general": [
         "Immunefi Standard"
