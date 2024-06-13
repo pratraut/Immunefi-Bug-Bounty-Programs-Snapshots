@@ -1209,7 +1209,7 @@
     "date": "2023-03-10T17:00:00.000Z",
     "launchDate": "2023-03-10T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-24T14:37:48.550Z",
+    "updatedDate": "2024-06-13T15:07:11.722Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications",
@@ -3544,10 +3544,11 @@
         "Solidity"
       ],
       "general": [
+        "Triaged by Immunefi",
         "Immunefi Standard"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "6nZw6IPi0wgWGut2uLGcFr",
@@ -4789,7 +4790,8 @@
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "Vaults"
       ]
     },
     "premiumTriaging": true

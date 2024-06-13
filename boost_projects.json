@@ -240,7 +240,9 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": null,
-    "features": [],
+    "features": [
+      "Managed Triage: Time Saver"
+    ],
     "premiumTriaging": true
   },
   {
@@ -309,7 +311,8 @@ All paid bug reports are available in original format [here](https://github.com/
     "hideAssetsInScope": null,
     "boostedLeaderboard": null,
     "features": [
-      "Boost"
+      "Boost",
+      "Managed Triage: Time Saver"
     ],
     "premiumTriaging": true
   },
