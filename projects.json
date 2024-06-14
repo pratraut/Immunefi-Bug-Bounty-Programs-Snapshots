@@ -2726,41 +2726,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "3e2EsltM6iIKciFLyASNxI",
-    "id": "lybrafinance",
-    "project": "Lybra Finance V2",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1kLNXEgOqks1bUdqV4xy3C/4fa7d5cd069f8cd62ced4e3c05b69058/New_LBR_V2.png",
-    "date": "2023-05-15T09:00:00.000Z",
-    "launchDate": "2023-05-15T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-05-17T13:19:40.782Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "productType": [
-        "Lending",
-        "Liquid Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": []
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6Cc5gcG0ESYGTac6HssF41",
     "id": "thresholdnetwork",
     "project": "Threshold Network",
@@ -8949,36 +8914,6 @@
       "programType": [
         "Smart Contract",
         "Websites and Applications"
-      ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "36RCCo2STKZcmVjQKGYRts",
-    "id": "biconomy",
-    "project": "Biconomy",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6oZFjqfpOPAcTdVjWRCAa7/ac167220f077000af6588bddc6fe76ea/Biconomy_3dlogomark500x500_500x500.png",
-    "date": "2024-02-07T16:24:43",
-    "launchDate": "2024-02-07T16:24:43",
-    "endDate": null,
-    "updatedDate": "2024-02-26T14:16:09.648Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Wallet"
-      ],
-      "projectType": null,
-      "ecosystem": null,
-      "programType": [
-        "Smart Contract"
       ],
       "language": null,
       "general": [
