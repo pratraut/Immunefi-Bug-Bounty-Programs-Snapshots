@@ -57,20 +57,40 @@
     "contentfulId": "3GK41DXimLkjluCUDLq24f",
     "id": "fuel-network-attackathon",
     "project": "Attackathon | Fuel Network",
-    "maximum_reward": 1300000,
+    "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Fk02TUogACJYRTBgFHDjr/d34c2b33d5debf44e37143e6e4448b62/FUEL_Symbol_Circle_Green_RGB__1_.png",
     "date": "2024-06-17T08:00:00.000Z",
     "launchDate": "2024-06-17T08:00:00.000Z",
     "endDate": "2024-07-22T08:00:00.000Z",
-    "updatedDate": "2024-05-31T16:04:06.466Z",
+    "updatedDate": "2024-06-17T05:40:05.205Z",
     "technologies": [
       "Smart Contract",
+      "Websites and Applications",
       "Blockchain/DLT"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
+      "productType": [
+        "L2"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Fuel Network"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Sway",
+        "Rust"
+      ],
       "general": [
         "Triaged by Immunefi",
+        "Immunefi Standard",
         "Vaults"
       ]
     },
@@ -96,11 +116,15 @@ Additionally, a code update period will occur from July 1st 8am UTC to July 5th 
 During the Attackathon Fuel commits to responding within 48 hours on weekdays to all bug reports. 
 
 [Sign up here for Fuel Attackathon Updates](https://forms.gle/XaXE4n7Gmvu48ZkE9).",
-    "boostedIntroLive": "",
+    "boostedIntroLive": "$1.3 million USD is available in Attackathon rewards. With $1,000,000 for finding bugs on Fuel itself during June 17th to July 22nd. Plus a further $300,000 dedicated to Invite-Only programs on Fuel’s top 4 dApps which will run afterwards.
+
+All security researchers who find a single valid bug in the $1 million Fuel Attackathon will be invited to all subsequent Invite-Only programs.
+
+You can ask Fuel any questions directly in the [Fuel Attackathon Discord channel](https://discord.com/invite/immunefi?utm_source=immunefi) on Immunefi's Discord, or on the [Fuel Forum](https://forum.fuel.network/?utm_source=immunefi).",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "USDC",
-    "rewardsPool": 1300000,
+    "rewardsPool": 1000000,
     "sourceLinesOfCode": 100000,
     "boostedSummaryReport": null,
     "inviteOnly": false,
@@ -111,23 +135,7 @@ During the Attackathon Fuel commits to responding within 48 hours on weekdays to
       "Vault",
       "Managed Triage: Time Saver"
     ],
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "4MqLVRmFp3FOT0n16HgNrx",
