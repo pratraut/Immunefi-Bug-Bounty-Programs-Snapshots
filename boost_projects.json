@@ -1,59 +1,5 @@
 [
   {
-    "contentfulId": "u1OczdWGvxTyCRUAHOD0D",
-    "id": "ionic-iop",
-    "project": "IOP | Ionic",
-    "maximum_reward": 6000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4x7Tph5NGV3ZEXNMotuRlh/1ba856e44df1783eb2e910379c69f92c/logo_2.png",
-    "date": "2024-06-12T08:00:00.000Z",
-    "launchDate": "2024-06-12T08:00:00.000Z",
-    "endDate": "2024-06-19T10:00:00.000Z",
-    "updatedDate": "2024-06-17T14:08:13.126Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Base",
-        "Mode"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
-    },
-    "evaluationEndDate": "2024-07-03T10:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 4000,
-    "sourceLinesOfCode": 1000,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": null,
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Time Saver"
-    ],
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "3GK41DXimLkjluCUDLq24f",
     "id": "fuel-network-attackathon",
     "project": "Attackathon | Fuel Network",
@@ -193,6 +139,60 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "features": [
       "Managed Triage: Time Saver",
       "Boost"
+    ],
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "u1OczdWGvxTyCRUAHOD0D",
+    "id": "ionic-iop",
+    "project": "IOP | Ionic",
+    "maximum_reward": 6000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4x7Tph5NGV3ZEXNMotuRlh/1ba856e44df1783eb2e910379c69f92c/logo_2.png",
+    "date": "2024-06-12T08:00:00.000Z",
+    "launchDate": "2024-06-12T08:00:00.000Z",
+    "endDate": "2024-06-19T10:00:00.000Z",
+    "updatedDate": "2024-06-17T14:08:13.126Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Base",
+        "Mode"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "evaluationEndDate": "2024-07-03T10:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 4000,
+    "sourceLinesOfCode": 1000,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": null,
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver"
     ],
     "premiumTriaging": true
   },
