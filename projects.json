@@ -125,12 +125,13 @@
     "project": "SparkLend",
     "maximum_reward": 5000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5bhaKyLr9geuB0Ic7G8yCc/4b09ba1da880cdc7b7a6c81c4facd454/WjD9qgbk_400x400.jpg",
-    "date": "2023-11-01T18:00+03:00",
-    "launchDate": "2023-11-01T18:00+03:00",
+    "date": "2023-11-01T15:00:00.000Z",
+    "launchDate": "2023-11-01T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2023-11-01T15:44:40.599Z",
+    "updatedDate": "2024-06-27T09:43:20.749Z",
     "technologies": [
-      "Smart Contract"
+      "Smart Contract",
+      "Websites and Applications"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -144,7 +145,8 @@
         "ETH"
       ],
       "programType": [
-        "Smart Contract"
+        "Smart Contract",
+        "Websites and Applications"
       ],
       "language": null,
       "general": [
@@ -478,6 +480,45 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "7fhwmv12XXe1hl1ZQeEeBS",
+    "id": "morpho",
+    "project": "Morpho",
+    "maximum_reward": 2500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/21UhSthwaSUQStGZqlLCyY/7f76b5f7ca962da1664dd3fe9b55cfbf/Morpho_Logo_copy.png",
+    "date": "2024-06-27T13:00:00.000Z",
+    "launchDate": "2024-06-27T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-06-27T12:59:15.937Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "57WPuyzlsW3WW0TU0DLqzF",
@@ -2364,44 +2405,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "7fhwmv12XXe1hl1ZQeEeBS",
-    "id": "morpho",
-    "project": "Morpho",
-    "maximum_reward": 555555,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/21UhSthwaSUQStGZqlLCyY/7f76b5f7ca962da1664dd3fe9b55cfbf/Morpho_Logo_copy.png",
-    "date": "2022-06-17T16:00:00.000Z",
-    "launchDate": "2022-06-17T16:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-01T14:31:07.531Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "2YQKV3m73SSfWr6a2on7ll",
     "id": "fluxfinance",
     "project": "Flux Finance",
@@ -2897,7 +2900,7 @@
     "date": "2022-07-05T16:30:00.000Z",
     "launchDate": "2022-07-05T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-24T16:03:13.863Z",
+    "updatedDate": "2024-06-27T13:47:22.370Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -11011,10 +11014,10 @@
     "project": "Zerion",
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/rl1wbbQqjXdQOjPmDm331/6f9697fe2c9b6d98dd68c81072bba5c6/Zerion_Logo.jpg",
-    "date": "2022-03-29T13:00-06:00",
-    "launchDate": "2022-03-29T13:00-06:00",
+    "date": "2022-03-29T19:00:00.000Z",
+    "launchDate": "2022-03-29T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:49:31.166Z",
+    "updatedDate": "2024-06-27T08:17:10.825Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
