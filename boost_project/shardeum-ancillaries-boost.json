@@ -1,0 +1,130 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "5tYwzjVKC6BoGb4JRQRm1n",
+      "id": "shardeum-ancillaries-boost",
+      "slug": "shardeum-ancillaries-boost",
+      "project": "Boost | Shardeum: Ancillaries",
+      "maxBounty": 200000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1m6RmtetyAanvdJtFgER1S/2dd905210d46dcb763551541b3636dc7/Shardeum_Logo_Icon_Light_-_Square__1_.png",
+      "launchDate": "2024-07-05T08:00:17.000Z",
+      "endDate": "2025-08-02T08:00:00.000Z",
+      "updatedDate": "2024-06-28T11:32:24.909Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "websites_and_applications",
+          "level": "critical",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "high",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "medium",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "websites_and_applications",
+          "level": "low",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "62PADbX24Seei0Fk8ndbzg",
+          "type": "websites_and_applications",
+          "url": "https://immunefi.com",
+          "description": "placeholder",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "2iMzK4MtewZpkUdJsc9j8r",
+          "title": "PLACEHOLDER",
+          "type": "websites_and_applications",
+          "severity": "critical"
+        },
+        {
+          "id": "5NFXVJtc5M5XOmhPA8fshW",
+          "title": "PLACEHOLDER",
+          "type": "websites_and_applications",
+          "severity": "high"
+        },
+        {
+          "id": "34crl9KRRlJrmt100eFHKF",
+          "title": "PLACEHOLDER",
+          "type": "websites_and_applications",
+          "severity": "medium"
+        },
+        {
+          "id": "3vhnmSRaFIRLbY92PxEVuc",
+          "title": "PLACEHOLDER",
+          "type": "websites_and_applications",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "To be determined",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "To be determined",
+      "outOfScopeAndRules": "To be determined",
+      "assetsBodyV2": null,
+      "impactsBody": null,
+      "immunefiStandard": true,
+      "tags": {
+        "productType": null,
+        "projectType": null,
+        "ecosystem": null,
+        "programType": [
+          "Websites and Applications"
+        ],
+        "language": null
+      },
+      "legacy": {
+        "technologies": [
+          "Websites and Applications"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [],
+        "web_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "High",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "Medium",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "Low",
+            "payout": "Portion of the Reward Pool"
+          }
+        ]
+      },
+      "premiumTriaging": true
+    },
+    "project": {
+      "premiumTriaging": true
+    },
+    "metaData": {
+      "title": "Boost | Shardeum: Ancillaries Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Boost | Shardeum: Ancillaries and get paid up to $200,000.",
+      "url": "https://immunefi.com/bug-bounty/shardeum-ancillaries-boost",
+      "ogImg": "/api/bounty/og-image?project=Boost+%7C+Shardeum%3A+Ancillaries"
+    }
+  },
+  "__N_SSG": true
+}
