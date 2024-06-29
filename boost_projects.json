@@ -220,65 +220,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "rewardsBody": ""
   },
   {
-    "contentfulId": "4MqLVRmFp3FOT0n16HgNrx",
-    "id": "alchemix-boost",
-    "project": "Boost | Alchemix",
-    "maximum_reward": 125000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5pjZJ5fR4NCzaLxDB7TqlF/ea861b248380639b0048863f6b4aff56/AlchemixLogoMaster500px.png",
-    "date": "2024-04-30T10:30:00.000Z",
-    "launchDate": "2024-04-30T10:30:00.000Z",
-    "endDate": "2024-05-21T10:30:00.000Z",
-    "updatedDate": "2024-06-25T10:14:14.852Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
-    },
-    "evaluationEndDate": "2024-06-29T12:00:00.000Z",
-    "boostedIntroStartingIn": "$125,000 USD in rewards is available for finding bugs on Alchemix, specifically vote-escrowed ALCX (veALCX). Their brand new assets will be in-scope.
-
-No KYC is required.
-
-Alchemix will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Alchemix technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"alchemix-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-On launch day, April 30th, Alchemix will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
-
-[Sign up for updates](https://forms.gle/z9SZtJhFLrXofQvm6)",
-    "boostedIntroLive": "$125,000 USD is available in rewards for finding bugs in Alchemix’s codebase of about 3000 nSLOC. There is no KYC required.
-
-Alchemix team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Alchemix or Immunefi in the [Alchemix Boost Discord channel](https://discord.com/invite/immunefi).
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 125000,
-    "sourceLinesOfCode": 3181,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Managed Triage: Time Saver",
-      "Boost"
-    ],
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "u1OczdWGvxTyCRUAHOD0D",
     "id": "ionic-iop",
     "project": "IOP | Ionic",
@@ -719,6 +660,65 @@ All paid bug reports are available in original format [here](https://github.com/
     "features": [
       "IOP (Invite Only Program)",
       "Managed Triage: Time Saver"
+    ],
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "4MqLVRmFp3FOT0n16HgNrx",
+    "id": "alchemix-boost",
+    "project": "Boost | Alchemix",
+    "maximum_reward": 125000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5pjZJ5fR4NCzaLxDB7TqlF/ea861b248380639b0048863f6b4aff56/AlchemixLogoMaster500px.png",
+    "date": "2024-04-30T10:30:00.000Z",
+    "launchDate": "2024-04-30T10:30:00.000Z",
+    "endDate": "2024-05-21T10:30:00.000Z",
+    "updatedDate": "2024-06-25T10:14:14.852Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": null,
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "evaluationEndDate": "2024-06-29T12:00:00.000Z",
+    "boostedIntroStartingIn": "$125,000 USD in rewards is available for finding bugs on Alchemix, specifically vote-escrowed ALCX (veALCX). Their brand new assets will be in-scope.
+
+No KYC is required.
+
+Alchemix will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Alchemix technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"alchemix-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+On launch day, April 30th, Alchemix will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
+
+[Sign up for updates](https://forms.gle/z9SZtJhFLrXofQvm6)",
+    "boostedIntroLive": "$125,000 USD is available in rewards for finding bugs in Alchemix’s codebase of about 3000 nSLOC. There is no KYC required.
+
+Alchemix team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Alchemix or Immunefi in the [Alchemix Boost Discord channel](https://discord.com/invite/immunefi).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 125000,
+    "sourceLinesOfCode": 3181,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Managed Triage: Time Saver",
+      "Boost"
     ],
     "premiumTriaging": true
   }
