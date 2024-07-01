@@ -8848,6 +8848,38 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "3k3ZihagCcozD8tMZV7MSJ",
+    "id": "native",
+    "project": "Native",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5tYyP0VwW5SK1CfGEAdmj0/8214822c173633567e58ed96f24609f2/image__9_.png",
+    "date": "2024-07-01T01:00:00.000Z",
+    "launchDate": "2024-07-01T01:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-01T00:54:01.559Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "DEX"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": null,
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "6xiFrxdTQ45lAwKmjtu95A",
     "id": "floki",
     "project": "Floki",
@@ -10199,18 +10231,20 @@
     "project": "Obyte",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5Wy12MgPYWNvcH7ihgHVqT/684f80d914af4b26229e0109d7185145/Obyte-logo.svg",
-    "date": "2020-12-01T00:00-07:00",
-    "launchDate": "2020-12-01T00:00-07:00",
+    "date": "2020-12-01T07:00:00.000Z",
+    "launchDate": "2020-12-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2023-10-20T14:38:12.850Z",
+    "updatedDate": "2024-07-01T07:40:10.525Z",
     "technologies": [
       "Smart Contract",
-      "Websites and Applications"
+      "Websites and Applications",
+      "Blockchain/DLT"
     ],
     "immunefiStandard": true,
     "tags": {
       "productType": [
-        "L1"
+        "L1",
+        "Wallet"
       ],
       "projectType": [
         "Blockchain"
@@ -10220,7 +10254,8 @@
       ],
       "programType": [
         "Smart Contract",
-        "Websites and Applications"
+        "Websites and Applications",
+        "Blockchain/DLT"
       ],
       "language": [
         "JavaScript"
