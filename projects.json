@@ -1329,6 +1329,45 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "2sJodat8OBv9B9gFeeCnNI",
+    "id": "neutron",
+    "project": "Neutron",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6s6q2dCluzikNzgkxSk7Zk/51597fa7af11044282aa1d70d80cfd57/Neutron.png",
+    "date": "2024-07-02T08:30:00.000Z",
+    "launchDate": "2024-07-02T08:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-02T08:34:29.957Z",
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Osmosis"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Go",
+        "Rust"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "2XhNi4eYcUk4BHBKe6l0Od",
     "id": "infinex",
     "project": "Infinex",
@@ -7339,10 +7378,10 @@
     "project": "Swappi",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/HtW94Iy2MScyfXG1JOLMY/513dd2a3344aecdf90764c760d61ca1d/Swappi_logo.jpeg",
-    "date": "2022-04-20T11:30-06:00",
-    "launchDate": "2022-04-20T11:30-06:00",
+    "date": "2022-04-20T17:30:00.000Z",
+    "launchDate": "2022-04-20T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2023-03-18T06:56:36.161Z",
+    "updatedDate": "2024-07-02T09:37:58.289Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
