@@ -526,7 +526,8 @@
       "premiumTriaging": true
     },
     "project": {
-      "premiumTriaging": true
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Attackathon | Fuel Network Bug Bounties | Immunefi",

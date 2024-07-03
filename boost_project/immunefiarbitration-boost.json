@@ -491,7 +491,8 @@
       "premiumTriaging": true
     },
     "project": {
-      "premiumTriaging": true
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Boost | Immunefi Arbitration Bug Bounties | Immunefi",

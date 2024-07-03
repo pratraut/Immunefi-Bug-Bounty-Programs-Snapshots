@@ -95,9 +95,7 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "launchDate": "2024-07-08T08:00:00.000Z",
     "endDate": "2024-08-14T08:00:00.000Z",
     "updatedDate": "2024-07-02T18:37:46.544Z",
-    "technologies": [
-      "Blockchain/DLT"
-    ],
+    "technologies": [],
     "immunefiStandard": null,
     "tags": {
       "general": [
@@ -193,6 +191,73 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "rewardsToken": "USDC",
     "rewardsPool": 200000,
     "sourceLinesOfCode": 55472,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
+    "contentfulId": "3o5ukksdFvgFLMTKUGqRM5",
+    "id": "firedancer-boost",
+    "project": "Boost | Firedancer v0.1",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6abbRPq25ZJAZ0KbG5mgCL/42f2a899c65754988546c1f445f4f27f/image__16_.png",
+    "date": "2024-07-10T20:00:00.000Z",
+    "launchDate": "2024-07-10T20:00:00.000Z",
+    "endDate": "2024-08-21T08:00:00.000Z",
+    "updatedDate": "2024-07-03T17:08:28.823Z",
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ]
+    },
+    "evaluationEndDate": "2024-08-14T08:00:00.000Z",
+    "boostedIntroStartingIn": "$1,000,000 USD in rewards is available for finding bugs on Firedancer v0.1 which is a new validator client for Solana.
+
+KYC is required.
+
+Firedancer v0.1 will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Firedancer v0.1 technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"firedancer-v0.1-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+In a few days after the launch, Firedancer v0.1 will give a live technical walkthrough, hosted in the Immunefi Discord. 
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "$1,000,000 USD is available in rewards for finding bugs in Firedancer v0.1 codebase of about 200,000 nSLOC. KYC is required.
+
+Firedancer v0.1 team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Firedancer v0.1 or Immunefi in the [Firedancer v0.1 Boost Discord channel](https://discord.com/invite/immunefi).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 1000000,
+    "sourceLinesOfCode": 200000,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,

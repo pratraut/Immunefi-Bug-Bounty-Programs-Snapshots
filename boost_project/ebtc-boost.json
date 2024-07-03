@@ -265,7 +265,8 @@
       "premiumTriaging": true
     },
     "project": {
-      "premiumTriaging": true
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Boost | eBTC Bug Bounties | Immunefi",

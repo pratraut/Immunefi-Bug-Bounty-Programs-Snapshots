@@ -1,16 +1,16 @@
 {
   "pageProps": {
     "bounty": {
-      "contentfulId": "2F2vr66ddqM5W8gNaOVw1H",
-      "id": "shardeum-core-boost",
-      "slug": "shardeum-core-boost",
-      "project": "Boost | Shardeum: Core",
-      "maxBounty": 500000,
-      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3xrzvSX4v3cZXmp4CuDjMq/4e8e46638a00d31de927c277638a1c4b/Shardeum_Logo_Icon_Light_-_Square__1_.png",
-      "launchDate": "2024-07-08T08:00:00.000Z",
-      "endDate": "2024-08-14T08:00:00.000Z",
-      "updatedDate": "2024-07-02T18:37:46.544Z",
-      "kyc": false,
+      "contentfulId": "3o5ukksdFvgFLMTKUGqRM5",
+      "id": "firedancer-boost",
+      "slug": "firedancer-boost",
+      "project": "Boost | Firedancer v0.1",
+      "maxBounty": 1000000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6abbRPq25ZJAZ0KbG5mgCL/42f2a899c65754988546c1f445f4f27f/image__16_.png",
+      "launchDate": "2024-07-10T20:00:00.000Z",
+      "endDate": "2024-08-21T08:00:00.000Z",
+      "updatedDate": "2024-07-03T17:08:28.823Z",
+      "kyc": true,
       "rewards": [
         {
           "assetType": "blockchain_dlt",
@@ -38,8 +38,41 @@
         }
       ],
       "audits": null,
-      "assets": [],
-      "impacts": [],
+      "assets": [
+        {
+          "id": "1RQg6r6PyZ1oBvf17RLtkW",
+          "type": "blockchain_dlt",
+          "url": "https://immunefi.com",
+          "description": "PLACEHOLDER",
+          "isPrimacyOfImpact": null
+        }
+      ],
+      "impacts": [
+        {
+          "id": "41nM6JeyfYZmOr4SPcMC5E",
+          "title": "PLACEHOLDER",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "4KkojqCo4pYo3oCcvQVttE",
+          "title": "PLACEHOLDER",
+          "type": "blockchain_dlt",
+          "severity": "high"
+        },
+        {
+          "id": "1erD8O3tPJ3XpxNBcylbgd",
+          "title": "PLACEHOLDER",
+          "type": "blockchain_dlt",
+          "severity": "medium"
+        },
+        {
+          "id": "3OC7PieugMqzDR8WVm3Y0X",
+          "title": "PLACEHOLDER",
+          "type": "blockchain_dlt",
+          "severity": "low"
+        }
+      ],
       "programOverview": "To be determined",
       "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
       "rewardsBody": "To be determined",
@@ -57,7 +90,9 @@
         "language": null
       },
       "legacy": {
-        "technologies": [],
+        "technologies": [
+          "Blockchain/DLT"
+        ],
         "blockchain_rewards": [
           {
             "level": "Critical",
@@ -86,10 +121,10 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Boost | Shardeum: Core Bug Bounties | Immunefi",
-      "description": "Find bugs and vulnerabilities on Boost | Shardeum: Core and get paid up to $500,000.",
-      "url": "https://immunefi.com/bug-bounty/shardeum-core-boost",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+Shardeum%3A+Core"
+      "title": "Boost | Firedancer v0.1 Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Boost | Firedancer v0.1 and get paid up to $1,000,000.",
+      "url": "https://immunefi.com/bug-bounty/firedancer-boost",
+      "ogImg": "/api/bounty/og-image?project=Boost+%7C+Firedancer+v0.1"
     }
   },
   "__N_SSG": true

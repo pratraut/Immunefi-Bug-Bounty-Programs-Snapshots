@@ -860,7 +860,8 @@
       "premiumTriaging": true
     },
     "project": {
-      "premiumTriaging": true
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Boost | ZeroLend Bug Bounties | Immunefi",

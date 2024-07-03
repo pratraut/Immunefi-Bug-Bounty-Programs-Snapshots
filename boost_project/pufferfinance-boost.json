@@ -188,7 +188,8 @@
       "premiumTriaging": true
     },
     "project": {
-      "premiumTriaging": true
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Boost | Puffer Finance Bug Bounties | Immunefi",
