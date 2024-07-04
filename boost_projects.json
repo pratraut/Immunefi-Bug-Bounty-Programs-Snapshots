@@ -94,8 +94,10 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "date": "2024-07-08T08:00:00.000Z",
     "launchDate": "2024-07-08T08:00:00.000Z",
     "endDate": "2024-08-14T08:00:00.000Z",
-    "updatedDate": "2024-07-02T18:37:46.544Z",
-    "technologies": [],
+    "updatedDate": "2024-07-03T20:13:08.825Z",
+    "technologies": [
+      "Blockchain/DLT"
+    ],
     "immunefiStandard": null,
     "tags": {
       "general": [
@@ -159,7 +161,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-07-08T08:00:00.000Z",
     "launchDate": "2024-07-08T08:00:00.000Z",
     "endDate": "2024-08-14T08:00:00.000Z",
-    "updatedDate": "2024-07-02T18:37:34.452Z",
+    "updatedDate": "2024-07-03T20:12:40.587Z",
     "technologies": [
       "Websites and Applications"
     ],
@@ -226,7 +228,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-07-10T20:00:00.000Z",
     "launchDate": "2024-07-10T20:00:00.000Z",
     "endDate": "2024-08-21T08:00:00.000Z",
-    "updatedDate": "2024-07-03T17:08:28.823Z",
+    "updatedDate": "2024-07-03T20:12:58.896Z",
     "technologies": [
       "Blockchain/DLT"
     ],
@@ -773,7 +775,9 @@ Alchemix team will respond within 24 hours on weekdays to all bug reports. Any t
 
 When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here]().
+
+All paid bug reports are available in original format [here]().",
     "rewardsToken": "USDC",
     "rewardsPool": 125000,
     "sourceLinesOfCode": 3181,
