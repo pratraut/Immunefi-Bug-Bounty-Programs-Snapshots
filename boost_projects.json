@@ -8,7 +8,7 @@
     "date": "2024-06-17T08:00:00.000Z",
     "launchDate": "2024-06-17T08:00:00.000Z",
     "endDate": "2024-07-22T08:00:00.000Z",
-    "updatedDate": "2024-07-02T10:47:25.578Z",
+    "updatedDate": "2024-07-04T18:13:33.971Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications",
@@ -57,7 +57,7 @@ You can ask Fuel any questions directly in the [Fuel Attackathon Discord channel
 
 Fuel’s Attackathon is live. Find bugs and earn rewards. Reward terms can be [read here](https://immunefisupport.zendesk.com/hc/en-us/articles/25655313192721-Fuel-Attackathon-Reward-Terms).
 
-Additionally, a code update period will occur from July 1st 8am UTC to July 5th 8am UTC. During this the code in scope will be changing until it is re-finalized on July 5th 8am UTC. A changelog of all updates will be shared.
+Additionally, a code update period will occur from July 1st 8am UTC to July 6th 8am UTC. During this the code in scope will be changing until it is re-finalized on July 6th 8am UTC. A changelog of all updates will be shared.
 
 During the Attackathon Fuel commits to responding within 48 hours on weekdays to all bug reports. 
 
@@ -94,7 +94,7 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "date": "2024-07-08T08:00:00.000Z",
     "launchDate": "2024-07-08T08:00:00.000Z",
     "endDate": "2024-08-14T08:00:00.000Z",
-    "updatedDate": "2024-07-03T20:13:08.825Z",
+    "updatedDate": "2024-07-04T17:14:42.468Z",
     "technologies": [
       "Blockchain/DLT"
     ],
@@ -161,7 +161,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-07-08T08:00:00.000Z",
     "launchDate": "2024-07-08T08:00:00.000Z",
     "endDate": "2024-08-14T08:00:00.000Z",
-    "updatedDate": "2024-07-03T20:12:40.587Z",
+    "updatedDate": "2024-07-04T17:14:32.045Z",
     "technologies": [
       "Websites and Applications"
     ],
@@ -341,204 +341,108 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
-    "contentfulId": "42pNqgNigeVPHiqy9IPmTu",
-    "id": "boosteddegatebugbounty",
-    "project": "Boost | DeGate",
-    "maximum_reward": 400000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3IdBeRLWUgyzNlQMTxcsLk/e46540438fbcd3e556c45e1769418263/DeGate_logo.jpeg",
-    "date": "2023-11-20T16:00:00.000Z",
-    "launchDate": "2023-11-20T16:00:00.000Z",
-    "endDate": "2023-12-04T09:00:00.000Z",
-    "updatedDate": "2024-05-30T10:04:30.544Z",
+    "contentfulId": "4MqLVRmFp3FOT0n16HgNrx",
+    "id": "alchemix-boost",
+    "project": "Boost | Alchemix",
+    "maximum_reward": 125000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5pjZJ5fR4NCzaLxDB7TqlF/ea861b248380639b0048863f6b4aff56/AlchemixLogoMaster500px.png",
+    "date": "2024-04-30T10:30:00.000Z",
+    "launchDate": "2024-04-30T10:30:00.000Z",
+    "endDate": "2024-05-21T10:30:00.000Z",
+    "updatedDate": "2024-06-25T10:14:14.852Z",
     "technologies": [
       "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": [
-        "Asset Management",
-        "DEX",
-        "L2"
-      ],
-      "projectType": [
-        "Defi",
-        "Exchange"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
       "programType": [
         "Smart Contract"
       ],
-      "language": [
-        "C/C++",
-        "Go",
-        "Solidity"
-      ],
+      "language": null,
       "general": [
         "Triaged by Immunefi",
         "Immunefi Standard"
       ]
     },
-    "evaluationEndDate": "2023-12-21T09:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "",
+    "evaluationEndDate": "2024-06-29T12:00:00.000Z",
+    "boostedIntroStartingIn": "$125,000 USD in rewards is available for finding bugs on Alchemix, specifically vote-escrowed ALCX (veALCX). Their brand new assets will be in-scope.
+
+No KYC is required.
+
+Alchemix will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Alchemix technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"alchemix-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+On launch day, April 30th, Alchemix will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
+
+[Sign up for updates](https://forms.gle/z9SZtJhFLrXofQvm6)",
+    "boostedIntroLive": "$125,000 USD is available in rewards for finding bugs in Alchemix’s codebase of about 3000 nSLOC. There is no KYC required.
+
+Alchemix team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Alchemix or Immunefi in the [Alchemix Boost Discord channel](https://discord.com/invite/immunefi).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/DeGate).",
+    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here]().
+
+All paid bug reports are available in original format [here]().",
     "rewardsToken": "USDC",
-    "rewardsPool": 50000,
-    "sourceLinesOfCode": 500,
+    "rewardsPool": 125000,
+    "sourceLinesOfCode": 3181,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": null,
     "features": [
-      "Managed Triage: Time Saver"
+      "Managed Triage: Time Saver",
+      "Boost"
     ],
     "premiumTriaging": true
   },
   {
-    "contentfulId": "4r9b9Tcfnc9zLPttcKWqwu",
-    "id": "ebtc-boost",
-    "project": "Boost | eBTC",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4l9J9IrYDQDKEKDRro6liJ/8f307a05a51e20350ce7e82dc207c109/ebtc.png",
-    "date": "2024-02-19T08:00:00.000Z",
-    "launchDate": "2024-02-19T08:00:00.000Z",
-    "endDate": "2024-03-04T08:00:00.000Z",
-    "updatedDate": "2024-05-30T10:01:55.260Z",
+    "contentfulId": "4sYyL78EIHj6qFwcLHia0G",
+    "id": "hinkal-iop",
+    "project": "IOP | Hinkal",
+    "maximum_reward": 0,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3OvEzCcwvc8cwkI2RbpKZG/3baa2fd3878da589927b20e0971b3a90/64daffc4c7d038c50674a94c_ZMBTU6JE8ER4m6Kpd16qKGU6jA0GmoR70ZQ7oPwzDqA.png",
+    "date": "2024-04-16T18:00:00.000Z",
+    "launchDate": "2024-04-16T18:00:00.000Z",
+    "endDate": "2024-05-07T21:00:00.000Z",
+    "updatedDate": "2024-05-23T13:44:09.587Z",
     "technologies": [
       "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": [
-        "Lending",
-        "Synthetic Assets"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
       "programType": [
         "Smart Contract"
       ],
-      "language": [
-        "Solidity",
-        "JavaScript"
-      ],
+      "language": null,
       "general": [
         "Triaged by Immunefi",
         "Immunefi Standard"
       ]
     },
-    "evaluationEndDate": "2024-04-09T20:00:00.000Z",
-    "boostedIntroStartingIn": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).
-
-BadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-To kick-off the launch BadgerDAO will be presenting a [live technical walkthrough and AMA](https://discord.com/events/787092485969150012/1207964956167897098), hosted by Immunefi. It starts Monday at 4:30pm UTC+0.
-
-[Sign up for the Boost here](https://docs.google.com/forms/d/e/1FAIpQLSf0lo3wkUsWPUMutcV1xliBEU9-c8Dcwh0YjAkROGak8bZtUw/viewform).",
-    "boostedIntroLive": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).
-
-BadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event. 
-
-The Boost is primarily concerned with the loss of user funds.",
+    "evaluationEndDate": "2024-05-21T21:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1iULI4qlQkE6VCJFGdcnjw9TlBid7z6lQ?usp=sharing).
-
-All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/BadgerDAO%20(eBTC).",
+    "boostedIntroFinished": "",
     "rewardsToken": "USDC",
-    "rewardsPool": 200000,
-    "sourceLinesOfCode": 5000,
-    "boostedSummaryReport": "https://drive.google.com/file/d/1CrK9PWe8BhGmoWNb5NIjXqN50dF2mwJx/view?usp=sharing",
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
+    "rewardsPool": 0,
+    "sourceLinesOfCode": 0,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1DomEnIQ0o4Fv7ELFvnVAIP9vgd6Ez__A/view?usp=sharing",
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
     "boostedLeaderboard": null,
     "features": [
-      "Boost",
+      "IOP (Invite Only Program)",
       "Managed Triage: Time Saver"
-    ],
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "7c3oWHqGIS0IwmVFJMzAwl",
-    "id": "pufferfinance-boost",
-    "project": "Boost | Puffer Finance",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5x7QhsDhZ5qzZtxIpF5wGL/2bddd9c86ed9b5e7b63d62f4bb894285/Screenshot_2024-02-16_at_2.34.23___PM.png",
-    "date": "2024-02-22T08:00:00.000Z",
-    "launchDate": "2024-02-22T08:00:00.000Z",
-    "endDate": "2024-03-07T08:00:00.000Z",
-    "updatedDate": "2024-05-30T09:53:00.719Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
-    },
-    "evaluationEndDate": "2024-04-15T08:00:00.000Z",
-    "boostedIntroStartingIn": "$50,000 USD in guaranteed rewards is available for finding bugs in Puffer Finance's codebase.
-
-On top of that, $200,000 USD will be rewarded per unique Critical severity bug found, and $50,000 per High, with duplicates being rewarded also.
-
-Puffer Finance will respond within 24 hours on weekdays to all bug reports and any technical questions can be asked directly to Puffer in the dedicated channel on Immunefi's Discord.
-
-On Thursday Feb 22nd to kick-off the Boost Puffer will be presenting a live technical walkthrough and AMA, hosted by Immunefi in the Immunefi Discord on launch day.
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-
-[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdwz5be41W9IrbDq4EpCO4xOi6Ps3xrJJtK_sd6fJ0kRUHgKQ/viewform?usp=sf_link)",
-    "boostedIntroLive": "Puffer Finance has $1 Billion TVL in these contracts needing to be secured. There is no KYC.
-
-A $50,000 USD reward pool is available for finding bugs in Puffer Finance’s codebase of about 792 nSLOC. On top of this, $200,000 will be rewarded per unique Critical bug found, and $50,000 per High, $2000 per Medium, and $1000 per Low. Puffer Finance provides rewards in USDC.
-
-Puffer Finance, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Puffer or Immunefi in the [Puffer Boost Discord channel](http://discord.gg/immunefi).
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1eHt8kpkfqpnvefyngLXfflgS2F5G-vgp?usp=sharing).
-
-All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Puffer%20Finance).",
-    "rewardsToken": "USDC",
-    "rewardsPool": 50000,
-    "sourceLinesOfCode": 792,
-    "boostedSummaryReport": "https://drive.google.com/file/d/1HawWp2fFWAO6a2brQObDago45AOBCLkm/view?usp=sharing",
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Vault",
-      "Boost",
-      "Managed Triage: Expert Assessment",
-      "Subscription Plan: Pro"
     ],
     "premiumTriaging": true
   },
@@ -686,108 +590,204 @@ All paid bug reports are available in original format [here](https://github.com/
     "premiumTriaging": true
   },
   {
-    "contentfulId": "4sYyL78EIHj6qFwcLHia0G",
-    "id": "hinkal-iop",
-    "project": "IOP | Hinkal",
-    "maximum_reward": 0,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3OvEzCcwvc8cwkI2RbpKZG/3baa2fd3878da589927b20e0971b3a90/64daffc4c7d038c50674a94c_ZMBTU6JE8ER4m6Kpd16qKGU6jA0GmoR70ZQ7oPwzDqA.png",
-    "date": "2024-04-16T18:00:00.000Z",
-    "launchDate": "2024-04-16T18:00:00.000Z",
-    "endDate": "2024-05-07T21:00:00.000Z",
-    "updatedDate": "2024-05-23T13:44:09.587Z",
+    "contentfulId": "7c3oWHqGIS0IwmVFJMzAwl",
+    "id": "pufferfinance-boost",
+    "project": "Boost | Puffer Finance",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5x7QhsDhZ5qzZtxIpF5wGL/2bddd9c86ed9b5e7b63d62f4bb894285/Screenshot_2024-02-16_at_2.34.23___PM.png",
+    "date": "2024-02-22T08:00:00.000Z",
+    "launchDate": "2024-02-22T08:00:00.000Z",
+    "endDate": "2024-03-07T08:00:00.000Z",
+    "updatedDate": "2024-05-30T09:53:00.719Z",
     "technologies": [
       "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
+      "language": [
+        "Solidity"
+      ],
       "general": [
         "Triaged by Immunefi",
         "Immunefi Standard"
       ]
     },
-    "evaluationEndDate": "2024-05-21T21:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "",
+    "evaluationEndDate": "2024-04-15T08:00:00.000Z",
+    "boostedIntroStartingIn": "$50,000 USD in guaranteed rewards is available for finding bugs in Puffer Finance's codebase.
+
+On top of that, $200,000 USD will be rewarded per unique Critical severity bug found, and $50,000 per High, with duplicates being rewarded also.
+
+Puffer Finance will respond within 24 hours on weekdays to all bug reports and any technical questions can be asked directly to Puffer in the dedicated channel on Immunefi's Discord.
+
+On Thursday Feb 22nd to kick-off the Boost Puffer will be presenting a live technical walkthrough and AMA, hosted by Immunefi in the Immunefi Discord on launch day.
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+
+[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdwz5be41W9IrbDq4EpCO4xOi6Ps3xrJJtK_sd6fJ0kRUHgKQ/viewform?usp=sf_link)",
+    "boostedIntroLive": "Puffer Finance has $1 Billion TVL in these contracts needing to be secured. There is no KYC.
+
+A $50,000 USD reward pool is available for finding bugs in Puffer Finance’s codebase of about 792 nSLOC. On top of this, $200,000 will be rewarded per unique Critical bug found, and $50,000 per High, $2000 per Medium, and $1000 per Low. Puffer Finance provides rewards in USDC.
+
+Puffer Finance, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Puffer or Immunefi in the [Puffer Boost Discord channel](http://discord.gg/immunefi).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1eHt8kpkfqpnvefyngLXfflgS2F5G-vgp?usp=sharing).
+
+All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Puffer%20Finance).",
     "rewardsToken": "USDC",
-    "rewardsPool": 0,
-    "sourceLinesOfCode": 0,
-    "boostedSummaryReport": "https://drive.google.com/file/d/1DomEnIQ0o4Fv7ELFvnVAIP9vgd6Ez__A/view?usp=sharing",
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 792,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1HawWp2fFWAO6a2brQObDago45AOBCLkm/view?usp=sharing",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
     "boostedLeaderboard": null,
     "features": [
-      "IOP (Invite Only Program)",
+      "Vault",
+      "Boost",
+      "Managed Triage: Expert Assessment",
+      "Subscription Plan: Pro"
+    ],
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "4r9b9Tcfnc9zLPttcKWqwu",
+    "id": "ebtc-boost",
+    "project": "Boost | eBTC",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4l9J9IrYDQDKEKDRro6liJ/8f307a05a51e20350ce7e82dc207c109/ebtc.png",
+    "date": "2024-02-19T08:00:00.000Z",
+    "launchDate": "2024-02-19T08:00:00.000Z",
+    "endDate": "2024-03-04T08:00:00.000Z",
+    "updatedDate": "2024-05-30T10:01:55.260Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Lending",
+        "Synthetic Assets"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity",
+        "JavaScript"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "evaluationEndDate": "2024-04-09T20:00:00.000Z",
+    "boostedIntroStartingIn": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).
+
+BadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+To kick-off the launch BadgerDAO will be presenting a [live technical walkthrough and AMA](https://discord.com/events/787092485969150012/1207964956167897098), hosted by Immunefi. It starts Monday at 4:30pm UTC+0.
+
+[Sign up for the Boost here](https://docs.google.com/forms/d/e/1FAIpQLSf0lo3wkUsWPUMutcV1xliBEU9-c8Dcwh0YjAkROGak8bZtUw/viewform).",
+    "boostedIntroLive": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).
+
+BadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event. 
+
+The Boost is primarily concerned with the loss of user funds.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1iULI4qlQkE6VCJFGdcnjw9TlBid7z6lQ?usp=sharing).
+
+All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/BadgerDAO%20(eBTC).",
+    "rewardsToken": "USDC",
+    "rewardsPool": 200000,
+    "sourceLinesOfCode": 5000,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1CrK9PWe8BhGmoWNb5NIjXqN50dF2mwJx/view?usp=sharing",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
       "Managed Triage: Time Saver"
     ],
     "premiumTriaging": true
   },
   {
-    "contentfulId": "4MqLVRmFp3FOT0n16HgNrx",
-    "id": "alchemix-boost",
-    "project": "Boost | Alchemix",
-    "maximum_reward": 125000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5pjZJ5fR4NCzaLxDB7TqlF/ea861b248380639b0048863f6b4aff56/AlchemixLogoMaster500px.png",
-    "date": "2024-04-30T10:30:00.000Z",
-    "launchDate": "2024-04-30T10:30:00.000Z",
-    "endDate": "2024-05-21T10:30:00.000Z",
-    "updatedDate": "2024-06-25T10:14:14.852Z",
+    "contentfulId": "42pNqgNigeVPHiqy9IPmTu",
+    "id": "boosteddegatebugbounty",
+    "project": "Boost | DeGate",
+    "maximum_reward": 400000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3IdBeRLWUgyzNlQMTxcsLk/e46540438fbcd3e556c45e1769418263/DeGate_logo.jpeg",
+    "date": "2023-11-20T16:00:00.000Z",
+    "launchDate": "2023-11-20T16:00:00.000Z",
+    "endDate": "2023-12-04T09:00:00.000Z",
+    "updatedDate": "2024-05-30T10:04:30.544Z",
     "technologies": [
       "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "productType": [
+        "Asset Management",
+        "DEX",
+        "L2"
+      ],
+      "projectType": [
+        "Defi",
+        "Exchange"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
+      "language": [
+        "C/C++",
+        "Go",
+        "Solidity"
+      ],
       "general": [
         "Triaged by Immunefi",
         "Immunefi Standard"
       ]
     },
-    "evaluationEndDate": "2024-06-29T12:00:00.000Z",
-    "boostedIntroStartingIn": "$125,000 USD in rewards is available for finding bugs on Alchemix, specifically vote-escrowed ALCX (veALCX). Their brand new assets will be in-scope.
-
-No KYC is required.
-
-Alchemix will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Alchemix technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"alchemix-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-On launch day, April 30th, Alchemix will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
-
-[Sign up for updates](https://forms.gle/z9SZtJhFLrXofQvm6)",
-    "boostedIntroLive": "$125,000 USD is available in rewards for finding bugs in Alchemix’s codebase of about 3000 nSLOC. There is no KYC required.
-
-Alchemix team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Alchemix or Immunefi in the [Alchemix Boost Discord channel](https://discord.com/invite/immunefi).
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "evaluationEndDate": "2023-12-21T09:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here]().
-
-All paid bug reports are available in original format [here]().",
+    "boostedIntroFinished": "All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/DeGate).",
     "rewardsToken": "USDC",
-    "rewardsPool": 125000,
-    "sourceLinesOfCode": 3181,
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 500,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": null,
     "features": [
-      "Managed Triage: Time Saver",
-      "Boost"
+      "Managed Triage: Time Saver"
     ],
     "premiumTriaging": true
   }
