@@ -13189,6 +13189,32 @@
     "premiumTriaging": null
   },
   {
+    "contentfulId": "5Zp3ambLCkpXw9NIb1hDxL",
+    "id": "securefi",
+    "project": "SecureFi CTF",
+    "maximum_reward": 5000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1bum00odYUxnW1geTJwTLt/ef1275eb1718810f63579277e348f601/immunefi.png",
+    "date": "2024-07-08T13:30:00.000Z",
+    "launchDate": "2024-07-08T13:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-06T12:09:10.655Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": null,
+      "general": []
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "2ilSLP6MLLjrtXTpSIHooc",
     "id": "hourglass",
     "project": "Hourglass",
