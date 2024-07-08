@@ -86,89 +86,39 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "premiumTriaging": true
   },
   {
-    "contentfulId": "2F2vr66ddqM5W8gNaOVw1H",
-    "id": "shardeum-core-boost",
-    "project": "Boost | Shardeum: Core",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3xrzvSX4v3cZXmp4CuDjMq/4e8e46638a00d31de927c277638a1c4b/Shardeum_Logo_Icon_Light_-_Square__1_.png",
-    "date": "2024-07-08T08:00:00.000Z",
-    "launchDate": "2024-07-08T08:00:00.000Z",
-    "endDate": "2024-08-14T08:00:00.000Z",
-    "updatedDate": "2024-07-04T17:14:42.468Z",
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "Triaged by Immunefi"
-      ]
-    },
-    "evaluationEndDate": "2024-08-28T06:00:00.000Z",
-    "boostedIntroStartingIn": "$500,000 USD in rewards is available for finding bugs on Shardeum Core which covers the Layer1, p2p and consensus protocol. All code, except for Shardeum's smart contracts, is in scope
-
-No KYC is required.
-
-Shardeum will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-In a few days after the launch, Shardeum will give a live technical walkthrough, hosted in the Immunefi Discord. 
-
-Join our Discord for more updates.",
-    "boostedIntroLive": "$500,000 USD is available in rewards for finding bugs in Shardeum's codebase of about 70000 nSLOC. There is no KYC required.
-
-Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 500000,
-    "sourceLinesOfCode": 70381,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
-  },
-  {
     "contentfulId": "5tYwzjVKC6BoGb4JRQRm1n",
     "id": "shardeum-ancillaries-boost",
     "project": "Boost | Shardeum: Ancillaries",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1m6RmtetyAanvdJtFgER1S/2dd905210d46dcb763551541b3636dc7/Shardeum_Logo_Icon_Light_-_Square__1_.png",
-    "date": "2024-07-08T08:00:00.000Z",
-    "launchDate": "2024-07-08T08:00:00.000Z",
-    "endDate": "2024-08-14T08:00:00.000Z",
-    "updatedDate": "2024-07-04T17:14:32.045Z",
+    "date": "2024-07-08T06:00:00.000Z",
+    "launchDate": "2024-07-08T06:00:00.000Z",
+    "endDate": "2024-08-14T06:00:00.000Z",
+    "updatedDate": "2024-07-08T05:54:50.096Z",
     "technologies": [
       "Websites and Applications"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
+      "productType": [
+        "Services"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Rust",
+        "Typescript"
+      ],
       "general": [
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Immunefi Standard"
       ]
     },
     "evaluationEndDate": "2024-08-28T06:00:00.000Z",
@@ -201,23 +151,74 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       "Boost",
       "Managed Triage: Time Saver"
     ],
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2F2vr66ddqM5W8gNaOVw1H",
+    "id": "shardeum-core-boost",
+    "project": "Boost | Shardeum: Core",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3xrzvSX4v3cZXmp4CuDjMq/4e8e46638a00d31de927c277638a1c4b/Shardeum_Logo_Icon_Light_-_Square__1_.png",
+    "date": "2024-07-08T06:00:00.000Z",
+    "launchDate": "2024-07-08T06:00:00.000Z",
+    "endDate": "2024-08-14T06:00:00.000Z",
+    "updatedDate": "2024-07-08T05:52:47.156Z",
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Typescript"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
     },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "evaluationEndDate": "2024-08-28T06:00:00.000Z",
+    "boostedIntroStartingIn": "$500,000 USD in rewards is available for finding bugs on Shardeum Core which covers the Layer1, p2p and consensus protocol. All code, except for Shardeum's smart contracts, is in scope
+
+No KYC is required.
+
+Shardeum will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+In a few days after the launch, Shardeum will give a live technical walkthrough, hosted in the Immunefi Discord. 
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "$500,000 USD is available in rewards for finding bugs in Shardeum's codebase of about 70000 nSLOC. There is no KYC required.
+
+Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 500000,
+    "sourceLinesOfCode": 70381,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "premiumTriaging": true
   },
   {
     "contentfulId": "3o5ukksdFvgFLMTKUGqRM5",
