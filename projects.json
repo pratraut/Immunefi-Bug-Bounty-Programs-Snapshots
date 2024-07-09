@@ -1126,45 +1126,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "31lnlCzZtbOpWeyYVHh8k9",
-    "id": "thorchain",
-    "project": "THORChain",
-    "maximum_reward": 1672500,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2ivu6TOSX5K1g4rprSlKTI/b044ae4248b6b03c658cbfed4d91d05e/THORChain.jpeg",
-    "date": "2021-07-28T00:00-07:00",
-    "launchDate": "2021-07-28T00:00-07:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:50:17.511Z",
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Crosschain Liquidity"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Go",
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "W2FnUzLcn8lIkKXRA6lnA",
     "id": "spool",
     "project": "Spool",
@@ -2660,11 +2621,11 @@
     "id": "smardex",
     "project": "SmarDex",
     "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6lq9jvfU3n1DAapQupNJYX/9a466705f8fcd76dc41052597472695d/Screenshot_2023-09-25_at_4.01.43_PM.png",
-    "date": "2023-09-25T16:00+03:00",
-    "launchDate": "2023-09-25T16:00+03:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6st2ki00OgMQtlOLs12gqs/569512ed71af09cc498f1ee6f83bcb2f/8AgKkjTU_400x400.png",
+    "date": "2023-09-25T13:00:00.000Z",
+    "launchDate": "2023-09-25T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T19:01:09.362Z",
+    "updatedDate": "2024-07-09T08:56:54.136Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -9134,14 +9095,14 @@
   },
   {
     "contentfulId": "7qXySvnhtaaW0tbxW02ebl",
-    "id": "rangeprotocol",
-    "project": "Range Protocol",
+    "id": "skatefi",
+    "project": "SkateFi",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2ByPTsOCo1ihurbQOM0PMK/3cab96ed1b2b59f5c28e8462e9b4c7df/Range-logo.jpeg",
     "date": "2023-11-30T09:00:00.000Z",
     "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-13T10:31:52.588Z",
+    "updatedDate": "2024-07-09T07:31:17.064Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -12136,46 +12097,6 @@
       ],
       "programType": [
         "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "uaL1JKMMqFkHtLoPdqCSt",
-    "id": "lendr",
-    "project": "Lendr",
-    "maximum_reward": 10300,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5AjMkOYcYcCFkHvBrahgZN/84aa59d9db15af13f87483d9f75dc89b/Iz1Q3eIy_400x400.jpg",
-    "date": "2023-08-07T17:00+02:00",
-    "launchDate": "2023-08-07T17:00+02:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:57:46.731Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Lending",
-        "Stablecoin",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
       ],
       "language": [
         "Solidity"

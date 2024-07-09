@@ -38,41 +38,8 @@
         }
       ],
       "audits": null,
-      "assets": [
-        {
-          "id": "1RQg6r6PyZ1oBvf17RLtkW",
-          "type": "blockchain_dlt",
-          "url": "https://immunefi.com",
-          "description": "PLACEHOLDER",
-          "isPrimacyOfImpact": null
-        }
-      ],
-      "impacts": [
-        {
-          "id": "41nM6JeyfYZmOr4SPcMC5E",
-          "title": "PLACEHOLDER",
-          "type": "blockchain_dlt",
-          "severity": "critical"
-        },
-        {
-          "id": "4KkojqCo4pYo3oCcvQVttE",
-          "title": "PLACEHOLDER",
-          "type": "blockchain_dlt",
-          "severity": "high"
-        },
-        {
-          "id": "1erD8O3tPJ3XpxNBcylbgd",
-          "title": "PLACEHOLDER",
-          "type": "blockchain_dlt",
-          "severity": "medium"
-        },
-        {
-          "id": "3OC7PieugMqzDR8WVm3Y0X",
-          "title": "PLACEHOLDER",
-          "type": "blockchain_dlt",
-          "severity": "low"
-        }
-      ],
+      "assets": [],
+      "impacts": [],
       "programOverview": "To be determined",
       "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
       "rewardsBody": "To be determined",
@@ -98,9 +65,7 @@
         ]
       },
       "legacy": {
-        "technologies": [
-          "Blockchain/DLT"
-        ],
+        "technologies": [],
         "blockchain_rewards": [
           {
             "level": "Critical",
