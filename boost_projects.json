@@ -8,7 +8,7 @@
     "date": "2024-06-17T08:00:00.000Z",
     "launchDate": "2024-06-17T08:00:00.000Z",
     "endDate": "2024-07-22T08:00:00.000Z",
-    "updatedDate": "2024-07-06T03:53:33.476Z",
+    "updatedDate": "2024-07-11T05:32:09.917Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications",
@@ -94,7 +94,7 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "date": "2024-07-08T06:00:00.000Z",
     "launchDate": "2024-07-08T06:00:00.000Z",
     "endDate": "2024-08-14T06:00:00.000Z",
-    "updatedDate": "2024-07-09T14:33:25.036Z",
+    "updatedDate": "2024-07-13T06:59:59.210Z",
     "technologies": [
       "Websites and Applications"
     ],
@@ -137,6 +137,8 @@ Join our Discord for more updates.",
 
 Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
 
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
 When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
@@ -162,7 +164,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-07-08T06:00:00.000Z",
     "launchDate": "2024-07-08T06:00:00.000Z",
     "endDate": "2024-08-14T06:00:00.000Z",
-    "updatedDate": "2024-07-09T14:32:33.572Z",
+    "updatedDate": "2024-07-13T06:59:34.210Z",
     "technologies": [
       "Blockchain/DLT"
     ],
@@ -204,6 +206,8 @@ Join our Discord for more updates.",
 
 Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
 
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
 When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
@@ -226,15 +230,33 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "project": "Boost | Firedancer v0.1",
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6abbRPq25ZJAZ0KbG5mgCL/42f2a899c65754988546c1f445f4f27f/image__16_.png",
-    "date": "2024-07-10T20:00:00.000Z",
-    "launchDate": "2024-07-10T20:00:00.000Z",
+    "date": "2024-07-10T17:00:00.000Z",
+    "launchDate": "2024-07-10T17:00:00.000Z",
     "endDate": "2024-08-21T08:00:00.000Z",
-    "updatedDate": "2024-07-03T20:12:58.896Z",
-    "technologies": [],
-    "immunefiStandard": null,
+    "updatedDate": "2024-07-13T07:00:23.781Z",
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
     "tags": {
+      "productType": [
+        "Validator"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "C/C++"
+      ],
       "general": [
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Immunefi Standard"
       ]
     },
     "evaluationEndDate": "2024-08-14T08:00:00.000Z",
@@ -253,6 +275,8 @@ Join our Discord for more updates.",
 
 Firedancer v0.1 team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Firedancer v0.1 or Immunefi in the [Firedancer v0.1 Boost Discord channel](https://discord.com/invite/immunefi).
 
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
 When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
@@ -267,23 +291,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       "Boost",
       "Managed Triage: Time Saver"
     ],
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
@@ -321,9 +329,9 @@ On July 18th, Folks Finance will give a live technical walkthrough, hosted in th
     "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
-    "rewardsToken": "",
-    "rewardsPool": 0,
-    "sourceLinesOfCode": 0,
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 4958,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,

@@ -5915,6 +5915,43 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "46aQ9pUjena9kTSOvt8buJ",
+    "id": "vesu",
+    "project": "Vesu",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4bZnUNgmQOUv5WMlx0358S/8890b3afddc4a6dda01e4dc483e8f1b8/Vesu.png",
+    "date": "2024-07-10T14:00:00.000Z",
+    "launchDate": "2024-07-10T14:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-10T16:10:11.714Z",
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Starknet"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "1TwVacL83Wjb83NmpQ8DNe",
     "id": "termstructurelabs",
     "project": "Term Structure Labs",
@@ -8548,7 +8585,7 @@
     "date": "2024-07-08T10:30:00.000Z",
     "launchDate": "2024-07-08T10:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-08T07:54:28.176Z",
+    "updatedDate": "2024-07-11T13:16:41.247Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -8960,7 +8997,7 @@
     "date": "2024-04-09T06:39:35.000Z",
     "launchDate": "2024-04-09T06:39:35.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-17T21:41:50.361Z",
+    "updatedDate": "2024-07-12T11:59:34.397Z",
     "technologies": [
       "Smart Contract"
     ],

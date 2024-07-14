@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Fk02TUogACJYRTBgFHDjr/d34c2b33d5debf44e37143e6e4448b62/FUEL_Symbol_Circle_Green_RGB__1_.png",
       "launchDate": "2024-06-17T08:00:00.000Z",
       "endDate": "2024-07-22T08:00:00.000Z",
-      "updatedDate": "2024-07-06T03:53:33.476Z",
+      "updatedDate": "2024-07-11T05:32:09.917Z",
       "kyc": true,
       "rewards": [
         {
@@ -442,6 +442,12 @@
           "id": "4YYRjkUTIisT27vRYUHt3l",
           "title": "Compiler bug",
           "type": "blockchain_dlt",
+          "severity": "low"
+        },
+        {
+          "id": "3logEvlhDH1O2hHMMFRQbM",
+          "title": "Compiler bug",
+          "type": "smart_contract",
           "severity": "low"
         }
       ],
