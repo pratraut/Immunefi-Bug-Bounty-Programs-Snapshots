@@ -3401,14 +3401,14 @@
     "project": "Composable Finance",
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6j3NyweMVahrfKweG7cGfo/35fd90d136b6c2b87951e74a47074296/Screen_Shot_2022-12-27_at_7.13.16_AM.png",
-    "date": "2021-06-29T07:00-05:00",
-    "launchDate": "2021-06-29T07:00-05:00",
+    "date": "2021-06-29T12:00:00.000Z",
+    "launchDate": "2021-06-29T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:46:27.279Z",
+    "updatedDate": "2024-07-15T11:40:09.547Z",
     "technologies": [
       "Blockchain/DLT"
     ],
-    "immunefiStandard": true,
+    "immunefiStandard": null,
     "tags": {
       "productType": [
         "DEX"
@@ -3427,9 +3427,7 @@
       "language": [
         "Rust"
       ],
-      "general": [
-        "Immunefi Standard"
-      ]
+      "general": []
     },
     "premiumTriaging": false
   },
