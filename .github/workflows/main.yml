@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "30 18 * * *"  # 12:00 AM IST
-    - cron: "30 10 * * *"  # 4:00 PM IST
+    # - cron: "30 10 * * *"  # 4:00 PM IST
 
 jobs:
   build:
