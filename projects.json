@@ -3761,6 +3761,44 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "6Rv25jrJD4y4eJmceZKgVx",
+    "id": "flarenetwork",
+    "project": "Flare Network",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/Dhej3RK2qOIzzJ7QDeqWJ/dad95d7b2af0cc0e566f06060f26a405/JgfEVRQA_400x400.png",
+    "date": "2024-07-16T12:00:00.000Z",
+    "launchDate": "2024-07-16T12:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-17T13:31:02.137Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "6FKbv52oLy0s4TLoYl4OPs",
     "id": "pythnetwork",
     "project": "Pyth Network",
@@ -11025,46 +11063,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "38ZVnQbEIp7jWIDjYGRhK9",
-    "id": "aloeprotocol",
-    "project": "Aloe Protocol",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/51IzSZLBt894lnbsstJ8eT/f146559e85c54edd25a80d2856940394/Aloe_Protocol_logo.jpeg",
-    "date": "2022-05-03T10:30-06:00",
-    "launchDate": "2022-05-03T10:30-06:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:50:31.920Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "AMM",
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Base",
-        "ETH",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "general": [
         "Immunefi Standard"
