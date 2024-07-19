@@ -128,7 +128,7 @@
     "date": "2023-11-01T15:00:00.000Z",
     "launchDate": "2023-11-01T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-27T09:43:20.749Z",
+    "updatedDate": "2024-07-19T08:11:57.819Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -526,10 +526,10 @@
     "project": "Hyperlane",
     "maximum_reward": 2500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/32dUEjoP7WozWkfwxWEhK2/92b2a5020a729f64f689dfa47af55717/Hyperlane_logo.jpeg",
-    "date": "2023-01-10T14:00-07:00",
-    "launchDate": "2023-01-10T14:00-07:00",
+    "date": "2023-01-10T21:00:00.000Z",
+    "launchDate": "2023-01-10T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:53:10.302Z",
+    "updatedDate": "2024-07-19T13:59:36.523Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -7910,45 +7910,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "3sazYCJCzkoker8cT8SFum",
-    "id": "idex",
-    "project": "IDEX",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1BXOotUNaZuQzaVtlsFHP2/9b87768600d62f34cde44e080c5141d5/Idex_logo.jpeg",
-    "date": "2021-12-03T10:00-08:00",
-    "launchDate": "2021-12-03T10:00-08:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:51:28.863Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "AMM",
-        "DEX",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "346CaZfqLB1Op9eRzW9N1d",
     "id": "astroport",
     "project": "Astroport",
@@ -12411,7 +12372,7 @@
     "date": "2023-12-04T09:00:00.000Z",
     "launchDate": "2023-12-04T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-22T19:21:18.351Z",
+    "updatedDate": "2024-07-19T08:06:29.895Z",
     "technologies": [
       "Websites and Applications"
     ],
