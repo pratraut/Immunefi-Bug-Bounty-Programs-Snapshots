@@ -576,7 +576,7 @@
     "date": "2021-08-04T17:00:00.000Z",
     "launchDate": "2021-08-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-19T15:10:06.081Z",
+    "updatedDate": "2024-07-23T10:31:59.912Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications",
@@ -2450,7 +2450,7 @@
     "date": "2023-04-25T12:00:00.000Z",
     "launchDate": "2023-04-25T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-03-26T15:24:40.328Z",
+    "updatedDate": "2024-07-23T11:07:47.922Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -2476,6 +2476,47 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "70CdcXCx3z6QsnkPuPiFMd",
+    "id": "avail",
+    "project": "Avail",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/37wGk8Qz27HTCY0URGtIzR/3c3171085fec2e44832cc45a25326d09/avail.png",
+    "date": "2024-07-23T02:00:00.000Z",
+    "launchDate": "2024-07-23T02:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-23T14:05:45.876Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "L2"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "XROwrT6tWvOPznjsl9vhu",
@@ -3524,10 +3565,10 @@
     "project": "Gains Network",
     "maximum_reward": 400000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/53Lo497dIPH3nrT78lr8qx/8009fbbcd62a15a011fa8c394e5c5c59/Gains_Network_logo.jpeg",
-    "date": "2022-03-10T13:00-07:00",
-    "launchDate": "2022-03-10T13:00-07:00",
+    "date": "2022-03-10T20:00:00.000Z",
+    "launchDate": "2022-03-10T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:54:59.161Z",
+    "updatedDate": "2024-07-24T09:35:15.609Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -6615,14 +6656,14 @@
   },
   {
     "contentfulId": "2qHc1S4pIk1pW9ZB9Eg0ht",
-    "id": "bonfida",
-    "project": "Bonfida",
+    "id": "sns",
+    "project": "SNS",
     "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4w6juydBJOXINeJAzFsTnH/9eb44ea678f072b670f1cc1f4005a7ab/bonfida.png",
-    "date": "2023-08-04T13:00+01:00",
-    "launchDate": "2023-08-04T13:00+01:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7wRTt9jXbVOgqiyaczuZX4/cb5c6126b33d7b210b9e347f58588a22/SNSMARK_white.png",
+    "date": "2023-08-04T12:00:00.000Z",
+    "launchDate": "2023-08-04T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:50:07.388Z",
+    "updatedDate": "2024-07-24T08:02:57.825Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -8809,7 +8850,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-17T05:50:13.019Z",
+    "updatedDate": "2024-07-23T10:15:19.370Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -9844,39 +9885,6 @@
       "language": [
         "C/C++"
       ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3v0OKwGKgxumF74Sl2toT8",
-    "id": "furucombo",
-    "project": "FURUCOMBO",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2EePaIGoyGaflyKxP7XRhW/ba793ab57b3a82ab439107d4f4d4e378/Furucombo_logo.jpeg",
-    "date": "2022-01-25T21:00-06:00",
-    "launchDate": "2022-01-25T21:00-06:00",
-    "endDate": null,
-    "updatedDate": "2023-10-19T19:36:07.282Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": null,
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": null,
       "general": [
         "Immunefi Standard"
       ]
