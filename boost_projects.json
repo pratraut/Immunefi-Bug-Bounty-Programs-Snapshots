@@ -8,11 +8,11 @@
     "date": "2024-07-16T08:00:00.000Z",
     "launchDate": "2024-07-16T08:00:00.000Z",
     "endDate": "2024-08-06T08:00:00.000Z",
-    "updatedDate": "2024-07-23T16:31:12.093Z",
+    "updatedDate": "2024-07-24T10:57:57.118Z",
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
       "productType": null,
       "projectType": null,
@@ -24,7 +24,8 @@
         "Solidity"
       ],
       "general": [
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Immunefi Standard"
       ]
     },
     "evaluationEndDate": "2024-08-30T10:30:00.000Z",
@@ -205,7 +206,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-07-10T17:00:00.000Z",
     "launchDate": "2024-07-10T17:00:00.000Z",
     "endDate": "2024-08-21T08:00:00.000Z",
-    "updatedDate": "2024-07-23T11:03:56.917Z",
+    "updatedDate": "2024-07-25T10:25:57.216Z",
     "technologies": [
       "Blockchain/DLT"
     ],
