@@ -1901,7 +1901,7 @@
     "date": "2022-06-16T16:30:00.000Z",
     "launchDate": "2022-06-16T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-12T07:55:19.267Z",
+    "updatedDate": "2024-07-26T06:41:16.455Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -6214,6 +6214,43 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "56powSA6iD9VrESduXTQii",
+    "id": "zestprotocol",
+    "project": "Zest Protocol",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5DWINS6LzXToU397gx35lQ/ed2d456b4cb4cd95fa0799e8b1fe5c4b/Zest_logo_copy.png",
+    "date": "2024-03-11T01:01:00.000Z",
+    "launchDate": "2024-03-11T01:01:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-26T07:22:03.972Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Clarity"
+      ],
+      "general": [
+        "Immunefi Standard",
+        "Vaults"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "1IwKcX1tYQygFRWe503Hrc",
     "id": "orderlynetwork",
     "project": "Orderly Network",
@@ -6663,7 +6700,7 @@
     "date": "2023-08-04T12:00:00.000Z",
     "launchDate": "2023-08-04T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-24T08:02:57.825Z",
+    "updatedDate": "2024-07-26T06:50:32.089Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -7915,43 +7952,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "8o9VUiKpFfJN0NygAwYeK",
-    "id": "metis",
-    "project": "Metis",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/19ABvYvjdqOuf9Yh0z1qku/eca71f197167ec20877ce54534315bd2/Metis_Logo.jpeg",
-    "date": "2021-12-03T10:00:00.000Z",
-    "launchDate": "2021-12-03T10:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-05-15T14:19:16.542Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "L2"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Metis"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "346CaZfqLB1Op9eRzW9N1d",
     "id": "astroport",
     "project": "Astroport",
@@ -8277,10 +8277,10 @@
     "project": "MUX",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1AuAlWdDWj7rerjjpyaCbX/a27501a9a5037de19eb6866cf4d76615/MCDEX.jpeg",
-    "date": "2021-06-09T02:00-05:00",
-    "launchDate": "2021-06-09T02:00-05:00",
+    "date": "2021-06-09T07:00:00.000Z",
+    "launchDate": "2021-06-09T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:52:34.280Z",
+    "updatedDate": "2024-07-26T05:56:54.331Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
