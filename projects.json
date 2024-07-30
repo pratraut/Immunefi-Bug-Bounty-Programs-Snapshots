@@ -529,7 +529,7 @@
     "date": "2023-01-10T21:00:00.000Z",
     "launchDate": "2023-01-10T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-24T13:58:15.409Z",
+    "updatedDate": "2024-07-30T08:38:39.748Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -1456,7 +1456,7 @@
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:57:20.862Z",
+    "updatedDate": "2024-07-30T06:52:16.176Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -2486,7 +2486,7 @@
     "date": "2024-07-23T02:00:00.000Z",
     "launchDate": "2024-07-23T02:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-23T14:05:45.876Z",
+    "updatedDate": "2024-07-30T06:10:20.466Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications",
@@ -6297,7 +6297,7 @@
     "date": "2024-02-20T16:32:00.000Z",
     "launchDate": "2024-02-20T16:32:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-02-20T14:42:54.506Z",
+    "updatedDate": "2024-07-29T10:54:41.501Z",
     "technologies": [
       "Websites and Applications",
       "Blockchain/DLT"
@@ -6550,7 +6550,7 @@
     "date": "2023-10-05T13:00:00.000Z",
     "launchDate": "2023-10-05T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-03-20T14:08:26.049Z",
+    "updatedDate": "2024-07-29T10:52:13.111Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -7324,40 +7324,6 @@
       "language": [
         "Solidity"
       ],
-      "general": [
-        "Immunefi Standard"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "agu8vAoM9WmuIUFQG4hf8",
-    "id": "defly",
-    "project": "Defly",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/73xWJAL4LPoKT9RjLOncBo/ff91c763d77c3d64b6f57ab6a56cdb6c/Defly_logo.jpeg",
-    "date": "2022-07-12T12:00-06:00",
-    "launchDate": "2022-07-12T12:00-06:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:57:14.724Z",
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Wallet"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Algorand"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": null,
       "general": [
         "Immunefi Standard"
       ]
@@ -8967,7 +8933,7 @@
     "date": "2024-07-01T01:00:00.000Z",
     "launchDate": "2024-07-01T01:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-08T15:52:56.255Z",
+    "updatedDate": "2024-07-30T06:38:45.436Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -11050,7 +11016,7 @@
     "date": "2022-04-12T19:00:00.000Z",
     "launchDate": "2022-04-12T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-09T11:55:23.059Z",
+    "updatedDate": "2024-07-30T06:34:26.569Z",
     "technologies": [
       "Smart Contract"
     ],

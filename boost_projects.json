@@ -198,6 +198,69 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
+    "contentfulId": "6ATHaXQVlw2wErspXGIB5O",
+    "id": "boost-idex",
+    "project": "Boost | IDEX",
+    "maximum_reward": 45000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Z2Gy88N6R5vZwze49k4KA/4d53d963948076f62cd75315f28e7a69/IDEX_logo.png",
+    "date": "2024-07-30T08:00:00.000Z",
+    "launchDate": "2024-07-30T08:00:00.000Z",
+    "endDate": "2024-08-16T08:00:00.000Z",
+    "updatedDate": "2024-07-30T08:03:53.577Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "$45,000 USD in rewards is available for finding bugs on IDEX.
+
+IDEX is a high-performance decentralized perpetual swaps exchange. IDEX's hybrid design combines an off-chain order book, matching and liquidation engine with on-chain custody and settlement. This approach blends the speed and efficiency of traditional trading systems with the transparency and security of blockchain technology to create an unparalleled trading experience.
+
+IDEX operates on XCHAIN, an IDEX specific Arbitrum Orbit layer 2. XCHAIN's performance supports gas free and nearly instant settlement of all IDEX transactions. Positions on IDEX are collateralized by USDC bridged into XCHAIN via Stargate's Hydra protocol.
+
+For more information about IDEX please visit https://idex.io/ 
+
+No KYC is required.
+
+IDEX will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the IDEX technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"idex-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+On Aug 1sth, IDEX will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 45000,
+    "sourceLinesOfCode": 6000,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3o5ukksdFvgFLMTKUGqRM5",
     "id": "firedancer-boost",
     "project": "Boost | Firedancer v0.1",
@@ -265,71 +328,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       "Managed Triage: Time Saver"
     ],
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "6ATHaXQVlw2wErspXGIB5O",
-    "id": "boost-idex",
-    "project": "Boost | IDEX",
-    "maximum_reward": 45000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Z2Gy88N6R5vZwze49k4KA/4d53d963948076f62cd75315f28e7a69/IDEX_logo.png",
-    "date": "2024-07-30T08:00:00.000Z",
-    "launchDate": "2024-07-30T08:00:00.000Z",
-    "endDate": "2024-08-16T08:00:00.000Z",
-    "updatedDate": "2024-07-27T06:56:34.480Z",
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": []
-    },
-    "evaluationEndDate": null,
-    "boostedIntroStartingIn": "$45,000 USD in rewards is available for finding bugs on IDEX.
-
-IDEX is a high-performance decentralized perpetual swaps exchange. IDEX's hybrid design combines an off-chain order book, matching and liquidation engine with on-chain custody and settlement. This approach blends the speed and efficiency of traditional trading systems with the transparency and security of blockchain technology to create an unparalleled trading experience.
-
-IDEX operates on XCHAIN, an IDEX specific Arbitrum Orbit layer 2. XCHAIN's performance supports gas free and nearly instant settlement of all IDEX transactions. Positions on IDEX are collateralized by USDC bridged into XCHAIN via Stargate's Hydra protocol.
-
-For more information about IDEX please visit https://idex.io/ 
-
-No KYC is required.
-
-IDEX will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the IDEX technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"idex-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-On Aug 1sth, IDEX will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 45000,
-    "sourceLinesOfCode": 6000,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Boost"
-    ],
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": false,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
   },
   {
     "contentfulId": "3GK41DXimLkjluCUDLq24f",
