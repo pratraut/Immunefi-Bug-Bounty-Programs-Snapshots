@@ -84,10 +84,10 @@
     "project": "MakerDAO",
     "maximum_reward": 10000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vcEkB0bOqaDEGqlxLIXAM/f4e37545855fec510df9a033ebd78fbf/Mark_Maker.png",
-    "date": "2022-02-10T01:00-06:00",
-    "launchDate": "2022-02-10T01:00-06:00",
+    "date": "2022-02-10T07:00:00.000Z",
+    "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:52:09.985Z",
+    "updatedDate": "2024-08-01T06:43:58.918Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -1290,6 +1290,48 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "1yl4Bi9IakWar7gVdu7Iia",
+    "id": "0x",
+    "project": "0x",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/lyQiC5BZ6cB4x9bgGUFPi/dd8c99b13df7edf308ca678c0607ee48/dlhDYt89_400x400.png",
+    "date": "2024-07-30T16:00:00.000Z",
+    "launchDate": "2024-07-30T16:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-07-30T15:59:08.868Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "DEX"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Polygon",
+        "Harmony",
+        "Polkadot",
+        "Avalanche"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "2sJodat8OBv9B9gFeeCnNI",
     "id": "neutron",
     "project": "Neutron",
@@ -1456,7 +1498,7 @@
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-30T06:52:16.176Z",
+    "updatedDate": "2024-07-31T15:09:03.973Z",
     "technologies": [
       "Smart Contract"
     ],
@@ -6038,7 +6080,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-12T13:19:09.372Z",
+    "updatedDate": "2024-07-31T14:25:00.747Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -6056,11 +6098,10 @@
         "Solidity"
       ],
       "general": [
-        "Triaged by Immunefi",
         "Immunefi Standard"
       ]
     },
-    "premiumTriaging": true
+    "premiumTriaging": false
   },
   {
     "contentfulId": "2UM6ZJsDWnsUZ9RnbXCnBZ",
@@ -7461,12 +7502,12 @@
     "date": "2022-04-20T17:30:00.000Z",
     "launchDate": "2022-04-20T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-02T09:37:58.289Z",
+    "updatedDate": "2024-07-30T16:27:11.805Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
     ],
-    "immunefiStandard": true,
+    "immunefiStandard": null,
     "tags": {
       "productType": [
         "AMM",
@@ -7481,9 +7522,7 @@
         "Websites and Applications"
       ],
       "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "general": []
     },
     "premiumTriaging": false
   },
@@ -8591,7 +8630,7 @@
     "date": "2024-07-08T10:30:00.000Z",
     "launchDate": "2024-07-08T10:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-11T13:16:41.247Z",
+    "updatedDate": "2024-07-31T15:42:39.834Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -9572,7 +9611,7 @@
     "date": "2022-09-14T17:30:00.000Z",
     "launchDate": "2022-09-14T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-22T18:52:28.361Z",
+    "updatedDate": "2024-07-31T15:58:45.014Z",
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -9755,34 +9794,6 @@
       "general": [
         "Immunefi Standard"
       ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3ERxQnk8dX2Ta7nHrIiA6T",
-    "id": "octopusnetwork",
-    "project": "Octopus Network",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/YlzS91wNlhNma1Tq3oq1x/02b76c041222f6df387af604a906471c/octopus_icon_blue.png",
-    "date": "2022-02-15T09:00-07:00",
-    "launchDate": "2022-02-15T09:00-07:00",
-    "endDate": null,
-    "updatedDate": "2022-10-13T14:02:13.420Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "productType": null,
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": null,
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": null,
-      "general": []
     },
     "premiumTriaging": false
   },
@@ -12162,7 +12173,7 @@
     "date": "2024-03-28T02:42:00.000Z",
     "launchDate": "2024-03-28T02:42:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-03-28T14:09:56.701Z",
+    "updatedDate": "2024-07-30T17:32:21.982Z",
     "technologies": [
       "Websites and Applications"
     ],
@@ -13304,7 +13315,7 @@
     "date": "2023-02-16T20:00:00.000Z",
     "launchDate": "2023-02-16T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-15T14:07:01.389Z",
+    "updatedDate": "2024-07-31T15:47:20.392Z",
     "technologies": [
       "Smart Contract"
     ],
