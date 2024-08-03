@@ -1414,7 +1414,7 @@
     "date": "2023-11-30T09:00:00.000Z",
     "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-31T14:02:47.007Z",
+    "updatedDate": "2024-08-02T16:10:23.914Z",
     "technologies": [
       "Websites and Applications",
       "Blockchain/DLT"
@@ -3845,6 +3845,40 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "2qnghE9MznxqFHSckj9FJf",
+    "id": "kelp-dao",
+    "project": "Kelp DAO",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/45teNS8w4f7XgiQvJnl82R/aafacb2bdce0fe3bbaf3b4453ad422ab/IwyLpOfL_400x400.png",
+    "date": "2024-08-05T12:00:23.000Z",
+    "launchDate": "2024-08-05T12:00:23.000Z",
+    "endDate": null,
+    "updatedDate": "2024-08-02T16:16:54.733Z",
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Liquid Restaking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": null,
+      "general": [
+        "Immunefi Standard"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "6Rv25jrJD4y4eJmceZKgVx",
     "id": "flarenetwork",
     "project": "Flare Network",
@@ -5891,7 +5925,7 @@
     "date": "2023-04-14T20:00:00.000Z",
     "launchDate": "2023-04-14T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-26T14:23:37.500Z",
+    "updatedDate": "2024-08-02T11:52:12.534Z",
     "technologies": [
       "Blockchain/DLT"
     ],

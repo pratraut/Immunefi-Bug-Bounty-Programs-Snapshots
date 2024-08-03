@@ -77,8 +77,8 @@ for ((c = 0; c < $bounties_length; c++)); do
 	found=false
 	for ((t = 0; t < 3; t++)); do
 		# Get project's data
-		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json")
-		echo "Calling: https://immunefi.com/_next/data/$buildId/bug-bounty/$name.json"
+		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildId/bug-bounty/$name/scope.json")
+		echo "Calling: https://immunefi.com/_next/data/$buildId/bug-bounty/$name/scope.json"
 		# echo -E "$PROJECT_DATA"
 		# There's no try/catch in batch, so this is our way to double check everything went right:
 		# Get name from JSON response
@@ -178,8 +178,8 @@ for ((c = 0; c < $boost_bounties_length; c++)); do
 	found=false
 	for ((t = 0; t < 3; t++)); do
 		# Get project's data
-		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name.json")
-		echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name.json"
+		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name/scope.json")
+		echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name/scope.json"
 		# echo -E "$PROJECT_DATA"
 		# There's no try/catch in batch, so this is our way to double check everything went right:
 		# Get name from JSON response
