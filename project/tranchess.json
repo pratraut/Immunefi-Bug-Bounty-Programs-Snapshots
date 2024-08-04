@@ -348,11 +348,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2023,
-        "totalPaidAmount": 336680
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Tranchess Bug Bounties | Immunefi",

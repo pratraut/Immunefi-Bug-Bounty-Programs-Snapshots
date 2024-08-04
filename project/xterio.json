@@ -486,10 +486,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 699
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Xterio Bug Bounties | Immunefi",

@@ -1472,11 +1472,7 @@
     },
     "project": {
       "premiumTriaging": true,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 1015,
-        "totalPaidAmount": 452250
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "MakerDAO Bug Bounties | Immunefi",

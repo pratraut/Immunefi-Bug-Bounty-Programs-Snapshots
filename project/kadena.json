@@ -445,11 +445,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 4927,
-        "totalPaidAmount": 91000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Kadena Bug Bounties | Immunefi",

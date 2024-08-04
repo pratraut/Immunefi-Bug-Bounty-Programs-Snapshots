@@ -560,11 +560,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2357,
-        "totalPaidAmount": 33500
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Summer.fi Bug Bounties | Immunefi",

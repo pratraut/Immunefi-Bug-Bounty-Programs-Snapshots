@@ -417,11 +417,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 8173,
-        "totalPaidAmount": 194200
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Filecoin Bug Bounties | Immunefi",

@@ -1391,10 +1391,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "totalPaidAmount": 21000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Superform Bug Bounties | Immunefi",

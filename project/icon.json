@@ -408,11 +408,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 5632,
-        "totalPaidAmount": 98500
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "ICON Bug Bounties | Immunefi",

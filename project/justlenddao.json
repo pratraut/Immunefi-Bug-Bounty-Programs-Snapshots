@@ -434,11 +434,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 3386,
-        "totalPaidAmount": 20000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "JustLend DAO Bug Bounties | Immunefi",

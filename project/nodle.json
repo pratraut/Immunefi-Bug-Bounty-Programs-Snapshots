@@ -259,11 +259,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 902,
-        "totalPaidAmount": 1000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Nodle Bug Bounties | Immunefi",

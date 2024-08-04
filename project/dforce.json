@@ -253,11 +253,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 5101,
-        "totalPaidAmount": 265800
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "dForce Bug Bounties | Immunefi",

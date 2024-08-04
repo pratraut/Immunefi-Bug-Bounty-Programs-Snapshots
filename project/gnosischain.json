@@ -240,11 +240,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 5344,
-        "totalPaidAmount": 25000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Gnosis Chain Bug Bounties | Immunefi",

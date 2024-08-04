@@ -505,11 +505,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 810,
-        "totalPaidAmount": 5500
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Reserve Bug Bounties | Immunefi",

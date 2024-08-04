@@ -323,11 +323,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 268,
-        "totalPaidAmount": 4600
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Obyte Bug Bounties | Immunefi",

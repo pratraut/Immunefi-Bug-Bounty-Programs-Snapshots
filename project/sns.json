@@ -404,10 +404,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 58
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "SNS Bug Bounties | Immunefi",

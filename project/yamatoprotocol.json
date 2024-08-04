@@ -199,11 +199,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 851,
-        "totalPaidAmount": 3000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Yamato Protocol Bug Bounties | Immunefi",

@@ -131,11 +131,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 7492,
-        "totalPaidAmount": 2100
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Pillar Bug Bounties | Immunefi",

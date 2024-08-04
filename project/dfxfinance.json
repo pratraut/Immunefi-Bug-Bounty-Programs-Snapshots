@@ -813,11 +813,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2776,
-        "totalPaidAmount": 141000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "DFX Finance Bug Bounties | Immunefi",

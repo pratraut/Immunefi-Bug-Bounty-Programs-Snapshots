@@ -681,11 +681,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 287,
-        "totalPaidAmount": 2000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "thUSD Bug Bounties | Immunefi",

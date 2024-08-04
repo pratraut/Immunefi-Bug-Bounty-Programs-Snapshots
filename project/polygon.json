@@ -290,10 +290,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "totalPaidAmount": 5968176.74
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Polygon Bug Bounties | Immunefi",

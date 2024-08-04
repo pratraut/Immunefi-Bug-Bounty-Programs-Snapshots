@@ -189,11 +189,7 @@
     },
     "project": {
       "premiumTriaging": true,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 5557,
-        "totalPaidAmount": 205071.1
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Alchemix Bug Bounties | Immunefi",

@@ -239,11 +239,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 1658,
-        "totalPaidAmount": 167000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Celer Bug Bounties | Immunefi",

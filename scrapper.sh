@@ -87,7 +87,7 @@ for ((c = 0; c < $bounties_length; c++)); do
 		# Compare it with stored name
 		if [ "$name_received" = "$name" ]; then
 			# All good!
-			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' > ./project/$name.json
+			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' | jq 'del(.pageProps.project.performanceMetrics)' > ./project/$name.json
 			#Print DONE
 			echo "Scanned: $name"
 			sleep $SLEEP_TIME
@@ -188,7 +188,7 @@ for ((c = 0; c < $boost_bounties_length; c++)); do
 		# Compare it with stored name
 		if [ "$name_received" = "$name" ]; then
 			# All good!
-			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' > ./boost_project/$name.json
+			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' | jq 'del(.pageProps.project.performanceMetrics)' > ./boost_project/$name.json
 			#Print DONE
 			echo "Scanned: $name"
 			sleep $SLEEP_TIME

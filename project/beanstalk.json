@@ -336,11 +336,7 @@
     },
     "project": {
       "premiumTriaging": true,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2009,
-        "totalPaidAmount": 1417215.45
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Beanstalk Bug Bounties | Immunefi",

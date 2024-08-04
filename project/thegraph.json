@@ -716,11 +716,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2137,
-        "totalPaidAmount": 1089291.67
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "The Graph Bug Bounties | Immunefi",

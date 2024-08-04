@@ -316,11 +316,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 9625,
-        "totalPaidAmount": 104455
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Router Bug Bounties | Immunefi",

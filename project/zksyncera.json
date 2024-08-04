@@ -689,10 +689,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 1144
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "zkSync Era Bug Bounties | Immunefi",

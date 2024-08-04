@@ -365,11 +365,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 3209,
-        "totalPaidAmount": 2499402
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Optimism Bug Bounties | Immunefi",

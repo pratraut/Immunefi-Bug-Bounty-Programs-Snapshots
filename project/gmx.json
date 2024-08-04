@@ -1543,10 +1543,7 @@
     },
     "project": {
       "premiumTriaging": true,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 518
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "GMX Bug Bounties | Immunefi",

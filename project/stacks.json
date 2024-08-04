@@ -309,11 +309,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 15946,
-        "totalPaidAmount": 1036773
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Stacks Bug Bounties | Immunefi",

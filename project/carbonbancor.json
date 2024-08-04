@@ -152,11 +152,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 426,
-        "totalPaidAmount": 10647
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Carbon DeFi by Bancor Bug Bounties | Immunefi",

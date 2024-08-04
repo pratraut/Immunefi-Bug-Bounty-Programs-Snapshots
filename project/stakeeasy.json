@@ -179,10 +179,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "totalPaidAmount": 1000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "StakeEasy Bug Bounties | Immunefi",

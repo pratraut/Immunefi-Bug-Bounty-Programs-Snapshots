@@ -318,10 +318,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "totalPaidAmount": 756600
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Polygon zkEVM Bug Bounties | Immunefi",

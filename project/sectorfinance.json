@@ -441,10 +441,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "totalPaidAmount": 5000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Sector Finance Bug Bounties | Immunefi",

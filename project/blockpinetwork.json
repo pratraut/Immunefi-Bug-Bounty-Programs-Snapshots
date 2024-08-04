@@ -225,11 +225,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 4002,
-        "totalPaidAmount": 23350
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "BlockPI Network Bug Bounties | Immunefi",

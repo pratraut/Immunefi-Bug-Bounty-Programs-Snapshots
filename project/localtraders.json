@@ -191,10 +191,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 3272
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Local Traders Bug Bounties | Immunefi",

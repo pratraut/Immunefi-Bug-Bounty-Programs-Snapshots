@@ -744,11 +744,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2224,
-        "totalPaidAmount": 456000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Hydration Bug Bounties | Immunefi",

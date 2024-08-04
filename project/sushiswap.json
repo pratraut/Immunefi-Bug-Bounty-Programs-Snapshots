@@ -224,11 +224,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 12695,
-        "totalPaidAmount": 564101
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "SushiSwap Bug Bounties | Immunefi",

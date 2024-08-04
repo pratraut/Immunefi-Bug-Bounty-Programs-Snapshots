@@ -680,11 +680,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2171,
-        "totalPaidAmount": 1005000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Raydium Bug Bounties | Immunefi",

@@ -198,11 +198,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 287,
-        "totalPaidAmount": 27100
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "OpenZeppelin Bug Bounties | Immunefi",

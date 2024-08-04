@@ -414,11 +414,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 1151,
-        "totalPaidAmount": 2000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "IPOR Bug Bounties | Immunefi",

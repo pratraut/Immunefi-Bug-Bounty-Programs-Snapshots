@@ -202,10 +202,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 129
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Notional Bug Bounties | Immunefi",

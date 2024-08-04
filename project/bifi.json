@@ -468,11 +468,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 1509,
-        "totalPaidAmount": 250
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "BiFi Bug Bounties | Immunefi",

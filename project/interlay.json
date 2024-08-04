@@ -403,11 +403,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 4301,
-        "totalPaidAmount": 237500
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Interlay Bug Bounties | Immunefi",

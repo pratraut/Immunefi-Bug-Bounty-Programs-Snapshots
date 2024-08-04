@@ -345,11 +345,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 3737,
-        "totalPaidAmount": 11250
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "eckoDEX Bug Bounties | Immunefi",

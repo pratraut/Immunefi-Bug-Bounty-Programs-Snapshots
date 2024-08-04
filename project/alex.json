@@ -231,11 +231,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 591,
-        "totalPaidAmount": 25000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "ALEX Bug Bounties | Immunefi",

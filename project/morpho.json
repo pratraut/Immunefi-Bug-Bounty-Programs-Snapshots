@@ -525,10 +525,7 @@
     },
     "project": {
       "premiumTriaging": true,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "totalPaidAmount": 341200
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Morpho Bug Bounties | Immunefi",

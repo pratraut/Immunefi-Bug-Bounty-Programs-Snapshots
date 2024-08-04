@@ -401,11 +401,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 5245,
-        "totalPaidAmount": 15199
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Ankr Bug Bounties | Immunefi",

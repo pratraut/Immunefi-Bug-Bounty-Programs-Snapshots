@@ -254,11 +254,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 5344,
-        "totalPaidAmount": 20750
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Hathor Network Bug Bounties | Immunefi",

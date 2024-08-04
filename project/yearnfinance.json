@@ -412,11 +412,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 160,
-        "totalPaidAmount": 217500
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Yearn Finance Bug Bounties | Immunefi",

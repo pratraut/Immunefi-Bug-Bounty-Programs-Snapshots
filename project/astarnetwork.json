@@ -416,10 +416,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 2610
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Astar Network Bug Bounties | Immunefi",

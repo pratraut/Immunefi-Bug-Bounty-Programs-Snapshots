@@ -524,10 +524,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "totalPaidAmount": 169000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Gains Network Bug Bounties | Immunefi",

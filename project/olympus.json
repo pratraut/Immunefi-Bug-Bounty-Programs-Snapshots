@@ -371,11 +371,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 768,
-        "totalPaidAmount": 260533
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Olympus Bug Bounties | Immunefi",

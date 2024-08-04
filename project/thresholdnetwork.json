@@ -507,11 +507,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 1193,
-        "totalPaidAmount": 632100
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Threshold Network Bug Bounties | Immunefi",

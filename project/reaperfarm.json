@@ -136,11 +136,7 @@
     },
     "project": {
       "premiumTriaging": false,
-      "isSafeHarborActive": false,
-      "performanceMetrics": {
-        "medianResponseTimeInMinutes": 19851,
-        "totalPaidAmount": 12000
-      }
+      "isSafeHarborActive": false
     },
     "metaData": {
       "title": "Reaper Farm Bug Bounties | Immunefi",
