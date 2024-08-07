@@ -1,134 +1,5 @@
 [
   {
-    "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
-    "id": "folksfinance-boost",
-    "project": "Boost | Folks Finance",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6J3xxAowY0ZlOFTEciL88K/752c37cc0e37232a1f9075df7609c79c/Folks_Finance_logo.png",
-    "date": "2024-07-16T08:00:00.000Z",
-    "launchDate": "2024-07-16T08:00:00.000Z",
-    "endDate": "2024-08-06T08:00:00.000Z",
-    "updatedDate": "2024-07-24T10:57:57.118Z",
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
-    },
-    "evaluationEndDate": "2024-08-30T10:30:00.000Z",
-    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Folks Finance.
-
-Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.
-
-Folks Finance are expanding with a new cross-chain lending protocol using a hub and spoke model. The hub chain, Avalanche, contains the main logic and state of the lending protocol. The spoke chains, initially EVM, act as an entry point for a user to interact with the protocol.
-
-No KYC is required.
-
-Folks Finance will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"folks-finance-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-On July 18th, Folks Finance will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 100000,
-    "sourceLinesOfCode": 4958,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "5tYwzjVKC6BoGb4JRQRm1n",
-    "id": "shardeum-ancillaries-boost",
-    "project": "Boost | Shardeum: Ancillaries",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1m6RmtetyAanvdJtFgER1S/2dd905210d46dcb763551541b3636dc7/Shardeum_Logo_Icon_Light_-_Square__1_.png",
-    "date": "2024-07-08T06:00:00.000Z",
-    "launchDate": "2024-07-08T06:00:00.000Z",
-    "endDate": "2024-08-14T06:00:00.000Z",
-    "updatedDate": "2024-07-19T23:17:54.568Z",
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Shardeum"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "Rust",
-        "Typescript"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
-    },
-    "evaluationEndDate": "2024-08-28T06:00:00.000Z",
-    "boostedIntroStartingIn": "$200,000 USD in rewards is available for finding bugs on Shardeum Ancillaries, which will only cover the Web2 aspects of the project. 
-
-No KYC is required.
-
-Shardeum will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-In a few days after the launch, Shardeum will give a live technical walkthrough, hosted in the Immunefi Discord.
-
-Join our Discord for more updates.",
-    "boostedIntroLive": "$200,000 USD is available in rewards for finding bugs in Shardeum's codebase of about 55000 nSLOC. There is no KYC required.
-
-Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
-
-In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 200000,
-    "sourceLinesOfCode": 55472,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "2F2vr66ddqM5W8gNaOVw1H",
     "id": "shardeum-core-boost",
     "project": "Boost | Shardeum: Core",
@@ -137,7 +8,8 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-07-08T06:00:00.000Z",
     "launchDate": "2024-07-08T06:00:00.000Z",
     "endDate": "2024-08-14T06:00:00.000Z",
-    "updatedDate": "2024-07-19T23:17:46.223Z",
+    "updatedDate": "2024-08-07T15:16:06.490Z",
+    "kyc": false,
     "technologies": [
       "Blockchain/DLT"
     ],
@@ -160,7 +32,8 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-08-28T06:00:00.000Z",
@@ -198,6 +71,78 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
+    "contentfulId": "5tYwzjVKC6BoGb4JRQRm1n",
+    "id": "shardeum-ancillaries-boost",
+    "project": "Boost | Shardeum: Ancillaries",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1m6RmtetyAanvdJtFgER1S/2dd905210d46dcb763551541b3636dc7/Shardeum_Logo_Icon_Light_-_Square__1_.png",
+    "date": "2024-07-08T06:00:00.000Z",
+    "launchDate": "2024-07-08T06:00:00.000Z",
+    "endDate": "2024-08-14T06:00:00.000Z",
+    "updatedDate": "2024-07-19T23:17:54.568Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": [
+        "Services"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Rust",
+        "Typescript"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard",
+        "KYC Not Required"
+      ]
+    },
+    "evaluationEndDate": "2024-08-28T06:00:00.000Z",
+    "boostedIntroStartingIn": "$200,000 USD in rewards is available for finding bugs on Shardeum Ancillaries, which will only cover the Web2 aspects of the project. 
+
+No KYC is required.
+
+Shardeum will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+In a few days after the launch, Shardeum will give a live technical walkthrough, hosted in the Immunefi Discord.
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "$200,000 USD is available in rewards for finding bugs in Shardeum's codebase of about 55000 nSLOC. There is no KYC required.
+
+Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
+
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 200000,
+    "sourceLinesOfCode": 55472,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "6ATHaXQVlw2wErspXGIB5O",
     "id": "boost-idex",
     "project": "Boost | IDEX",
@@ -206,7 +151,8 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-07-30T08:00:00.000Z",
     "launchDate": "2024-07-30T08:00:00.000Z",
     "endDate": "2024-08-16T08:00:00.000Z",
-    "updatedDate": "2024-07-30T08:03:53.577Z",
+    "updatedDate": "2024-08-07T10:16:53.364Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -225,7 +171,8 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": null,
@@ -270,6 +217,7 @@ On Aug 1sth, IDEX will give a live technical walkthrough, hosted in the Immunefi
     "launchDate": "2024-07-10T17:00:00.000Z",
     "endDate": "2024-08-21T08:00:00.000Z",
     "updatedDate": "2024-07-25T10:25:57.216Z",
+    "kyc": true,
     "technologies": [
       "Blockchain/DLT"
     ],
@@ -339,6 +287,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "launchDate": "2024-06-17T08:00:00.000Z",
     "endDate": "2024-07-22T08:00:00.000Z",
     "updatedDate": "2024-07-11T05:32:09.917Z",
+    "kyc": true,
     "technologies": [
       "Smart Contract",
       "Websites and Applications",
@@ -416,6 +365,67 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "premiumTriaging": true
   },
   {
+    "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
+    "id": "folksfinance-boost",
+    "project": "Boost | Folks Finance",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6J3xxAowY0ZlOFTEciL88K/752c37cc0e37232a1f9075df7609c79c/Folks_Finance_logo.png",
+    "date": "2024-07-16T08:00:00.000Z",
+    "launchDate": "2024-07-16T08:00:00.000Z",
+    "endDate": "2024-08-06T08:00:00.000Z",
+    "updatedDate": "2024-07-24T10:57:57.118Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "productType": null,
+      "projectType": null,
+      "ecosystem": null,
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi",
+        "Immunefi Standard",
+        "KYC Not Required"
+      ]
+    },
+    "evaluationEndDate": "2024-08-30T10:30:00.000Z",
+    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Folks Finance.
+
+Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.
+
+Folks Finance are expanding with a new cross-chain lending protocol using a hub and spoke model. The hub chain, Avalanche, contains the main logic and state of the lending protocol. The spoke chains, initially EVM, act as an entry point for a user to interact with the protocol.
+
+No KYC is required.
+
+Folks Finance will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"folks-finance-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+On July 18th, Folks Finance will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 4958,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "u1OczdWGvxTyCRUAHOD0D",
     "id": "ionic-iop",
     "project": "IOP | Ionic",
@@ -424,7 +434,8 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "date": "2024-06-12T08:00:00.000Z",
     "launchDate": "2024-06-12T08:00:00.000Z",
     "endDate": "2024-06-19T10:00:00.000Z",
-    "updatedDate": "2024-07-01T10:49:47.566Z",
+    "updatedDate": "2024-08-06T15:04:43.931Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
@@ -448,18 +459,19 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-07-10T10:00:00.000Z",
     "boostedIntroStartingIn": "",
     "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1znrFLe3aSsxa0gByFECpyo4srTjgFxc6).",
     "rewardsToken": "USDC",
     "rewardsPool": 4000,
     "sourceLinesOfCode": 1000,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1AEDhJRGHsuRGPCqxff0wypEkOQma7SEb/view?usp=sharing",
     "inviteOnly": true,
     "hideAssetsInScope": true,
     "boostedLeaderboard": null,
@@ -479,6 +491,7 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "launchDate": "2024-04-30T10:30:00.000Z",
     "endDate": "2024-05-21T10:30:00.000Z",
     "updatedDate": "2024-07-08T16:09:51.948Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
@@ -493,7 +506,8 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
       "language": null,
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-06-29T12:00:00.000Z",
@@ -540,6 +554,7 @@ All paid bug reports are available in original format [here](https://github.com/
     "launchDate": "2024-04-16T18:00:00.000Z",
     "endDate": "2024-05-07T21:00:00.000Z",
     "updatedDate": "2024-05-23T13:44:09.587Z",
+    "kyc": true,
     "technologies": [
       "Smart Contract"
     ],
@@ -585,6 +600,7 @@ All paid bug reports are available in original format [here](https://github.com/
     "launchDate": "2024-03-12T08:00:00.000Z",
     "endDate": "2024-04-02T08:00:00.000Z",
     "updatedDate": "2024-05-30T09:59:48.378Z",
+    "kyc": true,
     "technologies": [
       "Smart Contract"
     ],
@@ -652,6 +668,7 @@ All paid bug reports are available in original format [here](https://github.com/
     "launchDate": "2024-02-29T08:00:00.000Z",
     "endDate": "2024-03-14T08:00:00.000Z",
     "updatedDate": "2024-05-30T09:54:26.333Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
@@ -675,7 +692,8 @@ All paid bug reports are available in original format [here](https://github.com/
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-05-03T08:00:00.000Z",
@@ -728,6 +746,7 @@ All paid bug reports are available in original format [here](https://github.com/
     "launchDate": "2024-02-22T08:00:00.000Z",
     "endDate": "2024-03-07T08:00:00.000Z",
     "updatedDate": "2024-05-30T09:53:00.719Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
@@ -750,7 +769,8 @@ All paid bug reports are available in original format [here](https://github.com/
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-04-15T08:00:00.000Z",
@@ -802,6 +822,7 @@ All paid bug reports are available in original format [here](https://github.com/
     "launchDate": "2024-02-19T08:00:00.000Z",
     "endDate": "2024-03-04T08:00:00.000Z",
     "updatedDate": "2024-05-30T10:01:55.260Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
@@ -826,7 +847,8 @@ All paid bug reports are available in original format [here](https://github.com/
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-04-09T20:00:00.000Z",
@@ -873,6 +895,7 @@ All paid bug reports are available in original format [here](https://github.com/
     "launchDate": "2023-11-20T16:00:00.000Z",
     "endDate": "2023-12-04T09:00:00.000Z",
     "updatedDate": "2024-05-30T10:04:30.544Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
@@ -900,7 +923,8 @@ All paid bug reports are available in original format [here](https://github.com/
       ],
       "general": [
         "Triaged by Immunefi",
-        "Immunefi Standard"
+        "Immunefi Standard",
+        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2023-12-21T09:00:00.000Z",
