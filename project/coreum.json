@@ -124,6 +124,12 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
         "productType": [
           "L1",
           "Wallet"
@@ -131,7 +137,7 @@
         "projectType": [
           "Blockchain"
         ],
-        "ecosystem": null,
+        "ecosystem": [],
         "programType": [
           "Blockchain/DLT"
         ],

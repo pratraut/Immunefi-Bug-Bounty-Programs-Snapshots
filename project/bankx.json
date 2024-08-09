@@ -160,6 +160,11 @@
       "impactsBody": "The scope is focused solely on any exploit that results in loss in either of the liquidity pools or the collateral pool.  Contracts are on the BSC chain only.",
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
         "productType": [
           "Stablecoin",
           "Staking"

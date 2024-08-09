@@ -15,6 +15,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "L1"
       ],
@@ -29,11 +36,6 @@
       ],
       "language": [
         "Typescript"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-08-28T06:00:00.000Z",
@@ -86,6 +88,12 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Services"
       ],
@@ -101,11 +109,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       "language": [
         "Rust",
         "Typescript"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-08-28T06:00:00.000Z",
@@ -159,20 +162,22 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": null,
@@ -223,6 +228,12 @@ On Aug 1sth, IDEX will give a live technical walkthrough, hosted in the Immunefi
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Validator"
       ],
@@ -237,10 +248,6 @@ On Aug 1sth, IDEX will give a live technical walkthrough, hosted in the Immunefi
       ],
       "language": [
         "C/C++"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "evaluationEndDate": "2024-08-14T08:00:00.000Z",
@@ -295,6 +302,13 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
       "productType": [
         "L2"
       ],
@@ -312,11 +326,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
       "language": [
         "Sway",
         "Rust"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults"
       ]
     },
     "evaluationEndDate": "2024-08-12T08:00:00.000Z",
@@ -380,19 +389,21 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-08-30T10:30:00.000Z",
@@ -441,6 +452,12 @@ On July 18th, Folks Finance will give a live technical walkthrough, hosted in th
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Lending"
       ],
@@ -456,11 +473,6 @@ On July 18th, Folks Finance will give a live technical walkthrough, hosted in th
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-07-10T10:00:00.000Z",
@@ -497,18 +509,20 @@ On July 18th, Folks Finance will give a live technical walkthrough, hosted in th
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "evaluationEndDate": "2024-06-29T12:00:00.000Z",
     "boostedIntroStartingIn": "$125,000 USD in rewards is available for finding bugs on Alchemix, specifically vote-escrowed ALCX (veALCX). Their brand new assets will be in-scope.
@@ -560,17 +574,19 @@ All paid bug reports are available in original format [here](https://github.com/
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "evaluationEndDate": "2024-05-21T21:00:00.000Z",
     "boostedIntroStartingIn": "",
@@ -606,17 +622,19 @@ All paid bug reports are available in original format [here](https://github.com/
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "evaluationEndDate": "2024-05-03T08:00:00.000Z",
     "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
@@ -674,6 +692,13 @@ All paid bug reports are available in original format [here](https://github.com/
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Lending"
       ],
@@ -689,11 +714,6 @@ All paid bug reports are available in original format [here](https://github.com/
       "language": [
         "Solidity",
         "JavaScript"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-05-03T08:00:00.000Z",
@@ -752,6 +772,13 @@ All paid bug reports are available in original format [here](https://github.com/
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Staking"
       ],
@@ -766,11 +793,6 @@ All paid bug reports are available in original format [here](https://github.com/
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-04-15T08:00:00.000Z",
@@ -828,6 +850,13 @@ All paid bug reports are available in original format [here](https://github.com/
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Lending",
         "Synthetic Assets"
@@ -844,11 +873,6 @@ All paid bug reports are available in original format [here](https://github.com/
       "language": [
         "Solidity",
         "JavaScript"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2024-04-09T20:00:00.000Z",
@@ -901,6 +925,12 @@ All paid bug reports are available in original format [here](https://github.com/
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Asset Management",
         "DEX",
@@ -920,11 +950,6 @@ All paid bug reports are available in original format [here](https://github.com/
         "C/C++",
         "Go",
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "evaluationEndDate": "2023-12-21T09:00:00.000Z",

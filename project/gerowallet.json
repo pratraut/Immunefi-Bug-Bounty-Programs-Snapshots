@@ -95,6 +95,11 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
         "productType": [
           "Wallet"
         ],
@@ -107,7 +112,7 @@
         "programType": [
           "Websites and Applications"
         ],
-        "language": null
+        "language": []
       },
       "legacy": {
         "technologies": [

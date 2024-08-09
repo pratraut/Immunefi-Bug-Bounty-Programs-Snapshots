@@ -15,6 +15,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity"
@@ -71,10 +77,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": true
@@ -96,6 +98,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "CDP",
         "Lending",
@@ -113,11 +121,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -139,6 +142,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Lending"
       ],
@@ -152,12 +162,7 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": true
   },
@@ -177,6 +182,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Stablecoin",
         "Synthetic Assets",
@@ -195,9 +205,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -219,6 +226,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity"
       ],
@@ -272,9 +284,6 @@
         "Python",
         "Rust",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -296,6 +305,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -315,11 +330,6 @@
         "JavaScript",
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -340,6 +350,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking",
         "Token"
@@ -355,9 +370,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -379,6 +391,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "Token"
@@ -401,10 +418,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -426,19 +439,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults"
-      ]
+      "language": []
     },
     "premiumTriaging": true
   },
@@ -459,6 +475,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Oracle"
       ],
@@ -488,9 +510,6 @@
         "Rust",
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -512,6 +531,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Lending"
       ],
@@ -527,10 +552,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": true
@@ -552,6 +573,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -576,9 +602,6 @@
       "language": [
         "NextJS",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -601,6 +624,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Vaults"
+      ],
       "productType": [
         "Services",
         "Staking"
@@ -624,10 +653,6 @@
         "Rust",
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults"
       ]
     },
     "premiumTriaging": false
@@ -650,6 +675,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L2",
         "Zero-Knowledge Proofs"
@@ -668,9 +698,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -692,6 +719,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -730,9 +762,6 @@
         "Go",
         "Rust",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -754,6 +783,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1",
         "L2"
@@ -774,9 +808,6 @@
         "C/C++",
         "Go",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -797,6 +828,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -819,10 +855,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -844,6 +876,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Restaking"
       ],
@@ -860,10 +898,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -884,6 +918,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking",
         "Token"
@@ -901,10 +940,6 @@
       "language": [
         "JavaScript",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -926,6 +961,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Liquid Staking"
       ],
@@ -941,10 +981,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -965,6 +1001,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Launchpad",
         "Services"
@@ -980,9 +1021,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1003,6 +1041,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "L1"
@@ -1019,10 +1062,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -1044,6 +1083,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "L1",
@@ -1072,9 +1116,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1095,6 +1136,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L2"
       ],
@@ -1110,9 +1156,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1134,6 +1177,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "Liquid Staking",
@@ -1152,10 +1200,6 @@
       "language": [
         "Solidity",
         "Vyper"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -1176,6 +1220,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Asset Management",
         "DAO",
@@ -1192,9 +1242,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1216,6 +1263,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "DEX"
       ],
@@ -1233,10 +1286,6 @@
       "language": [
         "C/C++",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -1259,6 +1308,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "L2"
       ],
@@ -1277,9 +1332,6 @@
       "language": [
         "Solidity",
         "Yul"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1301,6 +1353,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
       "productType": [
         "DAO",
         "DEX",
@@ -1320,12 +1379,6 @@
       "language": [
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -1347,6 +1400,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "DEX"
       ],
@@ -1365,11 +1425,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -1391,6 +1446,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1"
       ],
@@ -1407,9 +1467,6 @@
       "language": [
         "Go",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1430,6 +1487,14 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
       "productType": [
         "Asset Management",
         "Wallet"
@@ -1437,17 +1502,11 @@
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": true
   },
@@ -1468,6 +1527,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "DEX Aggregator"
       ],
@@ -1488,9 +1553,6 @@
       "language": [
         "Solidity",
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1511,6 +1573,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Asset Management",
         "DAO",
@@ -1529,9 +1597,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1553,6 +1618,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
       "productType": [
         "Bridge",
         "L2"
@@ -1572,10 +1644,6 @@
       "language": [
         "Go",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults"
       ]
     },
     "premiumTriaging": false
@@ -1596,6 +1664,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
       "productType": [
         "Staking"
       ],
@@ -1610,10 +1685,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults"
       ]
     },
     "premiumTriaging": false
@@ -1634,6 +1705,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -1649,9 +1725,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1672,6 +1745,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Staking"
       ],
@@ -1686,10 +1765,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -1711,6 +1786,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "DEX",
         "Perpetuals"
@@ -1727,10 +1808,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": true
@@ -1752,6 +1829,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Lending",
         "Stablecoin",
@@ -1770,10 +1853,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -1795,6 +1874,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Bridge",
         "L1",
@@ -1816,9 +1901,6 @@
         "C/C++",
         "Go",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1840,6 +1922,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -1858,10 +1945,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -1884,6 +1967,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "L2",
@@ -1907,9 +1995,6 @@
         "Go",
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1931,6 +2016,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L2"
       ],
@@ -1947,9 +2037,6 @@
       "language": [
         "Cairo",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -1970,6 +2057,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Stablecoin",
@@ -1987,10 +2079,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2011,6 +2099,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Staking",
@@ -2027,10 +2120,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2051,6 +2140,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "DAO"
@@ -2069,9 +2163,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2092,6 +2183,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -2109,10 +2205,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2134,6 +2226,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -2151,10 +2248,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2176,6 +2269,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -2197,10 +2295,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2222,6 +2316,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DAO",
@@ -2241,10 +2340,6 @@
       ],
       "language": [
         "C#"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2266,6 +2361,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1"
       ],
@@ -2281,9 +2381,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2305,6 +2402,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Stablecoin"
       ],
@@ -2321,10 +2424,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2346,6 +2445,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "L2"
       ],
@@ -2362,9 +2467,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2386,6 +2488,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -2404,10 +2511,6 @@
       "language": [
         "Move",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2429,6 +2532,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Staking"
@@ -2445,9 +2552,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2468,6 +2572,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -2483,9 +2592,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2506,6 +2612,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -2520,10 +2631,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2544,6 +2651,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM"
       ],
@@ -2558,10 +2670,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2584,6 +2692,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "L2"
       ],
@@ -2600,10 +2714,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": true
@@ -2624,17 +2734,20 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "Vaults"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -2655,6 +2768,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Liquid Restaking",
@@ -2673,8 +2790,7 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": []
+      ]
     },
     "premiumTriaging": false
   },
@@ -2695,6 +2811,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Bridge",
         "L1",
@@ -2713,9 +2835,6 @@
       "language": [
         "Go",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2736,22 +2855,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2772,6 +2892,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Derivatives"
       ],
@@ -2786,9 +2912,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2809,6 +2932,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Bridge",
@@ -2828,9 +2956,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2851,8 +2976,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [],
       "ecosystem": [
         "ETH"
       ],
@@ -2861,10 +2991,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2886,6 +3012,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Perpetuals",
         "Derivatives"
@@ -2903,9 +3034,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -2927,6 +3055,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Currency",
@@ -2951,10 +3084,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -2975,6 +3104,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Stablecoin"
@@ -2991,10 +3125,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3016,6 +3146,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX"
       ],
@@ -3031,9 +3166,6 @@
       ],
       "language": [
         "Move"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -3055,7 +3187,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [],
       "projectType": [
         "Infrastructure"
       ],
@@ -3071,10 +3208,6 @@
       "language": [
         "JavaScript",
         "Vyper"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3096,6 +3229,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Gaming"
       ],
@@ -3113,9 +3251,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -3136,6 +3271,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Crosschain Liquidity"
@@ -3151,10 +3291,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3175,6 +3311,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -3192,9 +3332,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3215,6 +3352,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -3230,9 +3372,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -3253,6 +3392,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -3270,9 +3413,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3293,6 +3433,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Stablecoin",
         "Staking"
@@ -3310,10 +3455,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3334,6 +3475,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "Lending",
@@ -3351,10 +3497,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3375,6 +3517,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "Oracle",
@@ -3391,9 +3538,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -3414,6 +3558,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services",
         "Staking"
@@ -3429,10 +3578,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3454,6 +3599,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1",
         "L2",
@@ -3476,10 +3626,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3501,6 +3647,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Staking"
@@ -3518,10 +3669,6 @@
       "language": [
         "NextJS",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3542,6 +3689,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -3557,10 +3709,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3582,6 +3730,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Lending",
@@ -3600,10 +3753,6 @@
       "language": [
         "ReactJS",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3624,6 +3773,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "DEX"
       ],
@@ -3640,8 +3793,7 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": []
+      ]
     },
     "premiumTriaging": false
   },
@@ -3662,6 +3814,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Lending",
@@ -3683,10 +3840,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3707,6 +3860,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Asset Management",
         "DAO",
@@ -3726,11 +3885,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -3752,6 +3906,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "DEX",
@@ -3775,10 +3934,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3799,6 +3954,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management"
       ],
@@ -3814,10 +3974,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3839,6 +3995,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management"
       ],
@@ -3854,10 +4015,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3878,6 +4035,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
       "productType": [
         "DAO",
         "Synthetic Assets",
@@ -3896,12 +4060,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -3923,6 +4081,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -3940,10 +4103,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -3964,6 +4123,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Derivatives",
         "Yield Aggregator"
@@ -3982,10 +4146,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4007,21 +4167,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Liquid Restaking"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -4043,13 +4205,18 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1"
       ],
       "projectType": [
         "Infrastructure"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT",
         "Smart Contract",
@@ -4057,10 +4224,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4081,20 +4244,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Oracle"
       ],
       "projectType": [
         "Infrastructure"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -4115,6 +4280,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
       "productType": [
         "Services"
       ],
@@ -4131,11 +4303,6 @@
       "language": [
         "Solidity",
         "NextJS"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4157,20 +4324,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Asset Management"
       ],
-      "projectType": null,
-      "ecosystem": null,
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -4190,6 +4359,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -4204,10 +4378,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4228,22 +4398,24 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1"
       ],
       "projectType": [
         "Blockchain"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT"
       ],
       "language": [
         "C/C++",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -4265,6 +4437,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Perpetuals",
@@ -4287,10 +4465,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4311,6 +4485,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Derivatives"
       ],
@@ -4325,10 +4504,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4350,6 +4525,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Liquid Staking",
@@ -4367,10 +4547,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4391,6 +4567,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Yield Aggregator"
       ],
@@ -4405,9 +4586,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -4428,20 +4606,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -4462,6 +4642,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "Token"
@@ -4480,9 +4665,6 @@
       "language": [
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -4503,6 +4685,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -4519,10 +4706,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4543,6 +4726,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -4560,10 +4748,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4585,6 +4769,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "L2",
@@ -4606,9 +4795,6 @@
         "Rust",
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -4630,6 +4816,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Vaults"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -4646,11 +4838,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4671,6 +4858,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Staking"
@@ -4687,10 +4879,6 @@
       "language": [
         "JavaScript",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4712,6 +4900,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Staking"
@@ -4731,9 +4924,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -4754,6 +4944,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Liquid Staking"
       ],
@@ -4768,10 +4963,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4794,6 +4985,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -4814,9 +5010,6 @@
         "Haskell",
         "JavaScript",
         "Pact"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -4837,6 +5030,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -4851,10 +5049,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4875,6 +5069,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Staking",
@@ -4892,9 +5091,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -4916,6 +5112,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Liquid Staking",
@@ -4934,10 +5135,6 @@
       "language": [
         "NextJS",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -4958,6 +5155,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "Derivatives"
@@ -4976,10 +5178,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5000,6 +5198,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Options",
         "Perpetuals"
@@ -5016,10 +5219,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5041,6 +5240,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -5058,10 +5262,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5083,6 +5283,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Derivatives",
         "Options",
@@ -5100,9 +5304,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5124,24 +5325,26 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Yield Aggregator"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -5163,19 +5366,21 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": true
   },
@@ -5196,6 +5401,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Yield Aggregator",
         "Liquid Restaking"
@@ -5213,10 +5425,6 @@
       "language": [
         "Solidity",
         "NextJS"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": true
@@ -5237,6 +5445,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Yield Aggregator"
@@ -5258,9 +5472,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -5282,6 +5493,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -5304,11 +5522,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -5329,6 +5542,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "Staking",
@@ -5346,10 +5564,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5370,6 +5584,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX"
       ],
@@ -5382,10 +5601,7 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -5405,7 +5621,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [],
       "projectType": [
         "Defi"
       ],
@@ -5417,10 +5638,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5441,6 +5658,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "DAO",
@@ -5457,10 +5679,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5482,6 +5700,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -5501,10 +5724,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5527,6 +5746,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "L1",
@@ -5548,9 +5772,6 @@
       "language": [
         "NextJS",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -5571,6 +5792,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Gaming",
         "Staking",
@@ -5589,9 +5815,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -5613,6 +5836,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking",
         "Yield Aggregator"
@@ -5630,10 +5858,6 @@
       ],
       "language": [
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5654,6 +5878,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -5669,9 +5898,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -5692,6 +5918,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Options",
         "Perpetuals"
@@ -5707,10 +5939,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5731,6 +5959,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -5754,10 +5987,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5779,6 +6008,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -5803,9 +6037,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -5826,6 +6057,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Yield Aggregator"
       ],
@@ -5840,10 +6076,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5864,6 +6096,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Bridge",
@@ -5885,10 +6122,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5909,6 +6142,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Lending",
         "Yield Aggregator"
@@ -5928,10 +6166,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5953,6 +6187,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Yield Aggregator"
@@ -5970,10 +6209,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -5994,6 +6229,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -6024,9 +6263,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6047,6 +6283,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management"
       ],
@@ -6061,9 +6302,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -6084,6 +6322,14 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
       "productType": [
         "AMM",
         "L2"
@@ -6101,12 +6347,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -6127,6 +6367,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
       "productType": [
         "Asset Management",
         "DAO",
@@ -6143,11 +6390,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6168,6 +6410,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1"
       ],
@@ -6183,9 +6430,6 @@
       "language": [
         "Go",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -6206,6 +6450,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Services",
         "Yield Aggregator"
@@ -6225,10 +6474,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6249,6 +6494,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Wallet"
       ],
@@ -6267,10 +6517,6 @@
       ],
       "language": [
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6291,6 +6537,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Yield Aggregator"
       ],
@@ -6303,11 +6554,7 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -6327,6 +6574,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Lending"
       ],
@@ -6341,11 +6594,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -6367,19 +6615,21 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6393,7 +6643,7 @@
     "date": "2024-06-03T02:44:00.000Z",
     "launchDate": "2024-06-03T02:44:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-04T15:17:13.653Z",
+    "updatedDate": "2024-08-08T09:00:34.132Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6401,23 +6651,24 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Stablecoin"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
         "Clarity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6439,6 +6690,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Derivatives",
         "Lending"
@@ -6458,9 +6715,6 @@
       "language": [
         "Solidity",
         "NextJS"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -6482,6 +6736,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
       "productType": [
         "DEX",
         "Liquid Staking"
@@ -6500,11 +6761,6 @@
       "language": [
         "Clarity",
         "NextJS"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6525,20 +6781,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "Staking"
       ],
-      "projectType": null,
-      "ecosystem": null,
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": true
   },
@@ -6559,24 +6817,26 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
       "productType": [
         "Lending"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
         "Clarity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6598,6 +6858,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Derivatives"
       ],
@@ -6613,10 +6878,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6638,19 +6899,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [],
       "projectType": [
         "Blockchain"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -6670,21 +6934,24 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Staking"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -6706,6 +6973,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Vaults"
+      ],
       "productType": [
         "DEX",
         "Bug bounty",
@@ -6724,11 +6998,6 @@
       ],
       "language": [
         "Clarity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6749,21 +7018,24 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "DEX"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Move"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -6785,17 +7057,19 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT",
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -6815,6 +7089,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "Services"
@@ -6831,10 +7110,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6856,6 +7131,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "DEX",
@@ -6876,9 +7157,6 @@
       "language": [
         "Python",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -6900,6 +7178,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Currency"
       ],
@@ -6915,10 +7198,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -6939,6 +7218,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Insurance"
       ],
@@ -6953,9 +7237,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -6976,6 +7257,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Lending",
         "Yield Aggregator"
@@ -6991,10 +7278,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7016,6 +7299,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Stablecoin"
       ],
@@ -7032,9 +7321,6 @@
       "language": [
         "Solidity",
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7056,6 +7342,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Services"
       ],
@@ -7071,9 +7363,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7094,6 +7383,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "L2"
       ],
@@ -7109,9 +7404,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7132,6 +7424,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -7149,9 +7447,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7172,6 +7467,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "DAO",
         "Services"
@@ -7190,9 +7491,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7213,6 +7511,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -7232,10 +7536,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7258,6 +7558,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "L1",
         "Liquid Restaking",
@@ -7279,10 +7585,6 @@
       "language": [
         "Go",
         "NextJS"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7303,6 +7605,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "AMM",
         "Asset Management",
@@ -7323,10 +7631,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7348,6 +7652,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1",
         "Wallet"
@@ -7355,7 +7664,7 @@
       "projectType": [
         "Blockchain"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT",
         "Websites and Applications"
@@ -7363,9 +7672,6 @@
       "language": [
         "JavaScript",
         "Python"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7387,6 +7693,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Synthetic Assets",
         "Yield Aggregator"
@@ -7404,10 +7715,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7428,6 +7735,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "L1",
@@ -7446,10 +7758,6 @@
       "language": [
         "Go",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7471,6 +7779,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Yield Aggregator",
         "Derivatives"
@@ -7487,10 +7800,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7511,6 +7820,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -7525,9 +7839,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7548,6 +7859,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -7564,9 +7880,6 @@
       ],
       "language": [
         "Go"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7588,6 +7901,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L2",
         "Yield Aggregator"
@@ -7607,10 +7925,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7632,6 +7946,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Lending"
@@ -7648,10 +7967,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7672,6 +7987,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Bridge",
@@ -7693,10 +8013,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7717,6 +8033,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM"
       ],
@@ -7732,10 +8053,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7757,6 +8074,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Gaming",
         "Staking"
@@ -7775,10 +8097,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7800,6 +8118,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -7821,10 +8144,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7846,6 +8165,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "AMM"
@@ -7860,11 +8184,7 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -7885,6 +8205,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Perpetuals"
@@ -7902,10 +8227,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -7927,6 +8248,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1"
       ],
@@ -7945,9 +8271,6 @@
         "Rust",
         "Bitcoin Script",
         "Clarity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -7968,6 +8291,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -7983,9 +8311,6 @@
       ],
       "language": [
         "Python"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -8007,6 +8332,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Stablecoin"
@@ -8024,10 +8354,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8048,6 +8374,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Derivatives",
         "Options"
@@ -8063,10 +8394,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8088,6 +8415,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "L2",
@@ -8111,9 +8443,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -8134,6 +8463,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -8147,11 +8481,7 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -8171,6 +8501,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "CEX",
@@ -8193,10 +8528,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8217,21 +8548,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "L2"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -8251,6 +8583,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "DEX",
@@ -8270,9 +8607,6 @@
       "language": [
         "Clarity",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -8293,6 +8627,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Bridge",
@@ -8311,10 +8650,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8335,6 +8670,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "Insurance",
@@ -8351,10 +8691,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8375,6 +8711,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Lending",
@@ -8391,10 +8732,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8416,6 +8753,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Launchpad",
         "Staking"
@@ -8438,9 +8780,6 @@
       "language": [
         "NextJS",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -8461,6 +8800,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Yield Aggregator"
@@ -8481,10 +8825,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8505,6 +8845,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -8528,10 +8873,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8552,6 +8893,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -8566,9 +8912,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -8589,6 +8932,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -8603,10 +8951,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8628,6 +8972,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "Liquid Staking"
@@ -8650,10 +8999,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8674,6 +9019,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "Bridge",
@@ -8705,10 +9055,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8730,6 +9076,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Yield Aggregator"
       ],
@@ -8746,10 +9097,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8771,6 +9118,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -8790,10 +9142,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8815,6 +9163,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "DEX",
@@ -8836,10 +9189,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8860,6 +9209,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "Options"
@@ -8877,10 +9231,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8902,6 +9252,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L2",
         "Yield Aggregator"
@@ -8922,10 +9277,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8946,6 +9297,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "DEX",
         "Launchpad",
@@ -8964,10 +9320,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -8989,7 +9341,11 @@
     ],
     "immunefiStandard": null,
     "tags": {
-      "productType": null,
+      "general": [
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
       "projectType": [
         "NFT"
       ],
@@ -9002,8 +9358,7 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": []
+      ]
     },
     "premiumTriaging": false
   },
@@ -9025,6 +9380,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services",
         "Staking"
@@ -9045,9 +9405,6 @@
       "language": [
         "Go",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -9068,6 +9425,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Wallet"
       ],
@@ -9087,10 +9449,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9111,22 +9469,25 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "L2"
       ],
       "projectType": [
         "Blockchain"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT"
       ],
       "language": [
         "C/C++",
         "Java"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -9147,7 +9508,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
       "projectType": [
         "Defi"
       ],
@@ -9159,9 +9525,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -9183,6 +9546,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Yield Aggregator"
       ],
@@ -9198,10 +9566,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9223,6 +9587,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Vaults"
+      ],
       "productType": [
         "DAO",
         "Lending",
@@ -9245,11 +9615,6 @@
       "language": [
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9270,6 +9635,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Wallet"
       ],
@@ -9284,10 +9654,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9308,6 +9674,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management"
       ],
@@ -9320,11 +9691,7 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -9344,20 +9711,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -9378,25 +9747,27 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
       "productType": [
         "Gaming"
       ],
       "projectType": [
         "NFT"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": true
@@ -9417,6 +9788,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Launchpad",
@@ -9434,10 +9810,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9459,22 +9831,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -9494,21 +9867,22 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -9528,6 +9902,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "DEX",
         "Perpetuals"
@@ -9543,10 +9923,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9567,6 +9943,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "AMM",
         "Derivatives",
@@ -9594,10 +9976,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9618,6 +9996,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Oracle"
       ],
@@ -9632,9 +10016,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -9655,6 +10036,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Derivatives",
         "Liquid Staking"
@@ -9670,10 +10057,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9694,6 +10077,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Bridge",
         "L1",
@@ -9711,10 +10100,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9735,6 +10120,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Lending"
       ],
@@ -9750,10 +10141,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9774,7 +10161,13 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [],
       "projectType": [
         "Infrastructure"
       ],
@@ -9787,9 +10180,6 @@
       "language": [
         "Solidity",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -9811,6 +10201,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Gaming",
         "Wallet"
@@ -9830,8 +10224,7 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": []
+      ]
     },
     "premiumTriaging": false
   },
@@ -9853,6 +10246,11 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Token",
         "Yield Aggregator"
@@ -9874,8 +10272,7 @@
         "Go",
         "Rust",
         "Solidity"
-      ],
-      "general": []
+      ]
     },
     "premiumTriaging": false
   },
@@ -9895,6 +10292,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX"
       ],
@@ -9912,10 +10314,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -9936,6 +10334,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -9948,11 +10351,7 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -9972,6 +10371,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Yield Aggregator"
@@ -9988,10 +10392,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10013,6 +10413,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "NFT Marketplace"
       ],
@@ -10033,10 +10438,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10057,6 +10458,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Liquid Staking"
@@ -10072,10 +10478,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10097,6 +10499,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity"
       ],
@@ -10113,9 +10520,6 @@
       "language": [
         "Rust",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -10136,6 +10540,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "L2"
@@ -10153,10 +10562,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10177,6 +10582,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -10192,10 +10602,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10216,6 +10622,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Stablecoin"
       ],
@@ -10229,10 +10640,7 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -10252,6 +10660,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Currency",
         "L1"
@@ -10267,9 +10680,6 @@
       ],
       "language": [
         "C/C++"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -10290,6 +10700,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -10305,9 +10720,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -10328,6 +10740,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -10342,10 +10759,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10366,6 +10779,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Asset Management"
       ],
@@ -10380,10 +10798,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10405,6 +10819,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Staking"
@@ -10422,10 +10841,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10446,6 +10861,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Liquid Staking"
@@ -10462,10 +10882,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10486,6 +10902,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "Options",
@@ -10502,10 +10923,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10526,6 +10943,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Stablecoin"
       ],
@@ -10540,10 +10962,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10565,6 +10983,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -10581,9 +11004,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -10604,6 +11024,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Yield Aggregator"
       ],
@@ -10618,9 +11042,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10641,6 +11062,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Insurance"
       ],
@@ -10655,10 +11082,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10680,6 +11103,14 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
       "productType": [
         "Bug bounty"
       ],
@@ -10696,11 +11127,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard",
-        "Vaults"
       ]
     },
     "premiumTriaging": true
@@ -10723,6 +11149,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1",
         "Wallet"
@@ -10740,10 +11171,6 @@
       ],
       "language": [
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10764,6 +11191,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DEX",
@@ -10783,10 +11215,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10807,6 +11235,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Derivatives"
@@ -10823,10 +11256,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -10847,6 +11276,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX Aggregator",
         "Staking"
@@ -10866,11 +11300,7 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -10890,6 +11320,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -10905,9 +11340,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -10929,6 +11361,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Staking"
       ],
@@ -10944,9 +11382,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -10967,21 +11402,24 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Insurance Aggregator"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11002,6 +11440,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "AMM",
         "Crosschain Liquidity",
@@ -11013,15 +11457,12 @@
         "Defi",
         "Blockchain"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT"
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11042,6 +11483,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "DAO",
@@ -11058,10 +11504,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11083,6 +11525,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DAO",
         "DEX"
@@ -11099,10 +11546,6 @@
       ],
       "language": [
         "Pact"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11124,6 +11567,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "L2"
@@ -11143,10 +11591,6 @@
       "language": [
         "Rust",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11168,6 +11612,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "DEX",
@@ -11185,9 +11634,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11209,6 +11655,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX",
         "Bug bounty",
@@ -11228,10 +11679,6 @@
       "language": [
         "Haskell",
         "Plutus"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11252,6 +11699,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "L1",
         "Wallet"
@@ -11259,17 +11712,13 @@
       "projectType": [
         "Blockchain"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT"
       ],
       "language": [
         "Go",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11290,6 +11739,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "DEX Aggregator"
@@ -11306,10 +11761,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11330,6 +11781,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Lending",
         "NFT Marketplace",
@@ -11349,10 +11806,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11373,6 +11826,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Yield Aggregator",
@@ -11390,10 +11848,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11414,12 +11868,17 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Bridge",
         "Launchpad"
       ],
-      "projectType": null,
+      "projectType": [],
       "ecosystem": [
         "ETH"
       ],
@@ -11428,10 +11887,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11452,6 +11907,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1",
         "Services"
@@ -11468,9 +11928,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11491,6 +11948,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Asset Management"
       ],
@@ -11509,10 +11971,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11534,6 +11992,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity",
@@ -11561,9 +12024,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11584,6 +12044,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -11599,10 +12064,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11623,6 +12084,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -11631,15 +12097,12 @@
         "Exchange",
         "NFT"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11661,6 +12124,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Crosschain Liquidity"
@@ -11680,10 +12148,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11705,6 +12169,10 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Insurance",
         "Lending"
@@ -11723,9 +12191,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11746,6 +12211,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "Lending",
@@ -11766,10 +12236,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11790,6 +12256,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "AMM",
         "DEX"
@@ -11806,9 +12277,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11829,6 +12297,11 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Lottery"
       ],
@@ -11843,8 +12316,7 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": []
+      ]
     },
     "premiumTriaging": false
   },
@@ -11865,6 +12337,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "DEX",
         "Derivatives",
@@ -11884,10 +12362,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11908,22 +12382,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
       "projectType": [
         "NFT"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -11945,6 +12420,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking"
       ],
@@ -11961,9 +12441,6 @@
       "language": [
         "Solidity",
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -11984,21 +12461,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "DEX"
       ],
       "projectType": [
         "Exchange"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -12019,6 +12498,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Services"
       ],
@@ -12033,10 +12518,6 @@
       ],
       "language": [
         "NextJS"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12057,6 +12538,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -12072,10 +12558,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12096,16 +12578,18 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -12126,6 +12610,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "L1"
       ],
@@ -12141,9 +12631,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -12164,6 +12651,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "DEX",
@@ -12185,9 +12677,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -12208,6 +12697,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "L2",
@@ -12225,10 +12719,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12250,6 +12740,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending",
         "Synthetic Assets"
@@ -12268,10 +12763,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12292,19 +12783,20 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -12325,6 +12817,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Lending",
@@ -12342,10 +12839,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12367,6 +12860,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Crosschain Liquidity",
@@ -12385,9 +12883,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -12408,6 +12903,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Options"
@@ -12423,10 +12923,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12447,6 +12943,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management"
       ],
@@ -12464,10 +12965,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12488,6 +12985,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Account Abstraction",
         "Wallet"
@@ -12504,9 +13007,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -12527,6 +13027,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Crosschain Liquidity"
       ],
@@ -12534,59 +13040,13 @@
         "Defi",
         "Infrastructure"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity",
         "JavaScript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "6nbwr3ngW1Aj8NVKom2OHT",
-    "id": "tetu",
-    "project": "Tetu",
-    "maximum_reward": 13300,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7CCYGOBFsU41GSuxkFGa16/7e0eeb6ee440d7433975d3832e762a74/Tetu_Logo___1_.jpeg",
-    "date": "2021-11-30T18:00:00.000Z",
-    "launchDate": "2021-11-30T18:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-08-05T09:38:14.857Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "productType": [
-        "Asset Management",
-        "DEX",
-        "Lending",
-        "Token",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12607,6 +13067,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L2"
       ],
@@ -12623,10 +13088,6 @@
         "Rust",
         "C/C++",
         "Python"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12647,6 +13108,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "DEX",
         "Perpetuals"
@@ -12662,10 +13129,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": true
@@ -12686,6 +13149,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L1"
       ],
@@ -12698,11 +13166,7 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -12722,6 +13186,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "L1",
@@ -12744,9 +13213,6 @@
       "language": [
         "Rust",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -12767,21 +13233,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "DEX"
       ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -12801,6 +13269,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Stablecoin",
         "Staking"
@@ -12817,10 +13290,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -12841,6 +13310,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Lending",
         "Staking"
@@ -12856,9 +13331,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -12879,6 +13351,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
       "productType": [
         "L1",
         "Wallet"
@@ -12896,10 +13374,6 @@
         "Go",
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi",
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": true
@@ -12920,6 +13394,11 @@
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "Vaults"
+      ],
       "productType": [
         "Lending",
         "Yield Aggregator"
@@ -12935,9 +13414,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Vaults"
       ]
     },
     "premiumTriaging": false
@@ -12958,6 +13434,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "DEX",
@@ -12982,10 +13463,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13006,6 +13483,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Stablecoin"
       ],
@@ -13015,13 +13498,9 @@
       "ecosystem": [
         "ETH"
       ],
-      "programType": null,
+      "programType": [],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13042,7 +13521,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [],
       "projectType": [
         "Defi"
       ],
@@ -13054,10 +13538,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13080,6 +13560,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Crosschain Liquidity",
         "Staking"
@@ -13098,10 +13583,6 @@
       "language": [
         "Go",
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13123,6 +13604,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Derivatives"
       ],
@@ -13139,10 +13625,6 @@
       "language": [
         "Solidity",
         "Typescript"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13163,6 +13645,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Services"
       ],
@@ -13192,11 +13679,7 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -13217,6 +13700,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Lending"
       ],
@@ -13233,10 +13721,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13257,6 +13741,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "Wallet"
@@ -13274,10 +13763,6 @@
       ],
       "language": [
         "Kotlin"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13298,6 +13783,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "DAO",
@@ -13316,10 +13806,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13340,21 +13826,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "L1"
       ],
       "projectType": [
         "Blockchain"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT"
       ],
       "language": [
         "C#"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -13375,6 +13863,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Staking",
         "Yield Aggregator"
@@ -13391,10 +13884,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13416,6 +13905,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "AMM",
         "Derivatives",
@@ -13438,10 +13932,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13463,6 +13953,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Stablecoin"
       ],
@@ -13479,10 +13974,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13504,6 +13995,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
       "productType": [
         "Stablecoin",
         "Staking"
@@ -13520,9 +14016,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -13543,6 +14036,12 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Liquid Staking"
       ],
@@ -13557,10 +14056,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13582,6 +14077,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Asset Management",
         "DEX",
@@ -13602,10 +14102,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13626,6 +14122,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Wallet"
       ],
@@ -13638,11 +14139,7 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -13662,14 +14159,17 @@
     ],
     "immunefiStandard": null,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "KYC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT"
       ],
-      "language": null,
-      "general": []
+      "language": []
     },
     "premiumTriaging": null
   },
@@ -13689,21 +14189,23 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Stablecoin"
       ],
       "projectType": [
         "Exchange"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
-      "language": null,
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
-      ]
+      "language": []
     },
     "premiumTriaging": false
   },
@@ -13723,21 +14225,24 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
       "productType": [
         "Services"
       ],
       "projectType": [
         "Infrastructure"
       ],
-      "ecosystem": null,
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard"
       ]
     },
     "premiumTriaging": false
@@ -13759,6 +14264,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Bridge",
         "CEX",
@@ -13787,10 +14297,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13811,16 +14317,60 @@
     ],
     "immunefiStandard": true,
     "tags": {
-      "productType": null,
-      "projectType": null,
-      "ecosystem": null,
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Websites and Applications"
       ],
-      "language": null,
+      "language": []
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "6nbwr3ngW1Aj8NVKom2OHT",
+    "id": "tetu",
+    "project": "Tetu",
+    "maximum_reward": 2000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7CCYGOBFsU41GSuxkFGa16/7e0eeb6ee440d7433975d3832e762a74/Tetu_Logo___1_.jpeg",
+    "date": "2021-11-30T18:00:00.000Z",
+    "launchDate": "2021-11-30T18:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-08-08T08:13:33.435Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Not Required"
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Asset Management",
+        "DEX",
+        "Lending",
+        "Token",
+        "Yield Aggregator"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
       ]
     },
     "premiumTriaging": false
@@ -13841,6 +14391,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "Wallet"
       ],
@@ -13856,10 +14411,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false
@@ -13880,6 +14431,11 @@
     ],
     "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
       "productType": [
         "L2",
         "Staking",
@@ -13898,10 +14454,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required"
       ]
     },
     "premiumTriaging": false

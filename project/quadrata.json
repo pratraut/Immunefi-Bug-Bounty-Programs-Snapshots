@@ -141,13 +141,18 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
-        "productType": null,
-        "projectType": null,
-        "ecosystem": null,
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "productType": [],
+        "projectType": [],
+        "ecosystem": [],
         "programType": [
           "Smart Contract"
         ],
-        "language": null
+        "language": []
       },
       "legacy": {
         "technologies": [

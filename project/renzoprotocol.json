@@ -269,6 +269,10 @@
       "impactsBody": null,
       "immunefiStandard": null,
       "tags": {
+        "general": [
+          "KYC Required",
+          "PoC Required"
+        ],
         "productType": [
           "Asset Management",
           "Liquid Restaking",

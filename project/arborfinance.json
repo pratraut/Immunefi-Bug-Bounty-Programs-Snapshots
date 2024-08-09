@@ -100,6 +100,11 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
         "productType": [
           "Lending"
         ],
@@ -112,7 +117,7 @@
         "programType": [
           "Smart Contract"
         ],
-        "language": null
+        "language": []
       },
       "legacy": {
         "technologies": [

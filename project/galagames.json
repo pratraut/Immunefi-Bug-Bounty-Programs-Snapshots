@@ -362,6 +362,10 @@
       "impactsBody": null,
       "immunefiStandard": null,
       "tags": {
+        "general": [
+          "KYC Required",
+          "PoC Required"
+        ],
         "productType": [
           "Gaming",
           "Wallet"

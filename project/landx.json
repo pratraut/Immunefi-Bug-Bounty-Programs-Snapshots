@@ -116,6 +116,10 @@
       "impactsBody": null,
       "immunefiStandard": null,
       "tags": {
+        "general": [
+          "KYC Required",
+          "PoC Required"
+        ],
         "productType": [
           "Lending",
           "Yield Aggregator"

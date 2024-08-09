@@ -109,6 +109,12 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
         "productType": [
           "L2"
         ],

@@ -177,6 +177,12 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
         "productType": [
           "AMM",
           "Derivatives",

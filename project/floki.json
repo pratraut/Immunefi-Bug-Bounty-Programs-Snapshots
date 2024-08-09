@@ -400,13 +400,19 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
         "productType": [
           "Gaming"
         ],
         "projectType": [
           "NFT"
         ],
-        "ecosystem": null,
+        "ecosystem": [],
         "programType": [
           "Smart Contract",
           "Websites and Applications"

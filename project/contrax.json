@@ -301,6 +301,11 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
         "productType": [
           "L2",
           "Staking",

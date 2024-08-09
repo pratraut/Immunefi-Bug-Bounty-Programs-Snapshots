@@ -99,6 +99,10 @@
       "impactsBody": null,
       "immunefiStandard": null,
       "tags": {
+        "general": [
+          "KYC Required",
+          "PoC Not Required"
+        ],
         "productType": [
           "DEX"
         ],

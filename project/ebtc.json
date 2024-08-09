@@ -219,15 +219,21 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
         "productType": [
           "Staking"
         ],
-        "projectType": null,
-        "ecosystem": null,
+        "projectType": [],
+        "ecosystem": [],
         "programType": [
           "Smart Contract"
         ],
-        "language": null
+        "language": []
       },
       "legacy": {
         "technologies": [

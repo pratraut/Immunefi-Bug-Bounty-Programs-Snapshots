@@ -170,17 +170,22 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
         "productType": [
           "DEX"
         ],
         "projectType": [
           "Defi"
         ],
-        "ecosystem": null,
+        "ecosystem": [],
         "programType": [
           "Smart Contract"
         ],
-        "language": null
+        "language": []
       },
       "legacy": {
         "technologies": [

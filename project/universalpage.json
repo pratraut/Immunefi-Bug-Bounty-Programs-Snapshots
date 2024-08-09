@@ -156,13 +156,19 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
         "productType": [
           "Services"
         ],
         "projectType": [
           "Infrastructure"
         ],
-        "ecosystem": null,
+        "ecosystem": [],
         "programType": [
           "Smart Contract"
         ],

@@ -150,6 +150,11 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
         "productType": [
           "Stablecoin"
         ],
@@ -163,7 +168,7 @@
         "programType": [
           "Smart Contract"
         ],
-        "language": null
+        "language": []
       },
       "legacy": {
         "technologies": [

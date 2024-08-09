@@ -182,6 +182,12 @@
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
         "productType": [
           "Crosschain Liquidity"
         ],
@@ -189,7 +195,7 @@
           "Defi",
           "Infrastructure"
         ],
-        "ecosystem": null,
+        "ecosystem": [],
         "programType": [
           "Smart Contract"
         ],

@@ -427,7 +427,11 @@
       "impactsBody": null,
       "immunefiStandard": null,
       "tags": {
-        "productType": null,
+        "general": [
+          "KYC Required",
+          "PoC Required"
+        ],
+        "productType": [],
         "projectType": [
           "NFT"
         ],
