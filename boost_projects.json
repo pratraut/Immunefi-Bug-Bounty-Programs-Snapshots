@@ -285,6 +285,70 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
+    "contentfulId": "sNhPrMQC7LoDKiXA6kyH3",
+    "id": "thundernft-iop",
+    "project": "IOP | ThunderNFT",
+    "maximum_reward": 65000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4c3zRck4MBUVAaxTaPkUHt/9b1dee6e49c7d39f3b8af56a8b387816/file.png",
+    "date": "2024-08-12T08:00:00.000Z",
+    "launchDate": "2024-08-12T08:00:00.000Z",
+    "endDate": "2024-09-02T08:00:28.000Z",
+    "updatedDate": "2024-08-09T15:48:15.869Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ]
+    },
+    "evaluationEndDate": "2024-09-16T08:00:44.000Z",
+    "boostedIntroStartingIn": "$65,000 USD in rewards is available for finding bugs on ThundeNFT which is an NFT marketplace built on Fuel. **For this Invite-Only Program, only whitehats who found at least 1 valid report in Fuel's Attackathon can submit reports.**
+
+No KYC is required.
+
+Any technical questions can be asked directly to the ThunderNFT technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"thundernft-iop\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+In a few days after the launch, ThunderNFT will give a live technical walkthrough.
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 65000,
+    "sourceLinesOfCode": 1806,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": false,
+    "boostedLeaderboard": null,
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver"
+    ],
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "3GK41DXimLkjluCUDLq24f",
     "id": "fuel-network-attackathon",
     "project": "Attackathon | Fuel Network",
