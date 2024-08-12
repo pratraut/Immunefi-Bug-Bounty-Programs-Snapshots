@@ -290,10 +290,10 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "project": "IOP | ThunderNFT",
     "maximum_reward": 65000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4c3zRck4MBUVAaxTaPkUHt/9b1dee6e49c7d39f3b8af56a8b387816/file.png",
-    "date": "2024-08-12T08:00:00.000Z",
-    "launchDate": "2024-08-12T08:00:00.000Z",
+    "date": "2024-08-12T12:00:00.000Z",
+    "launchDate": "2024-08-12T12:00:00.000Z",
     "endDate": "2024-09-02T08:00:28.000Z",
-    "updatedDate": "2024-08-09T15:48:15.869Z",
+    "updatedDate": "2024-08-11T21:57:29.925Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -347,6 +347,69 @@ Join our Discord for more updates.",
     "programOverview": "",
     "rewards": null,
     "rewardsBody": ""
+  },
+  {
+    "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
+    "id": "folksfinance-boost",
+    "project": "Boost | Folks Finance",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6J3xxAowY0ZlOFTEciL88K/752c37cc0e37232a1f9075df7609c79c/Folks_Finance_logo.png",
+    "date": "2024-07-16T08:00:00.000Z",
+    "launchDate": "2024-07-16T08:00:00.000Z",
+    "endDate": "2024-08-06T08:00:00.000Z",
+    "updatedDate": "2024-07-24T10:57:57.118Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ]
+    },
+    "evaluationEndDate": "2024-08-30T10:30:00.000Z",
+    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Folks Finance.
+
+Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.
+
+Folks Finance are expanding with a new cross-chain lending protocol using a hub and spoke model. The hub chain, Avalanche, contains the main logic and state of the lending protocol. The spoke chains, initially EVM, act as an entry point for a user to interact with the protocol.
+
+No KYC is required.
+
+Folks Finance will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"folks-finance-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+On July 18th, Folks Finance will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 4958,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "premiumTriaging": true
   },
   {
     "contentfulId": "3GK41DXimLkjluCUDLq24f",
@@ -433,69 +496,6 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
     "features": [
       "Attackathon",
       "Vault",
-      "Managed Triage: Time Saver"
-    ],
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
-    "id": "folksfinance-boost",
-    "project": "Boost | Folks Finance",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6J3xxAowY0ZlOFTEciL88K/752c37cc0e37232a1f9075df7609c79c/Folks_Finance_logo.png",
-    "date": "2024-07-16T08:00:00.000Z",
-    "launchDate": "2024-07-16T08:00:00.000Z",
-    "endDate": "2024-08-06T08:00:00.000Z",
-    "updatedDate": "2024-07-24T10:57:57.118Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ]
-    },
-    "evaluationEndDate": "2024-08-30T10:30:00.000Z",
-    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Folks Finance.
-
-Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.
-
-Folks Finance are expanding with a new cross-chain lending protocol using a hub and spoke model. The hub chain, Avalanche, contains the main logic and state of the lending protocol. The spoke chains, initially EVM, act as an entry point for a user to interact with the protocol.
-
-No KYC is required.
-
-Folks Finance will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"folks-finance-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-On July 18th, Folks Finance will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 100000,
-    "sourceLinesOfCode": 4958,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": null,
-    "features": [
-      "Boost",
       "Managed Triage: Time Saver"
     ],
     "premiumTriaging": true

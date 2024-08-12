@@ -3758,46 +3758,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "1srWEZpHjJ2qqGFGl5bdV8",
-    "id": "composablefinance",
-    "project": "Composable Finance",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6j3NyweMVahrfKweG7cGfo/35fd90d136b6c2b87951e74a47074296/Screen_Shot_2022-12-27_at_7.13.16_AM.png",
-    "date": "2021-06-29T12:00:00.000Z",
-    "launchDate": "2021-06-29T12:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-07-15T11:40:09.547Z",
-    "kyc": true,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "DEX"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Kusama",
-        "Polkadot"
-      ],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Rust"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6qD7pjElET4cOiQ8BWeT3k",
     "id": "AlphaVentureDAO",
     "project": "Alpha Venture DAO",
