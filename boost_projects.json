@@ -8,7 +8,7 @@
     "date": "2024-07-08T06:00:00.000Z",
     "launchDate": "2024-07-08T06:00:00.000Z",
     "endDate": "2024-08-14T06:00:00.000Z",
-    "updatedDate": "2024-08-07T15:16:06.490Z",
+    "updatedDate": "2024-08-12T14:01:12.767Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -290,18 +290,33 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "project": "IOP | ThunderNFT",
     "maximum_reward": 65000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4c3zRck4MBUVAaxTaPkUHt/9b1dee6e49c7d39f3b8af56a8b387816/file.png",
-    "date": "2024-08-12T12:00:00.000Z",
-    "launchDate": "2024-08-12T12:00:00.000Z",
+    "date": "2024-08-12T11:00:00.000Z",
+    "launchDate": "2024-08-12T11:00:00.000Z",
     "endDate": "2024-09-02T08:00:28.000Z",
-    "updatedDate": "2024-08-11T21:57:29.925Z",
+    "updatedDate": "2024-08-12T15:51:13.634Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
       "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
         "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "Fuel Network"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Sway"
       ]
     },
     "evaluationEndDate": "2024-09-16T08:00:44.000Z",
@@ -316,7 +331,11 @@ When the Boost has ended, Immunefi will publish an event-specific leaderboard an
 In a few days after the launch, ThunderNFT will give a live technical walkthrough.
 
 Join our Discord for more updates.",
-    "boostedIntroLive": "",
+    "boostedIntroLive": "$65,000 USD is available in rewards for finding bugs in ThundeNFT's codebase of 1806 nSLOC. There is no KYC required.
+
+Any technical questions and support requests can be asked directly to ThunderNFT or Immunefi in the [ThunderNFT Boost Discord channel](https://discord.com/invite/immunefi?utm_source=immunefi).
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "USDC",
@@ -328,6 +347,56 @@ Join our Discord for more updates.",
     "boostedLeaderboard": null,
     "features": [
       "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver"
+    ],
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "fzaLgdNany6A10ZLfw1RV",
+    "id": "boost-acre",
+    "project": "Boost | Acre",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3VkwkX31ROD5OhUJxidVqy/9c0a4b23ea5e3e41d18aaad85498cebf/logo_acre_2.png",
+    "date": "2024-08-20T08:00:25.000Z",
+    "launchDate": "2024-08-20T08:00:25.000Z",
+    "endDate": "2025-09-03T08:00:00.000Z",
+    "updatedDate": "2024-08-13T08:37:30.464Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.
+
+Acre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.
+
+Acre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  
+
+No KYC is required.
+
+Acre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 1340,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": null,
+    "features": [
+      "Boost",
       "Managed Triage: Time Saver"
     ],
     "assets": null,
@@ -420,7 +489,7 @@ On July 18th, Folks Finance will give a live technical walkthrough, hosted in th
     "date": "2024-06-17T08:00:00.000Z",
     "launchDate": "2024-06-17T08:00:00.000Z",
     "endDate": "2024-07-22T08:00:00.000Z",
-    "updatedDate": "2024-07-11T05:32:09.917Z",
+    "updatedDate": "2024-08-12T14:10:12.708Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",

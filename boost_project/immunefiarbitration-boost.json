@@ -44,315 +44,360 @@
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/RewardTimelock.sol",
           "description": "RewardTimelock - 124",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "34XNQJprrGcNaoN1S3cu6K",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/guards/ScopeGuard.sol",
           "description": "ScopeGuard - 92",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "49s2Vc7zBB2kxbUnZVpRnx",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/guards/ImmunefiGuard.sol",
           "description": "ImmunefiGuard - 39",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "6MX9JThbU5udIMXBucMcBT",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/RewardSystemBase.sol",
           "description": "RewardSystemBase - 47",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "47btjrjANpbcpTPLYUoOIP",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/RewardTimelockBase.sol",
           "description": "RewardTimelockBase - 171",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "60yS59AOpzwY0Oiyd4EMaP",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/ArbitrationBase.sol",
           "description": "ArbitrationBase - 105",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "2RWjvF4bQaS1mbj10Bk5L2",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/AccessControlBaseModule.sol",
           "description": "AccessControlBaseModule - 53",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "46SZHJ3uxyRUkEoLMxAIIO",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/WithdrawalSystemBase.sol",
           "description": "WithdrawalSystemBase - 42",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "2fFwVAf16Ro8vzsWtpWNm5",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/AccessControlGuardable.sol",
           "description": "AccessControlGuardable - 19",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "BRRvaO0rdfPb4OzJMCPO3",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/TimelockBase.sol",
           "description": "TimelockBase - 192",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "6okJu0CjhIjQjCGctL5WI5",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/handlers/VaultSetup.sol",
           "description": "VaultSetup - 28",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "2hO3aUm7QMZtO4YbyuYLMq",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IWithdrawalSystemEvents.sol",
           "description": "IWithdrawalSystemEvents - 8",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "3K1Ros1myQeKp8iCGLXg7l",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IRewardTimelockEvents.sol",
           "description": "IRewardTimelockEvents - 22",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "6BLTPQZc3L1u7Y3p9qn0LW",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IEmergencySystemEvents.sol",
           "description": "IEmergencySystemEvents - 5",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "21wrnzZ1PFN75GrobzGIfy",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IImmunefiGuardEvents.sol",
           "description": "IImmunefiGuardEvents - 5",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "PVk6inqQzVkTuxyvW20oO",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IArbitrationEvents.sol",
           "description": "IArbitrationEvents - 13",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "SBSmNiRWlD3MEODgfd1i6",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/ITimelockEvents.sol",
           "description": "ITimelockEvents - 31",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "7cz6iMawe8IwpdcmavMF1t",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IRewardSystemEvents.sol",
           "description": "IRewardSystemEvents - 20",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "4hNgc5YuA782O6LUcXIFo4",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IScopeGuardEvents.sol",
           "description": "IScopeGuardEvents - 10",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "1g3X4KFdin0pFcZdubOFYc",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IVaultFreezerEvents.sol",
           "description": "IVaultFreezerEvents - 6",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "3xSKRHNg94IZc0TE06SGAx",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/WithdrawalSystem.sol",
           "description": "WithdrawalSystem - 43",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "1Ktf0SkTYtod9XsIXuZN6j",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/RewardSystem.sol",
           "description": "RewardSystem - 48",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "6sgPWJgt2VgNYAVwXEV08A",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/VaultFreezer.sol",
           "description": "VaultFreezer - 26",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "4aIwi5Nx5prJuJzsu8TWyS",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/RewardTimelockOperationEncoder.sol",
           "description": "RewardTimelockOperationEncoder - 20",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "2HaG99NZELfpKqXFP9IOmt",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/TimelockOperationEncoder.sol",
           "description": "TimelockOperationEncoder - 22",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "78liMjjZ2dqfxpXvYVcbgR",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/BaseEncoder.sol",
           "description": "BaseEncoder - 18",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "5ItZJxNaKo2X6hW4kVkbTH",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/ArbitrationOperationEncoder.sol",
           "description": "ArbitrationOperationEncoder - 14",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "65yqSNXExdURwy9Jct8t0O",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/EmergencySystem.sol",
           "description": "EmergencySystem - 17",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "6WGQrvn6OpxefHNZ4hnVd1",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/common/VaultDelegate.sol",
           "description": "VaultDelegate - 110",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "6UfPRlppGOLZg8flMpwWlU",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/common/Rewards.sol",
           "description": "Rewards - 7",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "3GGC1wv1ieBBEuApZJh5e",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/common/VaultFees.sol",
           "description": "VaultFees - 50",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "1dxsWfqp5uVIHhJBon3DXO",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/ImmunefiModule.sol",
           "description": "ImmunefiModule - 23",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "5aKIOupzEuPSiy6X28cA57",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/Timelock.sol",
           "description": "Timelock - 78",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "2UO39kjJprvAsas3asV5eW",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/Arbitration.sol",
           "description": "Arbitration - 182",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "1FIt5fqV1Pkz17jlG0ECcs",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/IPriceConsumerEvents.sol",
           "description": "IPriceConsumerEvents - 5",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "5to94QttWtbkRX1SxhWNUg",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/IPriceFeed.sol",
           "description": "IPriceFeed - 3",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "7st3rDwZjFoOTuYoceV7BL",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/Denominations.sol",
           "description": "Denominations - 23",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "5e7dcb5VGrrpZWaNmdzPW7",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/shared/interfaces/AggregatorInterface.sol",
           "description": "AggregatorInterface - 3",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "6kcvOTJzuj2SyUgOJdWqP6",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/shared/interfaces/AggregatorV3Interface.sol",
           "description": "AggregatorV3Interface - 3",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "5GgPD7D8oEi3V3PJxna13X",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/shared/interfaces/AggregatorV2V3Interface.sol",
           "description": "AggregatorV2V3Interface - 5",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "2nGSJo2ADj2YPqc8IMqkFp",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/FeedRegistryInterface.sol",
           "description": "FeedRegistryInterface - 25",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "4p8XXILQhZ5NIUpQTYTjdM",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/FeedRegistryL2.sol",
           "description": "FeedRegistryL2 - 52",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "53YMTY1HeRHkbt45OkbUi8",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/IFeedRegistryMinimal.sol",
           "description": "IFeedRegistryMinimal - 3",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "5YAClSWJZah9V9IMCrIqki",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/PriceConsumer.sol",
           "description": "PriceConsumer - 95",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
           "id": "1OtISNS0xXyUF5VNCYm8pu",
           "type": "smart_contract",
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/proxy/ProxyAdminOwnable2Step.sol",
           "description": "ProxyAdminOwnable2Step - 15",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-03-12T08:00:00.000Z"
         }
       ],
       "impacts": [

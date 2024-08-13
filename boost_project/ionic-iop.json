@@ -44,56 +44,64 @@
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/ILeveredPositionFactory.sol",
           "description": "ILeveredPositionFactory",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         },
         {
           "id": "7bSbOHlUSYb5THxlgpMHyi",
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/LeveredPosition.sol",
           "description": "LeveredPosition",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         },
         {
           "id": "5N3L5GMmkl8FOmn6xu3uSo",
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/LeveredPositionFactory.sol",
           "description": "LeveredPositionFactory",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         },
         {
           "id": "hJDwo8DCuZIC5o7NpuEQT",
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/LeveredPositionFactoryFirstExtension.sol",
           "description": "LeveredPositionFactoryFirstExtension",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         },
         {
           "id": "6pe0iMFDDVBk3JiPLpEIgb",
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/LeveredPositionFactorySecondExtension.sol",
           "description": "LeveredPositionFactorySecondExtension",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         },
         {
           "id": "1ndqOlVXiG5k5p7Rv244Pc",
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/LeveredPositionFactoryStorage.sol",
           "description": "LeveredPositionFactoryStorage",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         },
         {
           "id": "fcYStRqdUYFMq0Fo8Tdmt",
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/LeveredPositionStorage.sol",
           "description": "LeveredPositionStorage",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         },
         {
           "id": "4A3a3siHevMEAwk0lBT1R3",
           "type": "smart_contract",
           "url": "https://github.com/ionicprotocol/contracts/blob/development/contracts/ionic/levered/LeveredPositionsLens.sol",
           "description": "LeveredPositionsLens",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-06-12T08:00:00.000Z"
         }
       ],
       "impacts": [

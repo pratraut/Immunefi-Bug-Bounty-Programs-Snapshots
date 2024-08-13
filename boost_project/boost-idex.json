@@ -68,350 +68,400 @@
           "type": "smart_contract",
           "url": "https://xchain-testnet-explorer.idex.io/address/0xc214EcBC65D67905cB6f837efaDDC3be8E314bB0",
           "description": "Smart Contract - Custodian.sol - 63",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "30yakdICtyGYbrY9bJE6eF",
           "type": "smart_contract",
           "url": "https://sepolia.arbiscan.io/address/0x6E879e229B5268D8eb53b71d35d055bBBfEa8973",
           "description": "Smart Contract - EarningsEscrow.sol - 103",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "F0lAwrnqVMFSlHdqqUHec",
           "type": "smart_contract",
           "url": "https://xchain-testnet-explorer.idex.io/address/0xBB9A5455869e99652D13Cd0aE1E45dc3A2e9914B",
           "description": "Smart Contract - Exchange.sol - 784",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "2Jo7N6EFDPiyuMgdE89AAd",
           "type": "smart_contract",
           "url": "https://xchain-testnet-explorer.idex.io/address/0x13bA4F2be7a42b61Ea6F03AaaD6323A2fc63049e",
           "description": "Smart Contract - Governance.sol - 368",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5bdNr1EH9HK7m6KffR3ZrW",
           "type": "websites_and_applications",
           "url": "https://api-sandbox.idex.io/",
           "description": "Testnet",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "1rc6SB8d3MGC100xNQC83n",
           "type": "websites_and_applications",
           "url": "https://api-sandbox.idex.io/",
           "description": "REST API",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "22sVyvqGXO0hgHgt8YPUZi",
           "type": "websites_and_applications",
           "url": "wss://websocket-sandbox.idex.io/",
           "description": "WebSocket API",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "2olWFX4KfHk0HsVZNIK6UV",
           "type": "smart_contract",
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
-          "isPrimacyOfImpact": true
+          "isPrimacyOfImpact": true,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "10VVOpuS4tc88u1r9Cdyaz",
           "type": "websites_and_applications",
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
-          "isPrimacyOfImpact": true
+          "isPrimacyOfImpact": true,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5twiwzoVwISZ0n2MRtKcKe",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/Owned.sol",
           "description": "Smart Contract - Owned.sol - 33",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "56FNpwYweW8TJjOMgByDj0",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/asset-migrators/USDCeMigrator.sol",
           "description": "Smart Contract - USDCeMigrator.sol - 27",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "7wgUntghDEVkOW6xb1yLpd",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/bridge-adapters/ExchangeStargateV2Adapter.sol",
           "description": "Smart Contract - ExchangeStargateV2Adapter.sol - 153",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "4iJ9zy67RdvvD8JBXFEiZ7",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/index-price-adapters/IDEXIndexAndOraclePriceAdapter.sol",
           "description": "Smart Contract - IDEXIndexAndOraclePriceAdapter.sol - 107",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "76nHFItKTeN45zCVxz5vth",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/index-price-adapters/PythIndexPriceAdapter.sol",
           "description": "Smart Contract - PythIndexPriceAdapter.sol - 119",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "2a9YjhDg7W3cmQ6PN2rPWx",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/oracle-price-adapters/PythOraclePriceAdapter.sol",
           "description": "Smart Contract - PythOraclePriceAdapter.sol - 76",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "4Nhxp75VvCZmonVGNSVJYC",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/AssetUnitConversions.sol",
           "description": "Smart Contract - AssetUnitConversions.sol - 21",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5NJ2XpPtkzN8QZwpKdrRy2",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/BalanceTracking.sol",
           "description": "Smart Contract - BalanceTracking.sol - 468",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "49e9BQYJICQBuOnlXkX55M",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/ClosureDeleveraging.sol",
           "description": "Smart Contract - ClosureDeleveraging.sol - 179",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "bwREGqf3J9oRYthuXK4pD",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Constants.so",
           "description": "Smart Contract - Constants.sol - 36",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "7eaU8taKiD2nsiZr2jIOuF",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Depositing.sol",
           "description": "Smart Contract - Depositing.sol - 66",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "42C99ZSiMslBctcsSJqsWq",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Enums.sol",
           "description": "Smart Contract - Enums.sol - 47",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "6Pl1zwbYgkQxS1R9baP6UA",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/ExitFund.sol",
           "description": "Smart Contract - ExitFund.sol - 25",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "4SWufotnqgnM8oF8PfpEfA",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Funding.sol",
           "description": "Smart Contract - Funding.sol - 158",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5rNZnCuL0PpRVX2kle6yx7",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/FundingMultiplierQuartetHelper.sol",
           "description": "Smart Contract - FundingMultiplierQuartetHelper.sol - 103",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "3kNUIN8v3kzI4JpBdkpbOn",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Hashing.sol",
           "description": "Smart Contract - Hashing.sol - 80",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "1yglaxoJjqgZOfwixfFS5t",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/IndexPriceMargin.sol",
           "description": "Smart Contract - IndexPriceMargin.sol - 273",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5brIdD0NSXpgI1zA592qsC",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Interfaces.sol",
           "description": "Smart Contract - Interfaces.sol - 9",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "3K4UykcF3ILGBO9YGKPnDA",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/LiquidationValidations.sol",
           "description": "Smart Contract - LiquidationValidations.sol - 113",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "hWv6RFdCGwHFthiO2ao86",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/MarketAdmin.sol",
           "description": "Smart Contract - MarketAdmin.sol - 77",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5KjTQWCp7pZTee611uWjNG",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/MarketHelper.sol",
           "description": "Smart Contract - MarketHelper.sol - 40",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "1sn9RSkYgj4BTUVXqgnDpJ",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Math.sol",
           "description": "Smart Contract - Math.sol - 58",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "2hgBjtCUJ8424ZzyJTuSL9",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/NonceInvalidations.sol",
           "description": "Smart Contract - NonceInvalidations.sol - 31",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "qjeg82NDjViX91ODyQWi2",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/OraclePriceMargin.sol",
           "description": "Smart Contract - OraclePriceMargin.sol - 295",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5ueNrohUZrZ4Y2LYWScWUj",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/PositionBelowMinimumLiquidation.sol",
           "description": "Smart Contract - PositionBelowMinimumLiquidation.sol - 142",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "cnlrlGI73VmFH3kGCmBNp",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/PositionInDeactivatedMarketLiquidation.sol",
           "description": "Smart Contract - PositionInDeactivatedMarketLiquidation.sol - 58",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5JONZb8rNZnL7npV7CBeHG",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/SortedStringSet.sol",
           "description": "Smart Contract - SortedStringSet.sol - 53",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "6dXlE1nyieTr0wJmzO4vdf",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/String.sol",
           "description": "Smart Contract - String.sol - 43",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "38MKuhtCjkCOPbn8oQ4oyn",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Structs.sol",
           "description": "Smart Contract - Structs.sol - 141",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "1zUMxtaRwPVYbKpliaET0E",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Time.sol",
           "description": "Smart Contract - Time.sol - 20",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "4SOFtV1LfLkdLVSsviHsn4",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/TradeValidations.sol",
           "description": "Smart Contract - TradeValidations.sol - 177",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "1UBg3MaDJATlLr3GzXV496",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Trading.sol",
           "description": "Smart Contract - Trading.sol - 222",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5fogA0UIk3pzJizEalzqfs",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Transferring.sol",
           "description": "Smart Contract - Transferring.sol - 89",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5AZyKwHMyRZh7SRIIB9phu",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/UUID.sol",
           "description": "Smart Contract - UUID.sol - 13",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "7A896hChKSIkIeTNXgnKPu",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Validations.sol",
           "description": "Smart Contract - Validations.sol - 60",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "63TLlym0k8kHkYC0q0KQEo",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletExitAcquisitionDeleveraging.sol",
           "description": "Smart Contract - WalletExitAcquisitionDeleveraging.sol - 222",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "TDrecBcCg0J1oiNY22FQr",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletExitLiquidation.sol",
           "description": "Smart Contract - WalletExitLiquidation.sol - 147",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "xgCTdZYuHw4MCqsVyzcp0",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletExits.sol",
           "description": "Smart Contract - WalletExits.sol - 8",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5yxivyboG8XcJfInkxEWn9",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletInMaintenanceAcquisitionDeleveraging.sol",
           "description": "Smart Contract - WalletInMaintenanceAcquisitionDeleveraging.sol - 160",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "5zUId9fPhyxcVxeeXD2e1Z",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletInMaintenanceLiquidation.sol",
           "description": "Smart Contract - WalletInMaintenanceLiquidation.sol - 147",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
           "id": "4MzreITf0eM8O3qDi3tR0p",
           "type": "smart_contract",
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Withdrawing.sol",
           "description": "Smart Contract - Withdrawing.sol - 279",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-07-30T08:00:00.000Z"
         }
       ],
       "impacts": [

@@ -44,91 +44,104 @@
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/ActivePool.sol",
           "description": "ActivePool.sol - 224 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "5AmZb7ybgsrkofdXqNevvC",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/BorrowerOperations.sol",
           "description": "BorrowerOperations.sol - 754 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "1qVNpllzziAbUHqKdWqjgU",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/CdpManager.sol",
           "description": "CdpManager.sol - 588 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "4LWqW9zeTBQVxxz2vNzco2",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/LiquidationLibrary.sol",
           "description": "LiquidationLibrary.sol - 710 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "hiyOrXViVCFMyYOgc7wbg",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/CollSurplusPool.sol",
           "description": "CollSurplusPool.sol - 95 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "3DoJrEzmyOblRvish3tcpi",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/EBTCToken.sol",
           "description": "EBTCToken.sol - 223 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "hgjZVTYWdIaVq4BxROBk3",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/Governor.sol",
           "description": "Governor.sol - 127 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "3aIhJF99TOIJ0GbFuy1WFD",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/PriceFeed.sol",
           "description": "PriceFeed.sol - 496 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "12aKGRJZdiiDipIrgtcYfJ",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/SortedCdps.sol",
           "description": "SortedCdps.sol - 399 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "3G1q699Ukwa5m7PJGNqkUU",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/EbtcFeed.sol",
           "description": "EbtcFeed.sol - 105 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "3IvPrJYV2pqTGJV6SdigkL",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/ChainlinkAdapter.sol",
           "description": "ChainlinkAdapter.sol - 93 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "3gYNRUGEUZlZH18hmvSDpr",
           "type": "smart_contract",
           "url": "https://github.com/ebtc-protocol/ebtc/blob/release-0.7/packages/contracts/contracts/FixedAdapter.sol",
           "description": "FixedAdapter.sol - 48 nSLOC",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-19T08:00:00.000Z"
         },
         {
           "id": "4Es1MkvSdiQlOLSqSVbSMP",
           "type": "smart_contract",
           "url": "https://immunefi.com/",
           "description": null,
-          "isPrimacyOfImpact": true
+          "isPrimacyOfImpact": true,
+          "addedAt": "2024-02-20T17:09:25.767Z"
         }
       ],
       "impacts": [

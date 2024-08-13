@@ -1562,11 +1562,11 @@
     "id": "aave",
     "project": "AAVE",
     "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1oY9r2sTzOAG6uiNlKCRID/1c00d55beb08301599639872d31d5f55/aave-aave-logo_copy.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5nVG9oUSZ05hb2dlIuqPU6/5d6e4c5db151fdd8fb48448990056e05/Screenshot_2024-08-12_at_5.37.45___PM.png",
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-06T09:34:33.730Z",
+    "updatedDate": "2024-08-12T12:10:34.504Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -4116,10 +4116,10 @@
     "project": "Kelp DAO",
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/45teNS8w4f7XgiQvJnl82R/aafacb2bdce0fe3bbaf3b4453ad422ab/IwyLpOfL_400x400.png",
-    "date": "2024-08-05T12:00:23.000Z",
-    "launchDate": "2024-08-05T12:00:23.000Z",
+    "date": "2024-08-02T00:00:00.000Z",
+    "launchDate": "2024-08-02T00:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-02T16:16:54.733Z",
+    "updatedDate": "2024-08-13T04:06:56.335Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4932,11 +4932,11 @@
     "id": "kadena",
     "project": "Kadena",
     "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3YnTntB1H73pK9boqoyASc/495a191425b4154254f73e7434af0d2c/400x400_Twitter_PFP.jpg",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/22KYw7t13OwNlN78HQZOT2/e72741e9f86336a41e287fe67c9b8e53/2024_Kadena_Logo_Social.png",
     "date": "2022-01-08T22:00:00.000Z",
     "launchDate": "2022-01-08T22:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-04T09:37:52.895Z",
+    "updatedDate": "2024-08-12T12:33:49.807Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -12728,39 +12728,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "2nMg93dj7ggFSiQbo7S5EZ",
-    "id": "overlay",
-    "project": "Overlay",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5MwMIyiAkf1clFUMdixzn1/842aaab89ba611915844b476f6f78892/Black_Overlay_Logo.png",
-    "date": "2022-09-28T11:30-06:00",
-    "launchDate": "2022-09-28T11:30-06:00",
-    "endDate": null,
-    "updatedDate": "2023-12-22T12:58:18.446Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": []
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3m6pHeo9hfM7OXuP3d0Cxy",
     "id": "bifrostfinance",
     "project": "Bifrost Finance",
@@ -14132,42 +14099,6 @@
       "language": []
     },
     "premiumTriaging": null
-  },
-  {
-    "contentfulId": "2ilSLP6MLLjrtXTpSIHooc",
-    "id": "hourglass",
-    "project": "Hourglass",
-    "maximum_reward": 5000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6o7kaB7iUnjLUVryN484eY/fb675a8f30cb58123c72364368651c83/Hourglass_Logo_Icon_Only.png",
-    "date": "2024-03-12T02:45:00.000Z",
-    "launchDate": "2024-03-12T02:45:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-03-13T07:56:19.811Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Stablecoin"
-      ],
-      "projectType": [
-        "Exchange"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": []
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "GemMQd0WlDxQl58sYq5A0",

@@ -44,91 +44,104 @@
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/RevenueHandler.sol",
           "description": "RevenueHandler.sol - 183",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "4pgstjtPOHyedaQUogaMRe",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/RewardsDistributor.sol",
           "description": "RewardsDistributor.sol - 286",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "6qzgJKNogm9FZgzPOnO3Q7",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/VotingEscrow.sol",
           "description": "VotingEscrow.sol - 887",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "3MN84EGqHK45qgzYdbQkva",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/Minter.sol",
           "description": "Minter.sol - 124",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "601bgkSEISfaaxyfGVdY3X",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/BaseGauge.sol",
           "description": "BaseGauge.sol - 49",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "7KZmxCjDyPKqsjJA7AJmBb",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/Voter.sol",
           "description": "Voter.sol - 335",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "2L7JQtBUJybSuX8KWYKPmq",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/RewardPoolManager.sol",
           "description": "RewardPoolManager.sol - 102",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "7rtabTcBEIkFw7ncCgKb1n",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/FluxToken.sol",
           "description": "FluxToken.sol - 152",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "5ucoTsJsBnj5Wt6SsmtGiW",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/CurveMetaPoolAdapter.sol",
           "description": "CurveMetaPoolAdapter.sol - 30",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "7GRZjQhL88GOsqatgfVQUL",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/CurveEthPoolAdapter.sol",
           "description": "CurveEthPoolAdapter.sol - 34",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "2iZ1gyKklEDmD53GY4FIKv",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/Bribe.sol",
           "description": "Bribe.sol - 256",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "1n1Ual2DiwumFXsZTbDIL4",
           "type": "smart_contract",
           "url": "https://github.com/alchemix-finance/alchemix-v2-dao/blob/main/src/AlchemixGovernor.sol",
           "description": "AlchemixGovernor.sol - 55",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-04-30T10:30:00.000Z"
         },
         {
           "id": "2y8Z97DneWJ8Nj8iUTC14K",
           "type": "smart_contract",
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
-          "isPrimacyOfImpact": true
+          "isPrimacyOfImpact": true,
+          "addedAt": "2024-05-06T07:26:37.160Z"
         }
       ],
       "impacts": [

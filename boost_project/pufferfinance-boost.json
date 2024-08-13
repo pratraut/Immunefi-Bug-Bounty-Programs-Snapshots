@@ -44,28 +44,32 @@
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x3C28B7c7Ba1A1f55c9Ce66b263B33B204f2126eA#code",
           "description": "[TimeLock.sol] - [289 nSLOC]",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-22T08:00:00.000Z"
         },
         {
           "id": "Vp5HhNZo73EtJ8JTtlRsL",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x7276925e42f9c4054afa2fad80fa79520c453d6a",
           "description": "[PufferDepositor.sol] - [208]",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-22T08:00:00.000Z"
         },
         {
           "id": "3NdyyZx2NPLR3ugCrVDF4L",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xd9a442856c234a39a81a089c06451ebaa4306a72",
           "description": "[PufferVault.sol] - [295]",
-          "isPrimacyOfImpact": null
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-02-22T08:00:00.000Z"
         },
         {
           "id": "ZXgVte55zg0AVBmonSabG",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xd9a442856c234a39a81a089c06451ebaa4306a72",
           "description": null,
-          "isPrimacyOfImpact": true
+          "isPrimacyOfImpact": true,
+          "addedAt": "2024-02-22T08:00:00.000Z"
         }
       ],
       "impacts": [
