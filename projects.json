@@ -1345,7 +1345,7 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-06T07:46:38.934Z",
+    "updatedDate": "2024-08-14T07:37:52.847Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1960,11 +1960,7 @@
     "endDate": null,
     "updatedDate": "2024-04-18T17:36:08.558Z",
     "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
+    "technologies": [],
     "immunefiStandard": true,
     "tags": {
       "general": [
@@ -3682,7 +3678,7 @@
     "date": "2021-09-08T14:00:00.000Z",
     "launchDate": "2021-09-08T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-06T11:02:20.390Z",
+    "updatedDate": "2024-08-14T07:33:13.873Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6030,52 +6026,6 @@
       ],
       "ecosystem": [
         "Fantom"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2ORLNeIdZAoechgwI4u2TJ",
-    "id": "spookyswap",
-    "project": "SpookySwap",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6JiqHo4RihNNlwpQDfjG68/51aa033d277f0db1afa5977aef732b32/SpookySwap__1_.png",
-    "date": "2021-09-21T08:00-05:00",
-    "launchDate": "2021-09-21T08:00-05:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:49:37.142Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "AMM",
-        "Bridge",
-        "Crosschain Liquidity",
-        "DEX",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "Bittorrent",
-        "Fantom",
-        "Horizen EON"
       ],
       "programType": [
         "Smart Contract"
@@ -9539,7 +9489,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-23T10:15:19.370Z",
+    "updatedDate": "2024-08-14T07:40:05.311Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -10027,10 +9977,10 @@
     "project": "Aleph Zero",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/ijqPWUm6i7qSGMKP6FJvR/312102e9caea0fea40c3573ffff31189/Aleph_Zero_logo.jpeg",
-    "date": "2023-08-16T11:30-06:00",
-    "launchDate": "2023-08-16T11:30-06:00",
+    "date": "2023-08-16T17:30:00.000Z",
+    "launchDate": "2023-08-16T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:53:57.069Z",
+    "updatedDate": "2024-08-14T09:27:49.472Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
