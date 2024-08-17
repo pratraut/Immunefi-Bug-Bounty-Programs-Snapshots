@@ -1958,9 +1958,13 @@
     "date": "2023-01-13T21:00:00.000Z",
     "launchDate": "2023-01-13T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-18T17:36:08.558Z",
+    "updatedDate": "2024-08-16T10:36:20.487Z",
     "kyc": true,
-    "technologies": [],
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
     "immunefiStandard": true,
     "tags": {
       "general": [
