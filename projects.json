@@ -90,7 +90,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-01T06:43:58.918Z",
+    "updatedDate": "2024-08-19T04:27:28.335Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1906,6 +1906,45 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "3WMzRBYHWXzf6d0Id9mCCi",
+    "id": "ondofinance",
+    "project": "Ondo Finance",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2dR2c08kamplNaWIiF37h6/c269496e763806bbbd815efa7c662590/ondo-logo.svg",
+    "date": "2023-03-07T21:00:00.000Z",
+    "launchDate": "2023-03-07T21:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-08-21T14:14:47.255Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Yield Aggregator"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "4S3wKY9duk9qogverDN2Bp",
     "id": "hydration",
     "project": "Hydration",
@@ -2004,11 +2043,11 @@
     "id": "starknet",
     "project": "StarkNet",
     "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/697QbnLLPl03S9Ds7IaYs5/de490ef7004e9340fad4921110c4c257/StarkNet_Icon.png",
-    "date": "2022-10-19T00:30-06:00",
-    "launchDate": "2022-10-19T00:30-06:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4ZifqdIHOxX3ckxGAMiQc6/4158480f9932b5fe099a1236902cd588/starknet.png",
+    "date": "2022-10-19T06:30:00.000Z",
+    "launchDate": "2022-10-19T06:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T19:01:06.933Z",
+    "updatedDate": "2024-08-19T04:38:27.229Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2220,10 +2259,7 @@
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:32.158Z",
     "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
+    "technologies": [],
     "immunefiStandard": true,
     "tags": {
       "general": [
@@ -2683,7 +2719,7 @@
     "date": "2024-07-23T02:00:00.000Z",
     "launchDate": "2024-07-23T02:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-30T06:10:20.466Z",
+    "updatedDate": "2024-08-19T04:32:45.504Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4119,7 +4155,7 @@
     "date": "2024-08-02T00:00:00.000Z",
     "launchDate": "2024-08-02T00:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-13T04:06:56.335Z",
+    "updatedDate": "2024-08-19T04:15:33.124Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4512,45 +4548,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "3WMzRBYHWXzf6d0Id9mCCi",
-    "id": "ondofinance",
-    "project": "Ondo Finance",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2dR2c08kamplNaWIiF37h6/c269496e763806bbbd815efa7c662590/ondo-logo.svg",
-    "date": "2023-03-07T21:00:00.000Z",
-    "launchDate": "2023-03-07T21:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-07-15T08:40:45.929Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "4F8koeO9KxiPH1L0u18zsW",
     "id": "burrow",
     "project": "Burrow",
@@ -4634,11 +4631,11 @@
     "id": "staderforbnb",
     "project": "Stader for BNB",
     "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5B2XH3N9cK4pKbqbysHS3k/d0aaaf24159ba72274fae7229daa8e0f/Stader_Brand_Icon_Logo.png",
-    "date": "2022-08-11T12:00-06:00",
-    "launchDate": "2022-08-11T12:00-06:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1NI4MIRW8BjdYssCSmoQxy/57fe2db619cbb9c2ca3687f57ca5bc36/Stader.png",
+    "date": "2022-08-11T18:00:00.000Z",
+    "launchDate": "2022-08-11T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T19:00:33.403Z",
+    "updatedDate": "2024-08-19T04:23:17.699Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -5691,13 +5688,13 @@
   {
     "contentfulId": "4pspSoJaelRH5xBmQ4QDrf",
     "id": "qblockchain",
-    "project": "Q Blockchain ",
+    "project": "Q Blockchain",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/DqPeHRrQH2BBseNdVHUtU/2d0ce9422603fa7ccaa43a972d468b0c/Q_Logo_RGB_Blue.svg",
-    "date": "2022-09-06T11:30-06:00",
-    "launchDate": "2022-09-06T11:30-06:00",
+    "date": "2022-09-06T17:30:00.000Z",
+    "launchDate": "2022-09-06T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:52:50.058Z",
+    "updatedDate": "2024-08-21T13:41:23.563Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -6317,7 +6314,7 @@
     "date": "2023-04-14T20:00:00.000Z",
     "launchDate": "2023-04-14T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-02T11:52:12.534Z",
+    "updatedDate": "2024-08-21T13:59:14.135Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -9695,7 +9692,7 @@
     "date": "2024-04-09T06:39:35.000Z",
     "launchDate": "2024-04-09T06:39:35.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-12T11:59:34.397Z",
+    "updatedDate": "2024-08-20T12:32:13.947Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10386,6 +10383,46 @@
       ],
       "ecosystem": [
         "Tron"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2cbDwLoeZI3Bx1yP4Q8MWe",
+    "id": "autonolas",
+    "project": "Autonolas",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4r8fmQqm5emK0IceVDJtLF/1c5f298890761f6b5342c04aa0df8c63/Autonolas_logo.jpeg",
+    "date": "2022-08-10T17:30:00.000Z",
+    "launchDate": "2022-08-10T17:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-08-19T12:34:07.154Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "DAO",
+        "Services"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
       ],
       "programType": [
         "Smart Contract"
@@ -11423,48 +11460,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "748PP3jfU4MG9zHJ0wcl2Y",
-    "id": "eckodex",
-    "project": "eckoDEX",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1F7ITbl32Ix19d54d1AhCO/9881ac95682a357e352bfa4adc3e8da8/kaddex.jpg",
-    "date": "2022-07-14T10:30-06:00",
-    "launchDate": "2022-07-14T10:30-06:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T19:00:48.365Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DAO",
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Kadena"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Pact"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "1dKipg7nQ7N7X8kAWLinsA",
     "id": "sora",
     "project": "SORA",
@@ -12055,49 +12050,6 @@
         "Arbitrum",
         "ETH",
         "Polygon"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "6CJeWVll2NNEV2kYrB7rOQ",
-    "id": "tidal",
-    "project": "Tidal",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/8W7fFTes98r7bTeodG3k2/41f7abb907cee9c722b38dd49b2dcb75/Tidal.jpeg",
-    "date": "2021-07-29T09:00-05:00",
-    "launchDate": "2021-07-29T09:00-05:00",
-    "endDate": null,
-    "updatedDate": "2023-03-22T17:17:21.651Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Insurance",
-        "Lending"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polkadot"
       ],
       "programType": [
         "Smart Contract",
@@ -13258,46 +13210,6 @@
       ]
     },
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3lXKAFtMJ8PK1t0bCfvFG7",
-    "id": "landx",
-    "project": "LandX",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7JXlJYBYRGKKXWw6wC1g09/46ebe44f1e6ecd3a643726be3f6c369a/LandX_Logo_CMYK_05_copy.png",
-    "date": "2023-12-01T14:00:00.000Z",
-    "launchDate": "2023-12-01T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:51:17.076Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "PoC Required",
-        "Vaults"
-      ],
-      "productType": [
-        "Lending",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "66rNNDUFFR8zNOhW4N03xE",
