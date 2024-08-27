@@ -1914,7 +1914,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-21T14:14:47.255Z",
+    "updatedDate": "2024-08-23T15:53:19.118Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -2254,12 +2254,14 @@
     "project": "BendDAO",
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4PIWMMp8ZqlAH9Z3xYsglc/741d9f126b4f7ab43f9ebe3a6a85717c/BendDAO_logo.png",
-    "date": "2022-04-21T20:30-06:00",
-    "launchDate": "2022-04-21T20:30-06:00",
+    "date": "2022-04-22T02:30:00.000Z",
+    "launchDate": "2022-04-22T02:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:54:32.158Z",
+    "updatedDate": "2024-08-21T18:17:18.546Z",
     "kyc": false,
-    "technologies": [],
+    "technologies": [
+      "Smart Contract"
+    ],
     "immunefiStandard": true,
     "tags": {
       "general": [
@@ -2278,8 +2280,7 @@
         "ETH"
       ],
       "programType": [
-        "Smart Contract",
-        "Websites and Applications"
+        "Smart Contract"
       ],
       "language": [
         "JavaScript",
@@ -5395,7 +5396,7 @@
     "date": "2024-01-25T20:00:00.000Z",
     "launchDate": "2024-01-25T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-05T08:55:51.476Z",
+    "updatedDate": "2024-08-22T12:48:37.218Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6350,11 +6351,11 @@
     "id": "vaultcraft",
     "project": "VaultCraft",
     "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2NPXVYtjmzJ1CVlLE4MSeB/88c1a0b4e70e47bfae1c79cdc1b98066/Popcorn_Symbol_RGB_White.png",
-    "date": "2022-01-26T20:30-07:00",
-    "launchDate": "2022-01-26T20:30-07:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4gY4iTDSAUifg40yi4Gz3q/7fe15ea0abbf2ca6f57d0833284b77db/VaultCraft.png",
+    "date": "2022-01-27T03:30:00.000Z",
+    "launchDate": "2022-01-27T03:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:56:36.939Z",
+    "updatedDate": "2024-08-22T11:17:58.687Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6580,52 +6581,6 @@
       ],
       "language": [
         "Clarity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "OjYueb6IiwIuL4z9mkVji",
-    "id": "blackwing",
-    "project": "Blackwing",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/211y15RiKToyNpEU3gOBKJ/062aa5feef7061022ad9d091cac751f9/blackwing1709824752018.png",
-    "date": "2024-04-30T03:36:00.000Z",
-    "launchDate": "2024-04-30T03:36:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-07-02T13:02:17.699Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Derivatives",
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH",
-        "BSC"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "NextJS"
       ]
     },
     "premiumTriaging": false
@@ -9896,11 +9851,11 @@
     "id": "pragmaoracle",
     "project": "Pragma Oracle",
     "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/290OmkrJp2kXLhhx88dtLQ/9e6ecab7ec3102963d0151db05bef30d/Pragma_logo_-_black.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4oI0gXaVamuG4KdqVG0LC1/fd67ba15a8d6811a385faa1c2a175bf0/Group__3_.png",
     "date": "2023-11-22T09:00:00.000Z",
     "launchDate": "2023-11-22T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-18T11:26:15.485Z",
+    "updatedDate": "2024-08-27T09:00:41.482Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
