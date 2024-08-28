@@ -4148,6 +4148,38 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "3W6uozU6kUQ7aFgTl2uLwR",
+    "id": "jito-foundation",
+    "project": "Jito",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7rNleS7nuHpc97aucvjUbp/8f9a7d9fbab73c7295370d1900cc5fe4/JitoFoundation.png",
+    "date": "2024-08-28T13:00:00.000Z",
+    "launchDate": "2024-08-28T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-08-28T13:58:10.426Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": []
+    },
+    "premiumTriaging": null
+  },
+  {
     "contentfulId": "2qnghE9MznxqFHSckj9FJf",
     "id": "kelp-dao",
     "project": "Kelp DAO",
@@ -8830,7 +8862,7 @@
     "date": "2021-06-09T07:00:00.000Z",
     "launchDate": "2021-06-09T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-26T05:56:54.331Z",
+    "updatedDate": "2024-08-28T12:03:22.374Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -12724,7 +12756,7 @@
     "date": "2024-01-10T09:00:00.000Z",
     "launchDate": "2024-01-10T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-21T15:47:06.994Z",
+    "updatedDate": "2024-08-28T14:25:50.055Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -12836,6 +12868,37 @@
         "Solidity",
         "JavaScript"
       ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "5WAEWfRGouMmfeXc52EftL",
+    "id": "flexytech",
+    "project": "Flexy",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7fRMApy3OxGoUzW0ctnnht/1416272894ee2fd1047e90183211b879/Flexy.tech.png",
+    "date": "2024-08-27T15:00:00.000Z",
+    "launchDate": "2024-08-27T15:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-08-27T13:33:55.694Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": []
     },
     "premiumTriaging": false
   },

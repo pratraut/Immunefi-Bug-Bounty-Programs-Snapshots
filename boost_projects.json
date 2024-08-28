@@ -207,17 +207,28 @@ In a few days after the launch, Mellow & Lido will give a live technical walkthr
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1am7TbpqOJP8hBh1WulSGF/23beae2bc95f2c93764fbdb5eaa49ab1/Folks_Finance_logo.png",
     "date": "2024-08-27T11:00:00.000Z",
     "launchDate": "2024-08-27T11:00:00.000Z",
-    "endDate": "2024-09-05T08:59:00.000Z",
-    "updatedDate": "2024-08-27T09:49:32.820Z",
+    "endDate": "2024-09-05T11:00:00.000Z",
+    "updatedDate": "2024-08-27T12:17:24.328Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
       "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
         "Triaged by Immunefi"
-      ]
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": []
     },
     "evaluationEndDate": null,
     "boostedIntroStartingIn": "$25,000 USD in rewards are available to assess whether the set of fixes from the original Folks Finance Boost both fully resolve the reported vulnerabilities and do not introduce new ones.
@@ -243,23 +254,7 @@ No KYC is required.",
       "Boost",
       "Managed Triage: Time Saver"
     ],
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
