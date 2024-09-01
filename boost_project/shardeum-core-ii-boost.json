@@ -1,0 +1,172 @@
+{
+  "pageProps": {
+    "bounty": {
+      "contentfulId": "3ONlvASRd4Xbfx0ZfQ9fBp",
+      "id": "shardeum-core-ii-boost",
+      "slug": "shardeum-core-ii-boost",
+      "project": "Boost | Shardeum: Core II",
+      "maxBounty": 150000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3pQP9TMw0MizXDfwmOSf40/40fec7480d34cc54384000dd1045ab00/Shardeum_Logo_Icon_Light_-_Square__1_.png",
+      "launchDate": "2024-09-04T12:00:00.000Z",
+      "endDate": "2024-10-02T12:00:00.000Z",
+      "updatedDate": "2024-08-30T13:42:09.001Z",
+      "kyc": false,
+      "rewards": [
+        {
+          "assetType": "blockchain_dlt",
+          "level": "critical",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "blockchain_dlt",
+          "level": "high",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "blockchain_dlt",
+          "level": "medium",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "blockchain_dlt",
+          "level": "low",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "1IIQS3rQenRZz28tzYsUJH",
+          "type": "blockchain_dlt",
+          "url": "https://github.com/shardeum/shardus-core/tree/dev",
+          "description": "Core [53000]",
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-09-04T12:00:00.000Z"
+        },
+        {
+          "id": "6hJyOnA3lEYtpzabdZ4m8g",
+          "type": "blockchain_dlt",
+          "url": "https://github.com/shardeum/shardeum/tree/dev",
+          "description": "Validator [22461]",
+          "isPrimacyOfImpact": null,
+          "addedAt": "2024-09-04T12:00:00.000Z"
+        },
+        {
+          "id": "1KJLM6CryMGriez1rqg6EG",
+          "type": "blockchain_dlt",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true,
+          "addedAt": "2024-09-04T12:00:00.000Z"
+        }
+      ],
+      "impacts": [
+        {
+          "id": "2V1W5RtgQ5CAt36AYAjYhh",
+          "title": "Network not being able to confirm new transactions (total network shutdown)",
+          "type": "blockchain_dlt",
+          "severity": "critical"
+        },
+        {
+          "id": "MpkAHul8FpgYanonXu0yV",
+          "title": "Blocking Specific Transactions",
+          "type": "blockchain_dlt",
+          "severity": "high"
+        },
+        {
+          "id": "49Dnl3DcIuMAy8VTPb8UqS",
+          "title": "Causing network processing nodes to process transactions from the transaction queue beyond set parameters",
+          "type": "blockchain_dlt",
+          "severity": "medium"
+        },
+        {
+          "id": "5vza4v3z3HxDLFnCjfEJ7b",
+          "title": "Modification of transaction fees outside of design parameters",
+          "type": "blockchain_dlt",
+          "severity": "low"
+        }
+      ],
+      "programOverview": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent boosts. This boost, will cover the Web3 aspects of the project. This will cover two components: Shardus Core Protocol and Shardeum Validator Nodes.\n\nFor more information about Shardeum, please visit [https://shardeum.org/](https://shardeum.org/).\n\nShardeum provides rewards in USDC, denominated in USD.",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "The following reward terms are a summary, for the full details read our [Shardeum Core II Reward Terms](zd)\n\nThe reward pool will be entirely distributed among participants. The size depends on the bugs found:\n- If one or more Critical severity bugs are found, **the reward pool will be 100% of the respective reward pool, $150,000 USD **\n- If one or more High severity bugs are found,** the reward pool will be 75% of the respective reward pool, $112,500 USD**\n- If one or more Medium severity bugs are found, **the reward pool will be 50% of the respective reward pool, $75,000 USD**\n- If Low severity bugs or no bugs are found,** the reward pool will be 25% of the respective reward pool, $37,500 USD **\n\n**Duplicates of Insight reports are not eligible for a reward. **\n\nFor this Boost, duplicates and private known issues are valid for a reward. \n\nPrivate known issues will unlock higher reward pools according to their severity level without any downgrade. For example, a Critical severity bug which was a private known issue would unlock the reward pool conditional on a Critical severity bug being found.\n\nRewards are distributed according to the impact of the vulnerability based on the Immunefi [Vulnerability Severity Classification System V2.3](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/). \n\n__Reward Payment Terms__\n\nPayouts are handled by the Shardeum team directly and are denominated in USD. However, payments are done in USDC.\n\nRewards will be distributed all at once based on Immunefi’s distribution formula after the event has concluded and the final bug reports have been resolved.\n\n__Insight Rewards Payment Terms__\n\nInsight Rewards: Portion of the Rewards Pool\n\nThe \"Insight\" severity was introduced on Boost & Attackathon programs to recognize contributions that extend beyond identifying immediate vulnerabilities. Currently, it's not an option to select the Insight severity when submitting a report. However, our team or program will designate it accordingly if applicable. \"Insights\" underscores our commitment to valuing all types of contributions that contribute to a more secure environment and will always be rewarded. [View more information about Insights](https://immunefisupport.zendesk.com/hc/en-us/articles/13333032674961-Severity-Classification-System?utm_source=immunefi).",
+      "outOfScopeAndRules": "These impacts are out of scope for this bug bounty program. \n\n__All Categories:__\n\n- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (governance, strategist) except in such cases where the contracts are intended to have no privileged access to functions that make the attack possible\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n\n__Blockchain/DLT & Smart Contract Specific:__\n\n- Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks\n\n__Prohibited Activities:__\n\n- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "assetsBodyV2": "Shardeum’s up to date codebase can be found at [https://github.com/shardeum/](https://github.com/shardeum/).\n\nA note on Shardeum and Shardus Core scope: the default config in the dev branch is in scope. Whitehats are free to configure, patch, and modify their own malicious nodes however they want. However, target nodes must be running the default config in dev. This is to prevent the whitehats from wasting time reporting things we specifically allow in debug mode. The only exception is minNodes and maxNodes settings, which allow different size networks to be created. Certain vulnerabilities may only exist in certain network sizes, and we do not wish to limit Whitehat activity and participation for lack of computing power attempting to run a large local network. However, network-wide attacks that only work under 128 nodes may be rejected or reduced in severity at our discretion. If the researchers can enable debug mode options remotely then that is valid and can be paid out.\n\nAttacks that require the network to still be initializing/bootstrapping are out of scope. Wait until the network mode reaches “processing” + 15 cycles after startup before launching attacks. The rules for staking/join are a little different and the network will not be public during this time. Attacks on a network that is repairing itself (was once in “processing” mode but has since degraded to “safety” or “recovery”) are in scope.\n\nAttacks that require lots of network traffic, large messages, or many connections are at risk of being degraded to insight.\n\n0day vulnerabilities in dependencies will have a max impact of insight. Any other vuln in dependencies is out of scope.\n\nAny report based on unit tests, simulations, or anything not a fully functioning network, will have a max impact of low.\n\nSmart contracts are out of scope\n\nFinally, the more nodes that are required to launch an attack, the more at risk the vuln is of being downgraded. If it takes 33% (for example) of the nodes in the network being malicious to cause damage, then it becomes difficult to distinguish the impact from a brute-force/51% attack, which is completely out of scope.\n\n__Mid-Contest Code Updates__\n\nIn this contest bug fixes may be applied mid-contest. This is required for Shardeum to test changes on their beta networks in preparation for an imminent mainnet launch.\n\nThe project is to keep changes private as far as possible. When changes need to be made public, then the changelog will be updated here & in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi?utm_source=immunefi). Publicly fixed bugs are invalid and the scope is updated to the new code.\n\nAll bug reports before the fix was public will earn a reward. All bug reports after are invalid. If a new bug is introduced by their fix then it is valid for a reward.\n\n__Mid-Contest Changelog__",
+      "impactsBody": "__Proof of Concept (PoC) Requirements__\n\nPOCs should be tested against the most recent changes on the /tree/dev github repo.\n\nA PoC, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules).",
+      "immunefiStandard": true,
+      "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "productType": [
+          "L1"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "ecosystem": [
+          "Shardeum"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "language": [
+          "Typescript"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Blockchain/DLT"
+        ],
+        "blockchain_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "High",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "Medium",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "Low",
+            "payout": "Portion of the Reward Pool"
+          }
+        ],
+        "smartcontract_rewards": [],
+        "web_rewards": []
+      },
+      "websiteUrl": null,
+      "description": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and solid security.",
+      "githubUrl": null,
+      "defaultFeasibilityLimitations": null,
+      "defaultProhibitedActivites": null,
+      "premiumTriaging": true
+    },
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
+    "metaData": {
+      "title": "Boost | Shardeum: Core II Bug Bounties | Immunefi",
+      "description": "Find bugs and vulnerabilities on Boost | Shardeum: Core II and get paid up to $150,000.",
+      "url": "https://immunefi.com/bug-bounty/shardeum-core-ii-boost",
+      "ogImg": "/api/bounty/og-image?project=Boost+%7C+Shardeum%3A+Core+II"
+    },
+    "bbpPageV2Enabled": true,
+    "layoutProps": {
+      "headerMarginBottom": "mb-3 lg:mb-15",
+      "footerMarginTop": "mt-0"
+    }
+  },
+  "__N_SSG": true
+}

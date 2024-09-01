@@ -1438,7 +1438,7 @@
     "date": "2024-07-02T08:30:00.000Z",
     "launchDate": "2024-07-02T08:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-02T08:34:29.957Z",
+    "updatedDate": "2024-08-30T10:38:09.576Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2386,11 +2386,11 @@
     "id": "moonbeamnetwork",
     "project": "Moonbeam Network",
     "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1StyHlTZ2MSJXaKxaNp8J4/f16943b1d65ac45770b2aa17e354600b/Moonbeam_Logo.jpeg",
-    "date": "2021-12-16T11:00-07:00",
-    "launchDate": "2021-12-16T11:00-07:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4US5CNdpvCjBHHpUbUip3m/7de4ab736d271da97aa27415585755f4/Moonbeam_Icon_White_2x.png",
+    "date": "2021-12-16T18:00:00.000Z",
+    "launchDate": "2021-12-16T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2022-10-21T10:28:22.282Z",
+    "updatedDate": "2024-08-29T08:43:24.547Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -3258,7 +3258,7 @@
     "date": "2022-07-05T16:30:00.000Z",
     "launchDate": "2022-07-05T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-27T13:47:22.370Z",
+    "updatedDate": "2024-08-28T20:41:14.448Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4266,7 +4266,7 @@
     "date": "2024-06-24T16:00:00.000Z",
     "launchDate": "2024-06-24T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-24T16:09:32.089Z",
+    "updatedDate": "2024-08-30T16:52:20.262Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5320,7 +5320,8 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "Yield Aggregator"
@@ -9522,11 +9523,11 @@
     "id": "cowprotocol",
     "project": "CoW Protocol",
     "maximum_reward": 54000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/52KySvMaXM8rslI5JRh9mP/0f7b3bf9802fcab2b92d274e1e53327a/Gnosis__1_.jpeg",
-    "date": "2021-06-15T12:00-05:00",
-    "launchDate": "2021-06-15T12:00-05:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2SCCBIzc5z3ZxUhwhW1NSK/c6616b0b6f3bbacfebd5a6ea18f929dd/CoW-Protocol-icon-circle-light-purple.png",
+    "date": "2021-06-15T17:00:00.000Z",
+    "launchDate": "2021-06-15T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2023-01-25T16:12:24.985Z",
+    "updatedDate": "2024-08-28T21:09:20.425Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -9539,13 +9540,15 @@
         "PoC Not Required"
       ],
       "productType": [
-        "Wallet"
+        "AMM",
+        "DEX"
       ],
       "projectType": [
         "Defi"
       ],
       "ecosystem": [
-        "ETH"
+        "ETH",
+        "Gnosis"
       ],
       "programType": [
         "Smart Contract"
@@ -12123,45 +12126,6 @@
       ],
       "ecosystem": [
         "Arbitrum",
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "41P9DBQvA0hfLgNYJdSZ5C",
-    "id": "pooltogether",
-    "project": "PoolTogether",
-    "maximum_reward": 22727,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4X0NvdABdyX5Sm65C517fW/309d563985643bec8865639cf271c8c3/Pooltogether-logo.jpg",
-    "date": "2024-05-06T07:00:00.000Z",
-    "launchDate": "2024-05-06T07:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-07-24T15:22:41.558Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Lottery"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
         "ETH"
       ],
       "programType": [
