@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
       "id": "folksfinance-boost",
@@ -9,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6J3xxAowY0ZlOFTEciL88K/752c37cc0e37232a1f9075df7609c79c/Folks_Finance_logo.png",
       "launchDate": "2024-07-16T08:00:00.000Z",
       "endDate": "2024-08-06T08:00:00.000Z",
-      "updatedDate": "2024-08-19T17:11:23.703Z",
+      "updatedDate": "2024-09-27T12:50:21.970Z",
       "kyc": false,
       "rewards": [
         {
@@ -45,6 +52,7 @@
           "url": "https://testnet.snowtrace.io/address/0xa9491a1f4f058832e5742b76eE3f1F1fD7bb6837",
           "description": "Smart Contract - BridgeRouterHub",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -53,6 +61,7 @@
           "url": "https://testnet.snowtrace.io/address/0x0f91d914E058d0588Cc1bf35FA3736A627C3Ba81",
           "description": "Smart Contract - BridgeRouterSpoke",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -61,6 +70,7 @@
           "url": "https://testnet.snowtrace.io/address/0xf472ab58969709De9FfEFaeFFd24F9e90cf8DbF9",
           "description": "Smart Contract - HubAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -69,6 +79,7 @@
           "url": "https://testnet.snowtrace.io/address/0x8F27355662D6de024FEE83b176dD8DB1F2CA1585/",
           "description": "Smart Contract - WormholeDataAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -77,6 +88,7 @@
           "url": "https://testnet.snowtrace.io/address/0x8a81dbF6D6b6A8693181de7ad6Ff7F4c47a5B8bd",
           "description": "Smart Contract - WormholeCCTPAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -85,6 +97,7 @@
           "url": "https://testnet.snowtrace.io/address/0xE7F80b606614989209f2c36F6074bAfDe1565A19",
           "description": "Smart Contract - CCIPDataAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -93,6 +106,7 @@
           "url": "https://testnet.snowtrace.io/address/0x006A9A176662920306074bB00B57f5CA836e4200",
           "description": "Smart Contract - CCIPTokenAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -101,6 +115,7 @@
           "url": "https://testnet.snowtrace.io/address/0xaE4C62510F4d930a5C8796dbfB8C4Bc7b9B62140",
           "description": "Smart Contract - Hub",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -109,6 +124,7 @@
           "url": "https://testnet.snowtrace.io/address/0xA758c321DF6Cd949A8E074B22362a4366DB1b725",
           "description": "Smart Contract - NodeManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -117,6 +133,7 @@
           "url": "https://testnet.snowtrace.io/address/0x46c425F4Ec43b25B6222bcc05De051e6D3845165",
           "description": "Smart Contract - OracleManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -125,6 +142,7 @@
           "url": "https://testnet.snowtrace.io/address/0xA5b9525a0A46d4D4bf6f588f565f0d15AffDB81d",
           "description": "Smart Contract - SpokeManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -133,6 +151,7 @@
           "url": "https://testnet.snowtrace.io/address/0x3324B5BF2b5C85999C6DAf2f77b5a29aB74197cc",
           "description": "Smart Contract - AccountManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -141,6 +160,7 @@
           "url": "https://testnet.snowtrace.io/address/0x2cAa1315bd676FbecABFC3195000c642f503f1C9",
           "description": "Smart Contract - LoanManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -149,6 +169,7 @@
           "url": "https://testnet.snowtrace.io/address/0xf8E94c5Da5f5F23b39399F6679b2eAb29FE3071e",
           "description": "Smart Contract - UserLoanLogic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -157,6 +178,7 @@
           "url": "https://testnet.snowtrace.io/address/0xEdbB349EB3FC66a0C8AaC7933c690b000079505c",
           "description": "Smart Contract - LoanPoolLogic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -165,6 +187,7 @@
           "url": "https://testnet.snowtrace.io/address/0xc1FBF54B25816B60ADF322d8A1eaCA37D9A50317",
           "description": "Smart Contract - LiquidationLogic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -173,6 +196,7 @@
           "url": "https://testnet.snowtrace.io/address/0x1A44f534B2a7Ce689156965cdcAA75590Cd1E115",
           "description": "Smart Contract - LoanManagerLogic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -181,6 +205,7 @@
           "url": "https://testnet.snowtrace.io/address/0xe83DD670241189949f910493F5F016Ba5df6549d",
           "description": "Smart Contract - RewardLogic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -189,6 +214,7 @@
           "url": "https://testnet.snowtrace.io/address/0x96e957bF63B5361C5A2F45C97C46B8090f2745C2",
           "description": "Smart Contract - HubPoolLogic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -197,6 +223,7 @@
           "url": "https://testnet.snowtrace.io/address/0x1968237f3a7D256D08BcAb212D7ae28fEda72c34",
           "description": "Smart Contract - HubCircleTokenPool  (USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -205,6 +232,7 @@
           "url": "https://testnet.snowtrace.io/address/0xd90B7614551E799Cdef87463143eCe2efd4054f9",
           "description": "Smart Contract - HubNonBridgedTokenPool (AVAX)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -213,6 +241,7 @@
           "url": "https://testnet.snowtrace.io/address/0xecD328082035146d99fd621E809Bc9642cDd0BAd",
           "description": "Smart Contract - HubNonBridgedTokenPool (ETH Ethereum Sepolia)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -221,6 +250,7 @@
           "url": "https://testnet.snowtrace.io/address/0x9E7dfcDFA94C007e868917ec3088107De0B8Dff8",
           "description": "Smart Contract - HubNonBridgedTokenPool (ETH Base Sepolia)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -229,6 +259,7 @@
           "url": "https://testnet.snowtrace.io/address/0x457f30Bc85E885e4D519975C1dd87F397d4817B7",
           "description": "Smart Contract - AlwaysEligibleAddressOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -237,6 +268,7 @@
           "url": "https://testnet.snowtrace.io/address/0x6628cE08b54e9C8358bE94f716D93AdDcca45b00",
           "description": "Smart Contract - SpokeCommon",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -245,6 +277,7 @@
           "url": "https://testnet.snowtrace.io/address/0x89df7db4af48Ec7A84DE09F755ade9AF1940420b",
           "description": "Smart Contract - SpokeCircleToken (USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -253,6 +286,7 @@
           "url": "https://testnet.snowtrace.io/address/0xBFf8b4e5f92eDD0A5f72b4b0E23cCa2Cc476ce2a",
           "description": "Smart Contract - SpokeGasToken (AVAX)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -261,6 +295,7 @@
           "url": "https://sepolia.etherscan.io/address/0xBeF7aB7C5e6CeFF384cde460dd20C862047CDFa5",
           "description": "Smart Contract - BridgeRouterSpoke",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -269,6 +304,7 @@
           "url": "https://sepolia.etherscan.io/address/0xC0CFfA934598E655DC8D25Cd1774F249FFCF5e59",
           "description": "Smart Contract - WormholeDataAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -277,6 +313,7 @@
           "url": "https://sepolia.etherscan.io/address/0x7cdB014Bc73C74Da5b3830eDE6a4494ec52C3738",
           "description": "Smart Contract - WormholeCCTPAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -285,6 +322,7 @@
           "url": "https://sepolia.etherscan.io/address/0xa51cA34831CEB2F8BafE4ADEf032286E067EF2ad",
           "description": "Smart Contract - CCIPDataAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -293,6 +331,7 @@
           "url": "https://sepolia.etherscan.io/address/0x0100F7f027EC3B4B4Fd8bB739efd8BDDBa3bF847",
           "description": "Smart Contract - CCIPTokenAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -301,6 +340,7 @@
           "url": "https://sepolia.etherscan.io/address/0x2b760759e4f8D994BeB2B9aFBA8De37eCf13F9B3",
           "description": "Smart Contract - AlwaysEligibleAddressOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -309,6 +349,7 @@
           "url": "https://sepolia.etherscan.io/address/0x16Eecb8CeB2CE4Ec542634d7525191dfce587C85",
           "description": "Smart Contract - SpokeCommon",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -317,6 +358,7 @@
           "url": "https://sepolia.etherscan.io/address/0x40C77F8cc70DF8F6D7A91ebb5291d38d42540455",
           "description": "Smart Contract - SpokeCircleToken (USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -325,6 +367,7 @@
           "url": "https://sepolia.etherscan.io/address/0x9ecfD854F4F8BD2275930Cc51d45d7817EF6CeE3",
           "description": "Smart Contract - SpokeGasToken (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -333,6 +376,7 @@
           "url": "https://sepolia.etherscan.io/address/0x8Aac7fA5B2d0c7Ca4f1610bB43CF0d62A670Fa14",
           "description": "Smart Contract - SpokeErc20Token (LINK)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -341,6 +385,7 @@
           "url": "https://sepolia.basescan.org/address/0x92051Ad708C4e5FCcC7322c111F63440D638312e",
           "description": "Smart Contract - BridgeRouterSpoke",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -349,6 +394,7 @@
           "url": "https://sepolia.basescan.org/address/0x56d9a6e25E9e31080A3Ab1bd4a6f7bd0B4C884Da",
           "description": "Smart Contract - WormholeDataAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -357,6 +403,7 @@
           "url": "https://sepolia.basescan.org/address/0x8c8E4Eb83138D2625a14F0517E0106D26F9c23f3",
           "description": "Smart Contract - WormholeCCTPAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -365,6 +412,7 @@
           "url": "https://sepolia.basescan.org/address/0x08447025BB3D7249cb6566E579b1d309679c7720",
           "description": "Smart Contract - CCIPDataAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -373,6 +421,7 @@
           "url": "https://sepolia.basescan.org/address/0x22644D46e5aE39Fa6b9d9706AaA1d398E5EB8aBc",
           "description": "Smart Contract - CCIPTokenAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -381,6 +430,7 @@
           "url": "https://sepolia.basescan.org/address/0x2b760759e4f8D994BeB2B9aFBA8De37eCf13F9B3",
           "description": "Smart Contract - AlwaysEligibleAddressOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -389,6 +439,7 @@
           "url": "https://sepolia.basescan.org/address/0x993C9a918B145B90E69A8D22B7e3b6d3413e3755",
           "description": "Smart Contract - SpokeCommon",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -397,6 +448,7 @@
           "url": "https://sepolia.basescan.org/address/0x7cdB014Bc73C74Da5b3830eDE6a4494ec52C3738",
           "description": "Smart Contract - SpokeCircleToken (USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -405,6 +457,7 @@
           "url": "https://sepolia.basescan.org/address/0xa51cA34831CEB2F8BafE4ADEf032286E067EF2ad",
           "description": "Smart Contract - SpokeGasToken (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T08:00:00.000Z"
         },
         {
@@ -413,6 +466,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-17T18:31:22.367Z"
         }
       ],
@@ -518,6 +572,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -545,27 +602,338 @@
         ],
         "web_rewards": []
       },
+      "evaluationEndDate": "2024-08-30T10:30:00.000Z",
+      "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Folks Finance. to assess whether the set of fixes from the original Folks Finance Boost both fully resolve the reported vulnerabilities and do not introduce new ones. Hunting on a Mitigation Audit involves understanding the root cause of the issues and verifying that the patches or mitigations directly address the causes.\n\n\nFolks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.\n\nFolks Finance are expanding with a new cross-chain lending protocol using a hub and spoke model. The hub chain, Avalanche, contains the main logic and state of the lending protocol. The spoke chains, initially EVM, act as an entry point for a user to interact with the protocol.\n\nNo KYC is required.\n\nFolks Finance will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"folks-finance-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nOn July 18th, Folks Finance will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+      "boostedIntroLive": "",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1fOTfJxylAg5YnFkbf8jOiASuAatopinO).\n\nAll paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Boost%20%7C%20Folks%20Finance).",
+      "rewardsToken": "USDC",
+      "rewardsPool": 100000,
+      "sourceLinesOfCode": 4956,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1NI_O0_lJ6w9emEJlDogF5M_BCLkf8mNX/view?usp=sharing",
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [
+        {
+          "high": 1,
+          "name": "zarkk",
+          "critical": 1,
+          "earnings": 26633,
+          "insights": 1,
+          "mediumLow": 3,
+          "totalValidBugs": 5
+        },
+        {
+          "high": 0,
+          "name": "nnez",
+          "critical": 2,
+          "earnings": 12485,
+          "insights": 0,
+          "mediumLow": 9,
+          "totalValidBugs": 11
+        },
+        {
+          "high": 1,
+          "name": "A2Security",
+          "critical": 2,
+          "earnings": 10319,
+          "insights": 1,
+          "mediumLow": 6,
+          "totalValidBugs": 9
+        },
+        {
+          "high": 1,
+          "name": "alix_40",
+          "critical": 0,
+          "earnings": 6838,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "kankodu",
+          "critical": 1,
+          "earnings": 6536,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "ethprotector",
+          "critical": 1,
+          "earnings": 5695,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "JCN2023",
+          "critical": 1,
+          "earnings": 5217,
+          "insights": 0,
+          "mediumLow": 5,
+          "totalValidBugs": 6
+        },
+        {
+          "high": 0,
+          "name": "OxAnmol",
+          "critical": 1,
+          "earnings": 4004,
+          "insights": 3,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Shahen",
+          "critical": 1,
+          "earnings": 3028,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "arno",
+          "critical": 1,
+          "earnings": 2828,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Tripathi",
+          "critical": 0,
+          "earnings": 1923,
+          "insights": 1,
+          "mediumLow": 4,
+          "totalValidBugs": 4
+        },
+        {
+          "high": 0,
+          "name": "chista0x",
+          "critical": 0,
+          "earnings": 1737,
+          "insights": 2,
+          "mediumLow": 3,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 1,
+          "name": "Nyksx",
+          "critical": 0,
+          "earnings": 1703,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "cryptoticky",
+          "critical": 0,
+          "earnings": 1606,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "bbl4de",
+          "critical": 0,
+          "earnings": 1323,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "jovi",
+          "critical": 0,
+          "earnings": 1052,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "OxSCSamurai",
+          "critical": 0,
+          "earnings": 980,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "gizzy",
+          "critical": 0,
+          "earnings": 875,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Lastc0de",
+          "critical": 0,
+          "earnings": 688,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "OxAnmol",
+          "critical": 0,
+          "earnings": 688,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "IronsideSec",
+          "critical": 0,
+          "earnings": 688,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Pavan",
+          "critical": 0,
+          "earnings": 649,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "QuantumKid",
+          "critical": 0,
+          "earnings": 501,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Obin",
+          "critical": 0,
+          "earnings": 501,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Ironside_Sec",
+          "critical": 0,
+          "earnings": 446,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Paludo0x",
+          "critical": 0,
+          "earnings": 283,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Kalogerone",
+          "critical": 0,
+          "earnings": 213,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "OxG0P1",
+          "critical": 0,
+          "earnings": 213,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "twcctop",
+          "critical": 0,
+          "earnings": 167,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "iamandreiski",
+          "critical": 0,
+          "earnings": 133,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "seesnap",
+          "critical": 0,
+          "earnings": 47,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        }
+      ],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": null,
       "websiteUrl": "https://folks.finance/it",
       "description": "Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | Folks Finance Bug Bounties | Immunefi",
+      "title": "Boost | Folks Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Boost | Folks Finance and get paid up to $100,000.",
-      "url": "https://immunefi.com/bug-bounty/folksfinance-boost",
+      "url": "https://immunefi.com/audit-competition/folksfinance-boost",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+Folks+Finance"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

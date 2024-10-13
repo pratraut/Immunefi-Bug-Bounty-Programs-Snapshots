@@ -93,6 +93,7 @@
           "url": "https://etherscan.io/address/0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29#code",
           "description": "Forta Token Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -101,6 +102,7 @@
           "url": "https://polygonscan.com/address/0x107Ac13567b1b5D84691f890A5bA07EdaE1a11c3#code",
           "description": "Access Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -109,6 +111,7 @@
           "url": "https://polygonscan.com/address/0xbb12476ab9f27d3b441964B0aFC03D14a82e1D64#code",
           "description": "Router Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -117,6 +120,7 @@
           "url": "https://polygonscan.com/address/0x61447385B019187daa48e91c55c02AF1F1f3F863#code",
           "description": "Agents (Detection Bots) Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -125,6 +129,7 @@
           "url": "https://polygonscan.com/address/0xbF2920129f83d75DeC95D97A879942cCe3DcD387#code",
           "description": "Scanners Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -133,6 +138,7 @@
           "url": "https://polygonscan.com/address/0xd46832F3f8EA8bDEFe5316696c0364F01b31a573#code",
           "description": "Dispatch Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -141,6 +147,7 @@
           "url": "https://polygonscan.com/address/0x356A8ee5D3bCc183c2c7853F11D19f4C7622396F#code",
           "description": "Forwarder",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -149,6 +156,7 @@
           "url": "https://polygonscan.com/address/0x9ff62d1FC52A907B6DCbA8077c2DDCA6E6a9d3e1#code",
           "description": "Forta Token (Bridged) and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -157,6 +165,7 @@
           "url": "https://polygonscan.com/address/0xd2863157539b1D11F39ce23fC4834B62082F6874#code",
           "description": "Staking Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -165,6 +174,7 @@
           "url": "https://polygonscan.com/address/0x587969Add789c13F64Bcc34Ff253BD9BFB78f38a#code",
           "description": "Staking Parameters Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -173,6 +183,7 @@
           "url": "https://polygonscan.com/address/0x4720c872425876B6f4b4E9130CDef667aDE553b2#code",
           "description": "Scanner Node Version Proxy and corresponding implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -181,6 +192,7 @@
           "url": "https://explorer.forta.network/",
           "description": "Explorer",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -189,6 +201,7 @@
           "url": "https://app.forta.network/",
           "description": "Forta App",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -197,6 +210,7 @@
           "url": "https://api.forta.network/graphql",
           "description": "Alert API",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -205,6 +219,7 @@
           "url": "https://github.com/forta-network/forta-node",
           "description": "Forta Node",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T10:30-06:00"
         },
         {
@@ -213,6 +228,7 @@
           "url": "https://explorer.forta.network/bot-search",
           "description": "Nodes/ detection bots deployed on the forta network as listed on the Forta App.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T16:36:56.063Z"
         },
         {
@@ -221,6 +237,7 @@
           "url": "https://explorer.forta.network/network",
           "description": "Forta network",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-28T16:37:13.557Z"
         }
       ],
@@ -475,6 +492,9 @@
         "language": [
           "Go",
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -541,8 +561,29 @@
       "websiteUrl": null,
       "description": "Forta is a decentralized monitoring network to detect threats and anomalies on DeFi, NFT, governance, bridges and other Web3 systems in real-time.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "FORT",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -550,12 +591,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Forta Network Bug Bounties | Immunefi",
+      "title": "Forta Network Bug Bounties",
       "description": "Find bugs and vulnerabilities on Forta Network and get paid up to $80,000.",
       "url": "https://immunefi.com/bug-bounty/forta",
       "ogImg": "/api/bounty/og-image?project=Forta+Network"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

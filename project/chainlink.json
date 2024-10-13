@@ -69,6 +69,7 @@
           "url": "https://github.com/smartcontractkit/chainlink/tree/develop/core",
           "description": "Chainlink Core Node",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-12T11:04:01.802Z"
         },
         {
@@ -77,6 +78,7 @@
           "url": "https://github.com/smartcontractkit/libocr",
           "description": "LibOCR",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-12T11:03:58.050Z"
         },
         {
@@ -85,6 +87,7 @@
           "url": "https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts",
           "description": "Solana programs",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-12T11:03:55.832Z"
         },
         {
@@ -93,6 +96,7 @@
           "url": "https://github.com/smartcontractkit/chainlink/tree/master/contracts",
           "description": "Core",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-12T11:03:53.882Z"
         },
         {
@@ -101,6 +105,7 @@
           "url": "https://faucets.chain.link/",
           "description": " Faucets",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-12T11:03:47.861Z"
         },
         {
@@ -109,6 +114,7 @@
           "url": "https://data.chain.link/",
           "description": "Data",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-10-12T23:14:33.661Z"
         },
         {
@@ -117,6 +123,7 @@
           "url": "https://chain.link/",
           "description": "Main Web App",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-10-12T23:14:31.131Z"
         },
         {
@@ -125,6 +132,7 @@
           "url": "https://github.com/smartcontractkit/ccip/tree/ccip-develop/contracts/src/v0.8/ccip",
           "description": "CCIP",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-27T10:26:18.308Z"
         },
         {
@@ -133,6 +141,7 @@
           "url": "https://github.com/smartcontractkit/ccip-owner-contracts/tree/main",
           "description": "CCIP Owner",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-27T10:26:34.827Z"
         },
         {
@@ -141,6 +150,7 @@
           "url": "https://github.com/smartcontractkit/external-adapters-js/",
           "description": "External Adapters component of the Chainlink stack",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-27T10:26:50.964Z"
         },
         {
@@ -149,6 +159,7 @@
           "url": "https://github.com/smartcontractkit/operator-ui",
           "description": "Chainlink Core Node UI",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-27T10:36:11.008Z"
         },
         {
@@ -157,6 +168,7 @@
           "url": "https://github.com/smartcontractkit/ccip/tree/ccip-develop/core/services/ocr2/plugins/ccip",
           "description": "CCIP Plugin",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-27T10:40:39.248Z"
         },
         {
@@ -165,6 +177,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-27T10:55:32.678Z"
         }
       ],
@@ -381,6 +394,9 @@
           "Rust",
           "Solidity",
           "Typescript"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -429,8 +445,31 @@
       "websiteUrl": null,
       "description": "Chainlink is the industry-standard Web3 services platform. It has enabled trillions of dollars in transaction volume across DeFi, on-chain finance, gaming, NFTs, and other major industries. As the leading decentralized oracle network, Chainlink empowers developers to build feature-rich Web3 applications with seamless access to real-world data and off-chain computation across any blockchain.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC, ETH",
+      "eligibilityCriteria": [
+        "no_ofac_sdn"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -438,12 +477,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Chainlink Bug Bounties | Immunefi",
+      "title": "Chainlink Bug Bounties",
       "description": "Find bugs and vulnerabilities on Chainlink and get paid up to $3,000,000.",
       "url": "https://immunefi.com/bug-bounty/chainlink",
       "ogImg": "/api/bounty/og-image?project=Chainlink"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

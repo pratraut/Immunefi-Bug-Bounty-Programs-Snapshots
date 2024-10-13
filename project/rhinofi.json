@@ -45,6 +45,7 @@
           "url": "https://etherscan.io/address/0x28780349a33eee56bb92241baab8095449e24306#code",
           "description": "DA Committee",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://etherscan.io/token/0xdddddd4301a082e62e84e43f474f044423921918#code",
           "description": "DVF Token",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://etherscan.io/token/0xdddd0e38d30dd29c683033fa0132f868597763ab#code",
           "description": "xDVF Token",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://etherscan.io/address/0x4788Aa3bECBf5f7c9Fd058372b4a3FC7C75DF201#code",
           "description": "DAO",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://etherscan.io/address/0x65d57b1e6570f5c636b8dd64c186ac304a4c0ce9#code",
           "description": "DAO Vested Treasury ",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://etherscan.io/address/0x1264f802364E0776b9A9e3d161B43c7333aC08b2#code",
           "description": "AMM factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://etherscan.io/address/0xDD1891fea0446f56726d4c4eDFc11cA13F943CA2#code",
           "description": "AMM router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://etherscan.io/address/0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc#code",
           "description": "AMM LP Proxy beacon",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://etherscan.io/address/0x329F5a8d24503fC00B31b229835b6452A6723ae4#code",
           "description": "AMM LP implmementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://arbiscan.io/address/0x10417734001162ea139e8b044dfe28dbb8b28ad0#code",
           "description": "ARB Bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://arbiscan.io/address/0xca8e436347a46502e353cc36b58fe3bb9214d7fd#code",
           "description": "ARB Cross-Swap Wallet",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://arbiscan.io/address/0x15ca1fC728Cce7cd06151C8007e89dEe70260228#code",
           "description": "ARB MultiSig",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://arbiscan.io/address/0xDb5dF800519fa443589Db1458a2A05056D7C9391#code",
           "description": "ARB Timelock",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://bscscan.com/address/0xB80A582fa430645A043bB4f6135321ee01005fEf#code",
           "description": "BSC Bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://bscscan.com/address/0xca8e436347a46502e353cc36b58fe3bb9214d7fd#code",
           "description": "BSC Cross-Swap Wallet",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -165,6 +180,7 @@
           "url": "https://bscscan.com/address/0x7Af3828c0B061552AF3479806Add982eEf04f0c8#code",
           "description": "BSC MultiSig",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -173,6 +189,7 @@
           "url": "https://bscscan.com/address/0xa3416E2d42D1F15322C1dCD8558302221Aa3A64b#code",
           "description": "BSC Timelock",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -181,6 +198,7 @@
           "url": "https://polygonscan.com/address/0xba4eee20f434bc3908a0b18da496348657133a7e#code",
           "description": "MATIC Bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -189,6 +207,7 @@
           "url": "https://polygonscan.com/address/0xda7eeb4049da84596937127855b50271ad1687e7#code",
           "description": "MATIC Cross-Swap Wallet",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -197,6 +216,7 @@
           "url": "https://polygonscan.com/address/0x249aAbb1d67A76404Cc1197fa37ADAf358B1E212#code",
           "description": "MATIC MultiSig",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -205,6 +225,7 @@
           "url": "https://polygonscan.com/address/0x6aF2fD733aCF215684700a616395D2825df83f40#code",
           "description": "MATIC Timelock",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -213,6 +234,7 @@
           "url": "https://explorer.zksync.io/address/0x1fa66e2B38d0cC496ec51F81c3e05E6A6708986F#contract",
           "description": "zkSync Bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -221,6 +243,7 @@
           "url": "https://zkevm.polygonscan.com/address/0x65A4b8A0927c7FD899aed24356BF83810f7b9A3f#code",
           "description": "zkEVM Bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         },
         {
@@ -229,6 +252,7 @@
           "url": "https://optimistic.etherscan.io/address/0x0bCa65bf4b4c8803d2f0B49353ed57CAAF3d66Dc",
           "description": "Smart-Contract Optimism Bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-30T13:00:00.000Z"
         }
       ],
@@ -377,6 +401,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -407,8 +434,29 @@
       "websiteUrl": null,
       "description": "rhino.fi is a multi-chain DeFi aggregator platform, bringing you the best DeFi opportunities in one place. The company began by pioneering the development of instant, gas-free spot trading on Ethereum layer 2 (powered by StarkEx).",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC or USDT",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -416,12 +464,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Rhino.fi Bug Bounties | Immunefi",
+      "title": "Rhino.fi Bug Bounties",
       "description": "Find bugs and vulnerabilities on Rhino.fi and get paid up to $2,000,000.",
       "url": "https://immunefi.com/bug-bounty/rhinofi",
       "ogImg": "/api/bounty/og-image?project=Rhino.fi"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

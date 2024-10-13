@@ -27,6 +27,7 @@
           "url": "https://etherscan.io/address/0x13e636cbfd6a7d33a8df7ebbf42f63adc9bb592a#code",
           "description": "BankX Token",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:41:12.068Z"
         },
         {
@@ -35,6 +36,7 @@
           "url": "https://etherscan.io/address/0x75cae30025a514b7ae069917e132cc99762a0e16#code",
           "description": "XSDToken",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:41:27.797Z"
         },
         {
@@ -43,6 +45,7 @@
           "url": "https://bscscan.com/address/0x4d369bd339709021267e92702a9e4ce30be85706#code",
           "description": "BankX Token (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:41:42.360Z"
         },
         {
@@ -51,6 +54,7 @@
           "url": "https://bscscan.com/address/0x39400e67820c88a9d67f4f9c1fbf86f3d688e9f6#code",
           "description": "XSD Token (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:41:57.255Z"
         },
         {
@@ -59,6 +63,7 @@
           "url": "https://bscscan.com/address/0xfa0870077A65dBFde9052ad16B04C3e1A885CE2d#code",
           "description": "BankX Pool (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:42:17.788Z"
         },
         {
@@ -67,6 +72,7 @@
           "url": "https://bscscan.com/address/0x8A4e0e2A778dF8cE4EA5D5108FFfE690CC9Ae07a#code",
           "description": "XSD Pool (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:42:32.238Z"
         },
         {
@@ -75,6 +81,7 @@
           "url": "https://bscscan.com/address/0x55A75059065296a5a8cdfadCF6945ed2cC5B8eC6#code",
           "description": "Collateral Pool (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:42:50.780Z"
         },
         {
@@ -83,6 +90,7 @@
           "url": "https://bscscan.com/address/0x6683FFdA5267e1F7E9Bf6790849a4eCdD63ed134#code",
           "description": "PID Controller (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:43:05.131Z"
         },
         {
@@ -91,6 +99,7 @@
           "url": "https://bscscan.com/address/0xc8d2cde3fc9690dffa365a2c7e5c6bc8961893b8#code",
           "description": "Reward Manager (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:43:19.628Z"
         },
         {
@@ -99,6 +108,7 @@
           "url": "https://bscscan.com/address/0xEf8ef7e50Dc49AAe7beEb3D0004CB196F5a850C5#code",
           "description": "Router (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:43:33.730Z"
         },
         {
@@ -107,6 +117,7 @@
           "url": "https://bscscan.com/address/0x79471BA0cCA010D8623f896C593d546691E53e5e#code",
           "description": "Arbitrage (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:43:48.085Z"
         },
         {
@@ -115,6 +126,7 @@
           "url": "https://bscscan.com/address/0xed024d771261d765b9dc7b0947ef271ea006248f#code",
           "description": "Certificate of Deposit (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:44:01.945Z"
         },
         {
@@ -123,6 +135,7 @@
           "url": "https://bscscan.com/address/0x11214D41a85306f725cdd9A318993b122bAa6DFe#code",
           "description": "NFT (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:44:15.648Z"
         },
         {
@@ -131,6 +144,7 @@
           "url": "https://bscscan.com/address/0x369b83fe557ef815572a340f5275d8d764615d15#code",
           "description": "NFT Bonus (BNB)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-02T10:44:30.296Z"
         }
       ],
@@ -195,6 +209,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -213,8 +230,29 @@
       "websiteUrl": null,
       "description": "BankX Is A Dual-Token System Stablecoin: Stablecoin - BankX Silver Dollar (XSD). The BankX token – Utility token used as partial collateral to mint the stablecoin and stake in the Certificate of Deposit.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum, Base",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -222,12 +260,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "BankX Bug Bounties | Immunefi",
+      "title": "BankX Bug Bounties",
       "description": "Find bugs and vulnerabilities on BankX and get paid up to $10,000.",
       "url": "https://immunefi.com/bug-bounty/bankx",
       "ogImg": "/api/bounty/og-image?project=BankX"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

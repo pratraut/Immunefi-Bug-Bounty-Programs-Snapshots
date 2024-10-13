@@ -69,6 +69,7 @@
           "url": "https://etherscan.io/address/0x2257bA009E8d2f9B342E80968992d5A3abf2Fd51",
           "description": "StrikePriceOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:49.264Z"
         },
         {
@@ -77,6 +78,7 @@
           "url": "https://etherscan.io/address/0x3355B575cb4Fc47DB22C89962fA0F9fC0cB57E35",
           "description": "StrikeLens",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:23.764Z"
         },
         {
@@ -85,6 +87,7 @@
           "url": "https://etherscan.io/address/0xe2e17b2CBbf48211FA7eB8A875360e5e39bA2602",
           "description": "Unitroller",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:21.374Z"
         },
         {
@@ -93,6 +96,7 @@
           "url": "https://etherscan.io/address/0xC44aF2A8e1150a0d6A69F9a3678582ad81C021E0",
           "description": "Comptroller",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:18.366Z"
         },
         {
@@ -101,6 +105,7 @@
           "url": "https://etherscan.io/address/0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92",
           "description": "SEther: sETH",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:15.785Z"
         },
         {
@@ -109,6 +114,7 @@
           "url": "https://etherscan.io/address/0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
           "description": "SBep20Delegator: sUSDT",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:13.004Z"
         },
         {
@@ -117,6 +123,7 @@
           "url": "https://etherscan.io/address/0x3774E825d567125988Fb293e926064B6FAa71DAB",
           "description": "SBep20Delegator: sUSDC",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:10.117Z"
         },
         {
@@ -125,6 +132,7 @@
           "url": "https://etherscan.io/address/0x54A0ed40abEa082ed62C3a4f92621b8ed47732a2",
           "description": "SBep20Delegator: sDAI",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:08.110Z"
         },
         {
@@ -133,6 +141,7 @@
           "url": "https://etherscan.io/address/0x3F3B3B269d9f7088B022290906acff8710914be1",
           "description": "SBep20Delegator: sLINK",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:06.351Z"
         },
         {
@@ -141,6 +150,7 @@
           "url": "https://etherscan.io/address/0x280f76a218DDC8d56B490B5835e251E55a2e8F8d",
           "description": "SBep20Delegator: sUNI",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:04.698Z"
         },
         {
@@ -149,6 +159,7 @@
           "url": "https://etherscan.io/address/0x9d1C2A187cf908aEd8CFAe2353Ef72F06223d54D",
           "description": "SBep20Delegator: sWBTC",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:45:01.470Z"
         },
         {
@@ -157,6 +168,7 @@
           "url": "https://etherscan.io/address/0xb7E11002228D599F2a64b0C44D2299C9c644ff26",
           "description": "SBep20Delegator: sCOMP",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:44:58.832Z"
         },
         {
@@ -165,6 +177,7 @@
           "url": "https://etherscan.io/address/0x1EBfD36223079dC79FefC62260dB9E25f3F5e2C7",
           "description": "SBep20Delegator: sWSTETH",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:44:55.553Z"
         },
         {
@@ -173,6 +186,7 @@
           "url": "https://etherscan.io/address/0x4164e5b047842Ad7dFf18fc6A6e63a1e40610f46",
           "description": "SBep20Delegator: sSTRK",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:44:52.723Z"
         },
         {
@@ -181,6 +195,7 @@
           "url": "https://etherscan.io/address/0xf24A7D2077285E192Aa7dF957a4a699c144510d8",
           "description": "SBep20Delegator: sAPE",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:44:43.169Z"
         },
         {
@@ -189,6 +204,7 @@
           "url": "https://etherscan.io/address/0xe789af79D295B0e4fA1C1E8a1B6Fe186c1ae2326",
           "description": "TimeLock",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-26T09:44:38.665Z"
         },
         {
@@ -197,6 +213,7 @@
           "url": "https://etherscan.io/address/0x29e2a3af8ec2d537cbd484c6ec430abe1c7fe2d8",
           "description": "GovernorAlpha2",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-13T19:01:35.122Z"
         },
         {
@@ -205,6 +222,7 @@
           "url": "https://app.strike.org",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-13T19:01:29.602Z"
         }
       ],
@@ -480,6 +498,9 @@
         "language": [
           "JavaScript",
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -528,8 +549,29 @@
       "websiteUrl": null,
       "description": "Strike is an autonomous and decentralized money market that enables variable based rates for supplying digital asset collaterals to the protocol and from borrowing digital assets from the protocol with over-collateralized assets. ",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "STRK",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -537,12 +579,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Strike Finance Bug Bounties | Immunefi",
+      "title": "Strike Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Strike Finance and get paid up to $50,000.",
       "url": "https://immunefi.com/bug-bounty/strikefinance",
       "ogImg": "/api/bounty/og-image?project=Strike+Finance"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

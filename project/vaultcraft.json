@@ -39,6 +39,7 @@
           "url": "https://etherscan.io/address/0x4995f3bb85e1381d02699e2164bc1c6c6fa243cd#code",
           "description": "Mainnet - Vault Router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:56:22.951Z"
         },
         {
@@ -47,6 +48,7 @@
           "url": "https://etherscan.io/address/0x007318Dc89B314b47609C684260CfbfbcD412864#code",
           "description": "Mainnet - Vault Registry",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:56:52.474Z"
         },
         {
@@ -55,6 +57,7 @@
           "url": "https://etherscan.io/address/0x0aB4bC35Ef33089B9082Ca7BB8657D7c4E819a1A#code",
           "description": "Mainnet - Voting escrow (veVCX)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:57:20.314Z"
         },
         {
@@ -63,6 +66,7 @@
           "url": "https://etherscan.io/address/0x577A7f7EE659Aa14Dc16FD384B3F8078E23F1920#code",
           "description": "Mainnet - Balancer VCX-WETH pool",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:57:42.912Z"
         },
         {
@@ -71,6 +75,7 @@
           "url": "https://etherscan.io/address/0xD57d8EEC36F0Ba7D8Fd693B9D97e02D8353EB1F4#code",
           "description": "Mainnet - Gauge Controller",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:58:10.129Z"
         },
         {
@@ -79,6 +84,7 @@
           "url": "https://etherscan.io/address/0x6aa03ebab1e9cb8d44fd79153d3a258ffd48169a#code",
           "description": "Mainnet - Root Liquidity Gauge Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:58:36.887Z"
         },
         {
@@ -87,6 +93,7 @@
           "url": "https://etherscan.io/address/0xaFa52E3860b4371ab9d8F08E801E9EA1027C0CA2#code",
           "description": "Mainnet - oVCX",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:58:58.148Z"
         },
         {
@@ -95,6 +102,7 @@
           "url": "https://etherscan.io/address/0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E#code",
           "description": "Mainnet - Fee Recipients",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:59:21.799Z"
         },
         {
@@ -103,6 +111,7 @@
           "url": "https://etherscan.io/address/0x74bb390786072ea1329f270CA6C0058b2D1Afe3f#code",
           "description": "Mainnet - Fee Recipients",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T10:59:57.233Z"
         },
         {
@@ -111,6 +120,7 @@
           "url": "https://etherscan.io/address/0xB85e0d4ad9078676Ca86C6bAa51228aB3E21F5da#code",
           "description": "Mainnet - VCX owner",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:00:28.127Z"
         },
         {
@@ -119,6 +129,7 @@
           "url": "https://arbiscan.io/address/0x48943f145686bf5c4580d545cda405844d1f777b#code",
           "description": "Arbitrum - Vault Router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:01:09.970Z"
         },
         {
@@ -127,6 +138,7 @@
           "url": "https://arbiscan.io/address/0xB205e94D402742B919E851892f7d515592a7A6cC#code",
           "description": "Arbitrum - Vault Registry",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:01:46.551Z"
         },
         {
@@ -135,6 +147,7 @@
           "url": "https://arbiscan.io/address/0x6aa03ebab1e9cb8d44fd79153d3a258ffd48169a#code",
           "description": "Arbitrum - Child Liquidity Gauge Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:02:06.440Z"
         },
         {
@@ -143,6 +156,7 @@
           "url": "https://arbiscan.io/address/0x59a696bF34Eae5AD8Fd472020e3Bed410694a230#code",
           "description": "Arbitrum - oVCX",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:02:26.380Z"
         },
         {
@@ -151,6 +165,7 @@
           "url": "https://arbiscan.io/address/0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E#code",
           "description": "Arbitrum - Fee Recipient",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:02:50.162Z"
         },
         {
@@ -159,6 +174,7 @@
           "url": "https://optimistic.etherscan.io/address/0x3828845f4d7212b6a0dc3d67482aff4544002919#code",
           "description": "Optimism - Vault Router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:03:33.442Z"
         },
         {
@@ -167,6 +183,7 @@
           "url": "https://optimistic.etherscan.io/address/0xdD0d135b5b52B7EDd90a83d4A4112C55a1A6D23A#code",
           "description": "Optimism - Vault Registry",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:03:53.977Z"
         },
         {
@@ -175,6 +192,7 @@
           "url": "https://optimistic.etherscan.io/address/0x6aa03ebab1e9cb8d44fd79153d3a258ffd48169a#code",
           "description": "Optimism - Child Liquidity Gauge Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:04:57.905Z"
         },
         {
@@ -183,6 +201,7 @@
           "url": "https://optimistic.etherscan.io/address/0xD41d34d6b50785fDC025caD971fE940B8AA1bE45#code",
           "description": "Optimism - oVCX",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:05:18.023Z"
         },
         {
@@ -191,6 +210,7 @@
           "url": "https://optimistic.etherscan.io/address/0x47fd36ABcEeb9954ae9eA1581295Ce9A8308655E#code",
           "description": "Optimism - Fee Recipient",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-22T11:05:35.131Z"
         }
       ],
@@ -264,6 +284,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -290,8 +313,29 @@
       "websiteUrl": null,
       "description": "VaultCraft is an on-chain, permissionless protocol where anyone can spin up a vault — an automated asset strategy that optimizes returns on user-deposited funds. This is the first open infrastructure allowing for the modularization of vaults using a protocol-endorsed VaultFactory that ensures the safety of the strategy and its contracts.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -299,12 +343,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "VaultCraft Bug Bounties | Immunefi",
+      "title": "VaultCraft Bug Bounties",
       "description": "Find bugs and vulnerabilities on VaultCraft and get paid up to $150,000.",
       "url": "https://immunefi.com/bug-bounty/vaultcraft",
       "ogImg": "/api/bounty/og-image?project=VaultCraft"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

@@ -33,6 +33,7 @@
           "url": "https://etherscan.io/address/0xb5087F95643A9a4069471A28d32C569D9bd57fE4#code",
           "description": "BunniHub",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -41,6 +42,7 @@
           "url": "https://etherscan.io/address/0xb73F303472C4fD4FF3B9f59ce0F9b13E47fbfD19#code",
           "description": "BunniLens",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -49,6 +51,7 @@
           "url": "https://etherscan.io/address/0xdf841e93c94cE3b777271FE5E130bf54Ae63C2c9#code",
           "description": "BunniMigrator",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -57,6 +60,7 @@
           "url": "https://etherscan.io/address/0x822E5828Cb9C0e2aD2DC5035577E6d63B672D0e2#code",
           "description": "TimelessLiquidityGaugeFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -65,6 +69,7 @@
           "url": "https://etherscan.io/address/0x13A227b851ed1274e205535b3CF1daF6e2bA1E5a#code",
           "description": "TimelessGaugeFoundry",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -73,6 +78,7 @@
           "url": "https://etherscan.io/address/0x4cc39AF0d46b0F66Fd33778C6629A696bDC310a0#code",
           "description": "TokenAdmin",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -81,6 +87,7 @@
           "url": "https://etherscan.io/address/0xf17d23136B4FeAd139f54fB766c8795faae09660#code",
           "description": "VotingEscrow",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -89,6 +96,7 @@
           "url": "https://etherscan.io/address/0x901c8aA6A61f74aC95E7f397E22A0Ac7c1242218#code",
           "description": "GaugeController",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -97,6 +105,7 @@
           "url": "https://etherscan.io/address/0xF087521Ffca0Fa8A43F5C445773aB37C5f574DA0#code",
           "description": "Minter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -105,6 +114,7 @@
           "url": "https://etherscan.io/address/0x0CCdf95bAF116eDE5251223Ca545D0ED02287a8f#code",
           "description": "SmartWalletChecker",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -113,6 +123,7 @@
           "url": "https://etherscan.io/address/0x627fee87d0D9D2c55098A06ac805Db8F98B158Aa#code",
           "description": "OptionsToken",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -121,6 +132,7 @@
           "url": "https://etherscan.io/address/0x9d43ccb1aD7E0081cC8A8F1fd54D16E54A637E30#code",
           "description": "BalancerOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -129,6 +141,7 @@
           "url": "https://etherscan.io/address/0x302c230bc53901d3fe363d3483b2548f938efa33#code",
           "description": "xPYTFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -137,6 +150,7 @@
           "url": "https://etherscan.io/address/0xD373A63Ce95fe95bB8A3417DC075943CC39dD1d2#code",
           "description": "UniswapV3xPYTFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -145,6 +159,7 @@
           "url": "https://etherscan.io/address/0x21b6e092a03456871ce14493c526832305618e27#code",
           "description": "UniswapV3Swapper",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -153,6 +168,7 @@
           "url": "https://etherscan.io/address/0x79464810c6df82cbdbb4be23900250ed2311f105#code",
           "description": "UniswapV3Juggler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -161,6 +177,7 @@
           "url": "https://etherscan.io/address/0xbd16088611054fce04711aa9509d1d86e04dce2c#code",
           "description": "Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -169,6 +186,7 @@
           "url": "https://etherscan.io/address/0x541a2378589E280FDfDde6e53Fb5ECf98a853fC2#code",
           "description": "BunniLpZapIn",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -177,6 +195,7 @@
           "url": "https://etherscan.io/address/0xfd0205066521550D7d7AB19DA8F72bb004b4C341#code",
           "description": "TimelessToken",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -185,6 +204,7 @@
           "url": "https://etherscan.io/address/0x557692FDDCfa46D6E29959F73Fb14ae608680034#code",
           "description": "UniswapPoorOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -193,6 +213,7 @@
           "url": "https://etherscan.io/address/0x36b49ebf089be8860d7fc60f2553461e9cc8e9e2#code",
           "description": "YearnGate",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         },
         {
@@ -201,6 +222,7 @@
           "url": "https://etherscan.io/address/0xbb443d6740322293fcee4414d03978c7e4bf5d55#code",
           "description": "ERC4626Gate",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-05T14:00+02:00"
         }
       ],
@@ -263,6 +285,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -285,8 +310,29 @@
       "websiteUrl": null,
       "description": "Timeless is a yield tokenization protocol where the yield tokens never expire and Bunni is a liquidity engine for incentivizing Uniswap v3 liquidity.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_1",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -294,12 +340,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Timeless and Bunni Bug Bounties | Immunefi",
+      "title": "Timeless and Bunni Bug Bounties",
       "description": "Find bugs and vulnerabilities on Timeless and Bunni and get paid up to $250,000.",
       "url": "https://immunefi.com/bug-bounty/timelessandbunni",
       "ogImg": "/api/bounty/og-image?project=Timeless+and+Bunni"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

@@ -108,7 +108,7 @@ done
 # --------------- BOOST PROGRAMS ---------------
 
 # Get NEXT_DATA in JSON format for boosted bug bounties
-NEXT_DATA_BOOST=$(curl -s https://immunefi.com/boost/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
+NEXT_DATA_BOOST=$(curl -s https://immunefi.com/audit-competition/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
 if [[ -z $NEXT_DATA_BOOST ]]; then
 	echo "ERROR: Empty NEXT_DATA_BOOST"
 	exit
@@ -178,8 +178,8 @@ for ((c = 0; c < $boost_bounties_length; c++)); do
 	found=false
 	for ((t = 0; t < 3; t++)); do
 		# Get project's data
-		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name/scope.json")
-		echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/bug-bounty/$name/scope.json"
+		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/audit-competition/$name/scope.json")
+		echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/audit-competition/$name/scope.json"
 		# echo -E "$PROJECT_DATA"
 		# There's no try/catch in batch, so this is our way to double check everything went right:
 		# Get name from JSON response

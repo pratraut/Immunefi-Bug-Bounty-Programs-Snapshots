@@ -45,6 +45,7 @@
           "url": "https://etherscan.io/address/0x2fc52c61fb0c03489649311989ce2689d93dc1a2",
           "description": "Vyper_contract",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:49:16.796Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://etherscan.io/address/0x076bbbd5384acd0550d8d58bc758dd9e0287cccf",
           "description": "veclaim",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:50:07.351Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://etherscan.io/address/0x5555f75e3d5278082200fb451d1b6ba946d8e13b",
           "description": "FixedForex",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:52:18.252Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://etherscan.io/address/0x69681f8fde45345c3870bcd5eaf4a05a60e7d227",
           "description": "FixedForex",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:54:11.308Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://etherscan.io/address/0xFAFdF0C4c1CB09d430Bf88c75D88BB46DAe09967",
           "description": "FixedForex",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:54:02.704Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://etherscan.io/address/0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
           "description": "FixedEUR",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:54:43.457Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://etherscan.io/address/0x95dfdc8161832e4ff7816ac4b6367ce201538253",
           "description": "FixedForex",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:55:08.545Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://etherscan.io/address/0x0ea89fb2e5b8fa8f14b741ffe1a4617a32611dfc",
           "description": "Vyper_contract",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:55:55.433Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://etherscan.io/address/0x90aAb6C9D887A7Ff8320e56fbd1F4Ff80A0811d5",
           "description": "GaugeProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-09T11:56:40.221Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://etherscan.io/address/0x4A6cFf9E1456eAa3b6f37572395C6fa0c959edAB",
           "description": "Keep3r V2",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T16:28:20.893Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://etherscan.io/address/0xc07c37a0a1e557e0d1704c90d966b37a67a45dd4",
           "description": "Keep3r Helper",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T16:28:22.064Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://etherscan.io/address/0x005634CfeF45e5a19C84aEdE6f0af17833471852",
           "description": "Pair Manager Factory [Uni V3]",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T16:28:23.128Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://etherscan.io/address/0x7396899638410094b3690f8bd2b56f07fdab620c",
           "description": "Keep3r Job Registry",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T16:28:24.203Z"
         }
       ],
@@ -233,6 +246,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -263,8 +279,29 @@
       "websiteUrl": null,
       "description": "Keep3r Network is a decentralized keeper network for projects that need external devops and for external teams to find keeper jobs.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "ETH",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -272,12 +309,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Keep3r Network Bug Bounties | Immunefi",
+      "title": "Keep3r Network Bug Bounties",
       "description": "Find bugs and vulnerabilities on Keep3r Network and get paid up to $250,000.",
       "url": "https://immunefi.com/bug-bounty/keep3rnetwork",
       "ogImg": "/api/bounty/og-image?project=Keep3r+Network"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

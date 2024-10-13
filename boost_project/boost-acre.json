@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "fzaLgdNany6A10ZLfw1RV",
       "id": "boost-acre",
@@ -9,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0cbT2nwEwQOYtYtnErdn5/29aa15cc2c2cdcec374f927e50bf9b58/ACRE_logo.png",
       "launchDate": "2024-08-20T08:00:25.000Z",
       "endDate": "2024-09-03T08:00:00.000Z",
-      "updatedDate": "2024-08-19T16:11:04.311Z",
+      "updatedDate": "2024-10-07T09:41:03.591Z",
       "kyc": false,
       "rewards": [
         {
@@ -45,6 +52,7 @@
           "url": "https://sepolia.etherscan.io/address/0x7e184179b1F95A9ca398E6a16127f06b81Cb37a3",
           "description": "stBTC - 552",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-20T08:00:25.000Z"
         },
         {
@@ -53,6 +61,7 @@
           "url": "https://sepolia.etherscan.io/address/0xd5EbDD6fF384a465D56562D3a489c8CCE1B92dd0",
           "description": "MezoAllocator - 253",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-20T08:00:25.000Z"
         },
         {
@@ -61,6 +70,7 @@
           "url": "https://sepolia.etherscan.io/address/0x6c2c643c90383Cba125E4b8DD01344eA35A75F27",
           "description": "BitcoinDepositor - 355",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-20T08:00:25.000Z"
         },
         {
@@ -69,6 +79,7 @@
           "url": "https://sepolia.etherscan.io/address/0xF4011FD0C77Bd4d909Ae05c7390b88455294dAeA",
           "description": "BitcoinRedeemer - 180",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-20T08:00:25.000Z"
         },
         {
@@ -77,6 +88,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-20T08:00:25.000Z"
         }
       ],
@@ -182,6 +194,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -209,27 +224,58 @@
         ],
         "web_rewards": []
       },
+      "evaluationEndDate": "2024-10-14T12:40:55.000Z",
+      "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.\n\nAcre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.\n\nAcre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  \n\nNo KYC is required.\n\nAcre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nAcre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+      "boostedIntroLive": "",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "",
+      "rewardsToken": "USDC",
+      "rewardsPool": 50000,
+      "sourceLinesOfCode": 1340,
+      "boostedSummaryReport": null,
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": null,
       "websiteUrl": "https://acre.fi",
       "description": "Acre is the liquidity layer for Bitcoin scaling. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.",
       "githubUrl": "https://github.com/thesis/acre/tree/main/solidity/contracts",
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | Acre Bug Bounties | Immunefi",
+      "title": "Boost | Acre Bug Bounties",
       "description": "Find bugs and vulnerabilities on Boost | Acre and get paid up to $50,000.",
-      "url": "https://immunefi.com/bug-bounty/boost-acre",
+      "url": "https://immunefi.com/audit-competition/boost-acre",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+Acre"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

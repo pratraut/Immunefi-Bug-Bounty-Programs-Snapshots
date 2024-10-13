@@ -33,6 +33,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/OptimizerStrategy.sol",
           "description": "OptimizerStrategy.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:41.345Z"
         },
         {
@@ -41,6 +42,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/OptimizerStrategy_flat.sol",
           "description": "OptimizerStrategy_flat.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:37.937Z"
         },
         {
@@ -49,6 +51,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/PopsicleV3Optimizer.sol",
           "description": "PopsicleV3Optimizer.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:34.191Z"
         },
         {
@@ -57,6 +60,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/PopsicleV3Optimizer_flat.sol",
           "description": "PopsicleV3Optimizer_flat.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:29.338Z"
         },
         {
@@ -65,6 +69,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/base/EIP712.sol",
           "description": "EIP712.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:26.717Z"
         },
         {
@@ -73,6 +78,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/base/ERC20Permit.sol",
           "description": "ERC20Permit.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:23.716Z"
         },
         {
@@ -81,6 +87,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/IOptimizerStrategy.sol",
           "description": "IOptimizerStrategy.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:20.902Z"
         },
         {
@@ -89,6 +96,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/IPopsicleV3Optimizer.sol",
           "description": "IPopsicleV3Optimizer.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:18.822Z"
         },
         {
@@ -97,6 +105,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/IUniswapV3Pool.sol",
           "description": "IUniswapV3Pool.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:15.963Z"
         },
         {
@@ -105,6 +114,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/external/IWETH9.sol",
           "description": "IWETH9.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:12.897Z"
         },
         {
@@ -113,6 +123,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/pool/IUniswapV3PoolActions.sol",
           "description": "IUniswapV3PoolActions.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:09.870Z"
         },
         {
@@ -121,6 +132,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/pool/IUniswapV3PoolDerivedState.sol",
           "description": "IUniswapV3PoolDerivedState.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:07.478Z"
         },
         {
@@ -129,6 +141,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/pool/IUniswapV3PoolImmutables.sol",
           "description": "IUniswapV3PoolImmutables.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:04.260Z"
         },
         {
@@ -137,6 +150,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/interfaces/pool/IUniswapV3PoolState.sol",
           "description": "IUniswapV3PoolState.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:28:01.230Z"
         },
         {
@@ -145,6 +159,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/Babylonian.sol",
           "description": "Babylonian.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:58.332Z"
         },
         {
@@ -153,6 +168,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/ChainId.sol",
           "description": "ChainId.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:54.561Z"
         },
         {
@@ -161,6 +177,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/Counters.sol",
           "description": "Counters.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:50.084Z"
         },
         {
@@ -169,6 +186,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/ECDSA.sol",
           "description": "ECDSA.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:46.697Z"
         },
         {
@@ -177,6 +195,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/FixedPoint128.sol",
           "description": "FixedPoint128.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:43.016Z"
         },
         {
@@ -185,6 +204,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/FixedPoint96.sol",
           "description": "FixedPoint96.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:35.501Z"
         },
         {
@@ -193,6 +213,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/FullMath.sol",
           "description": "FullMath.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:30.915Z"
         },
         {
@@ -201,6 +222,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/LiquidityAmounts.sol",
           "description": "LiquidityAmounts.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:26.988Z"
         },
         {
@@ -209,6 +231,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/LowGasSafeMath.sol",
           "description": "LowGasSafeMath.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:24.890Z"
         },
         {
@@ -217,6 +240,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/PoolActions.sol",
           "description": "PoolActions.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:21.552Z"
         },
         {
@@ -225,6 +249,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/PoolVariables.sol",
           "description": "PoolVariables.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:18.162Z"
         },
         {
@@ -233,6 +258,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/PositionKey.sol",
           "description": "PositionKey.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:13.786Z"
         },
         {
@@ -241,6 +267,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/SafeCast.sol",
           "description": "SafeCast.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:09.159Z"
         },
         {
@@ -249,6 +276,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/SqrtPriceMath.sol",
           "description": "SqrtPriceMath.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:06.192Z"
         },
         {
@@ -257,6 +285,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/TickMath.sol",
           "description": "TickMath.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:03.521Z"
         },
         {
@@ -265,6 +294,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/TransferHelper.sol",
           "description": "TransferHelper.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:27:00.671Z"
         },
         {
@@ -273,6 +303,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/libraries/UnsafeMath.sol",
           "description": "UnsafeMath.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:26:58.105Z"
         },
         {
@@ -281,6 +312,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/token/ERC20.sol",
           "description": "ERC20.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:26:55.308Z"
         },
         {
@@ -289,6 +321,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/token/IERC20.sol",
           "description": "IERC20.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:26:51.994Z"
         },
         {
@@ -297,6 +330,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/token/IERC20Permit.sol",
           "description": "IERC20Permit.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:26:49.043Z"
         },
         {
@@ -305,6 +339,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/utils/Context.sol",
           "description": "Context.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:26:46.208Z"
         },
         {
@@ -313,6 +348,7 @@
           "url": "https://github.com/vt-btf/Optimizer/blob/main/utils/ReentrancyGuard.sol",
           "description": "ReentrancyGuard.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-16T15:26:43.957Z"
         }
       ],
@@ -381,6 +417,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -403,8 +442,29 @@
       "websiteUrl": null,
       "description": "Popsicle Finance will manage liquidity across multiple chains in order to increase capital efficiency and automatically provide its users with the highest possible yield on the assets they wish to deploy to liquidity pools. Popsicle Finance believes that we, as the blockchain (crypto) space, should be working together rather than individually on separate chains.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum, Base",
+      "rewardsToken": "USDT, ETH, or BTC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -412,12 +472,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Popsicle Bug Bounties | Immunefi",
+      "title": "Popsicle Bug Bounties",
       "description": "Find bugs and vulnerabilities on Popsicle and get paid up to $100,000.",
       "url": "https://immunefi.com/bug-bounty/popsicle",
       "ogImg": "/api/bounty/og-image?project=Popsicle"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

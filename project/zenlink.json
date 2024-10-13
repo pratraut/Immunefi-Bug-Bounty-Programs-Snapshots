@@ -45,6 +45,7 @@
           "url": "https://moonriver.moonscan.io/address/0xf36AE63d89983E3aeA8AaaD1086C3280eb01438D",
           "description": "Moonriver: Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:26.340Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://moonriver.moonscan.io/address/0xe6fe3db4c5a2e4a9ab3301201b38724e578b35ca",
           "description": "Moonriver: Router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:27.302Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://moonriver.moonscan.io/address/0xafaff19679ab6baf75ed8098227be189ba47ba0f",
           "description": "Moonriver: Farming",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:28.320Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://moonbeam.moonscan.io/address/0xF49255205Dfd7933c4D0f25A57D40B1511F92fEF",
           "description": "Moonbeam: Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:29.432Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://moonbeam.moonscan.io/address/0x7a3909c7996efe42d425cd932fc44e3840fcab71",
           "description": "Moonbeam: Router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:30.543Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://moonbeam.moonscan.io/address/0xa226877393fc4e3b5f2b43a1bae3c5d72c918c2d",
           "description": "Moonbeam: Farming",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:32.038Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://dex.zenlink.pro/",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-13T15:13:26.816Z"
         }
       ],
@@ -278,6 +285,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -310,8 +320,29 @@
       "websiteUrl": null,
       "description": "Zenlink DEX Protocol is the underlying unified and universal cross-chain DEX Protocol, which enables parachains to quickly have DEX functionality and share liquidity with other parachains. In addition, Zenlink DEX Aggregator can connect to all DEX DApps on Polkadot, which together form the Zenlink DEX Network with full liquidity.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Polkadot",
+      "rewardsToken": "ZLK",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -319,12 +350,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Zenlink Bug Bounties | Immunefi",
+      "title": "Zenlink Bug Bounties",
       "description": "Find bugs and vulnerabilities on Zenlink and get paid up to $30,000.",
       "url": "https://immunefi.com/bug-bounty/zenlink",
       "ogImg": "/api/bounty/og-image?project=Zenlink"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

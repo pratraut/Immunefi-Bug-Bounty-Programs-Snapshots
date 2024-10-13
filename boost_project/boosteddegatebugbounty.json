@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "42pNqgNigeVPHiqy9IPmTu",
       "id": "boosteddegatebugbounty",
@@ -45,6 +52,7 @@
           "url": "https://etherscan.io/address/0xf2991507952d9594e71a44a54fb19f3109d213a5#code",
           "description": "Timelock for DepositContractProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-20T16:00:00.000Z"
         },
         {
@@ -53,6 +61,7 @@
           "url": "https://etherscan.io/address/0x0d2ec0a5858730e7d49f5b4ae6f2c665e46c1d9d#code",
           "description": "Timelock for ExchangeProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-20T16:00:00.000Z"
         },
         {
@@ -61,6 +70,7 @@
           "url": "https://etherscan.io/address/0x54D7aE423Edb07282645e740C046B9373970a168#code",
           "description": "DepositContractProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-20T16:00:00.000Z"
         },
         {
@@ -69,6 +79,7 @@
           "url": "https://etherscan.io/address/0x9C07A72177c5A05410cA338823e790876E79D73B#code",
           "description": "ExchangeProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-20T16:00:00.000Z"
         },
         {
@@ -77,6 +88,7 @@
           "url": "https://etherscan.io/address/0x2028834B2c0A36A918c10937EeA71BE4f932da52#code",
           "description": "Gnosis Multisig",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-20T16:00:00.000Z"
         }
       ],
@@ -258,6 +270,9 @@
           "C/C++",
           "Go",
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -285,27 +300,373 @@
         ],
         "web_rewards": []
       },
+      "evaluationEndDate": "2023-12-21T09:00:00.000Z",
+      "boostedIntroStartingIn": "",
+      "boostedIntroLive": "",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/DeGate).",
+      "rewardsToken": "USDC",
+      "rewardsPool": 50000,
+      "sourceLinesOfCode": 500,
+      "boostedSummaryReport": null,
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "infosec_us_team",
+          "critical": 0,
+          "earnings": 7000,
+          "insights": 3,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "yttriumzz",
+          "critical": 0,
+          "earnings": 3000,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "dontonka",
+          "critical": 0,
+          "earnings": 3000,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "p4rsely",
+          "critical": 0,
+          "earnings": 3000,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "ThreeHrSleep",
+          "critical": 0,
+          "earnings": 2500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "neth",
+          "critical": 0,
+          "earnings": 2500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Shogoki",
+          "critical": 0,
+          "earnings": 2500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "JCN2023",
+          "critical": 0,
+          "earnings": 2500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Merkle_Bonsai",
+          "critical": 0,
+          "earnings": 2500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "lordagnew",
+          "critical": 0,
+          "earnings": 2500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "savi0ur",
+          "critical": 0,
+          "earnings": 1500,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "ongrid",
+          "critical": 0,
+          "earnings": 1500,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "CanYeRest298751",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "said",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "kank",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "piken",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Paludo0x",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "SentientX",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "cheatcode",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "OxSCSamurai",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "peterm",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Madalad",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "v0id",
+          "critical": 0,
+          "earnings": 1000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "EricTee",
+          "critical": 0,
+          "earnings": 750,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "KaloMen",
+          "critical": 0,
+          "earnings": 750,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "hoshiyari",
+          "critical": 0,
+          "earnings": 500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Bauchibred",
+          "critical": 0,
+          "earnings": 500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "xBentley",
+          "critical": 0,
+          "earnings": 500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "conqueror",
+          "critical": 0,
+          "earnings": 500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "copperscrewer",
+          "critical": 0,
+          "earnings": 250,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "ZanyBonzy",
+          "critical": 0,
+          "earnings": 250,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "naraion",
+          "critical": 0,
+          "earnings": 250,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Kodak",
+          "critical": 0,
+          "earnings": 250,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Breeje",
+          "critical": 0,
+          "earnings": 250,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "whunter",
+          "critical": 0,
+          "earnings": 250,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
+      "features": [
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": null,
       "websiteUrl": null,
       "description": "DeGate deployed approximately 500 nSLOC designed to allow them to upgrade their contracts. This new code is the target of this boosted bug bounty.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | DeGate Bug Bounties | Immunefi",
+      "title": "Boost | DeGate Bug Bounties",
       "description": "Find bugs and vulnerabilities on Boost | DeGate and get paid up to $400,000.",
-      "url": "https://immunefi.com/bug-bounty/boosteddegatebugbounty",
+      "url": "https://immunefi.com/audit-competition/boosteddegatebugbounty",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+DeGate"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

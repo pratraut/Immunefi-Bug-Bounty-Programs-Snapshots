@@ -51,6 +51,7 @@
           "url": "https://etherscan.io/address/0xd9958826Bce875A75cc1789D5929459E6ff15040#code",
           "description": "sHAKKA",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:46.207Z"
         },
         {
@@ -59,6 +60,7 @@
           "url": "https://etherscan.io/address/0x83D0D842e6DB3B020f384a2af11bD14787BEC8E7#code",
           "description": "GuildBank",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:47.299Z"
         },
         {
@@ -67,6 +69,7 @@
           "url": "https://etherscan.io/address/0xde02313f8BF17f31380c63e41CDECeE98Bc2b16d#code",
           "description": "Burner",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:48.304Z"
         },
         {
@@ -75,6 +78,7 @@
           "url": "https://etherscan.io/address/0x66be1bc6C6aF47900BBD4F3711801bE6C2c6CB32#code",
           "description": "3F Mutual",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:49.367Z"
         },
         {
@@ -83,6 +87,7 @@
           "url": "https://etherscan.io/address/0x51F12323820b3c0077864990d9E6aD9604238Ed6#code",
           "description": "VestingVault",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:51.365Z"
         },
         {
@@ -91,6 +96,7 @@
           "url": "https://etherscan.io/address/0xF4D1F9674c8e9f29A69DC2E6f841292e675B7977#code",
           "description": "sHAKKA Reward Pool",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:52.410Z"
         },
         {
@@ -99,6 +105,7 @@
           "url": "https://bscscan.com/address/0x6dbff20caff68b99b1e67b50d14a9d7bbdfa94dc#code",
           "description": "VestingVault",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:53.418Z"
         },
         {
@@ -107,6 +114,7 @@
           "url": "https://polygonscan.com/address/0x47Ca2166A5b837e891E6E64E780d1B43FC0a4E95#code",
           "description": "TokenFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:54.499Z"
         },
         {
@@ -115,6 +123,7 @@
           "url": "https://polygonscan.com/address/0xc6183a902FD287CC47b525a75C8d3381C6eae42f",
           "description": "iGainAAVEIRS",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:55.527Z"
         },
         {
@@ -123,6 +132,7 @@
           "url": "https://igain.finance/",
           "description": "iGain Ecosystem:",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:56.543Z"
         },
         {
@@ -131,6 +141,7 @@
           "url": "https://igain.finance/irs/",
           "description": "iGain IRS:",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:57.593Z"
         },
         {
@@ -139,6 +150,7 @@
           "url": "https://igain.finance/ig/",
           "description": "iGain IG",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:58.722Z"
         },
         {
@@ -147,6 +159,7 @@
           "url": "https://intelligence.hakka.finance/",
           "description": "Hakka Intelligence:",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:53:59.791Z"
         },
         {
@@ -155,6 +168,7 @@
           "url": "https://hakka.finance",
           "description": "Hakka Finance",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-10T15:54:00.863Z"
         }
       ],
@@ -368,6 +382,9 @@
         "language": [
           "JavaScript",
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -404,8 +421,29 @@
       "websiteUrl": null,
       "description": "Hakka Finance is a set of decentralized finance (DeFi) applications, which form an all-inclusive ecosystem of tools that allow users to pursue financial sovereignty. The current product offering consists of a stablecoin automated market maker (AMM) DEX, a gamified insurance product, an onchain prediction market and a derivative framework.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum, Base",
+      "rewardsToken": "USDT, USDC and ETH",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -413,12 +451,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Hakka Finance Bug Bounties | Immunefi",
+      "title": "Hakka Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Hakka Finance and get paid up to $1,000,000.",
       "url": "https://immunefi.com/bug-bounty/hakkafinance",
       "ogImg": "/api/bounty/og-image?project=Hakka+Finance"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

@@ -39,6 +39,7 @@
           "url": "https://etherscan.io/address/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
           "description": "AgToken",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-05T11:30:29.688Z"
         },
         {
@@ -47,6 +48,7 @@
           "url": "https://etherscan.io/address/0x31429d1856ad1377a8a0079410b297e1a9e214c2",
           "description": "ANGLE",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-05T11:56:41.697Z"
         },
         {
@@ -55,6 +57,7 @@
           "url": "https://etherscan.io/address/0x0C462Dbb9EC8cD1630f1728B2CFD2769d09f0dd5",
           "description": "veANGLE",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-05T11:58:22.248Z"
         },
         {
@@ -63,6 +66,7 @@
           "url": "https://etherscan.io/address/0x4A2FF9bC686A0A23DA13B6194C69939189506F7F",
           "description": "FlashAngle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-05T11:58:25.448Z"
         },
         {
@@ -71,6 +75,7 @@
           "url": "https://etherscan.io/address/0x4579709627CA36BCe92f51ac975746f431890930",
           "description": "AngleRouter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-05T11:58:28.824Z"
         },
         {
@@ -79,6 +84,7 @@
           "url": "https://etherscan.io/address/0x8667DBEBf68B0BFa6Db54f550f41Be16c4067d60",
           "description": "Treasury",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-24T12:02:56.334Z"
         },
         {
@@ -87,6 +93,7 @@
           "url": "https://etherscan.io/address/0x5bc6BEf80DA563EBf6Df6D6913513fa9A7ec89BE",
           "description": "CoreBorrow",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-24T12:02:59.518Z"
         },
         {
@@ -95,6 +102,7 @@
           "url": "https://etherscan.io/address/0x241D7598BD1eb819c0E9dEd456AcB24acA623679",
           "description": "VaultManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-24T12:03:02.595Z"
         },
         {
@@ -103,6 +111,7 @@
           "url": "https://etherscan.io/address/0x885448f5fC6F636901cc0cc92ef7477aE132bAF0",
           "description": "Oracle Borrow Module",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-06-24T12:03:06.146Z"
         },
         {
@@ -111,6 +120,7 @@
           "url": "https://etherscan.io/address/0x00253582b2a3FE112feEC532221d9708c64cEFAb",
           "description": "Transmuter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-08-17T07:12:41.308Z"
         }
       ],
@@ -200,6 +210,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -226,8 +239,29 @@
       "websiteUrl": null,
       "description": "Angle is a decentralized, capital efficient and over-collateralized stablecoin protocol composed of smart contracts running on open blockchains.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "ANGLE, USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -235,12 +269,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Angle Protocol Bug Bounties | Immunefi",
+      "title": "Angle Protocol Bug Bounties",
       "description": "Find bugs and vulnerabilities on Angle Protocol and get paid up to $500,000.",
       "url": "https://immunefi.com/bug-bounty/angleprotocol",
       "ogImg": "/api/bounty/og-image?project=Angle+Protocol"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

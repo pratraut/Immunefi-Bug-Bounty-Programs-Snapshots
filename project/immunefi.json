@@ -69,6 +69,7 @@
           "url": "https://immunefi.com",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-13T15:12:33.524Z"
         },
         {
@@ -77,6 +78,7 @@
           "url": "https://bugs.immunefi.com",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-05-13T15:12:34.617Z"
         },
         {
@@ -85,6 +87,7 @@
           "url": "https://etherscan.io/address/0x03fd3d61423e6d46dcc3917862fbc57653dc3eb0",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-02-15T13:34:12.753Z"
         },
         {
@@ -93,6 +96,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-05T15:19:37.876Z"
         },
         {
@@ -101,6 +105,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-05T15:19:39.457Z"
         },
         {
@@ -109,6 +114,7 @@
           "url": "https://etherscan.io/address/0x323498d3fb02594ac3e0a11b2dea337893ecabbe",
           "description": "Splitter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-11T15:01:18.872Z"
         }
       ],
@@ -306,6 +312,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -354,8 +363,31 @@
       "websiteUrl": null,
       "description": "Immunefi is Web3's leading crowdsourced security platform, protecting over $190 billion in user funds. Trusted by over 330 projects like ChainLink, SushiSwap, MakerDAO, Wormhole, and many others, Immunefi works with DeFi’s leading security talent to protect projects against catastrophic exploits",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_1",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [
+        "no_ofac_sdn"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
     "project": {
@@ -363,12 +395,11 @@
       "isSafeHarborActive": true
     },
     "metaData": {
-      "title": "Immunefi Bug Bounties | Immunefi",
+      "title": "Immunefi Bug Bounties",
       "description": "Find bugs and vulnerabilities on Immunefi and get paid up to $50,000.",
       "url": "https://immunefi.com/bug-bounty/immunefi",
       "ogImg": "/api/bounty/og-image?project=Immunefi"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

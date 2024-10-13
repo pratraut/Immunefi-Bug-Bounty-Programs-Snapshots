@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "6ATHaXQVlw2wErspXGIB5O",
       "id": "boost-idex",
@@ -9,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Z2Gy88N6R5vZwze49k4KA/4d53d963948076f62cd75315f28e7a69/IDEX_logo.png",
       "launchDate": "2024-07-30T08:00:00.000Z",
       "endDate": "2024-08-23T08:00:00.000Z",
-      "updatedDate": "2024-08-23T10:35:37.932Z",
+      "updatedDate": "2024-10-09T13:18:36.014Z",
       "kyc": false,
       "rewards": [
         {
@@ -69,6 +76,7 @@
           "url": "https://xchain-testnet-explorer.idex.io/address/0xc214EcBC65D67905cB6f837efaDDC3be8E314bB0",
           "description": "Smart Contract - Custodian.sol - 63",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -77,6 +85,7 @@
           "url": "https://sepolia.arbiscan.io/address/0x6E879e229B5268D8eb53b71d35d055bBBfEa8973",
           "description": "Smart Contract - EarningsEscrow.sol - 103",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -85,6 +94,7 @@
           "url": "https://xchain-testnet-explorer.idex.io/address/0xBB9A5455869e99652D13Cd0aE1E45dc3A2e9914B",
           "description": "Smart Contract - Exchange.sol - 784",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -93,6 +103,7 @@
           "url": "https://xchain-testnet-explorer.idex.io/address/0x13bA4F2be7a42b61Ea6F03AaaD6323A2fc63049e",
           "description": "Smart Contract - Governance.sol - 368",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -101,6 +112,7 @@
           "url": "https://api-sandbox.idex.io/",
           "description": "Testnet",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -109,6 +121,7 @@
           "url": "https://api-sandbox.idex.io/",
           "description": "REST API",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -117,6 +130,7 @@
           "url": "wss://websocket-sandbox.idex.io/",
           "description": "WebSocket API",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -125,6 +139,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -133,6 +148,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -141,6 +157,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/Owned.sol",
           "description": "Smart Contract - Owned.sol - 33",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -149,6 +166,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/asset-migrators/USDCeMigrator.sol",
           "description": "Smart Contract - USDCeMigrator.sol - 27",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -157,6 +175,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/bridge-adapters/ExchangeStargateV2Adapter.sol",
           "description": "Smart Contract - ExchangeStargateV2Adapter.sol - 153",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -165,6 +184,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/index-price-adapters/IDEXIndexAndOraclePriceAdapter.sol",
           "description": "Smart Contract - IDEXIndexAndOraclePriceAdapter.sol - 107",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -173,6 +193,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/index-price-adapters/PythIndexPriceAdapter.sol",
           "description": "Smart Contract - PythIndexPriceAdapter.sol - 119",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -181,6 +202,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/oracle-price-adapters/PythOraclePriceAdapter.sol",
           "description": "Smart Contract - PythOraclePriceAdapter.sol - 76",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -189,6 +211,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/AssetUnitConversions.sol",
           "description": "Smart Contract - AssetUnitConversions.sol - 21",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -197,6 +220,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/BalanceTracking.sol",
           "description": "Smart Contract - BalanceTracking.sol - 468",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -205,6 +229,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/ClosureDeleveraging.sol",
           "description": "Smart Contract - ClosureDeleveraging.sol - 179",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -213,6 +238,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Constants.so",
           "description": "Smart Contract - Constants.sol - 36",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -221,6 +247,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Depositing.sol",
           "description": "Smart Contract - Depositing.sol - 66",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -229,6 +256,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Enums.sol",
           "description": "Smart Contract - Enums.sol - 47",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -237,6 +265,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/ExitFund.sol",
           "description": "Smart Contract - ExitFund.sol - 25",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -245,6 +274,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Funding.sol",
           "description": "Smart Contract - Funding.sol - 158",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -253,6 +283,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/FundingMultiplierQuartetHelper.sol",
           "description": "Smart Contract - FundingMultiplierQuartetHelper.sol - 103",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -261,6 +292,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Hashing.sol",
           "description": "Smart Contract - Hashing.sol - 80",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -269,6 +301,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/IndexPriceMargin.sol",
           "description": "Smart Contract - IndexPriceMargin.sol - 273",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -277,6 +310,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Interfaces.sol",
           "description": "Smart Contract - Interfaces.sol - 9",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -285,6 +319,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/LiquidationValidations.sol",
           "description": "Smart Contract - LiquidationValidations.sol - 113",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -293,6 +328,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/MarketAdmin.sol",
           "description": "Smart Contract - MarketAdmin.sol - 77",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -301,6 +337,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/MarketHelper.sol",
           "description": "Smart Contract - MarketHelper.sol - 40",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -309,6 +346,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Math.sol",
           "description": "Smart Contract - Math.sol - 58",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -317,6 +355,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/NonceInvalidations.sol",
           "description": "Smart Contract - NonceInvalidations.sol - 31",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -325,6 +364,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/OraclePriceMargin.sol",
           "description": "Smart Contract - OraclePriceMargin.sol - 295",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -333,6 +373,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/PositionBelowMinimumLiquidation.sol",
           "description": "Smart Contract - PositionBelowMinimumLiquidation.sol - 142",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -341,6 +382,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/PositionInDeactivatedMarketLiquidation.sol",
           "description": "Smart Contract - PositionInDeactivatedMarketLiquidation.sol - 58",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -349,6 +391,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/SortedStringSet.sol",
           "description": "Smart Contract - SortedStringSet.sol - 53",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -357,6 +400,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/String.sol",
           "description": "Smart Contract - String.sol - 43",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -365,6 +409,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Structs.sol",
           "description": "Smart Contract - Structs.sol - 141",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -373,6 +418,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Time.sol",
           "description": "Smart Contract - Time.sol - 20",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -381,6 +427,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/TradeValidations.sol",
           "description": "Smart Contract - TradeValidations.sol - 177",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -389,6 +436,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Trading.sol",
           "description": "Smart Contract - Trading.sol - 222",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -397,6 +445,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Transferring.sol",
           "description": "Smart Contract - Transferring.sol - 89",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -405,6 +454,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/UUID.sol",
           "description": "Smart Contract - UUID.sol - 13",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -413,6 +463,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Validations.sol",
           "description": "Smart Contract - Validations.sol - 60",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -421,6 +472,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletExitAcquisitionDeleveraging.sol",
           "description": "Smart Contract - WalletExitAcquisitionDeleveraging.sol - 222",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -429,6 +481,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletExitLiquidation.sol",
           "description": "Smart Contract - WalletExitLiquidation.sol - 147",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -437,6 +490,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletExits.sol",
           "description": "Smart Contract - WalletExits.sol - 8",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -445,6 +499,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletInMaintenanceAcquisitionDeleveraging.sol",
           "description": "Smart Contract - WalletInMaintenanceAcquisitionDeleveraging.sol - 160",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -453,6 +508,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/WalletInMaintenanceLiquidation.sol",
           "description": "Smart Contract - WalletInMaintenanceLiquidation.sol - 147",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         },
         {
@@ -461,6 +517,7 @@
           "url": "https://github.com/idexio/idex-contracts-ikon/blob/main/contracts/libraries/Withdrawing.sol",
           "description": "Smart Contract - Withdrawing.sol - 279",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T08:00:00.000Z"
         }
       ],
@@ -657,6 +714,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -702,27 +762,104 @@
           }
         ]
       },
+      "evaluationEndDate": "2024-10-09T11:09:38.790Z",
+      "boostedIntroStartingIn": "$45,000 USD in rewards is available for finding bugs on IDEX.\n\nIDEX is a high-performance decentralized perpetual swaps exchange. IDEX's hybrid design combines an off-chain order book, matching and liquidation engine with on-chain custody and settlement. This approach blends the speed and efficiency of traditional trading systems with the transparency and security of blockchain technology to create an unparalleled trading experience.\n\nIDEX operates on XCHAIN, an IDEX specific Arbitrum Orbit layer 2. XCHAIN's performance supports gas free and nearly instant settlement of all IDEX transactions. Positions on IDEX are collateralized by USDC bridged into XCHAIN via Stargate's Hydra protocol.\n\nFor more information about IDEX please visit https://idex.io/ \n\nNo KYC is required.\n\nIDEX will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the IDEX technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"idex-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nOn Aug 1sth, IDEX will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+      "boostedIntroLive": "",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/16cVluoAnCXgGQKIdeQkHE-oPi-nylsGR?usp=sharing)\n\nAll paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/IDEX)",
+      "rewardsToken": "USDC",
+      "rewardsPool": 45000,
+      "sourceLinesOfCode": 6000,
+      "boostedSummaryReport": "https://drive.google.com/file/d/17Di_yuDq20EiDy-W9UtCBnKB6IfxiUbL/view?usp=sharing",
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [
+        {
+          "high": 1,
+          "name": "Paludo0x",
+          "critical": 0,
+          "earnings": 40500,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Hoverfly9132",
+          "critical": 0,
+          "earnings": 1350,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "marchev",
+          "critical": 0,
+          "earnings": 1350,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "OxSCSamurai",
+          "critical": 0,
+          "earnings": 1350,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "holydevoti0n",
+          "critical": 0,
+          "earnings": 450,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": null,
       "websiteUrl": "https://idex.io/",
       "description": "IDEX is a high-performance decentralized perpetual swaps exchange. It operates on XCHAIN, an IDEX specific Arbitrum Orbit layer 2. XCHAIN's performance supports gas free and nearly instant settlement of all IDEX transactions. Positions on IDEX are collateralized by USDC bridged into XCHAIN via Stargate's Hydra protocol.\n\nFor more information about IDEX please visit https://idex.io/ \n\n\n",
       "githubUrl": null,
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | IDEX Bug Bounties | Immunefi",
+      "title": "Boost | IDEX Bug Bounties",
       "description": "Find bugs and vulnerabilities on Boost | IDEX and get paid up to $45,000.",
-      "url": "https://immunefi.com/bug-bounty/boost-idex",
+      "url": "https://immunefi.com/audit-competition/boost-idex",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+IDEX"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

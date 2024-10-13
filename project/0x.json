@@ -57,6 +57,7 @@
           "url": "https://github.com/0xProject/0x-settler/tree/master/src",
           "description": "0x Settler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T16:00:00.000Z"
         },
         {
@@ -65,6 +66,7 @@
           "url": "https://api.0x.org/swap/",
           "description": "swap API",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T16:00:00.000Z"
         },
         {
@@ -73,6 +75,7 @@
           "url": "https://api.0x.org/gasless/",
           "description": "gasless API",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T16:00:00.000Z"
         },
         {
@@ -81,6 +84,7 @@
           "url": "https://matcha.xyz/",
           "description": "Matcha website",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T16:00:00.000Z"
         },
         {
@@ -89,6 +93,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-30T16:00:00.000Z"
         }
       ],
@@ -252,6 +257,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -292,8 +300,29 @@
       "websiteUrl": null,
       "description": null,
       "githubUrl": null,
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": "category_2",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
     "project": {
@@ -301,12 +330,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "0x Bug Bounties | Immunefi",
+      "title": "0x Bug Bounties",
       "description": "Find bugs and vulnerabilities on 0x and get paid up to $1,000,000.",
       "url": "https://immunefi.com/bug-bounty/0x",
       "ogImg": "/api/bounty/og-image?project=0x"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

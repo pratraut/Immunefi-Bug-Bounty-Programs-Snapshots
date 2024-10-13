@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "RXgAq3lU2mTohOMVZtPFU",
       "id": "mitigation-audit-folksfinance",
@@ -9,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1am7TbpqOJP8hBh1WulSGF/23beae2bc95f2c93764fbdb5eaa49ab1/Folks_Finance_logo.png",
       "launchDate": "2024-08-27T11:00:00.000Z",
       "endDate": "2024-09-05T11:00:00.000Z",
-      "updatedDate": "2024-08-27T12:17:24.328Z",
+      "updatedDate": "2024-10-01T13:33:13.857Z",
       "kyc": false,
       "rewards": [
         {
@@ -45,6 +52,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/76",
           "description": "refactor: add extra checks to the math library",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -53,6 +61,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/75",
           "description": "fix: check the available liquidity when withdrawing",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -61,6 +70,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/74",
           "description": "fix: scale down the repay borrow amount by the liquidation bonus",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -69,6 +79,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/72",
           "description": "fix: stable borrow balance increases",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -77,6 +88,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/70",
           "description": "fix: reduce the loan type collateral used in by the liquidation fee",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -85,6 +97,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/68",
           "description": "fix: cannot rebalance up to a lower stable rate",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -93,6 +106,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/66",
           "description": "fix: cannot mix borrows when liquidating",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -101,6 +115,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/64",
           "description": "fix: don’t use cached chainlink node decimals",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -109,6 +124,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/62",
           "description": "fix: hanlde PythNode exponent which is less than -18",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -117,6 +133,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/60",
           "description": "fix: outdated deposit interest rate",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -125,6 +142,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/58",
           "description": "fix: check the loan is over-collateralised in the switch borrow type operation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -133,6 +151,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/56",
           "description": "fix: make retry and reverse message permissioned retry + can override the return message params",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -141,6 +160,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/52",
           "description": "fix: remove unused same oracle node",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -149,6 +169,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/50",
           "description": "fix: round in the protocol’s favour  when calculating the average stable rate",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -157,6 +178,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/48",
           "description": "fix: handle zero deposits and zero borrows",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -165,6 +187,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/45",
           "description": "fix: check available liquidity when borrowing",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -173,6 +196,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/43",
           "description": "fix: delete collaterals and borrows mappings",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -181,6 +205,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/40",
           "description": "fix: frontrun protection for the create account and create loan operations",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -189,6 +214,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/37",
           "description": "fix: make rebalance up and rebalance down a permissioned operation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -197,6 +223,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/35",
           "description": "fix: various small fixes for price deviation (same oracle) node",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -205,6 +232,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/31",
           "description": "fix: check adapter address match to handle zero adapter id edge case",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -213,6 +241,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/29",
           "description": "fix: cannot add zero address adapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -221,6 +250,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/27",
           "description": "fix: cannot delete account",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -229,6 +259,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/25",
           "description": "feat: reduce gas consumption for failed messages",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -237,6 +268,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/23",
           "description": "fix: handle case where Pyth publish time is newer than block timestamp",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -245,6 +277,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/21",
           "description": "fix: round in the protocol’s favour when withdrawing and repaying with collateral",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -253,6 +286,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/18",
           "description": "fix: consider Wormhole publish message fee",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -261,6 +295,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/16",
           "description": "fix: don’t increase total deposits by the interest paid when repaying with collateral",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -269,6 +304,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/13",
           "description": "feat: can override existing invite if one exists",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -277,6 +313,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/11",
           "description": "fix: use CCTP source domain in message keys",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -285,6 +322,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/9",
           "description": "fix: incorrect implementation of Chainlink TWAP",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -293,6 +331,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/5",
           "description": "fix: NodeManager didn’t follow EIP-165",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -301,6 +340,7 @@
           "url": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/pull/4",
           "description": "fix: some oracle contracts used floating pragma",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         },
         {
@@ -309,6 +349,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-27T11:00:00.000Z"
         }
       ],
@@ -412,7 +453,10 @@
         "programType": [
           "Smart Contract"
         ],
-        "language": []
+        "language": [],
+        "featured": [
+          "Launched Recently"
+        ]
       },
       "legacy": {
         "technologies": [
@@ -439,27 +483,86 @@
         ],
         "web_rewards": []
       },
+      "evaluationEndDate": "2024-09-18T08:00:00.000Z",
+      "boostedIntroStartingIn": "$25,000 USD in rewards are available to assess whether the set of fixes from the original Folks Finance Boost both fully resolve the reported vulnerabilities and do not introduce new ones.\n\nHunting on a Mitigation Audit involves understanding the root cause of the issues and verifying that the patches or mitigations directly address the causes. This is crucial to ensure that the vulnerabilities are fully fixed and do not leave other avenues open for exploitation.\n\nFolks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.\n\nFolks Finance are expanding with a new cross-chain lending protocol using a hub and spoke model. The hub chain, Avalanche, contains the main logic and state of the lending protocol. The spoke chains, initially EVM, act as an entry point for a user to interact with the protocol.\n\nNo KYC is required.",
+      "boostedIntroLive": "",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1VGhOjtKqQbWdhcFd6PuY5AS-VSghecpG).\n\nAll paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Mitigation%20Audit%20%7C%20Folks%20Finance).",
+      "rewardsToken": "USDC",
+      "rewardsPool": 25000,
+      "sourceLinesOfCode": 500,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1tbmiKRimI_BPPy-BIhHf7e9HVD2-JOlk/view?usp=sharing",
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "A2Security",
+          "critical": 1,
+          "earnings": 22500,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "zarkk",
+          "critical": 0,
+          "earnings": 1563,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Paludo0x",
+          "critical": 0,
+          "earnings": 938,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": null,
       "websiteUrl": "https://folks.finance/it",
       "description": "Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.\n\n\n",
       "githubUrl": "https://github.com/Folks-Finance/folks-finance-xchain-contracts/issues?q=is%3Aissue+is%3Aclosed",
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Mitigation Audit | Folks Finance Bug Bounties | Immunefi",
+      "title": "Mitigation Audit | Folks Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Mitigation Audit | Folks Finance and get paid up to $25,000.",
-      "url": "https://immunefi.com/bug-bounty/mitigation-audit-folksfinance",
+      "url": "https://immunefi.com/audit-competition/mitigation-audit-folksfinance",
       "ogImg": "/api/bounty/og-image?project=Mitigation+Audit+%7C+Folks+Finance"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

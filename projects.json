@@ -77,20 +77,62 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "4hlHNTce14vSsjvDMG4p12",
+    "id": "stargate",
+    "project": "Stargate",
+    "maximum_reward": 10000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7LX3n66MkHEBIYLZtNzQTA/811af3d0f225034e794af65976ba5d19/Stargate_logo.png",
+    "date": "2024-09-24T18:00:00.000Z",
+    "launchDate": "2024-09-24T18:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-30T14:08:34.344Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
   },
   {
     "contentfulId": "4MSwmyXBE9T6RRVOHPX6fj",
-    "id": "makerdao",
-    "project": "MakerDAO",
+    "id": "sky",
+    "project": "Sky",
     "maximum_reward": 10000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vcEkB0bOqaDEGqlxLIXAM/f4e37545855fec510df9a033ebd78fbf/Mark_Maker.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/29CWfnhFWZUDZ0w83H0wj6/30bb70512c04338d29bd3bd5a261ad2c/Sky_Ecosystem.png",
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-19T04:27:28.335Z",
+    "updatedDate": "2024-10-02T08:47:56.645Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -121,6 +163,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -162,7 +207,10 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": true
   },
@@ -173,7 +221,7 @@
     "maximum_reward": 5000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/pIVuYX36pAaOeF46JoU08/d0d379c13db078f5f195c7637d81d24a/Logo_R.png",
     "date": "2023-04-27T12:00+03:00",
-    "launchDate": "2023-04-27T12:00+03:00",
+    "launchDate": "2023-04-27T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-10-06T08:23:39.134Z",
     "kyc": true,
@@ -205,6 +253,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -214,11 +265,11 @@
     "id": "wormhole",
     "project": "Wormhole",
     "maximum_reward": 5000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6sgdaPC0JYg8aGLp02UuzY/7036e6ccdee00175633a7bdfcd6698e6/Wormhole_Logo-newest__1_.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/zjpjBpSpX6wiIdgfoLeKc/b7c1a836bbc7a4a850623ddee15f3158/wormhole-logo-full-color-rgb-2000px_72ppi__1_.png",
     "date": "2022-02-11T09:00-06:00",
-    "launchDate": "2022-02-11T09:00-06:00",
+    "launchDate": "2022-02-11T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:56:05.348Z",
+    "updatedDate": "2024-10-02T08:44:27.720Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -284,6 +335,9 @@
         "Python",
         "Rust",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -295,7 +349,7 @@
     "maximum_reward": 5000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3MNDLo0J4LVTW2PgGVCsrb/1b8813ff88a37704386e3c81237dfbbc/GMX_logo.jpeg",
     "date": "2021-10-20T07:00-05:00",
-    "launchDate": "2021-10-20T07:00-05:00",
+    "launchDate": "2021-10-20T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:37.958Z",
     "kyc": false,
@@ -330,6 +384,9 @@
         "JavaScript",
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -370,6 +427,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -418,6 +478,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -454,7 +517,10 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": true
   },
@@ -510,6 +576,9 @@
         "Rust",
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -552,6 +621,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -602,6 +674,9 @@
       "language": [
         "NextJS",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -653,6 +728,9 @@
         "Rust",
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -662,11 +740,11 @@
     "id": "zksync",
     "project": "zkSync",
     "maximum_reward": 2300000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/20y9IxdO3vsGORIFz3w3e0/e5497447b57269cadbffa881402e26b4/zk-sync-lite-white-total.png",
-    "date": "2022-03-15T14:00-07:00",
-    "launchDate": "2022-03-15T14:00-07:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/BVBU3VYmZ7reZRrExTrGp/ba2e745ef785db7f3bae88ea8ba8523f/ZKTokenBlack.png",
+    "date": "2022-03-15T21:00:00.000Z",
+    "launchDate": "2022-03-15T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T19:00:54.929Z",
+    "updatedDate": "2024-09-02T15:07:02.893Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -689,7 +767,8 @@
         "Infrastructure"
       ],
       "ecosystem": [
-        "ETH"
+        "ETH",
+        "zkSync"
       ],
       "programType": [
         "Blockchain/DLT",
@@ -698,6 +777,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -708,10 +790,10 @@
     "project": "Axelar Network",
     "maximum_reward": 2250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50nSUkPKWY77vhNfAtPIXc/4200a486fe40455e51f74d3bd242d735/Axelar_Logo_Symbol_Black_3x.png",
-    "date": "2022-03-10T20:30-07:00",
-    "launchDate": "2022-03-10T20:30-07:00",
+    "date": "2022-03-11T03:30:00.000Z",
+    "launchDate": "2022-03-11T03:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:55:31.038Z",
+    "updatedDate": "2024-10-04T08:18:57.013Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -762,6 +844,9 @@
         "Go",
         "Rust",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -808,6 +893,9 @@
         "C/C++",
         "Go",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -855,6 +943,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -898,6 +989,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -909,7 +1003,7 @@
     "maximum_reward": 2000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4cIP56xUCfhgaqmMzDeCMD/03d7201e7ff61ab8816864799a459338/SWEAT_CIRCLE_LOGO.png",
     "date": "2023-03-31T13:00-05:00",
-    "launchDate": "2023-03-31T13:00-05:00",
+    "launchDate": "2023-03-31T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:29.411Z",
     "kyc": false,
@@ -940,6 +1034,9 @@
       "language": [
         "JavaScript",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -951,7 +1048,7 @@
     "maximum_reward": 2000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/51D5leTvhTAzt8B5goyJwq/d530d33691ce32e0d4edbedcd3884dfa/Lido_for_Polygon.png",
     "date": "2022-03-31T14:30-06:00",
-    "launchDate": "2022-03-31T14:30-06:00",
+    "launchDate": "2022-03-31T14:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:45.144Z",
     "kyc": false,
@@ -981,6 +1078,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -992,7 +1092,7 @@
     "maximum_reward": 2000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/73WYLOYzxAXGT3NzeJGCb7/d7b0c5234e9f55fcb3480097efb29a66/Zodiac_Logo.png",
     "date": "2022-03-25T12:30-06:00",
-    "launchDate": "2022-03-25T12:30-06:00",
+    "launchDate": "2022-03-25T12:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:49:33.906Z",
     "kyc": true,
@@ -1021,6 +1121,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1032,7 +1135,7 @@
     "maximum_reward": 2000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6ibSou9KOCjwRMOviQ4op0/76c3c2bda63a9c0c8c8432d71f234f8c/Aatar_green_white.png",
     "date": "2022-02-10T21:00-07:00",
-    "launchDate": "2022-02-10T21:00-07:00",
+    "launchDate": "2022-02-10T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:54.711Z",
     "kyc": false,
@@ -1062,6 +1165,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1073,7 +1179,7 @@
     "maximum_reward": 2000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/13hITYqQMxBrQvjeOzbRhl/b7ca8569a07d3a2212aeac6a92244110/Celer_Logo.jpeg",
     "date": "2021-11-18T07:00-06:00",
-    "launchDate": "2021-11-18T07:00-06:00",
+    "launchDate": "2021-11-18T07:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:53:36.165Z",
     "kyc": true,
@@ -1116,6 +1222,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1127,7 +1236,7 @@
     "maximum_reward": 2000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4R1H4ktLiQcp601gnixkJa/20dc4d9cf5229ae712f1413d9afced4f/Arbitrum.jpeg",
     "date": "2021-08-31T08:00-05:00",
-    "launchDate": "2021-08-31T08:00-05:00",
+    "launchDate": "2021-08-31T08:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:54.797Z",
     "kyc": true,
@@ -1156,6 +1265,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1200,6 +1312,9 @@
       "language": [
         "Solidity",
         "Vyper"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1211,7 +1326,7 @@
     "maximum_reward": 1500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2temgYEnUa6b1wiAL1SPcu/fb975796259ebd1407b4972f2ec4017d/Spool_Logo_.png",
     "date": "2022-07-01T10:30-06:00",
-    "launchDate": "2022-07-01T10:30-06:00",
+    "launchDate": "2022-07-01T10:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:09.708Z",
     "kyc": true,
@@ -1242,6 +1357,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1253,7 +1371,7 @@
     "maximum_reward": 1110000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/67fYbqNBbkrrWPxJsdB78q/96c2c9102034a4815435b434b6155fb2/DeGate_logo.jpeg",
     "date": "2023-04-06T12:00-04:00",
-    "launchDate": "2023-04-06T12:00-04:00",
+    "launchDate": "2023-04-06T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:11.071Z",
     "kyc": false,
@@ -1286,6 +1404,9 @@
       "language": [
         "C/C++",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1299,7 +1420,7 @@
     "date": "2023-03-10T17:00:00.000Z",
     "launchDate": "2023-03-10T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-13T15:07:11.722Z",
+    "updatedDate": "2024-09-17T15:56:08.696Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1332,6 +1453,9 @@
       "language": [
         "Solidity",
         "Yul"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1357,8 +1481,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [
         "DAO",
@@ -1379,6 +1502,144 @@
       "language": [
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3lkfpdMBYIJ1SPrLisSO1o",
+    "id": "kiln-on-chain-v1",
+    "project": "Kiln On-Chain v1",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1SEs1ui9Ficgtj8iEcEZKG/204a23e8cfb04126d1a48548947cb448/Kiln_Defi.png",
+    "date": "2024-10-01T13:00:00.000Z",
+    "launchDate": "2024-10-01T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-01T15:31:13.509Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "31R0ADomfvCqeoUE5meRPG",
+    "id": "eclipse",
+    "project": "Eclipse",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2mMhoo9TBjTkWTi4DMXodI/160835f9ff29fc0d7d43c354a1dab4a1/Eclipse.png",
+    "date": "2024-09-18T15:26:00.000Z",
+    "launchDate": "2024-09-18T15:26:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-18T15:28:34.278Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana",
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2oF5ZRoWcAvJCzrEn5ZCWx",
+    "id": "babylon-labs",
+    "project": "Babylon Labs",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1uFhvCOin4EEx5EMqnIkF9/cfa80e20b68ae47bd84d813d25b584bc/72515ec2-1bc5-4bdf-b788-354949253625.png",
+    "date": "2024-09-16T15:00:00.000Z",
+    "launchDate": "2024-09-16T15:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-04T13:12:46.534Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Bitcoin"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Go",
+        "Typescript",
+        "JavaScript",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -1425,51 +1686,12 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "2sJodat8OBv9B9gFeeCnNI",
-    "id": "neutron",
-    "project": "Neutron",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6s6q2dCluzikNzgkxSk7Zk/51597fa7af11044282aa1d70d80cfd57/Neutron.png",
-    "date": "2024-07-02T08:30:00.000Z",
-    "launchDate": "2024-07-02T08:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-08-30T10:38:09.576Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Osmosis"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Go",
-        "Rust"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "2XhNi4eYcUk4BHBKe6l0Od",
@@ -1506,7 +1728,48 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "77iGw7bZ2iQGwLoODoKQOq",
+    "id": "polymarket",
+    "project": "Polymarket",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jxAOPTfTYMoswZPI9Mn9N/ffb11e8d127bd24a1aec560645af8f51/photo_2024-04-22_20.07.26__1_.png",
+    "date": "2024-04-22T17:00:00.000Z",
+    "launchDate": "2024-04-22T17:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-06T08:11:34.154Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": true
   },
@@ -1517,7 +1780,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4NDO9McTpJ6rrZIu7Y4DTP/dc1f88f2819b4e9d00cc9a07138db70f/logo_lifi_mark__dark_theme__4x_copy.png",
     "date": "2023-11-27T12:00+03:00",
-    "launchDate": "2023-11-27T12:00+03:00",
+    "launchDate": "2023-11-27T09:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-11-27T13:10:35.279Z",
     "kyc": true,
@@ -1553,6 +1816,9 @@
       "language": [
         "Solidity",
         "JavaScript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1566,7 +1832,7 @@
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-12T12:10:34.504Z",
+    "updatedDate": "2024-09-09T09:38:59.734Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1597,6 +1863,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1644,6 +1913,9 @@
       "language": [
         "Go",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1685,46 +1957,9 @@
       ],
       "language": [
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7fbPV0tVaRscCZIG4jSBOP",
-    "id": "kiln",
-    "project": "Kiln",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7llBamwFIV7BaYb365942l/3f1c4a79e232381dfe51587ac1a9586c/0cCtO36s_400x400.jpg",
-    "date": "2023-08-21T12:00+02:00",
-    "launchDate": "2023-08-21T12:00+02:00",
-    "endDate": null,
-    "updatedDate": "2024-01-09T16:48:18.651Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
       ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1735,10 +1970,10 @@
     "project": "Stader for ETH",
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1iQDInT514hzL2832OmJSQ/81275804e386d69c44048a90c690eecb/j-TUyZEq_400x400.jpg",
-    "date": "2023-07-08T13:00+02:00",
-    "launchDate": "2023-07-08T13:00+02:00",
+    "date": "2023-07-08T11:00:00.000Z",
+    "launchDate": "2023-07-08T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2023-10-05T15:28:16.568Z",
+    "updatedDate": "2024-09-11T13:16:14.348Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -1765,6 +2000,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1776,7 +2014,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6t4qbnsCLpWXBvsPoQ5s2g/17cf9df21e075276f7522e2ca3c67e9c/StarkEx-symbol.png",
     "date": "2023-06-27T10:00+02:00",
-    "launchDate": "2023-06-27T10:00+02:00",
+    "launchDate": "2023-06-27T08:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-12-20T16:23:37.681Z",
     "kyc": true,
@@ -1808,6 +2046,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -1819,7 +2060,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/42N2PO9qPe9HQhlJM4yobc/6814fce956b4727845b0fb05fe23ce08/Copy_of_ezgif.com-gif-maker.png",
     "date": "2023-06-15T17:00+03:00",
-    "launchDate": "2023-06-15T17:00+03:00",
+    "launchDate": "2023-06-15T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:59:53.410Z",
     "kyc": false,
@@ -1853,6 +2094,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1901,6 +2145,9 @@
         "C/C++",
         "Go",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1940,6 +2187,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -1984,6 +2234,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2034,6 +2287,9 @@
         "Go",
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2047,10 +2303,11 @@
     "date": "2022-10-19T06:30:00.000Z",
     "launchDate": "2022-10-19T06:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-19T04:38:27.229Z",
+    "updatedDate": "2024-09-25T14:14:46.033Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
+      "Websites and Applications",
       "Blockchain/DLT"
     ],
     "immunefiStandard": true,
@@ -2071,11 +2328,15 @@
       ],
       "programType": [
         "Blockchain/DLT",
-        "Smart Contract"
+        "Smart Contract",
+        "Websites and Applications"
       ],
       "language": [
         "Cairo",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2089,7 +2350,7 @@
     "date": "2022-06-16T16:30:00.000Z",
     "launchDate": "2022-06-16T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-06T09:36:50.036Z",
+    "updatedDate": "2024-09-09T08:09:55.706Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2118,6 +2379,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2129,7 +2393,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5K5gW86YPxCmDeFWSeD5fi/f83f639d8527d85e7243e4e4331aa2ed/Aura_Finance_logo.jpeg",
     "date": "2022-06-16T13:00-06:00",
-    "launchDate": "2022-06-16T13:00-06:00",
+    "launchDate": "2022-06-16T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:15.692Z",
     "kyc": false,
@@ -2159,6 +2423,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2202,6 +2469,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2213,7 +2483,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5RONBs8MvUillmn49FRQ8G/58ec9b1dcf5079426bebf218c3948166/Balancer_Logo.png",
     "date": "2022-05-12T10:00-06:00",
-    "launchDate": "2022-05-12T10:00-06:00",
+    "launchDate": "2022-05-12T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:30.363Z",
     "kyc": false,
@@ -2244,6 +2514,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2257,7 +2530,7 @@
     "date": "2022-04-22T02:30:00.000Z",
     "launchDate": "2022-04-22T02:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-21T18:17:18.546Z",
+    "updatedDate": "2024-09-25T13:59:11.233Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2285,6 +2558,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2296,7 +2572,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3NYcVrpN5R4C8oIPUmEisj/c514d484f64f4d7c0478178edca9de08/Hakka_Finance_logo.png",
     "date": "2022-03-28T11:30-06:00",
-    "launchDate": "2022-03-28T11:30-06:00",
+    "launchDate": "2022-03-28T11:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:53:34.562Z",
     "kyc": false,
@@ -2332,6 +2608,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2343,7 +2622,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2F4VGKaboWEaBfj1yfdpj/5597728d3c7bbd22b3814cb79d71ccde/Flamingo_Finance_logo.jpeg",
     "date": "2022-02-14T15:00-06:00",
-    "launchDate": "2022-02-14T15:00-06:00",
+    "launchDate": "2022-02-14T15:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:46.226Z",
     "kyc": false,
@@ -2377,6 +2656,9 @@
       ],
       "language": [
         "C#"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2418,6 +2700,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2443,7 +2728,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "Stablecoin"
@@ -2461,6 +2747,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2504,6 +2793,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2515,7 +2807,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2xJOw4FpKeRGxyQOV0RG0G/58c413a9b3969ddbd605bea881c02e72/Pancakeswap-logo.jpg",
     "date": "2021-03-28T00:00-07:00",
-    "launchDate": "2021-03-28T00:00-07:00",
+    "launchDate": "2021-03-28T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:46.280Z",
     "kyc": false,
@@ -2548,6 +2840,9 @@
       "language": [
         "Move",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2559,7 +2854,7 @@
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1WxmZjVBKwVs8B9tTr8DGp/78025280490aea0dbcddf7bebed36c18/Sovryn-logo.png",
     "date": "2021-03-03T00:00-07:00",
-    "launchDate": "2021-03-03T00:00-07:00",
+    "launchDate": "2021-03-03T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-05-23T17:07:31.551Z",
     "kyc": false,
@@ -2589,6 +2884,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2600,7 +2898,7 @@
     "maximum_reward": 900000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1nqF3UKYXUVR0FZzbX8zcf/3e9ef81cd45a182e816adbfad9ba4fc3/Bancor-logo.png",
     "date": "2021-04-07T00:00-07:00",
-    "launchDate": "2021-04-07T00:00-07:00",
+    "launchDate": "2021-04-07T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-11-30T18:17:08.088Z",
     "kyc": true,
@@ -2629,6 +2927,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2640,7 +2941,7 @@
     "maximum_reward": 550000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5RljZ20Xb5SROzx6NIOfuu/784259142faffaffc007f9b6049303bf/2023-02-07_08.21.29.jpg",
     "date": "2023-02-08T11:00-05:00",
-    "launchDate": "2023-02-08T11:00-05:00",
+    "launchDate": "2023-02-08T11:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-03-21T17:03:19.992Z",
     "kyc": false,
@@ -2668,6 +2969,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2707,6 +3011,87 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "45JfvUndCULKk7AS4TxvF0",
+    "id": "kiln-defi",
+    "project": "Kiln DeFi",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2rN68srCOESswyxdwjzdRM/90ac006b52d632dc6f51d60ea3122922/Kiln_Defi.png",
+    "date": "2024-09-25T18:09:33.000Z",
+    "launchDate": "2024-09-25T18:09:33.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-01T14:10:04.358Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4JBAbb2Y8DG80NglDzsGpk",
+    "id": "firedancer",
+    "project": "Firedancer",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2O0QVg3wfx8rp3u3rzgqUg/4df69f867867b9c6b65a0cc30533e0b4/Firedancer_Transparent.png",
+    "date": "2024-09-18T13:00:00.000Z",
+    "launchDate": "2024-09-18T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-02T16:36:05.073Z",
+    "kyc": true,
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Validator"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2751,9 +3136,57 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2sJodat8OBv9B9gFeeCnNI",
+    "id": "neutron",
+    "project": "Neutron",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6s6q2dCluzikNzgkxSk7Zk/51597fa7af11044282aa1d70d80cfd57/Neutron.png",
+    "date": "2024-07-02T08:30:00.000Z",
+    "launchDate": "2024-07-02T08:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-01T15:36:21.006Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Osmosis"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Go",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
   },
   {
     "contentfulId": "XROwrT6tWvOPznjsl9vhu",
@@ -2784,7 +3217,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -2827,6 +3263,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2840,7 +3279,7 @@
     "date": "2023-11-30T09:00:00.000Z",
     "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-06T07:22:04.064Z",
+    "updatedDate": "2024-10-01T15:27:46.975Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -2852,7 +3291,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Bridge",
@@ -2872,9 +3312,12 @@
       "language": [
         "Go",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "7aadNIsaUh4D1Z6RDYNKA1",
@@ -2883,7 +3326,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/vtRUtB9ZpwHr7SECKaCWh/77fc8109b975a3fc368be61cffde6628/Screenshot_2023-11-20_at_9.49.06_PM.png",
     "date": "2023-11-28T17:00+03:00",
-    "launchDate": "2023-11-28T17:00+03:00",
+    "launchDate": "2023-11-28T17:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-11-28T13:26:16.835Z",
     "kyc": false,
@@ -2909,6 +3352,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2920,7 +3366,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4ycrPoQ936fnEBbl69XK77/824a5bb3ea88e9ebcb7a2b0bd01e746c/perennial_logo.jpeg",
     "date": "2023-10-11T12:00+03:00",
-    "launchDate": "2023-10-11T12:00+03:00",
+    "launchDate": "2023-10-11T09:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-10-16T14:45:23.062Z",
     "kyc": true,
@@ -2949,6 +3395,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2993,6 +3442,52 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "7fbPV0tVaRscCZIG4jSBOP",
+    "id": "kiln",
+    "project": "Kiln On-Chain v2",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2iDDxMXgRnP06wYCjb4T3E/5c65c546efd0c74e47ac0db66e773bb5/Kiln_Defi.png",
+    "date": "2023-08-21T10:00:00.000Z",
+    "launchDate": "2023-08-21T10:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-01T15:32:22.619Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3028,6 +3523,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3071,6 +3569,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3084,7 +3585,7 @@
     "date": "2023-04-28T09:00:00.000Z",
     "launchDate": "2023-04-28T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-06-07T10:37:22.894Z",
+    "updatedDate": "2024-09-27T10:36:59.293Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3121,6 +3622,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3132,7 +3636,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1BM295EDyK0WCfv6u6E20q/6d01c2564be90322b7f0df4aa701c94e/Davos_logo.jpeg",
     "date": "2023-02-13T15:00-05:00",
-    "launchDate": "2023-02-13T15:00-05:00",
+    "launchDate": "2023-02-13T15:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:30.544Z",
     "kyc": false,
@@ -3162,6 +3666,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3173,7 +3680,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6ouY5l4d7afrMjwgyVbc9M/434953fe64e93da4a96332c2df7d41c3/Pontem_logo_sign.png",
     "date": "2022-11-16T11:30-07:00",
-    "launchDate": "2022-11-16T11:30-07:00",
+    "launchDate": "2022-11-16T11:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:49:41.148Z",
     "kyc": true,
@@ -3203,6 +3710,9 @@
       ],
       "language": [
         "Move"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3214,7 +3724,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3LohZrbHuhcG4MgU2zrH4A/39bca0e7dc6e249cee3706c8c0021929/Ankr_logo.jpeg",
     "date": "2022-07-21T12:00-06:00",
-    "launchDate": "2022-07-21T12:00-06:00",
+    "launchDate": "2022-07-21T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:36.652Z",
     "kyc": false,
@@ -3245,6 +3755,9 @@
       "language": [
         "JavaScript",
         "Vyper"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3288,6 +3801,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3299,7 +3815,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/195CvqgtipygePealaDWE7/deb10cf2868ffeadda73644c1595bcd2/Orca_Logo.png",
     "date": "2022-05-19T11:30-06:00",
-    "launchDate": "2022-05-19T11:30-06:00",
+    "launchDate": "2022-05-19T11:30:00.000Z",
     "endDate": null,
     "updatedDate": "2023-09-18T07:27:34.839Z",
     "kyc": false,
@@ -3328,6 +3844,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3339,7 +3858,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6r4koNJ8VLDyXhmpDcr2RX/2c021a1c18cb1ee8ae9630ac3ce987c9/Drift_Logo_Circular__4_.png",
     "date": "2022-02-15T08:00-06:00",
-    "launchDate": "2022-02-15T08:00-06:00",
+    "launchDate": "2022-02-15T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:42.552Z",
     "kyc": false,
@@ -3369,6 +3888,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3380,7 +3902,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/eUOQ1h8f4Rp7j6crz0YSq/669fab983d425d27fad87560219065a5/Maple_Logo.jpg",
     "date": "2022-01-25T16:00-05:00",
-    "launchDate": "2022-01-25T16:00-05:00",
+    "launchDate": "2022-01-25T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-05-29T15:47:01.076Z",
     "kyc": true,
@@ -3409,6 +3931,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3420,7 +3945,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5xJi2n9A9meLRjwF2KCJYD/126939f0983decfb5720ab31f31f1738/Square_Black.png",
     "date": "2022-01-11T09:00-07:00",
-    "launchDate": "2022-01-11T09:00-07:00",
+    "launchDate": "2022-01-11T16:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:37.763Z",
     "kyc": false,
@@ -3450,6 +3975,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3461,7 +3989,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2yQpKoZm8AOR2wLqYzZa9j/fd4701886536ad5828e0ff05edd4771d/acala_logo.png",
     "date": "2021-12-13T20:00-06:00",
-    "launchDate": "2021-12-13T20:00-06:00",
+    "launchDate": "2021-12-13T20:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:10.167Z",
     "kyc": false,
@@ -3492,6 +4020,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3534,6 +4065,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3545,7 +4079,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4KQLVXSS65vjjJRtqM1PbQ/85eeab1addc2bdf186d9f37032c21fe2/logo__black___1_.png",
     "date": "2021-10-28T04:15-05:00",
-    "launchDate": "2021-10-28T04:15-05:00",
+    "launchDate": "2021-10-28T04:15:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:49:35.472Z",
     "kyc": true,
@@ -3575,6 +4109,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3586,7 +4123,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3KAGs1iPkVQgH479qY0UC0/1bbe99e55301f0b4be5b7c1739fe7c19/sherlock.png",
     "date": "2021-10-12T10:00-05:00",
-    "launchDate": "2021-10-12T10:00-05:00",
+    "launchDate": "2021-10-12T15:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:59.022Z",
     "kyc": false,
@@ -3615,6 +4152,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3663,6 +4203,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3674,7 +4217,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/arpDmjFKDdzJz5O1pgtwQ/37743b282dbdc711c4e1ce060fa16af0/Goldfinch.png",
     "date": "2021-09-10T13:00-05:00",
-    "launchDate": "2021-09-10T13:00-05:00",
+    "launchDate": "2021-09-10T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:54.780Z",
     "kyc": false,
@@ -3706,6 +4249,9 @@
       "language": [
         "NextJS",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3746,6 +4292,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3757,7 +4306,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2u1oDQZb8NbBe1tP9kGoTT/d63ee09cd01632d07229c7c582b01d90/BENQi__1_.jpeg",
     "date": "2021-08-19T07:00-05:00",
-    "launchDate": "2021-08-19T07:00-05:00",
+    "launchDate": "2021-08-19T07:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:00.188Z",
     "kyc": false,
@@ -3790,6 +4339,9 @@
       "language": [
         "ReactJS",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3801,7 +4353,7 @@
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/71pklpx3jRf9XgK7fxlT8n/c7c77d4bcca1ee5dd85284c4c1f95c01/Alphafinance-logo.png",
     "date": "2021-04-20T00:00-07:00",
-    "launchDate": "2021-04-20T00:00-07:00",
+    "launchDate": "2021-04-20T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:05.341Z",
     "kyc": false,
@@ -3837,6 +4389,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3882,6 +4437,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -3931,6 +4489,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3944,7 +4505,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-06T09:27:24.243Z",
+    "updatedDate": "2024-09-13T12:07:03.467Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3971,6 +4532,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4012,6 +4576,52 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "1KtDDygckpZaOtcEUPs3H3",
+    "id": "stakestone",
+    "project": "StakeStone",
+    "maximum_reward": 300000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/lTWhtXDyfizGgVkU5Myjr/f2b9c05def378a446671efd050d90389/StakeStone.png",
+    "date": "2024-09-12T14:36:25.000Z",
+    "launchDate": "2024-09-12T14:36:25.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-16T11:32:37.258Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "Liquid Staking",
+        "Staking"
+      ],
+      "projectType": [],
+      "ecosystem": [
+        "ETH",
+        "Bitcoin"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4057,6 +4667,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -4068,7 +4681,7 @@
     "maximum_reward": 300000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7d8BEERcy6p2UBcH08gYWI/63f57580f3b9a8526d1a899a3cb72a44/pstake.png",
     "date": "2022-08-11T21:00-06:00",
-    "launchDate": "2022-08-11T21:00-06:00",
+    "launchDate": "2022-08-12T03:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-07-24T14:14:57.902Z",
     "kyc": false,
@@ -4100,6 +4713,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4113,7 +4729,7 @@
     "date": "2021-04-12T07:00:00.000Z",
     "launchDate": "2021-04-12T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-24T16:32:09.469Z",
+    "updatedDate": "2024-09-17T15:27:16.097Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4123,7 +4739,7 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Not Required"
+        "PoC Required"
       ],
       "productType": [
         "Derivatives",
@@ -4143,20 +4759,67 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
   },
   {
+    "contentfulId": "7iVTE8sJI1cVoE5wkgVlrc",
+    "id": "lombard-finance",
+    "project": "Lombard Finance",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/45jLPGOtLfBX7MnymTBSRC/343e92cb4139cb90e91ddfe0819ea32b/Lombard.png",
+    "date": "2024-09-04T00:00:00.000Z",
+    "launchDate": "2024-09-04T00:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-23T11:57:16.729Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [
+        "Bug bounty"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Bitcoin"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3W6uozU6kUQ7aFgTl2uLwR",
-    "id": "jito-foundation",
+    "id": "jito",
     "project": "Jito",
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7rNleS7nuHpc97aucvjUbp/8f9a7d9fbab73c7295370d1900cc5fe4/JitoFoundation.png",
     "date": "2024-08-28T13:00:00.000Z",
     "launchDate": "2024-08-28T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-28T13:58:10.426Z",
+    "updatedDate": "2024-09-04T01:33:58.311Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4175,9 +4838,12 @@
         "Blockchain/DLT",
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
-    "premiumTriaging": null
+    "premiumTriaging": false
   },
   {
     "contentfulId": "2qnghE9MznxqFHSckj9FJf",
@@ -4188,7 +4854,7 @@
     "date": "2024-08-02T00:00:00.000Z",
     "launchDate": "2024-08-02T00:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-19T04:15:33.124Z",
+    "updatedDate": "2024-09-11T10:16:43.710Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4212,7 +4878,10 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -4225,7 +4894,7 @@
     "date": "2024-07-16T12:00:00.000Z",
     "launchDate": "2024-07-16T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-17T13:31:02.137Z",
+    "updatedDate": "2024-10-07T14:03:30.898Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -4253,6 +4922,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4288,7 +4960,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -4332,6 +5007,9 @@
       "language": [
         "Solidity",
         "NextJS"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4343,7 +5021,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5u7ggMEIi7w6abohzGtLwG/af0ed08f8ec0b843509e647f8e13ab9b/2023-12-08_19.05.14_2.png",
     "date": "2023-12-13T12:00+03:00",
-    "launchDate": "2023-12-13T12:00+03:00",
+    "launchDate": "2023-12-13T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-01-24T08:25:30.427Z",
     "kyc": false,
@@ -4368,7 +5046,10 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -4379,7 +5060,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3T3V79UYWTtCBEJb3b71DI/a01d4e7ddade1a1318c5b6ebf5d224ef/Beta_Logo_Green_copy_2.png",
     "date": "2023-12-07T09:00-05:00",
-    "launchDate": "2023-12-07T09:00-05:00",
+    "launchDate": "2023-12-07T09:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-12-07T13:30:50.408Z",
     "kyc": false,
@@ -4407,6 +5088,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4418,7 +5102,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3ayg1ykT9dYUXmROszIxTv/ad538cadc05e8f1a489e580df21b0373/Stellar_Stacked.png",
     "date": "2023-11-29T15:00+03:00",
-    "launchDate": "2023-11-29T15:00+03:00",
+    "launchDate": "2023-11-29T15:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-12-06T15:19:15.208Z",
     "kyc": true,
@@ -4445,6 +5129,9 @@
       "language": [
         "C/C++",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4494,6 +5181,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4505,7 +5195,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/q0cBU7rvzPXeEeFz43EFZ/f81c373a9299b1fd7e0e1b079bb7b2a6/Timeless_logo.jpeg",
     "date": "2023-07-05T14:00+02:00",
-    "launchDate": "2023-07-05T14:00+02:00",
+    "launchDate": "2023-07-05T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:26.908Z",
     "kyc": false,
@@ -4533,6 +5223,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4543,10 +5236,10 @@
     "project": "Swell",
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/49Iuyx7Sfkmzm6SI8INxX/91d54b122e661d32074e984b19f00741/photo_2023-04-18_14-31-24_copy.png",
-    "date": "2023-04-27T13:00+03:00",
-    "launchDate": "2023-04-27T13:00+03:00",
+    "date": "2023-04-27T10:00:00.000Z",
+    "launchDate": "2023-04-27T10:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:57:24.129Z",
+    "updatedDate": "2024-09-23T15:33:40.097Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -4576,6 +5269,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4587,7 +5283,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/D7UlWRymDBGzPOH2gUXdC/49de0cd1e1d6cbdc922e162888fa437b/brrr.svg",
     "date": "2023-02-08T13:00-05:00",
-    "launchDate": "2023-02-08T13:00-05:00",
+    "launchDate": "2023-02-08T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-01-24T08:27:22.868Z",
     "kyc": true,
@@ -4611,50 +5307,9 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1LayWkFsh6OTw0rAQqNCZt",
-    "id": "eco",
-    "project": "Eco",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6kiS0Qjgphh89IAYZfLrFH/037e338a5ca38be6f3b48b8098046456/eco_logo__2_.jpg",
-    "date": "2022-11-08T19:00:00.000Z",
-    "launchDate": "2022-11-08T19:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:44:03.229Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DAO",
-        "Token"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript"
+      "language": [],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4696,6 +5351,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4707,7 +5365,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4MHvu1OXmg95oqt0tZUZbH/70b1c866542414333cf6bfba8379775b/StellaSwap_Logo.png",
     "date": "2022-07-07T21:30-06:00",
-    "launchDate": "2022-07-07T21:30-06:00",
+    "launchDate": "2022-07-08T03:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:59:50.726Z",
     "kyc": false,
@@ -4738,6 +5396,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4749,7 +5410,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/14P174mW7atHe0iqI2UmE8/b47c08fa562ebe74aaff6b179e371d00/Astar_Network_logo.jpeg",
     "date": "2022-05-31T10:30-06:00",
-    "launchDate": "2022-05-31T10:30-06:00",
+    "launchDate": "2022-05-31T16:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:03.984Z",
     "kyc": true,
@@ -4785,6 +5446,9 @@
         "Rust",
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4796,7 +5460,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3jeaezRWL5REm1hujgwzaS/69abd37d4da1bc1c0b81301210a71cf7/Ref_Finance_Logo_.jpg",
     "date": "2022-05-17T12:30-06:00",
-    "launchDate": "2022-05-17T12:30-06:00",
+    "launchDate": "2022-05-17T18:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:59:29.726Z",
     "kyc": false,
@@ -4828,6 +5492,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4839,7 +5506,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1fMZucA93GOQ0sfYmpQMK7/2187a25959b3eaa56f9117586fe2fce1/Stader_Brand_Icon_Logo.png",
     "date": "2022-04-25T11:30-06:00",
-    "launchDate": "2022-04-25T11:30-06:00",
+    "launchDate": "2022-04-25T11:30:00.000Z",
     "endDate": null,
     "updatedDate": "2023-08-29T12:06:20.609Z",
     "kyc": false,
@@ -4869,6 +5536,9 @@
       "language": [
         "JavaScript",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4882,7 +5552,7 @@
     "date": "2022-02-16T04:30:00.000Z",
     "launchDate": "2022-02-16T04:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-29T12:35:13.758Z",
+    "updatedDate": "2024-09-26T08:44:46.097Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4914,6 +5584,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4925,7 +5598,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/10L9tJ5tgrPqXmkhFF6ThR/50746e69a4c7fd48e18fd2ecdd2c180f/Keep3r.png",
     "date": "2022-01-19T01:00+01:00",
-    "launchDate": "2022-01-19T01:00+01:00",
+    "launchDate": "2022-01-19T01:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:25.404Z",
     "kyc": false,
@@ -4953,6 +5626,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5000,6 +5676,9 @@
         "Haskell",
         "JavaScript",
         "Pact"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5011,7 +5690,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2frWdK3ryfQBfzOadBi4xf/4a0a61ac6b3dccfb39bf6474b2e09f1f/Marinade_icon_white.png",
     "date": "2021-12-01T12:30-06:00",
-    "launchDate": "2021-12-01T12:30-06:00",
+    "launchDate": "2021-12-01T12:30:00.000Z",
     "endDate": null,
     "updatedDate": "2022-11-23T19:36:35.814Z",
     "kyc": false,
@@ -5039,6 +5718,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5050,7 +5732,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4IWAL9hnVKo7ToHawJYKZ1/2b7d9aab624d0fe6646f17bb6171c9fe/Notional_Logo.jpeg",
     "date": "2021-11-05T03:00-05:00",
-    "launchDate": "2021-11-05T03:00-05:00",
+    "launchDate": "2021-11-05T08:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-07-19T14:56:06.836Z",
     "kyc": true,
@@ -5081,6 +5763,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5092,7 +5777,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6k60oMMHjDXQQ6lY5LA8mf/9ac1ddab3bc903d1c2df1c9a94d65f0d/Tokemak.jpeg",
     "date": "2021-08-24T03:00-05:00",
-    "launchDate": "2021-08-24T03:00-05:00",
+    "launchDate": "2021-08-24T03:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:53.075Z",
     "kyc": false,
@@ -5125,6 +5810,9 @@
       "language": [
         "NextJS",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5136,7 +5824,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/14hUM20Rje5ERaKlMEGATT/6c87c32f2b4b5019bd2810ce6de081a0/Pendle.jpeg",
     "date": "2021-06-17T00:00+01:00",
-    "launchDate": "2021-06-17T00:00+01:00",
+    "launchDate": "2021-06-17T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:41.032Z",
     "kyc": false,
@@ -5168,6 +5856,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5179,7 +5870,7 @@
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2n3sLFnajsobepdgcWfug8/39048fc8a387fcccffd94049e1bc4b75/09_2021_updated_Perpetual_logo.jpeg",
     "date": "2021-01-05T00:00-07:00",
-    "launchDate": "2021-01-05T00:00-07:00",
+    "launchDate": "2021-01-05T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:10.244Z",
     "kyc": false,
@@ -5209,6 +5900,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5252,6 +5946,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5263,7 +5960,7 @@
     "maximum_reward": 220000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/43tM3hRYc1MlpNWqoVKkrg/42629c8fcfe0f03f6f6e5046da5d4bab/SqueethLogo.jpg",
     "date": "2022-02-07T11:30-07:00",
-    "launchDate": "2022-02-07T11:30-07:00",
+    "launchDate": "2022-02-07T18:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:50.550Z",
     "kyc": false,
@@ -5294,6 +5991,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5336,42 +6036,10 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
-    },
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "77iGw7bZ2iQGwLoODoKQOq",
-    "id": "polymarket",
-    "project": "Polymarket",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jxAOPTfTYMoswZPI9Mn9N/ffb11e8d127bd24a1aec560645af8f51/photo_2024-04-22_20.07.26__1_.png",
-    "date": "2024-04-22T17:00:00.000Z",
-    "launchDate": "2024-04-22T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-22T17:23:04.488Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": []
     },
     "premiumTriaging": true
   },
@@ -5416,6 +6084,9 @@
       "language": [
         "Solidity",
         "NextJS"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -5429,7 +6100,7 @@
     "date": "2024-01-25T20:00:00.000Z",
     "launchDate": "2024-01-25T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-22T12:48:37.218Z",
+    "updatedDate": "2024-10-01T09:21:44.192Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5463,6 +6134,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5513,6 +6187,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -5524,7 +6201,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/630eBj9zc3dPFnb2SAJ8xl/cf1eb1258675a079a5e090c7203e3b77/Magpie_logo.png",
     "date": "2023-02-09T15:00-05:00",
-    "launchDate": "2023-02-09T15:00-05:00",
+    "launchDate": "2023-02-09T20:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:59:40.173Z",
     "kyc": false,
@@ -5555,6 +6232,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5566,7 +6246,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/51H3Q69PybG3gZDeJyGiiz/8985b137b75b8bdbc4928fc84a0917c1/Tinyman_v2_Logo.png",
     "date": "2022-11-28T11:00-06:00",
-    "launchDate": "2022-11-28T11:00-06:00",
+    "launchDate": "2022-11-28T11:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-03-10T15:57:44.241Z",
     "kyc": true,
@@ -5592,7 +6272,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -5602,11 +6285,11 @@
     "project": "Toucan",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7AcBUADA7IW95jTvkwxxF5/1b175e555e12b85bf5f6fb4c0ef3104c/tc_symbol_OnDark_color.jpg",
-    "date": "2022-11-03T12:00-06:00",
-    "launchDate": "2022-11-03T12:00-06:00",
+    "date": "2022-11-03T18:00:00.000Z",
+    "launchDate": "2022-11-03T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:55:56.313Z",
-    "kyc": false,
+    "updatedDate": "2024-09-13T08:00:58.397Z",
+    "kyc": true,
     "technologies": [
       "Smart Contract"
     ],
@@ -5614,7 +6297,7 @@
     "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Not Required",
+        "KYC Required",
         "PoC Required"
       ],
       "productType": [],
@@ -5629,6 +6312,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5640,7 +6326,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3bVqHG0B3LVOmdevJeeJoC/e4f00313e22321dc6118c5c0ab544b4e/Index_Coop_logo.jpeg",
     "date": "2022-09-29T12:00-06:00",
-    "launchDate": "2022-09-29T12:00-06:00",
+    "launchDate": "2022-09-29T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:05.611Z",
     "kyc": false,
@@ -5670,6 +6356,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5681,7 +6370,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/51mxB0LXiEa0Xw3RxkNzxC/e1a4c30f9a29211ca0a5373af83bf642/BEETS-og.png",
     "date": "2022-09-15T21:30-06:00",
-    "launchDate": "2022-09-15T21:30-06:00",
+    "launchDate": "2022-09-15T21:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:18.373Z",
     "kyc": false,
@@ -5715,54 +6404,9 @@
       ],
       "language": [
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "4pspSoJaelRH5xBmQ4QDrf",
-    "id": "qblockchain",
-    "project": "Q Blockchain",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/DqPeHRrQH2BBseNdVHUtU/2d0ce9422603fa7ccaa43a972d468b0c/Q_Logo_RGB_Blue.svg",
-    "date": "2022-09-06T17:30:00.000Z",
-    "launchDate": "2022-09-06T17:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-08-21T13:41:23.563Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
       ],
-      "productType": [
-        "Bridge",
-        "L1",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Q"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "NextJS",
-        "Solidity"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5774,9 +6418,9 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6JrIhCrEMoZplnS6zBi2vc/87eca69d81f586ce017aba75db5e456e/The_Sandbox_Logo.png",
     "date": "2022-07-05T09:00-06:00",
-    "launchDate": "2022-07-05T09:00-06:00",
+    "launchDate": "2022-07-05T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:55:38.761Z",
+    "updatedDate": "2024-09-27T07:23:30.262Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5806,6 +6450,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5817,7 +6464,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6pcegtZ9EgRSp41tiAroSX/e146d81a9b7bea7994de08885d5fd2b7/StakeWise_Logo.jpg",
     "date": "2022-05-31T11:30-06:00",
-    "launchDate": "2022-05-31T11:30-06:00",
+    "launchDate": "2022-05-31T11:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:49:21.594Z",
     "kyc": false,
@@ -5849,6 +6496,9 @@
       ],
       "language": [
         "JavaScript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5889,6 +6539,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5930,6 +6583,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5941,7 +6597,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4gJ8bOnkVhbdw5Q0ifWOts/e6a561b18bee2eaa58c815dd5de35591/deBridge_logo.jpeg",
     "date": "2022-01-21T14:00+01:00",
-    "launchDate": "2022-01-21T14:00+01:00",
+    "launchDate": "2022-01-21T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:22.791Z",
     "kyc": false,
@@ -5978,6 +6634,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5989,7 +6648,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6cMB5OFI6eqRCGQxhK5d1r/4e7afe6625053e247609af062c7b7e9f/pTokens-icon-white-eye_copy.png",
     "date": "2021-12-27T09:00-07:00",
-    "launchDate": "2021-12-27T09:00-07:00",
+    "launchDate": "2021-12-27T09:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:16.432Z",
     "kyc": true,
@@ -6028,6 +6687,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6039,7 +6701,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4QCx4iRA3foAWikoaUPI5n/2e894eef68ccb98731dcbb328567c7f1/Reaper_Farm_Logo.jpeg",
     "date": "2021-11-02T04:00-05:00",
-    "launchDate": "2021-11-02T04:00-05:00",
+    "launchDate": "2021-11-02T04:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:07.661Z",
     "kyc": false,
@@ -6067,6 +6729,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6111,6 +6776,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6122,7 +6790,7 @@
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6NNBYNKONDM4mwNU4Y5ik/a719c3c7861f9b647c9d012884236356/Tranchess_logo.jpg",
     "date": "2021-06-22T10:30-05:00",
-    "launchDate": "2021-06-22T10:30-05:00",
+    "launchDate": "2021-06-22T15:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:53.192Z",
     "kyc": false,
@@ -6154,6 +6822,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6208,6 +6879,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6247,6 +6921,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6292,6 +6969,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -6303,7 +6983,7 @@
     "maximum_reward": 150000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3hVvpMi8cvuvdkqtHRbXts/1a45b75c813f1ed274abf5196e5b5d56/AMKT-Square.png",
     "date": "2023-11-02T13:00-06:00",
-    "launchDate": "2023-11-02T13:00-06:00",
+    "launchDate": "2023-11-02T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:35.165Z",
     "kyc": false,
@@ -6335,6 +7015,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6375,6 +7058,9 @@
       "language": [
         "Go",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6419,6 +7105,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6430,7 +7119,7 @@
     "maximum_reward": 150000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1g2KQHAZ1xTkcHPlUUWGqF/198610415cd5e46e63052300ba3eeef1/Blank_wallet_logo__3_.jpeg",
     "date": "2021-11-30T00:00-05:00",
-    "launchDate": "2021-11-30T00:00-05:00",
+    "launchDate": "2021-11-30T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:48.133Z",
     "kyc": false,
@@ -6462,6 +7151,9 @@
       ],
       "language": [
         "JavaScript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6473,7 +7165,7 @@
     "maximum_reward": 120000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6bzTbmxHVMytLkyVWLGvIu/904ed20293ffe6056d18d5c32d291ed0/Rysk_Logo.jpeg",
     "date": "2022-11-02T11:30-06:00",
-    "launchDate": "2022-11-02T11:30-06:00",
+    "launchDate": "2022-11-02T11:30:00.000Z",
     "endDate": null,
     "updatedDate": "2023-07-07T14:43:19.735Z",
     "kyc": false,
@@ -6499,7 +7191,50 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "Hhs3WaasggkNCR2kVtjOT",
+    "id": "omron",
+    "project": "Omron",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2pTpT9c23a8EsYWlTP0HHD/aac2962a431a6d01b66dff78ccbf2e46/Inference_Labs.png",
+    "date": "2024-09-30T19:44:15.000Z",
+    "launchDate": "2024-09-30T19:44:15.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-01T12:13:20.868Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Zero-Knowledge Proofs"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -6539,6 +7274,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -6552,7 +7290,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-31T14:25:00.747Z",
+    "updatedDate": "2024-09-18T06:38:41.236Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6575,6 +7313,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6614,6 +7355,9 @@
       ],
       "language": [
         "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6627,7 +7371,7 @@
     "date": "2024-04-08T04:27:33.000Z",
     "launchDate": "2024-04-08T04:27:33.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-23T13:37:29.437Z",
+    "updatedDate": "2024-09-30T15:56:57.299Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6660,6 +7404,9 @@
       "language": [
         "Clarity",
         "NextJS"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6695,7 +7442,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": true
   },
@@ -6736,6 +7486,9 @@
       ],
       "language": [
         "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6777,6 +7530,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6813,7 +7569,10 @@
         "Blockchain/DLT",
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -6851,6 +7610,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6897,6 +7659,9 @@
       ],
       "language": [
         "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6935,6 +7700,9 @@
       ],
       "language": [
         "Move"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6968,7 +7736,10 @@
         "Blockchain/DLT",
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -6979,7 +7750,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/nYC6PqIgLjot92oyzZKKN/d72cb6d440cb994d48f49425acfca766/photo_2023-11-20_11-01-45_copy_2.jpg",
     "date": "2023-12-01T12:00+03:00",
-    "launchDate": "2023-12-01T12:00+03:00",
+    "launchDate": "2023-12-01T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:49.380Z",
     "kyc": false,
@@ -7009,53 +7780,9 @@
       ],
       "language": [
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "119V1JXm9nn9JXBG5tOKuM",
-    "id": "c3",
-    "project": "C3",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4ohjJWu0xfLvyl99YcgG44/8844b2e06ede816703f9425bd22977c8/C3-logo-black.png",
-    "date": "2023-11-28T09:00:00.000Z",
-    "launchDate": "2023-11-28T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:45:52.759Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
       ],
-      "productType": [
-        "Crosschain Liquidity",
-        "DEX",
-        "Lending"
-      ],
-      "projectType": [
-        "Defi",
-        "Exchange"
-      ],
-      "ecosystem": [
-        "Algorand",
-        "Avalanche"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Python",
-        "Solidity"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7069,7 +7796,7 @@
     "date": "2023-10-05T13:00:00.000Z",
     "launchDate": "2023-10-05T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-07-29T10:52:13.111Z",
+    "updatedDate": "2024-09-23T11:59:03.891Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7097,6 +7824,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7108,7 +7838,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/707hmsddE43A2tZgQBimyD/54bd7ceb01e5193164cbf464c51d4957/nayms-logo.png",
     "date": "2023-09-18T12:00+03:00",
-    "launchDate": "2023-09-18T12:00+03:00",
+    "launchDate": "2023-09-18T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:45:56.154Z",
     "kyc": true,
@@ -7136,6 +7866,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7177,6 +7910,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7188,7 +7924,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3GYtNnEVxtN0vEVd3Zf1yH/badeb983eff7a2b09e6f9dbdafed3bba/2p5yqaoJ_400x400.png",
     "date": "2023-08-30T12:00+02:00",
-    "launchDate": "2023-08-30T12:00+02:00",
+    "launchDate": "2023-08-30T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-01-03T18:34:45.246Z",
     "kyc": true,
@@ -7220,6 +7956,9 @@
       "language": [
         "Solidity",
         "JavaScript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7262,6 +8001,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7303,6 +8045,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7346,6 +8091,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7390,6 +8138,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7401,7 +8152,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2G87Qstl6DWQtVWgdS7Zii/3e0eae244db21196755ae49b264d047f/Trader_Joe_Logo__1_.png",
     "date": "2023-05-12T14:00-05:00",
-    "launchDate": "2023-05-12T14:00-05:00",
+    "launchDate": "2023-05-12T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:13.571Z",
     "kyc": false,
@@ -7435,6 +8186,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7484,6 +8238,9 @@
       "language": [
         "Go",
         "NextJS"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7530,6 +8287,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7541,7 +8301,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jW460UDYEbPDo4PZAOuZE/dd602e17d4ff01851c727c387eeecc5a/KEBPir98_400x400.jpg",
     "date": "2023-03-15T14:00-05:00",
-    "launchDate": "2023-03-15T14:00-05:00",
+    "launchDate": "2023-03-15T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:53:14.366Z",
     "kyc": true,
@@ -7571,6 +8331,9 @@
       "language": [
         "JavaScript",
         "Python"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7582,7 +8345,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7tYcCLOmtIXMMh3MgHf4S0/d632ed42420c48826660786e643b3f87/met2-signet-option1.png",
     "date": "2023-02-21T16:00-05:00",
-    "launchDate": "2023-02-21T16:00-05:00",
+    "launchDate": "2023-02-21T16:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:24.141Z",
     "kyc": false,
@@ -7614,6 +8377,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7657,6 +8423,9 @@
       "language": [
         "Go",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7699,6 +8468,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7738,6 +8510,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7749,7 +8524,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/Ig6atE81zuZbq3VTA7GAx/31395c33216e2050beef7269a608cfb4/ICON_logo.jpeg",
     "date": "2022-10-20T20:30-06:00",
-    "launchDate": "2022-10-20T20:30-06:00",
+    "launchDate": "2022-10-20T20:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:53:54.417Z",
     "kyc": true,
@@ -7779,6 +8554,9 @@
       ],
       "language": [
         "Go"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7790,7 +8568,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5JbxF5pqmInr1RHCyct45p/c0143329c411a6c6f3238d29d67de1ed/Resonate_Logo.png",
     "date": "2022-10-20T12:00-06:00",
-    "launchDate": "2022-10-20T12:00-06:00",
+    "launchDate": "2022-10-20T18:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:30.868Z",
     "kyc": false,
@@ -7824,6 +8602,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7835,7 +8616,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1aSt23xI4lcNyBaQs5nyMr/6ffceff07977db4d975aab68ecb3ff30/Silo_Finance_Logo.svg",
     "date": "2022-08-30T11:30-06:00",
-    "launchDate": "2022-08-30T11:30-06:00",
+    "launchDate": "2022-08-30T17:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:01:02.983Z",
     "kyc": false,
@@ -7866,6 +8647,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7877,7 +8661,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Op4VSjpxDEvPEGzrJTJGz/54aa6bd7dda3d117ee1a90b8d98de318/Symbiosis_Logo.svg",
     "date": "2022-08-18T12:30+03:00",
-    "launchDate": "2022-08-18T12:30+03:00",
+    "launchDate": "2022-08-18T09:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:01:05.156Z",
     "kyc": false,
@@ -7912,6 +8696,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7923,7 +8710,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2gw6wiVjTS3UemTrumUl5/a10a96cb63fa2b8189602d47127971db/Revert_Logo_.png",
     "date": "2022-06-14T21:00-06:00",
-    "launchDate": "2022-06-14T21:00-06:00",
+    "launchDate": "2022-06-14T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2022-11-15T18:26:02.847Z",
     "kyc": false,
@@ -7952,6 +8739,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7963,7 +8753,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/292fS4aFsntXsrWIMYCQju/51efa100fd8c720fe2ac322b2af5fa11/Illuvium_logo.jpeg",
     "date": "2022-06-14T10:30-06:00",
-    "launchDate": "2022-06-14T10:30-06:00",
+    "launchDate": "2022-06-14T10:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:18.282Z",
     "kyc": false,
@@ -7996,6 +8786,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8007,7 +8800,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/oEI86MyqQE32RNCaYIwcF/76d447372eee111fc91728c8b1e167cd/Revest_Logo.svg",
     "date": "2022-04-21T12:30-06:00",
-    "launchDate": "2022-04-21T12:30-06:00",
+    "launchDate": "2022-04-21T12:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:14.488Z",
     "kyc": false,
@@ -8043,6 +8836,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8054,7 +8850,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2JgkHUhqobp6GttXTa487O/b73e48617f0c866e6265b49eda24ca88/Pact_Logo.jpeg",
     "date": "2022-04-05T20:30-06:00",
-    "launchDate": "2022-04-05T20:30-06:00",
+    "launchDate": "2022-04-05T20:30:00.000Z",
     "endDate": null,
     "updatedDate": "2023-02-20T09:47:22.495Z",
     "kyc": false,
@@ -8083,7 +8879,10 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -8094,7 +8893,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4MPV2Eix74NrN59HMQvKJQ/814242a070a02fe8810bdb7413e12294/logo_text_color.png",
     "date": "2022-04-01T11:30-06:00",
-    "launchDate": "2022-04-01T11:30-06:00",
+    "launchDate": "2022-04-01T17:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:35.610Z",
     "kyc": false,
@@ -8126,6 +8925,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8135,11 +8937,11 @@
     "id": "stacks",
     "project": "Stacks",
     "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5fyZtgehW9ECXFKLpiDvq6/7228d788a3497d71277099985eb83987/Stacks.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7rDt9WPKt1aTDNVmrLDaZ9/e8474a103962162a8e704ac863984684/stacks__1_.png",
     "date": "2022-03-31T19:30:00.000Z",
     "launchDate": "2022-03-31T19:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-15T14:15:27.982Z",
+    "updatedDate": "2024-09-25T07:02:11.249Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -8170,6 +8972,9 @@
         "Rust",
         "Bitcoin Script",
         "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8179,11 +8984,11 @@
     "id": "folksfinance",
     "project": "Folks Finance",
     "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6vyGPEBgWiuraOLL70pn0O/e927d5f9e3903dd5e4abdcf9a388c46c/Folks_Finance_logo.jpeg",
-    "date": "2022-03-31T11:00-06:00",
-    "launchDate": "2022-03-31T11:00-06:00",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Ln9Iw2eyikJa3DInp9V7s/2b5dbc873d1a8a1e1b8ac7aa96bb0db4/Folks_Finance_logo.png",
+    "date": "2022-03-31T17:00:00.000Z",
+    "launchDate": "2022-03-31T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:50:30.157Z",
+    "updatedDate": "2024-09-26T08:15:44.095Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -8205,11 +9010,13 @@
         "Algorand"
       ],
       "programType": [
-        "Smart Contract",
-        "Websites and Applications"
+        "Smart Contract"
       ],
       "language": [
         "Python"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8221,7 +9028,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3JhDJxYByzczAQVzHm3Onm/a93f261dd635379f62c142d3f6c0aac2/Sturdy_Logo.jpg",
     "date": "2022-03-14T08:30-07:00",
-    "launchDate": "2022-03-14T08:30-07:00",
+    "launchDate": "2022-03-14T08:30:00.000Z",
     "endDate": null,
     "updatedDate": "2022-11-01T15:17:22.106Z",
     "kyc": false,
@@ -8253,6 +9060,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8264,7 +9074,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/vZUZGK84FUQTVxKGC5bZP/49fd4c2fb8a8c6fb0cea44de19e763b9/opyn_gamma_new_logo.png",
     "date": "2022-02-07T11:30-07:00",
-    "launchDate": "2022-02-07T11:30-07:00",
+    "launchDate": "2022-02-07T18:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:53.052Z",
     "kyc": false,
@@ -8293,6 +9103,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8304,7 +9117,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5khU3RhSO4s3BSbZKNEn8J/18550ff20037e45de976d690b58efad2/WePiggy_Logo.png",
     "date": "2022-01-28T20:30-07:00",
-    "launchDate": "2022-01-28T20:30-07:00",
+    "launchDate": "2022-01-28T20:30:00.000Z",
     "endDate": null,
     "updatedDate": "2022-12-13T04:26:39.424Z",
     "kyc": true,
@@ -8342,6 +9155,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8353,7 +9169,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4UlrKSIPpMRMuGG06spCHw/c4470d0f4bf6ec163133669afffb41af/Tinyman_Logo.png",
     "date": "2022-01-21T11:00-06:00",
-    "launchDate": "2022-01-21T11:00-06:00",
+    "launchDate": "2022-01-21T11:00:00.000Z",
     "endDate": null,
     "updatedDate": "2022-12-01T19:18:15.352Z",
     "kyc": false,
@@ -8380,7 +9196,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -8427,6 +9246,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8438,7 +9260,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1bzzh4XoaNOkOzFZTqff24/6a60319ea667ba1d02a52e0fe386fce6/Connext_logo.png",
     "date": "2021-12-21T09:00-06:00",
-    "launchDate": "2021-12-21T09:00-06:00",
+    "launchDate": "2021-12-21T09:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-08-23T13:49:43.540Z",
     "kyc": false,
@@ -8462,7 +9284,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -8473,7 +9298,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5tF3UdYVrbkjGeIg96gbd/d8bdfa09ca4945ae30cb4d6e90b029d7/ALEX_logo.jpeg",
     "date": "2021-12-12T18:00-06:00",
-    "launchDate": "2021-12-12T18:00-06:00",
+    "launchDate": "2021-12-12T18:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:49:24.348Z",
     "kyc": true,
@@ -8506,49 +9331,9 @@
       "language": [
         "Clarity",
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "346CaZfqLB1Op9eRzW9N1d",
-    "id": "astroport",
-    "project": "Astroport",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Qwy7LtcelmPuSZnjGquW7/aeac853cef17939e914d63ed1eeebf98/EPpDQTZo_400x400__1_.jpg",
-    "date": "2021-11-29T11:00-06:00",
-    "launchDate": "2021-11-29T11:00-06:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:50:25.911Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
       ],
-      "productType": [
-        "AMM",
-        "Bridge",
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Injective",
-        "Sei",
-        "Terra"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8560,7 +9345,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4DeaIbS9whSxx3zJehZqqL/cbb244a748772c62c3ecff36bdae4662/Reflexer_Logo.png",
     "date": "2021-11-02T08:00-05:00",
-    "launchDate": "2021-11-02T08:00-05:00",
+    "launchDate": "2021-11-02T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:59:47.487Z",
     "kyc": false,
@@ -8590,6 +9375,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8601,7 +9389,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/wWFjbdt3jrcKZ4OmOjvBc/84c670c9370bc2b2feb25fb721191d45/Bifi_logo.jpeg",
     "date": "2021-10-21T08:00-05:00",
-    "launchDate": "2021-10-21T08:00-05:00",
+    "launchDate": "2021-10-21T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-05-23T12:37:10.280Z",
     "kyc": false,
@@ -8631,6 +9419,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8642,7 +9433,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/QhL5Cn1GfQrsM8DYKpHyO/c25573012e6228e53c98ead992ff93b8/Screenshot_2021-10-09_at_10.01.32_PM.png",
     "date": "2021-10-12T06:00-05:00",
-    "launchDate": "2021-10-12T06:00-05:00",
+    "launchDate": "2021-10-12T06:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:56.376Z",
     "kyc": true,
@@ -8679,6 +9470,9 @@
       "language": [
         "NextJS",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8690,7 +9484,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2uaiuBlUHSOyHVrNn2Lirb/3748ee8aa473d05c405d666f8f4a3e49/Popsicle.jpeg",
     "date": "2021-08-20T10:00-05:00",
-    "launchDate": "2021-08-20T10:00-05:00",
+    "launchDate": "2021-08-20T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:48.411Z",
     "kyc": false,
@@ -8724,6 +9518,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8735,7 +9532,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jU4POGW5IUH9Ozzuj7SV/33abc1e464fd2ee2978fd8dabd8afa47/dforce_newest_logo.jpeg",
     "date": "2021-07-29T01:00-05:00",
-    "launchDate": "2021-07-29T01:00-05:00",
+    "launchDate": "2021-07-29T01:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:01.729Z",
     "kyc": false,
@@ -8772,6 +9569,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8783,7 +9583,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/e3gtts1LOktqW1EYme2cA/8f4540dfc1fc33435393d7a97eb4d182/BProtocol__1_.jpeg",
     "date": "2021-07-14T06:00-05:00",
-    "launchDate": "2021-07-14T06:00-05:00",
+    "launchDate": "2021-07-14T06:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-06-26T17:43:46.203Z",
     "kyc": true,
@@ -8811,6 +9611,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8822,7 +9625,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7A752GlV5SXytw8vQ3311P/adc8fc324f89144ab15badd1c0b3fe02/Alpaca_Finance.jpeg",
     "date": "2021-06-14T04:00-05:00",
-    "launchDate": "2021-06-14T04:00-05:00",
+    "launchDate": "2021-06-14T04:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-08-25T11:01:16.008Z",
     "kyc": false,
@@ -8850,6 +9653,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8863,7 +9669,7 @@
     "date": "2021-06-09T07:00:00.000Z",
     "launchDate": "2021-06-09T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-28T12:03:22.374Z",
+    "updatedDate": "2024-09-11T18:52:08.890Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8898,6 +9704,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8909,7 +9718,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3gUM6wDJxYyzDVoWpLQX4o/b521d1e6620ff23b80cc0c439666a5d1/DODO.svg",
     "date": "2021-05-25T00:00-05:00",
-    "launchDate": "2021-05-25T00:00-05:00",
+    "launchDate": "2021-05-25T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:56.667Z",
     "kyc": false,
@@ -8954,6 +9763,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8965,7 +9777,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7dITyStGvxKujlwtjOQEKo/9fdf4fd4b601246ac60030eee6ad4321/Copy_of_vesper.jpeg",
     "date": "2021-05-06T00:00-05:00",
-    "launchDate": "2021-05-06T00:00-05:00",
+    "launchDate": "2021-05-06T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-12-14T09:57:12.242Z",
     "kyc": false,
@@ -8996,51 +9808,9 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "4a70gS35nyM7vQBE4vukHa",
-    "id": "shellprotocol",
-    "project": "Shell Protocol",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2fYipu9Nd7vfBG0ZUJ3sKT/35865214276ccf230c153b5e8c47f33d/Shellprotocol-logo.png",
-    "date": "2021-03-11T00:00-07:00",
-    "launchDate": "2021-03-11T00:00-07:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T19:00:17.306Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
       ],
-      "productType": [
-        "AMM",
-        "DEX",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "Arbitrum"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9052,7 +9822,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3GJoatBuqt8RlBr5f1yRa1/6f37cd51feefc6382e47d61e93a612e3/Synthetix-logo.png",
     "date": "2021-03-05T00:00-07:00",
-    "launchDate": "2021-03-05T00:00-07:00",
+    "launchDate": "2021-03-05T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:28.238Z",
     "kyc": false,
@@ -9088,6 +9858,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9099,7 +9872,7 @@
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7045Dlf7PsLvtuf9AgiyTj/ccbdca203eb0bd33848e8998dc0b25c0/Primitive-logo.png",
     "date": "2021-03-04T00:00-07:00",
-    "launchDate": "2021-03-04T00:00-07:00",
+    "launchDate": "2021-03-04T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-05-26T18:24:35.567Z",
     "kyc": false,
@@ -9130,6 +9903,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9176,6 +9952,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9187,7 +9966,7 @@
     "maximum_reward": 94000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Yc7Opcyc9vocdZJaHxz2L/d0c09ecc727b2188b63b168d60755767/Impossible.jpeg",
     "date": "2021-06-18T08:00-05:00",
-    "launchDate": "2021-06-18T08:00-05:00",
+    "launchDate": "2021-06-18T08:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:02.976Z",
     "kyc": false,
@@ -9219,6 +9998,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9257,6 +10039,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9268,7 +10053,7 @@
     "maximum_reward": 80000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7AbtICUyrsiNIzIHam91pr/3b36623100ca7d2a8307bbc0d4b6f040/Forta_logo.jpeg",
     "date": "2022-06-28T10:30-06:00",
-    "launchDate": "2022-06-28T10:30-06:00",
+    "launchDate": "2022-06-28T10:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:25.787Z",
     "kyc": true,
@@ -9304,6 +10089,9 @@
       "language": [
         "Go",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9315,7 +10103,7 @@
     "maximum_reward": 80000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4a5seFcJe2gN0TkXgSBrlX/972767e0ccae9a3e66350203e85c4934/Ambire_logo.jpeg",
     "date": "2021-12-17T08:00-06:00",
-    "launchDate": "2021-12-17T08:00-06:00",
+    "launchDate": "2021-12-17T08:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:03.692Z",
     "kyc": false,
@@ -9348,6 +10136,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9387,6 +10178,9 @@
       "language": [
         "C/C++",
         "Java"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9398,7 +10192,7 @@
     "maximum_reward": 75000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6NeM5rzjAZ7whG9ltWKLDO/c0d59b6abd17e8f7bf12c4f525d4af2d/Bond_Twitter.png",
     "date": "2022-12-09T12:00-05:00",
-    "launchDate": "2022-12-09T12:00-05:00",
+    "launchDate": "2022-12-09T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-02-16T17:09:19.331Z",
     "kyc": true,
@@ -9424,6 +10218,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9435,7 +10232,7 @@
     "maximum_reward": 75000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jsX5HSF9sDTQ0koWtnW4L/f9a7a9aa22cd78a46754b82318071828/BeefyFinance.png",
     "date": "2021-07-15T11:00-05:00",
-    "launchDate": "2021-07-15T11:00-05:00",
+    "launchDate": "2021-07-15T11:00:00.000Z",
     "endDate": null,
     "updatedDate": "2022-10-13T13:58:04.474Z",
     "kyc": false,
@@ -9465,6 +10262,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9478,7 +10278,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-14T07:40:05.311Z",
+    "updatedDate": "2024-10-10T15:22:19.124Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9514,6 +10314,9 @@
       "language": [
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9555,6 +10358,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9566,7 +10372,7 @@
     "maximum_reward": 51000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4fNtrMshK2BRjG0W6Iez6i/bd85f8f23f50089eeae19d9502755b09/tYpL6jGL_400x400.png",
     "date": "2023-12-15T12:00+03:00",
-    "launchDate": "2023-12-15T12:00+03:00",
+    "launchDate": "2023-12-15T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:56.615Z",
     "kyc": false,
@@ -9592,9 +10398,53 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "1W0raDGgEn9dtVvDGONLLa",
+    "id": "light-protocol",
+    "project": "Light Protocol",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3HcRnAd91ErHn7EXd04vRw/a7a0424ee3f4060fe1d14551ed1673a5/light__1_.png",
+    "date": "2024-09-12T19:39:57.000Z",
+    "launchDate": "2024-09-12T19:39:57.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-16T15:54:38.409Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Zero-Knowledge Proofs"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "3k3ZihagCcozD8tMZV7MSJ",
@@ -9627,7 +10477,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -9669,6 +10522,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -9711,6 +10567,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9748,7 +10607,10 @@
         "Smart Contract",
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -9759,7 +10621,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7D8TvOsj4PH1qfO1mbZhyw/99f2c9c83f9fd72a3170ba246fb6917c/token_flat.png",
     "date": "2024-01-08T16:00+03:00",
-    "launchDate": "2024-01-08T16:00+03:00",
+    "launchDate": "2024-01-08T16:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-02-02T14:45:45.250Z",
     "kyc": false,
@@ -9783,7 +10645,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -9794,7 +10659,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6qGj2olEAqEIesIb50OLL/02e1cd35cc532aad744722da6718a8fc/PikaLogo.png",
     "date": "2023-12-27T12:00+03:00",
-    "launchDate": "2023-12-27T12:00+03:00",
+    "launchDate": "2023-12-27T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:41.532Z",
     "kyc": false,
@@ -9824,6 +10689,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9877,6 +10745,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9917,6 +10788,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9928,7 +10802,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4dwmB92yI66o3thda1EtJ9/b835e154091c6ea5de108996e86fd043/Euphrates_Logo_E_gradient.png",
     "date": "2023-10-30T12:00+03:00",
-    "launchDate": "2023-10-30T12:00+03:00",
+    "launchDate": "2023-10-30T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:49.459Z",
     "kyc": false,
@@ -9958,6 +10832,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10001,6 +10878,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10042,6 +10922,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10053,7 +10936,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/hWV91Kc2iSwCThJXoOXd8/63d2b2d650c01f98cf59bbf27c09ca52/Picture_Name_horizontal_Picture_Name_vertical_Vector_black.svg",
     "date": "2023-07-24T12:00+02:00",
-    "launchDate": "2023-07-24T12:00+02:00",
+    "launchDate": "2023-07-24T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-02-13T13:51:08.178Z",
     "kyc": true,
@@ -10081,6 +10964,9 @@
       "language": [
         "Solidity",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10092,7 +10978,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6nciXw1iCQlQbBpXt9TzXr/272c5767841fe5888ee360c81d414db7/Gala_logo.jpeg",
     "date": "2023-05-23T16:00+03:00",
-    "launchDate": "2023-05-23T16:00+03:00",
+    "launchDate": "2023-05-23T16:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:36.132Z",
     "kyc": true,
@@ -10125,6 +11011,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10136,7 +11025,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6wpLwpWt9BhmcV8bJV0JSg/46263f2599f8f9e293646ed77c4831f8/Sommelier_logo.png",
     "date": "2023-05-23T14:00+03:00",
-    "launchDate": "2023-05-23T14:00+03:00",
+    "launchDate": "2023-05-23T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:58.194Z",
     "kyc": true,
@@ -10173,6 +11062,9 @@
         "Go",
         "Rust",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10215,6 +11107,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10226,7 +11121,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2f37BE53KXhb98ZAuPJYRe/1d64a1afcb9014f7f38dd612088dab9e/Arbor_Finance.jpeg",
     "date": "2022-12-01T20:30-07:00",
-    "launchDate": "2022-12-01T20:30-07:00",
+    "launchDate": "2022-12-01T20:30:00.000Z",
     "endDate": null,
     "updatedDate": "2023-02-16T15:42:02.617Z",
     "kyc": false,
@@ -10252,7 +11147,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -10293,6 +11191,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10339,6 +11240,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10350,7 +11254,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1bDk6uC4OdDNpTT1tc49ew/05be446f35159bf6304b33933a4fe6b5/Justlend300_300.png",
     "date": "2022-08-30T21:00-06:00",
-    "launchDate": "2022-08-30T21:00-06:00",
+    "launchDate": "2022-08-30T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:13.714Z",
     "kyc": false,
@@ -10379,6 +11283,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10419,6 +11326,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10461,6 +11371,9 @@
       "language": [
         "Rust",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10472,7 +11385,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6jp3Kf5AQcrDo1w3WgxFEU/9d212a0f25120fcc7cac1fbe0228facb/Furucombo_logo.jpeg",
     "date": "2022-06-09T21:00-06:00",
-    "launchDate": "2022-06-09T21:00-06:00",
+    "launchDate": "2022-06-09T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-10-19T19:35:47.645Z",
     "kyc": false,
@@ -10503,6 +11416,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10514,7 +11430,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/frRDEAhO4DfybaPr6wME3/2db8653b2e79d00c6bbb63324f5a62ac/Favicon_Tropykus_64_Dark.png",
     "date": "2022-02-15T20:30-07:00",
-    "launchDate": "2022-02-15T20:30-07:00",
+    "launchDate": "2022-02-15T20:30:00.000Z",
     "endDate": null,
     "updatedDate": "2023-03-28T02:30:23.850Z",
     "kyc": false,
@@ -10543,6 +11459,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10554,7 +11473,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4P8QMkQfJs8betN40aGVhh/384de78ef91d39c953d0863b37c0f6fe/Global_Income_Coin_logo.jpeg",
     "date": "2022-02-14T10:00-05:00",
-    "launchDate": "2022-02-14T10:00-05:00",
+    "launchDate": "2022-02-14T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-10-20T13:24:33.457Z",
     "kyc": true,
@@ -10581,7 +11500,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -10621,6 +11543,9 @@
       ],
       "language": [
         "C/C++"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10632,7 +11557,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4CENEoWKC4YGCHgAxZ1f4U/1e4a8244ff3ba31e495992ea3dc67ddc/Ante_logo.png",
     "date": "2022-01-05T12:00-06:00",
-    "launchDate": "2022-01-05T12:00-06:00",
+    "launchDate": "2022-01-05T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2022-11-10T18:26:03.687Z",
     "kyc": true,
@@ -10661,6 +11586,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10672,7 +11600,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5mUNIQTq3xLW2nbi8dZYXM/03c9e04b12aa719ee3f8456609d92d05/Lossless_logo.jpeg",
     "date": "2021-11-29T10:00-06:00",
-    "launchDate": "2021-11-29T10:00-06:00",
+    "launchDate": "2021-11-29T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:25.295Z",
     "kyc": false,
@@ -10700,6 +11628,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10739,6 +11670,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10750,7 +11684,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Nk5mZZcgEewrIUfKA4tBj/635db85abb6004b5cdeb922beebf8328/Strike_Finance_Logo__1_.jpeg",
     "date": "2021-10-27T10:00-05:00",
-    "launchDate": "2021-10-27T10:00-05:00",
+    "launchDate": "2021-10-27T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:21.992Z",
     "kyc": false,
@@ -10782,6 +11716,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10793,7 +11730,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2teADVeqlZjb4p9u7YbiMX/9c40208f8f56b9beb73bb3077228fa2c/Gamma_Logo.png",
     "date": "2021-10-08T10:00-05:00",
-    "launchDate": "2021-10-08T10:00-05:00",
+    "launchDate": "2021-10-08T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:21.126Z",
     "kyc": false,
@@ -10823,6 +11760,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10834,7 +11774,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3rpp7fLPif0JTGLDDZO6l6/fe90db1d368b64cf2a361be7b5b90808/Lyra.jpeg",
     "date": "2021-08-23T09:00-05:00",
-    "launchDate": "2021-08-23T09:00-05:00",
+    "launchDate": "2021-08-23T09:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:49:17.828Z",
     "kyc": false,
@@ -10864,6 +11804,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10875,7 +11818,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4sIm0crvpmamzvcEeYiPf3/0b6dd39dc320f99744fb16f6cecf4f28/Ichi.jpeg",
     "date": "2021-06-17T10:00-05:00",
-    "launchDate": "2021-06-17T10:00-05:00",
+    "launchDate": "2021-06-17T10:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-04-04T16:58:14.354Z",
     "kyc": false,
@@ -10903,6 +11846,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10914,7 +11860,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/74yETFj2nb4JRzxTG8n6fj/8c2e580ac82c0f240095903858c94833/Foundation.jpeg",
     "date": "2021-05-19T00:00-05:00",
-    "launchDate": "2021-05-19T00:00-05:00",
+    "launchDate": "2021-05-19T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:51.106Z",
     "kyc": true,
@@ -10945,6 +11891,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10956,7 +11905,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5VrN6pAefb3vpdjFPdDR4m/94d1a5806d123f8d9a26e7726b09ae71/Idle.png",
     "date": "2021-03-25T00:00-07:00",
-    "launchDate": "2021-03-25T00:00-07:00",
+    "launchDate": "2021-03-25T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-10-03T19:29:19.993Z",
     "kyc": false,
@@ -10983,6 +11932,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10994,7 +11946,7 @@
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7EnL7ZjXRSux9PUrPA8rJ6/2e8adefab735fed30e37d2d744b20964/NXM_Token_Logo.svg",
     "date": "2021-02-23T00:00-07:00",
-    "launchDate": "2021-02-23T00:00-07:00",
+    "launchDate": "2021-02-23T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-11-11T15:47:11.212Z",
     "kyc": false,
@@ -11023,6 +11975,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11068,6 +12023,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -11112,6 +12070,9 @@
       ],
       "language": [
         "JavaScript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11125,7 +12086,7 @@
     "date": "2023-09-29T20:00:00.000Z",
     "launchDate": "2023-09-29T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-06T09:32:35.346Z",
+    "updatedDate": "2024-09-13T06:11:46.566Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -11156,6 +12117,53 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "6KUVG64Ii4XqGFH9l1wN2g",
+    "id": "trufin",
+    "project": "TruFin",
+    "maximum_reward": 40000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7FV6YE7dX8pvcz4F3rj6yd/dbcfe60cd7b7224ea518bc580983d51d/TruFin.png",
+    "date": "2023-09-27T14:00:00.000Z",
+    "launchDate": "2023-09-27T14:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-17T14:04:43.232Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11167,7 +12175,7 @@
     "maximum_reward": 40000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6ur2pVPTI6EXP1OdsxiJ3K/96d5167c2d44f625035340836b8e47cc/voltz-ico-grey_3x.png",
     "date": "2022-04-07T20:00:00",
-    "launchDate": "2022-04-07T20:00:00",
+    "launchDate": "2022-04-07T20:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:07.796Z",
     "kyc": false,
@@ -11197,6 +12205,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11208,7 +12219,7 @@
     "maximum_reward": 40000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/747gU6QyVl6pKVbOP64hW/f73ddabdc42fa47f42bddc5d163b06b7/Hashflow_logo.jpeg",
     "date": "2022-03-29T14:00-06:00",
-    "launchDate": "2022-03-29T14:00-06:00",
+    "launchDate": "2022-03-29T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:44.039Z",
     "kyc": false,
@@ -11241,7 +12252,10 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -11281,48 +12295,9 @@
       ],
       "language": [
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "6KUVG64Ii4XqGFH9l1wN2g",
-    "id": "trufin",
-    "project": "TruFin",
-    "maximum_reward": 35000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/hETgt4civGLJXlNvVYZma/7403cb0cfe8a42eab0839ff294076017/wDBjgx_c_400x400.jpg",
-    "date": "2023-09-27T16:00+02:00",
-    "launchDate": "2023-09-27T16:00+02:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:54:27.496Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
       ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11334,7 +12309,7 @@
     "maximum_reward": 30000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3kltb2UQupC7WCpGRmzlrt/a5f82b3d942a3dbe1242589f9e26b8e0/Logo_Mark_copy.png",
     "date": "2024-01-11T15:00+03:00",
-    "launchDate": "2024-01-11T15:00+03:00",
+    "launchDate": "2024-01-11T15:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-01-11T12:13:55.829Z",
     "kyc": true,
@@ -11361,6 +12336,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11372,7 +12350,7 @@
     "maximum_reward": 30000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3BgXni606gQMXNuKQ9dO8B/bc0c46df1edb3f95f35d95aa9c131618/icon.svg",
     "date": "2023-08-04T12:00+01:00",
-    "launchDate": "2023-08-04T12:00+01:00",
+    "launchDate": "2023-08-04T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-10-05T15:28:49.762Z",
     "kyc": true,
@@ -11404,6 +12382,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11445,6 +12426,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11456,7 +12440,7 @@
     "maximum_reward": 30000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6qpqPgUPj8U2AK6dpBmbDh/3458554f53f2e37bf19718938bb0d81c/SORA_Logo.svg",
     "date": "2022-07-07T10:30-06:00",
-    "launchDate": "2022-07-07T10:30-06:00",
+    "launchDate": "2022-07-07T10:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:13.560Z",
     "kyc": false,
@@ -11490,6 +12474,9 @@
       "language": [
         "Rust",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11501,7 +12488,7 @@
     "maximum_reward": 30000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1sf04Bet0DRuk2xEOwg9y9/b63f1befa81f5caf204e26c44bb40258/Zenlink_Logo.svg",
     "date": "2022-03-22T21:30-06:00",
-    "launchDate": "2022-03-22T21:30-06:00",
+    "launchDate": "2022-03-22T21:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:42.421Z",
     "kyc": true,
@@ -11533,6 +12520,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11578,6 +12568,9 @@
       "language": [
         "Haskell",
         "Plutus"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11618,6 +12611,9 @@
       "language": [
         "Go",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11629,7 +12625,7 @@
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4zKQP6ZY7W70qsIOV0gs8m/26da22b1236330cdc5804ee5aa73b4b7/Rubic_logo.jpeg",
     "date": "2023-07-31T12:00+02:00",
-    "launchDate": "2023-07-31T12:00+02:00",
+    "launchDate": "2023-07-31T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:30.283Z",
     "kyc": false,
@@ -11660,6 +12656,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11671,7 +12670,7 @@
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5KW8SuSLR95Rd6MarhYLAu/4527de7f28d56cc0e7fdf7b8238badf9/4cf02ac-cyan_logo.png",
     "date": "2023-07-12T16:00+02:00",
-    "launchDate": "2023-07-12T16:00+02:00",
+    "launchDate": "2023-07-12T14:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:46.501Z",
     "kyc": false,
@@ -11705,6 +12704,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11747,6 +12749,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11758,7 +12763,7 @@
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3rxB5ftzr6LquSM38Y66yH/7c557b7d1205cb94d4313471a54876f0/SDAOLogoHorizontalTransparentBG.svg",
     "date": "2023-03-08T15:00-05:00",
-    "launchDate": "2023-03-08T15:00-05:00",
+    "launchDate": "2023-03-08T20:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:59:56.420Z",
     "kyc": false,
@@ -11786,6 +12791,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11827,6 +12835,60 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4pspSoJaelRH5xBmQ4QDrf",
+    "id": "qblockchain",
+    "project": "Q Blockchain",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/DqPeHRrQH2BBseNdVHUtU/2d0ce9422603fa7ccaa43a972d468b0c/Q_Logo_RGB_Blue.svg",
+    "date": "2022-09-06T17:30:00.000Z",
+    "launchDate": "2022-09-06T17:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-27T12:17:40.933Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Bridge",
+        "L1",
+        "Yield Aggregator"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Q"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "NextJS",
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11870,6 +12932,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11923,6 +12988,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11934,7 +13002,7 @@
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4iwCFY9NJa80yHYy9nedrS/edfbc02a73e35bec237f79fd341cbd47/StaFi_Logo.png",
     "date": "2022-02-11T21:00-07:00",
-    "launchDate": "2022-02-11T21:00-07:00",
+    "launchDate": "2022-02-11T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-07-10T00:56:29.584Z",
     "kyc": false,
@@ -11963,6 +13031,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12002,6 +13073,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12047,6 +13121,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12058,7 +13135,7 @@
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/zXb98ZktA4Iz4lbX9K9DZ/7644b389e284d4405290d8eadea36627/88mph_logo.png",
     "date": "2021-07-03T06:00-05:00",
-    "launchDate": "2021-07-03T06:00-05:00",
+    "launchDate": "2021-07-03T06:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:38.508Z",
     "kyc": false,
@@ -12092,6 +13169,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12103,7 +13183,7 @@
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5dHTFAc230t6p8vYxgilO2/38e96d7cbe65593285dfec560c736985/Integral-logo.jpg",
     "date": "2021-04-15T00:00-07:00",
-    "launchDate": "2021-04-15T00:00-07:00",
+    "launchDate": "2021-04-15T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:03.638Z",
     "kyc": true,
@@ -12133,6 +13213,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12144,7 +13227,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4up6A5bmM6xAbrmT2KbNMx/07456e6bcfd9c0d9ec630fa017050d8d/bao400_transparant.png",
     "date": "2024-02-01T01:00-05:00",
-    "launchDate": "2024-02-01T01:00-05:00",
+    "launchDate": "2024-02-01T01:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:50.484Z",
     "kyc": false,
@@ -12179,6 +13262,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12190,7 +13276,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/HqwzWvSnmNI9I7cTzrKoN/85160e53c1ed3c39688480b83571e418/NFTfi_logo_copy.png",
     "date": "2024-01-17T21:05:47",
-    "launchDate": "2024-01-17T21:05:47",
+    "launchDate": "2024-01-17T21:05:47.000Z",
     "endDate": null,
     "updatedDate": "2024-01-17T18:22:37.094Z",
     "kyc": false,
@@ -12216,48 +13302,9 @@
       ],
       "language": [
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3j16pfG03f6PTEmuByBqqD",
-    "id": "paragonsdao",
-    "project": "ParagonsDAO",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5VXtIcwOUgyzqSzR4JsUUx/f19df74896c60b80dcfbf3c3f6db6c77/ParagonsDAO_logo.png",
-    "date": "2023-12-18T16:00+03:00",
-    "launchDate": "2023-12-18T16:00+03:00",
-    "endDate": null,
-    "updatedDate": "2023-12-18T13:51:41.371Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
       ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "JavaScript"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12269,7 +13316,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6uQ7ghxK15yAaPxvsSK9bS/c480bde584506ffbcd1acc9f64983048/2023-12-11_18.00.28.png",
     "date": "2023-12-11T18:00+03:00",
-    "launchDate": "2023-12-11T18:00+03:00",
+    "launchDate": "2023-12-11T18:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-12-11T15:29:08.469Z",
     "kyc": true,
@@ -12295,6 +13342,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12306,7 +13356,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/66wi5varUtl1fWz4yULD9R/3fea70f8fa5b6da6bbee99fef3f41ddf/27565.png",
     "date": "2023-11-14T17:00+03:00",
-    "launchDate": "2023-11-14T17:00+03:00",
+    "launchDate": "2023-11-14T17:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:27.412Z",
     "kyc": false,
@@ -12335,6 +13385,9 @@
       ],
       "language": [
         "NextJS"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12375,6 +13428,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12386,7 +13442,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2d34GKfB7A8pJ4TgjawG4I/f9ace5c2fe8dc506264f4f0569f2a362/x2HFJeB8_400x400.png",
     "date": "2023-08-07T16:00+02:00",
-    "launchDate": "2023-08-07T16:00+02:00",
+    "launchDate": "2023-08-07T16:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-08-11T17:34:20.555Z",
     "kyc": true,
@@ -12406,7 +13462,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -12417,7 +13476,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2dHrbtjbk5C7vckYIqbQRX/532cce71afec74a039ae37f436709500/FdJ1p02z_400x400.png",
     "date": "2023-05-10T13:00-04:00",
-    "launchDate": "2023-05-10T13:00-04:00",
+    "launchDate": "2023-05-10T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:31.323Z",
     "kyc": true,
@@ -12448,6 +13507,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12459,7 +13521,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1V2qLefMPkiAuR0numHlBO/bc2b481781e33c0b15ef91283f5c3ce4/logoD_copy.png",
     "date": "2023-02-03T13:00-05:00",
-    "launchDate": "2023-02-03T13:00-05:00",
+    "launchDate": "2023-02-03T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:21.011Z",
     "kyc": true,
@@ -12494,6 +13556,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12505,7 +13570,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1BU0sLVwZfOnAC2UgMuHv8/f9d4e65fad0df3b18ae37220d44d52b3/predy_lcon.png",
     "date": "2022-12-19T12:00-05:00",
-    "launchDate": "2022-12-19T12:00-05:00",
+    "launchDate": "2022-12-19T17:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:28.661Z",
     "kyc": false,
@@ -12536,6 +13601,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12547,7 +13615,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Jbo3K6tOpiDYBvIexddcd/ccdd734170f3f739eb7efd8ca914da7f/Paribus_Logo__1_.png",
     "date": "2022-10-13T13:00-06:00",
-    "launchDate": "2022-10-13T13:00-06:00",
+    "launchDate": "2022-10-13T19:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:06.380Z",
     "kyc": false,
@@ -12580,6 +13648,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12623,6 +13694,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12667,6 +13741,55 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "346CaZfqLB1Op9eRzW9N1d",
+    "id": "astroport",
+    "project": "Astroport",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Qwy7LtcelmPuSZnjGquW7/aeac853cef17939e914d63ed1eeebf98/EPpDQTZo_400x400__1_.jpg",
+    "date": "2021-11-29T17:00:00.000Z",
+    "launchDate": "2021-11-29T17:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-09-11T20:38:15.963Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "AMM",
+        "Bridge",
+        "DEX"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Injective",
+        "Sei",
+        "Terra"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12678,7 +13801,7 @@
     "maximum_reward": 20000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3wLJpDE64CBLT8SP0YvlRg/f68df675ba08048c9def0018e1f7e022/Charm-logo.png",
     "date": "2021-02-05T00:00-07:00",
-    "launchDate": "2021-02-05T00:00-07:00",
+    "launchDate": "2021-02-05T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-11-30T18:17:08.847Z",
     "kyc": false,
@@ -12707,6 +13830,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12749,6 +13875,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12759,13 +13888,14 @@
     "project": "Daimo",
     "maximum_reward": 15000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5uXQPtEKriUO2zg0oXyPcs/137e191f55cafe84f43c7afac070c3a8/logo-web.png",
-    "date": "2023-12-19T12:00+03:00",
-    "launchDate": "2023-12-19T12:00+03:00",
+    "date": "2023-12-19T09:00:00.000Z",
+    "launchDate": "2023-12-19T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:54:23.758Z",
+    "updatedDate": "2024-09-30T08:17:34.250Z",
     "kyc": true,
     "technologies": [
-      "Smart Contract"
+      "Smart Contract",
+      "Websites and Applications"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -12791,6 +13921,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12802,7 +13935,7 @@
     "maximum_reward": 15000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/pCukHADnoxZ77tzQDymFB/d75f5395acecf3ad1c64b9c410f220f0/SR3Avwlt_400x400.jpg",
     "date": "2023-06-07T12:00+03:00",
-    "launchDate": "2023-06-07T12:00+03:00",
+    "launchDate": "2023-06-07T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-10-05T15:29:11.604Z",
     "kyc": false,
@@ -12831,6 +13964,49 @@
       "language": [
         "Solidity",
         "JavaScript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3rmPcpKzYQ8bchp8QvptbY",
+    "id": "velvet-capital-v2",
+    "project": "Velvet Capital V2",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5GovZHnyLiccbBurf4U2im/8f1fb7c9a835c6939d0fc7d6b3e2ae70/velvet.png",
+    "date": "2024-09-05T21:23:24.000Z",
+    "launchDate": "2024-09-05T21:23:24.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-07T08:50:38.177Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Asset Management"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "BSC"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12844,7 +14020,7 @@
     "date": "2024-08-27T15:00:00.000Z",
     "launchDate": "2024-08-27T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-27T13:33:55.694Z",
+    "updatedDate": "2024-09-02T13:09:41.187Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -12862,7 +14038,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -12903,6 +14082,9 @@
         "Rust",
         "C/C++",
         "Python"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12944,6 +14126,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -12981,7 +14166,10 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -13028,6 +14216,9 @@
       "language": [
         "Rust",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13039,7 +14230,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vWq1HMmVZFfMVSgjdyMu0/22b6134565d7081bfed2b0eafdac6578/photo_2024-01-24_15.57.28.jpeg",
     "date": "2024-01-24T20:03+04:00",
-    "launchDate": "2024-01-24T20:03+04:00",
+    "launchDate": "2024-01-24T20:03:00.000Z",
     "endDate": null,
     "updatedDate": "2024-01-25T08:44:32.216Z",
     "kyc": false,
@@ -13064,7 +14255,10 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -13075,7 +14269,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1AVW8dU4G3wnbqcGMuaLP3/e04b779c5701717a28f468f5eea4270d/BankX_logo.png",
     "date": "2024-01-02T12:00+02:00",
-    "launchDate": "2024-01-02T12:00+02:00",
+    "launchDate": "2024-01-02T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:00.662Z",
     "kyc": false,
@@ -13105,6 +14299,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13116,7 +14313,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1R2U4bK3NgSW5iWZEdTTct/c4eded61a678371160198811819eafaf/TIzDmOkk_400x400.png",
     "date": "2023-12-27T12:00+03:00",
-    "launchDate": "2023-12-27T12:00+03:00",
+    "launchDate": "2023-12-27T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:29.719Z",
     "kyc": true,
@@ -13146,6 +14343,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13189,6 +14389,9 @@
         "Go",
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -13200,7 +14403,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4sFrO9aAWCFKq0DfA1A731/e53371efe3c81a848b9a81839c76003b/Dodo.png",
     "date": "2023-11-29T12:00+03:00",
-    "launchDate": "2023-11-29T12:00+03:00",
+    "launchDate": "2023-11-29T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:11.796Z",
     "kyc": false,
@@ -13238,6 +14441,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13249,7 +14455,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1pOZIVlpMqzkXQ1qs26iPV/5071baa33fb6e404b7391ab606c71294/yamato_logo.png",
     "date": "2023-09-04T12:00+03:00",
-    "launchDate": "2023-09-04T12:00+03:00",
+    "launchDate": "2023-09-04T12:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:44.665Z",
     "kyc": false,
@@ -13276,6 +14482,9 @@
       "programType": [],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13289,15 +14498,14 @@
     "date": "2023-06-22T14:00:00.000Z",
     "launchDate": "2023-06-22T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-05-01T14:23:24.112Z",
+    "updatedDate": "2024-10-04T14:53:37.149Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
     ],
-    "immunefiStandard": true,
+    "immunefiStandard": null,
     "tags": {
       "general": [
-        "Immunefi Standard",
         "KYC Not Required",
         "PoC Required"
       ],
@@ -13313,51 +14521,9 @@
       ],
       "language": [
         "Solidity"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2C5M0Kn3J4XhruWck1H3uh",
-    "id": "comdex",
-    "project": "Comdex",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5rE0CsFd4E1xqI4wu8pWzP/dcb50fd94f2d9e0d66cc8de3b5096f46/Comdex_logo.jpeg",
-    "date": "2023-04-17T09:00-04:00",
-    "launchDate": "2023-04-17T09:00-04:00",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:46:52.456Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
       ],
-      "productType": [
-        "Crosschain Liquidity",
-        "Staking"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Cosmos"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Go",
-        "Rust"
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13369,7 +14535,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/q7Elyme0pU01MOFrCVxhw/6c61788e17042d7dec56b1523fe88e68/SPOT_Symbol-06.svg",
     "date": "2022-12-22T18:00-05:00",
-    "launchDate": "2022-12-22T18:00-05:00",
+    "launchDate": "2022-12-22T23:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T19:00:08.501Z",
     "kyc": false,
@@ -13400,6 +14566,9 @@
       "language": [
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13454,7 +14623,10 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -13465,7 +14637,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5DxkOSf6OOAEcb9oswgYKX/72bc0c7c946c4f135e35754ef86cca59/Ola_Finance_Logo.svg",
     "date": "2022-07-19T11:00-06:00",
-    "launchDate": "2022-07-19T11:00-06:00",
+    "launchDate": "2022-07-19T11:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:50:01.417Z",
     "kyc": false,
@@ -13496,6 +14668,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13507,7 +14682,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4aNgN7QLwG3UL0uXAwCJJd/681686d79ae211b93ca98d3e90b98166/Unstoppable_Wallet_logo.png",
     "date": "2022-03-03T21:00-07:00",
-    "launchDate": "2022-03-03T21:00-07:00",
+    "launchDate": "2022-03-03T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:52:11.776Z",
     "kyc": false,
@@ -13538,6 +14713,9 @@
       ],
       "language": [
         "Kotlin"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13549,7 +14727,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vXimJyIxov2NZPVOHsVQY/fecd254c57b0ee292780cd6ae32f8f90/Duet_Finance_logo.jpeg",
     "date": "2022-02-14T21:00-07:00",
-    "launchDate": "2022-02-14T21:00-07:00",
+    "launchDate": "2022-02-14T21:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:55:32.629Z",
     "kyc": false,
@@ -13581,6 +14759,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13618,6 +14799,9 @@
       ],
       "language": [
         "C#"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13629,7 +14813,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7x1YithjFPAnhTAvlawAme/02e1a575b01a34b9ab64da1e0b013755/GYSR_logo.png",
     "date": "2022-01-07T03:00+01:00",
-    "launchDate": "2022-01-07T03:00+01:00",
+    "launchDate": "2022-01-07T03:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:51:00.451Z",
     "kyc": false,
@@ -13659,6 +14843,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13670,7 +14857,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1vaEedQcs3Gfn9vzeJOLZJ/0cf99504218c2ba8af3b91595d460161/Deri.png",
     "date": "2021-09-14T07:00-05:00",
-    "launchDate": "2021-09-14T07:00-05:00",
+    "launchDate": "2021-09-14T07:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:49:43.088Z",
     "kyc": false,
@@ -13707,6 +14894,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13718,7 +14908,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7KJxasjqM6UtmFBkXCD2Mj/4fc1b19a942ac6be1e3f1ba945ad5491/Mars_Ecosystem.jpeg",
     "date": "2021-09-08T06:00-05:00",
-    "launchDate": "2021-09-08T06:00-05:00",
+    "launchDate": "2021-09-08T06:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-11-26T18:39:08.784Z",
     "kyc": false,
@@ -13749,6 +14939,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13760,7 +14953,7 @@
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1OsrVnYDfPNy8a3qWntuk4/9d26ef24ff56bf9ff6c71a6c1e90c84d/MoneyonChain-logo.png",
     "date": "2021-01-14T00:00-07:00",
-    "launchDate": "2021-01-14T00:00-07:00",
+    "launchDate": "2021-01-14T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:56:41.638Z",
     "kyc": true,
@@ -13791,6 +14984,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13802,7 +14998,7 @@
     "maximum_reward": 8000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4s94Lbcn5eQZMNdQQAnRdh/b8398b7e1a98f780c5a9dcb4d43a8eb3/RXmjQ0Dg_400x400.jpg",
     "date": "2023-04-06T13:00-04:00",
-    "launchDate": "2023-04-06T13:00-04:00",
+    "launchDate": "2023-04-06T13:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:57:34.226Z",
     "kyc": false,
@@ -13831,6 +15027,9 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13842,7 +15041,7 @@
     "maximum_reward": 8000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4m8GABeADoUekpv7DPLvgq/f59325a352b7e10b75ab096fbb376bbe/SuperBots_Logo.jpg",
     "date": "2022-04-07T11:30-06:00",
-    "launchDate": "2022-04-07T11:30-06:00",
+    "launchDate": "2022-04-07T11:30:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:53:45.873Z",
     "kyc": false,
@@ -13877,6 +15076,9 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13888,7 +15090,7 @@
     "maximum_reward": 8000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3pwhSRguB1VotAmj7ej7bO/278feaf90251df480880e49c60725123/GeroWallet.jpeg",
     "date": "2021-08-06T11:00-05:00",
-    "launchDate": "2021-08-06T11:00-05:00",
+    "launchDate": "2021-08-06T11:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:46:44.585Z",
     "kyc": false,
@@ -13914,7 +15116,10 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -13944,7 +15149,10 @@
       "programType": [
         "Blockchain/DLT"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": null
   },
@@ -13982,6 +15190,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13993,7 +15204,7 @@
     "maximum_reward": 5000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6tsDyr3ikdFL8rLa53IcOZ/e249b3d566eee170e2b73a37d6666f2f/Mtpelerin-logo.png",
     "date": "2021-02-08T00:00-07:00",
-    "launchDate": "2021-02-08T00:00-07:00",
+    "launchDate": "2021-02-08T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2024-04-08T18:54:42.705Z",
     "kyc": false,
@@ -14036,6 +15247,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -14047,7 +15261,7 @@
     "maximum_reward": 5000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1ta3BCV18CvuAgafn5MnQ2/39078c6321c8262348d6ed652829ba86/Bitswift-logo.jpg",
     "date": "2021-02-04T00:00-07:00",
-    "launchDate": "2021-02-04T00:00-07:00",
+    "launchDate": "2021-02-04T00:00:00.000Z",
     "endDate": null,
     "updatedDate": "2023-11-30T18:17:10.588Z",
     "kyc": false,
@@ -14067,7 +15281,10 @@
       "programType": [
         "Websites and Applications"
       ],
-      "language": []
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
     },
     "premiumTriaging": false
   },
@@ -14110,6 +15327,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -14150,6 +15370,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -14193,6 +15416,9 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false

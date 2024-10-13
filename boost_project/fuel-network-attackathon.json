@@ -1,5 +1,369 @@
 {
   "pageProps": {
+    "isAttackathon": true,
+    "academyContent": {
+      "slug": "fuel-network-attackathon",
+      "programSlug": "fuel-network-attackathon",
+      "meta": {
+        "title": "Fuel Attackathon",
+        "description": "Everything you need to know to find bugs on Fuel in one place. Learn Fuel from beginner-to-advanced, including guides on making POCs, and a calendar of live events",
+        "ogImg": "/academy/og-academy-fuel.jpg"
+      },
+      "og": {
+        "program": "Fuel Attackathon",
+        "bg": "/academy/og-background-fuel.jpg"
+      },
+      "summary": {
+        "img": "/academy/summary-tile-fuel.png",
+        "title": "Fuel Academy",
+        "description": "Fuel Academy is a learning page with everything you need to know to find bugs on Fuel. With guides to help you learn Fuel fast and use Immunefi successfully. Plus a calendar of live technical walkthroughs."
+      },
+      "hero": {
+        "img": "/academy/hero-bg-fuel.jpg",
+        "title": "Fuel Academy",
+        "text": "Fuel is an operating system purpose-built for Ethereum rollups, designed to help developers build decentralized economies at scale.",
+        "ctaText": "View Attackathon",
+        "ctaUrl": "/audit-competition/fuel-network-attackathon/?utm_source=hero_academy"
+      },
+      "whatIs": {
+        "title": "What's an Attackathon?",
+        "text": "Attackathons are education-based bughunting contests where whitehat hackers compete over a reward pool by submitting impactful bugs in the project's code.\n\n**Before the Attackathon**<br/> Immunefi works with the project to host a security-focused education period, providing top tier education and support to security researchers.\n\n**During the Attackathon**<br/> Whitehats experience ideal bughunting conditions, with direct project support, responsiveness, and duplicate rewards.\n\n**After the Attackathon**<br/> Immunefi spotlights the security accomplishments, with a custom leaderboard, Attackathon findings report, bug fix reviews, and NFT awards.\n\nUltimately, Attackathons serve to secure projects, develop their security ecosystem, and create new opportunities for whitehats."
+      },
+      "resources": [
+        {
+          "id": 90,
+          "title": "Where to Start",
+          "items": [
+            {
+              "id": 91,
+              "title": "Where You’ll Get the Best ROI Bughunting",
+              "description": "For those hunting on the Fuel Attackathon who have no idea where to start, this is what you need to read right now.",
+              "url": "https://medium.com/immunefi/where-youll-get-the-best-roi-bughunting-on-fuel-s-1-3-million-attackathon-e516f89bbfa7",
+              "level": "All Levels"
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "title": "Live Technical Walkthroughs",
+          "text": "From June 6th to 19th Fuel and their security partners will be presenting technical walkthroughs to help you understand and bughunt on Fuel.",
+          "items": [
+            {
+              "id": 101,
+              "title": "Event Calendar",
+              "description": "Event topics range from how to interact with Fuel, to advanced Sway concepts, and many more. All including a community Q&A and hosted on the Immunefi Discord.",
+              "url": "https://x.com/immunefi/status/1797629365552824454",
+              "type": "Live Events"
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "title": "Fuel Network - Basics",
+          "items": [
+            {
+              "id": 201,
+              "title": "Foundations of the Fuel Network",
+              "description": "Learn about Fuel's UTXO model.",
+              "url": "https://x.com/immunefi/status/1799814798089007502",
+              "level": "Beginner"
+            },
+            {
+              "id": 202,
+              "title": "Getting Started with Fuel Network",
+              "description": "Understand the basics of how the Fuel VM works.",
+              "url": "https://x.com/immunefi/status/1800223035347099959",
+              "level": "Beginner"
+            },
+            {
+              "id": 203,
+              "title": "Ethereum vs. Fuel Network",
+              "description": "Understand how Fuel compares to Ethereum",
+              "url": "https://x.com/immunefi/status/1798343914794983493",
+              "level": "Intermediate"
+            },
+            {
+              "id": 204,
+              "title": "Lifecycle of a Fuel Transaction",
+              "description": "Follow the lifecycle of a transaction on Fuel.",
+              "url": "https://x.com/immunefi/status/1798730135547613504",
+              "level": "Intermediate"
+            },
+            {
+              "id": 205,
+              "title": "Bridging Fuel and Ethereum",
+              "description": "Understand how the Fuel Bridge works.",
+              "url": "https://x.com/immunefi/status/1799560483898343933",
+              "level": "Intermediate"
+            }
+          ]
+        },
+        {
+          "id": 300,
+          "title": "Fuel Network - Advanced",
+          "items": [
+            {
+              "id": 301,
+              "title": "Fuel Specifications",
+              "description": "Read the technical specifications for the protocol.",
+              "url": "https://docs.fuel.network/docs/specs/protocol/",
+              "level": "Advanced"
+            },
+            {
+              "id": 302,
+              "title": "Fuel VM Specifications",
+              "description": "Read the technical specifications for the Fuel Virtual Machine.",
+              "url": "https://docs.fuel.network/docs/specs/fuel-vm/",
+              "level": "Advanced"
+            },
+            {
+              "id": 303,
+              "title": "Fuel Transaction Specifications",
+              "description": "Read the technical specifications for the transaction format used in Fuel.",
+              "url": "https://docs.fuel.network/docs/specs/tx-format/",
+              "level": "Advanced"
+            },
+            {
+              "id": 304,
+              "title": "Fuel VM and Sway Contract ABI",
+              "description": "Read the technical specifications for ABIs.",
+              "url": "https://docs.fuel.network/docs/specs/abi/",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 400,
+          "title": "Sway Language",
+          "items": [
+            {
+              "id": 401,
+              "title": "Sway: The Big Four",
+              "description": "Learn about the main 4 program types of the Sway language.",
+              "url": "https://docs.fuel.network/docs/sway/sway-program-types/",
+              "level": "Beginner"
+            },
+            {
+              "id": 402,
+              "title": "Foundations of the Sway Language",
+              "description": "Learn the basics of the Sway language syntax.",
+              "url": "https://docs.fuel.network/docs/sway/basics/",
+              "level": "Beginner"
+            },
+            {
+              "id": 403,
+              "title": "Getting Started with Sway",
+              "description": "Learn blockchain-specific features of the Sway language.",
+              "url": "https://docs.fuel.network/docs/sway/blockchain-development/",
+              "level": "Beginner"
+            },
+            {
+              "id": 404,
+              "title": "Sway Playground",
+              "description": "Test out the Sway without installing anything with the Sway playground.",
+              "url": "https://www.sway-playground.org/",
+              "level": "Beginner"
+            },
+            {
+              "id": 405,
+              "title": "Writing a Sway Smart Contract",
+              "description": "Learn how to write, test, and deploy a simple Sway contract.",
+              "url": "https://docs.fuel.network/guides/quickstart/building-a-smart-contract/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 406,
+              "title": "Sway Standard Library",
+              "description": "Explore the reference for Sway's std-lib.",
+              "url": "https://fuellabs.github.io/sway/master/std/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 407,
+              "title": "Sway Community Libraries",
+              "description": "Explore utility libraries written in Sway.",
+              "url": "https://github.com/FuelLabs/sway-libs",
+              "level": "Intermediate"
+            },
+            {
+              "id": 408,
+              "title": "Advanced Sway",
+              "description": "Dive into some advanced features of Sway, like generics and traits.",
+              "url": "https://docs.fuel.network/docs/sway/advanced/",
+              "level": "Advanced"
+            },
+            {
+              "id": 409,
+              "title": "Sway Standards (SRC)",
+              "description": "Explore standards for assets, ownership, and more.",
+              "url": "https://github.com/FuelLabs/sway-standards/",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 500,
+          "title": "Investigating on Chain Data",
+          "items": [
+            {
+              "id": 501,
+              "title": "Data Query Playground",
+              "description": "Test out queries with the GraphQL playground for Fuel's RPC API.",
+              "url": "https://testnet.fuel.network/v1/playground",
+              "level": "Beginner"
+            },
+            {
+              "id": 502,
+              "title": "Query Data with the Rust SDK",
+              "description": "Learn how to query the blockchain through the official Provider API from the Rust SDK",
+              "url": "https://docs.fuel.network/docs/fuels-rs/connecting/querying/",
+              "level": "Beginner"
+            },
+            {
+              "id": 503,
+              "title": "Recipes for Data Queries",
+              "description": "Learn from example queries to test out the Fuel GraphQL API",
+              "url": "https://docs.fuel.network/docs/graphql/recipes",
+              "level": "Intermediate"
+            },
+            {
+              "id": 504,
+              "title": "Investigating on chain data",
+              "description": "Learn more about the types, queries, and mutations used in the Fuel GraphQL API.",
+              "url": "https://docs.fuel.network/docs/graphql/reference/",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 600,
+          "title": "Running a Proof of Concept (PoC)",
+          "items": [
+            {
+              "id": 602,
+              "title": "How to Make PoCs on Fuel",
+              "description": "How to setup a PoC locally using FuelVM and the Forc manager.",
+              "url": "https://x.com/immunefi/status/1799086589139615989",
+              "level": "Beginner"
+            },
+            {
+              "id": 601,
+              "title": "Setup and Installation",
+              "description": "An in-depth guide for installing `fuelup` and other common setup questions.",
+              "url": "https://docs.fuel.network/guides/installation/",
+              "level": "Beginner"
+            },
+            {
+              "id": 603,
+              "title": "Interacting with Contracts",
+              "description": "Learn how do query simple state of a contract using the Rust SDK",
+              "url": "https://docs.fuel.network/docs/fuels-rs/calling-contracts/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 604,
+              "title": "Deploying Scripts",
+              "description": "Learn how to run and call contracts from a Sway script",
+              "url": "https://docs.fuel.network/docs/fuels-rs/running-scripts/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 605,
+              "title": "Fork the Network",
+              "description": "Learn what options are available and how to connect to a Fuel node",
+              "url": "https://docs.fuel.network/docs/fuels-rs/connecting/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 606,
+              "title": "Test a Contract",
+              "description": "Testing a Sway contract",
+              "url": "https://docs.fuel.network/docs/sway/testing/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 607,
+              "title": "Run your own Node",
+              "description": "Step-by-step guide for running a local node.",
+              "url": "https://docs.fuel.network/guides/running-a-node/",
+              "level": "Advanced"
+            },
+            {
+              "id": 608,
+              "title": "Sway Analyzer",
+              "description": "A security-focused static analyzer for Sway.",
+              "url": "https://medium.com/@angelos404/mastering-sway-analyzer-27379d7903db",
+              "level": "Beginner"
+            }
+          ]
+        },
+        {
+          "id": 700,
+          "title": "Fuel Audits & Known Issues",
+          "items": [
+            {
+              "id": 701,
+              "title": "Sway Known Issues",
+              "description": "Take a look into known Issues and workarounds for the Sway language.",
+              "url": "https://docs.fuel.network/docs/sway/reference/known_issues_and_workarounds/",
+              "level": "Intermediate"
+            }
+          ]
+        },
+        {
+          "id": 800,
+          "title": "Technical FAQ",
+          "items": [
+            {
+              "id": 801,
+              "title": "Sway Keywords Reference Guide",
+              "description": "Learn more about the keywords available in the Sway language.",
+              "url": "https://docs.fuel.network/docs/sway/reference/keywords/",
+              "level": "Beginner"
+            },
+            {
+              "id": 802,
+              "title": "Solidity vs. Sway",
+              "description": "What are some differences between Solidity and the Sway Language?",
+              "url": "https://docs.fuel.network/docs/sway/reference/solidity_differences/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 803,
+              "title": "Rust vs. Sway",
+              "description": "What are some differences between Rust and the Sway Language?",
+              "url": "https://docs.fuel.network/docs/sway/reference/rust_differences/",
+              "level": "Intermediate"
+            },
+            {
+              "id": 804,
+              "title": "Fuel Forum",
+              "description": "On the Fuel Forum you can ask Fuel questions directly, receive in-depth technical answers, see what others are discussing and search through their archives.",
+              "url": "https://forum.fuel.network/",
+              "type": "Community"
+            },
+            {
+              "id": 805,
+              "title": "Fuel Attackathon Discord",
+              "description": "June 3rd to July 22nd you can ask Fuel developers and Immunefi questions directly on Immunefi's #fuel-attackathon Discord channel.",
+              "url": "https://discord.com/invite/immunefi",
+              "type": "Community"
+            },
+            {
+              "id": 806,
+              "title": "Education Summary Twitter Threads & Recordings",
+              "description": "Browse our education summaries about Fuel and catch up on our Twitter Spaces.",
+              "url": "https://immunefi.slite.page/p/S-4Jj2XjFXyyPf/Fuel-Attackathon-Tweets"
+            }
+          ]
+        }
+      ]
+    },
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "3GK41DXimLkjluCUDLq24f",
       "id": "fuel-network-attackathon",
@@ -9,7 +373,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Fk02TUogACJYRTBgFHDjr/d34c2b33d5debf44e37143e6e4448b62/FUEL_Symbol_Circle_Green_RGB__1_.png",
       "launchDate": "2024-06-17T08:00:00.000Z",
       "endDate": "2024-07-22T08:00:00.000Z",
-      "updatedDate": "2024-08-23T11:15:37.580Z",
+      "updatedDate": "2024-09-02T13:39:56.908Z",
       "kyc": true,
       "rewards": [
         {
@@ -87,6 +451,7 @@
           "url": "https://github.com/FuelLabs/fuel-bridge/tree/e3e673e31f9e72d757d68979bb6796a0b7f9c8bc/packages/solidity-contracts",
           "description": "solidity-contracts :: The L1 contracts for the Fuel bridge that handle deposits and withdrawals on Ethereum",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -95,6 +460,7 @@
           "url": "https://github.com/FuelLabs/fuel-bridge/tree/e3e673e31f9e72d757d68979bb6796a0b7f9c8bc/packages/message-predicates",
           "description": "message-predicates :: The L2 deposit receiver which enables minting of funds on Fuel from the bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -103,6 +469,7 @@
           "url": "https://github.com/FuelLabs/fuel-bridge/tree/e3e673e31f9e72d757d68979bb6796a0b7f9c8bc/packages/fungible-token",
           "description": "fungible-token :: The L2 contract on fuel which verifies the deposit receiver and mints the actual tokens",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -111,6 +478,7 @@
           "url": "https://github.com/FuelLabs/sway/tree/v0.61.2",
           "description": "sway :: The sway compiler and most Sway tooling (ie. forc, standard library, etc)  *Note: Only the fuelvm target is in scope. The evm and midenVM target are out of scope",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -119,6 +487,7 @@
           "url": "https://github.com/FuelLabs/sway-libs/tree/0f47d33d6e5da25f782fc117d4be15b7b12d291b",
           "description": "sway-libs :: Common Sway libraries",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -127,6 +496,7 @@
           "url": "https://github.com/FuelLabs/sway-standards/tree/v0.5.1",
           "description": "sway-standards",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -135,6 +505,7 @@
           "url": "https://github.com/FuelLabs/fuel-core/tree/v0.31.0",
           "description": "fuel-core :: The blockchain client for the L2",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -143,6 +514,7 @@
           "url": "https://github.com/FuelLabs/fuel-vm/tree/v0.55.0",
           "description": "fuel-vm :: The fuelvm and the low level shared libraries with Fuel (ie. tx types, assembly code, etc)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -151,6 +523,7 @@
           "url": "https://github.com/FuelLabs/fuels-ts/tree/v0.91.0",
           "description": "fuel-ts :: The typescript sdk which interacts with the blockchain client and compiler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -159,6 +532,7 @@
           "url": "https://github.com/fuellabs/fuels-rs/tree/d3ac1d3f8910cc12c662ccbe5ff51d9e9354ed1a",
           "description": "fuel-rs :: The rust sdk which interacts with the blockchain client and compiler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -167,6 +541,7 @@
           "url": "https://github.com/FuelLabs/fuel-connectors/tree/v0.8.1",
           "description": "fuel-connectors :: Web2 library that enables apps to connect to fuel supported wallets",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -175,6 +550,7 @@
           "url": "https://github.com/FuelLabs/fuels-wallet/tree/v0.22.0",
           "description": "fuel-wallet :: Web2 Fuel Wallet extension that allows users to interact with fuel network and stores the private keys / seed phrase of the user",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         },
         {
@@ -183,6 +559,7 @@
           "url": "https://github.com/fuellabs/fuel-explorer/tree/3af2f6dd3dea07ed071858b07378fba1c24d2f77",
           "description": "fuel-explorer :: Web2 bridge and explorer UI, that allows users to bridge funds from sepolia to the Fuel Network and also visualize the transactions of the network",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-06-17T08:00:00.000Z"
         }
       ],
@@ -494,6 +871,9 @@
         "language": [
           "Sway",
           "Rust"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -553,27 +933,59 @@
           }
         ]
       },
+      "evaluationEndDate": "2024-09-16T08:00:00.000Z",
+      "boostedIntroStartingIn": "$1.3 million USD is available in Attackathon rewards. With $1,000,000 for finding bugs on Fuel itself during June 17th to July 22nd. Plus a further $300,000 dedicated to Invite-Only programs on Fuel’s top 4 dApps which will run afterwards.\n\nWhen the $1 million Fuel Attackathon has ended Immunefi will publish a leaderboard and Attackathon findings report, whitehat spotlights, bugfix reviews, and NFT awards.\n\nAll security researchers who find a single valid bug in the $1 million Fuel Attackathon will be invited to all subsequent Invite-Only programs.\n\n**June 3rd to June 17th:**\n\nThe Fuel Education Period is live. To help you learn Fuel quickly & deeply we'll be providing the Fuel Academy, a learning page designed for security researchers on the Immunefi website, as well as a series of live technical walkthroughs, and direct technical support from Fuel.\n\nYou can ask Fuel any questions directly in the [Fuel Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord, or on the [Fuel Forum](https://forum.fuel.network/).\n\n**June 17th 8am UTC to July 22nd 8am UTC:**\n\nFuel’s Attackathon is live. Find bugs and earn rewards. Reward terms can be [read here](https://immunefisupport.zendesk.com/hc/en-us/articles/25655313192721-Fuel-Attackathon-Reward-Terms).\n\nAdditionally, a code update period will occur from July 1st 8am UTC to July 6th 8am UTC. During this the code in scope will be changing until it is re-finalized on July 6th 8am UTC. A changelog of all updates will be shared.\n\nDuring the Attackathon Fuel commits to responding within 48 hours on weekdays to all bug reports. \n\n[Sign up here for Fuel Attackathon Updates](https://forms.gle/XaXE4n7Gmvu48ZkE9).",
+      "boostedIntroLive": "$1.3 million USD is available in Attackathon rewards. With $1,000,000 for finding bugs on Fuel itself during June 17th to July 22nd. Plus a further $300,000 dedicated to Invite-Only programs on Fuel’s top 4 dApps which will run afterwards.\n\nAll security researchers who find a single valid bug in the $1 million Fuel Attackathon will be invited to all subsequent Invite-Only programs and receive NFT awards.\n\nYou can ask Fuel any questions directly in the [Fuel Attackathon Discord channel](https://discord.com/invite/immunefi?utm_source=immunefi) on Immunefi's Discord, or on the [Fuel Forum](https://forum.fuel.network/?utm_source=immunefi). During the Attackathon Fuel commits to responding within 48 hours on weekdays to all bug reports.\n\nAfter the Attackathon Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "",
+      "rewardsToken": "USDC",
+      "rewardsPool": 1000000,
+      "sourceLinesOfCode": 100000,
+      "boostedSummaryReport": null,
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [],
+      "features": [
+        "Attackathon",
+        "Vault",
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": "2024-06-23T00:00:00.000Z",
       "websiteUrl": null,
       "description": "Fuel is an operating system purpose built for Ethereum Rollups. Fuel allows rollups to solve for PSI (parallelization, state minimized execution, interoperability) without making any sacrifices.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Attackathon | Fuel Network Bug Bounties | Immunefi",
+      "title": "Attackathon | Fuel Network Bug Bounties",
       "description": "Find bugs and vulnerabilities on Attackathon | Fuel Network and get paid up to $1,000,000.",
-      "url": "https://immunefi.com/bug-bounty/fuel-network-attackathon",
+      "url": "https://immunefi.com/audit-competition/fuel-network-attackathon",
       "ogImg": "/api/bounty/og-image?project=Attackathon+%7C+Fuel+Network"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "sNhPrMQC7LoDKiXA6kyH3",
       "id": "thundernft-iop",
@@ -9,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4c3zRck4MBUVAaxTaPkUHt/9b1dee6e49c7d39f3b8af56a8b387816/file.png",
       "launchDate": "2024-08-12T11:00:00.000Z",
       "endDate": "2024-09-02T08:00:28.000Z",
-      "updatedDate": "2024-08-14T14:39:25.768Z",
+      "updatedDate": "2024-10-07T09:43:48.631Z",
       "kyc": false,
       "rewards": [
         {
@@ -45,6 +52,7 @@
           "url": "https://github.com/ThunderFuel/smart-contracts/tree/main/contracts-v1/asset_manager",
           "description": "Asset Manager - 117",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         },
         {
@@ -53,6 +61,7 @@
           "url": "https://github.com/ThunderFuel/smart-contracts/tree/main/contracts-v1/execution_manager",
           "description": "Execution Manager - 119",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         },
         {
@@ -61,6 +70,7 @@
           "url": "https://github.com/ThunderFuel/smart-contracts/tree/main/contracts-v1/execution_strategies/strategy_fixed_price_sale",
           "description": "Strategy - 402",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         },
         {
@@ -69,6 +79,7 @@
           "url": "https://github.com/ThunderFuel/smart-contracts/tree/main/contracts-v1/libraries",
           "description": "Libraries - 324",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         },
         {
@@ -77,6 +88,7 @@
           "url": "https://github.com/ThunderFuel/smart-contracts/tree/main/contracts-v1/pool",
           "description": "Pool - 231",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         },
         {
@@ -85,6 +97,7 @@
           "url": "https://github.com/ThunderFuel/smart-contracts/tree/main/contracts-v1/royalty_manager",
           "description": "Royalty Manager - 133",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         },
         {
@@ -93,6 +106,7 @@
           "url": "https://github.com/ThunderFuel/smart-contracts/tree/main/contracts-v1/thunder_exchange",
           "description": "Thunder Exchange - 480",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         },
         {
@@ -101,6 +115,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-12T11:00:00.000Z"
         }
       ],
@@ -238,6 +253,9 @@
         ],
         "language": [
           "Sway"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -265,27 +283,58 @@
         ],
         "web_rewards": []
       },
+      "evaluationEndDate": "2024-10-14T08:00:00.000Z",
+      "boostedIntroStartingIn": "$65,000 USD in rewards is available for finding bugs on ThundeNFT which is an NFT marketplace built on Fuel. **For this Invite-Only Program, only whitehats who found at least 1 valid report in Fuel's Attackathon can submit reports.**\n\nNo KYC is required.\n\nAny technical questions can be asked directly to the ThunderNFT technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"thundernft-iop\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nIn a few days after the launch, ThunderNFT will give a live technical walkthrough.\n\nJoin our Discord for more updates.",
+      "boostedIntroLive": "$65,000 USD is available in rewards for finding bugs in ThundeNFT's codebase of 1806 nSLOC. There is no KYC required.\n\nAny technical questions and support requests can be asked directly to ThunderNFT or Immunefi in the [ThunderNFT Boost Discord channel](https://discord.com/invite/immunefi?utm_source=immunefi).\n\nWhen the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "",
+      "rewardsToken": "USDC",
+      "rewardsPool": 65000,
+      "sourceLinesOfCode": 1806,
+      "boostedSummaryReport": null,
+      "inviteOnly": true,
+      "hideAssetsInScope": false,
+      "boostedLeaderboard": [],
+      "features": [
+        "IOP (Invite Only Program)",
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": null,
       "websiteUrl": "https://thundernft.market/",
       "description": "**ThunderNFT's Invite-Only Program is a form of Boost which is exclusively accessible to a select group of security researchers who have submitted at least 1 valid report during Fuel Attackathon event. These researchers will share a flat reward pool for every valid bug found.**",
       "githubUrl": null,
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "IOP | ThunderNFT Bug Bounties | Immunefi",
+      "title": "IOP | ThunderNFT Bug Bounties",
       "description": "Find bugs and vulnerabilities on IOP | ThunderNFT and get paid up to $65,000.",
-      "url": "https://immunefi.com/bug-bounty/thundernft-iop",
+      "url": "https://immunefi.com/audit-competition/thundernft-iop",
       "ogImg": "/api/bounty/og-image?project=IOP+%7C+ThunderNFT"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

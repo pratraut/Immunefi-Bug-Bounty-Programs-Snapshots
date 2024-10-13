@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1lOFdVmQG8KNmJhGtr8lhs/40400407c90b0736a8e506b081b70887/Sei_Labs_Logo.png",
       "launchDate": "2023-11-30T09:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-08-06T07:22:04.064Z",
+      "updatedDate": "2024-10-01T15:27:46.975Z",
       "kyc": true,
       "rewards": [
         {
@@ -21,7 +21,7 @@
         {
           "assetType": "blockchain_dlt",
           "level": "high",
-          "payout": "USD $50,000",
+          "payout": "USD $25,000",
           "pocRequired": true
         },
         {
@@ -69,6 +69,7 @@
           "url": "https://github.com/sei-protocol/sei-chain",
           "description": "Sei Chain",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -77,6 +78,7 @@
           "url": "https://github.com/sei-protocol/sei-cosmos",
           "description": "Sei Cosmos",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -85,6 +87,7 @@
           "url": "https://github.com/sei-protocol/sei-tendermint",
           "description": "Sei Tendermind",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -93,6 +96,7 @@
           "url": "https://github.com/sei-protocol/sei-js",
           "description": "Sei js",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -101,6 +105,7 @@
           "url": "https://app.sei.io/bridge",
           "description": "Bridge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -109,6 +114,7 @@
           "url": "https://app.sei.io/",
           "description": "Sei App",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -117,6 +123,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -125,6 +132,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-30T09:00:00.000Z"
         },
         {
@@ -133,6 +141,7 @@
           "url": "https://github.com/sei-protocol/go-ethereum",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-31T13:43:02.396Z"
         }
       ],
@@ -362,6 +371,9 @@
         "language": [
           "Go",
           "Rust"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -376,7 +388,7 @@
           },
           {
             "level": "High",
-            "payout": "USD $50,000"
+            "payout": "USD $25,000"
           },
           {
             "level": "Medium",
@@ -410,21 +422,46 @@
       "websiteUrl": null,
       "description": "Sei is the fastest Layer 1 blockchain, designed to scale with the industry. Pushing the boundaries of blockchain technology through open source development, Sei stands to unlock a brand new design space for consumer facing applications.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
-      "premiumTriaging": false
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Sei",
+      "rewardsToken": "SEI",
+      "eligibilityCriteria": [
+        "no_ofac_sdn",
+        "no_official_contributor",
+        "no_employee",
+        "no_auditor"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
+      "premiumTriaging": true
     },
     "project": {
-      "premiumTriaging": false,
+      "premiumTriaging": true,
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Sei Bug Bounties | Immunefi",
+      "title": "Sei Bug Bounties",
       "description": "Find bugs and vulnerabilities on Sei and get paid up to $500,000.",
       "url": "https://immunefi.com/bug-bounty/sei",
       "ogImg": "/api/bounty/og-image?project=Sei"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

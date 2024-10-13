@@ -39,6 +39,7 @@
           "url": "https://etherscan.io/address/0xd0Dd053392db676D57317CD4fe96Fc2cCf42D0b4",
           "description": "Drips",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -47,6 +48,7 @@
           "url": "https://etherscan.io/address/0xb0C9B6D67608bE300398d0e4FB0cCa3891E1B33F",
           "description": "Drips Logic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -55,6 +57,7 @@
           "url": "https://etherscan.io/address/0x60F25ac5F289Dc7F640f948521d486C964A248e5",
           "description": "Caller",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -63,6 +66,7 @@
           "url": "https://etherscan.io/address/0x1455d9bD6B98f95dd8FEB2b3D60ed825fcef0610",
           "description": "AddressDriver",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -71,6 +75,7 @@
           "url": "https://etherscan.io/address/0x3Ea1e774f98cc4C6359bbCB3238E3e60365Fa5c9",
           "description": "AddressDriver Logic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -79,6 +84,7 @@
           "url": "https://etherscan.io/address/0xcf9c49B0962EDb01Cdaa5326299ba85D72405258",
           "description": "NFTDriver",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -87,6 +93,7 @@
           "url": "https://etherscan.io/address/0x3B11537D0d4276Ba9e41FFe04e9034280bd7af50",
           "description": "NFTDriver Logic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -95,6 +102,7 @@
           "url": "https://etherscan.io/address/0x1212975c0642B07F696080ec1916998441c2b774",
           "description": "ImmutableSplitsDriver",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -103,6 +111,7 @@
           "url": "https://etherscan.io/address/0x2c338CDf00dFd5A9B3B6b0b78BB95352079AAF71",
           "description": "ImmutableSplitsDriver Logic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -111,6 +120,7 @@
           "url": "https://etherscan.io/address/0x770023d55D09A9C110694827F1a6B32D5c2b373E",
           "description": "RepoDriver",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -119,6 +129,7 @@
           "url": "https://etherscan.io/address/0xa928d4b087AD35C46BA83331d8eEddb83152319b",
           "description": "RepoDriver AnyApi Operator",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         },
         {
@@ -127,6 +138,7 @@
           "url": "https://etherscan.io/address/0xfC446dB5E1255e837E95dB90c818C6fEb8e93ab0",
           "description": "RepoDriver Logic",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-01T12:00+03:00"
         }
       ],
@@ -227,6 +239,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -253,8 +268,29 @@
       "websiteUrl": null,
       "description": "Drips is an Ethereum protocol and web app that makes it easy for organizations and individuals to provide direct financial support to developers of free and open source software (FOSS).",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -262,12 +298,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Drips Bug Bounties | Immunefi",
+      "title": "Drips Bug Bounties",
       "description": "Find bugs and vulnerabilities on Drips and get paid up to $100,000.",
       "url": "https://immunefi.com/bug-bounty/drips",
       "ogImg": "/api/bounty/og-image?project=Drips"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

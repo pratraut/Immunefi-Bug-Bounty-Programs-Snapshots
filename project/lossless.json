@@ -45,6 +45,7 @@
           "url": "https://etherscan.io/address/0xe91D7cEBcE484070fc70777cB04F7e2EfAe31DB4#code",
           "description": "Proxy / LosslessControllerV2",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:42:19.811Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://etherscan.io/address/0xd1b2E53cb46c9b9Bd70b5BDf6D32802D4c5BCd0E",
           "description": "Implementation / LosslessControllerV3",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:52:55.489Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://etherscan.io/address/0x77736D218D05cB3D122107e12dEF22D5e69e2908",
           "description": "Guardian",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:52:59.253Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://etherscan.io/address/0x0b93609b949271BC11d3D9b4976759706bA559B7",
           "description": "TreasuryProtectionStrategy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:53:04.939Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://etherscan.io/address/0xF8786f689F83CA69031e7ccffCA55BaC2F59C6c5",
           "description": "LiquidityProtectionSingleLimitStrategy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:53:07.491Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://etherscan.io/address/0xA6285cBB3ad698211FE2Ee61142Dd66df30254FD",
           "description": "Proxy / LosslessGovernance",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:53:12.553Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://etherscan.io/address/0x16DAA09fCEC7545108bDf9381866000B06979662",
           "description": "Implementation / LosslessGovernance",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:53:15.692Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://etherscan.io/address/0x2169B166EC560D4606174BE8E9F63f5A00019e0b",
           "description": "Proxy / LosslessStaking",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:53:17.528Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://etherscan.io/address/0xd7e54b6b94b927F7133eF7553AD46aCd49Be833A",
           "description": "Implementation / LosslessStaking",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:53:22.087Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://etherscan.io/address/0x38D40f5c8375F84C5B90bc460A94a436D09133fB",
           "description": "Proxy / LosslessReporting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-07T14:53:25.602Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://etherscan.io/address/0x758e9874db2A3F6143C86a0885deefbb4C7c8d72",
           "description": "Implementation / LosslessReporting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:28:28.054Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://ropsten.etherscan.io/address/0x27fce20D62f1DE73B0Ae1Dc7572F881061692de9",
           "description": "Proxy / LosslessControllerV3",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:28:42.664Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://ropsten.etherscan.io/address/0x7DCeC437Ec6D3E05108857417cD88A17dA7C8540",
           "description": "Implementation / LosslessControllerV3",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:29:04.174Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://ropsten.etherscan.io/address/0x1113D6B5E6D201d04359BC864E069898450662c5",
           "description": "Guardian",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:29:19.662Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://ropsten.etherscan.io/address/0xBf94E36Ab44381bB3B9209fdF19dE34221b8B244",
           "description": "TreasuryProtectionStrategy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:29:37.003Z"
         },
         {
@@ -165,6 +180,7 @@
           "url": "https://ropsten.etherscan.io/address/0x4Fd4954f8F68009Aa770F929e95a7a4e88298BFB#code",
           "description": "LiquidityProtectionSingleLimitStrategy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:29:53.599Z"
         },
         {
@@ -173,6 +189,7 @@
           "url": "https://ropsten.etherscan.io/address/0xf3f4d8c8d5bf81ca81fc591598c22aa00451ba05",
           "description": "Implementation / LosslessReportingV1",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:30:11.906Z"
         },
         {
@@ -181,6 +198,7 @@
           "url": "https://ropsten.etherscan.io/address/0x4Ef7747eF142BeF262d9eB16b43F50c37e3e1bd8",
           "description": "Implementation / LosslessStakingV1",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:30:30.117Z"
         },
         {
@@ -189,6 +207,7 @@
           "url": "https://ropsten.etherscan.io/address/0xF160f2bb25b290e5d487c93BA3f17f0ad9637649",
           "description": "Implementation / LosslessGovernanceV1",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-25T19:30:45.409Z"
         }
       ],
@@ -305,6 +324,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -335,8 +357,29 @@
       "websiteUrl": null,
       "description": "Lossless is the first DeFi hack mitigation tool for token creators. Lossless Protocol freezes fraudulent transactions based on a set of fraud identification parameters and returns stolen funds back to the owner’s account.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC or USDT",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -344,12 +387,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Lossless Bug Bounties | Immunefi",
+      "title": "Lossless Bug Bounties",
       "description": "Find bugs and vulnerabilities on Lossless and get paid up to $50,000.",
       "url": "https://immunefi.com/bug-bounty/lossless",
       "ogImg": "/api/bounty/og-image?project=Lossless"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

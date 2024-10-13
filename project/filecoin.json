@@ -45,6 +45,7 @@
           "url": "https://github.com/filecoin-project/ref-fvm",
           "description": "FVM reference implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:12:02.170Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://github.com/filecoin-project/builtin-actors",
           "description": "Built-in Filecoin actors - written in Rust, Wasm-compiled built-in actors (smart contracts, in Filecoin lingo) that are used by all Filecoin clients",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:12:20.016Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://github.com/filecoin-project/lotus",
           "description": "Lotus is the reference node implementation for the Filecoin network",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:12:39.639Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://github.com/filecoin-project/boost",
           "description": "Boost is a tool for Filecoin storage providers to manage data storage and retrievals on Filecoin.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:12:55.863Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://github.com/ipfs/go-graphsync",
           "description": "An implementation of the graphsync protocol in go!",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:13:10.922Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://github.com/filecoin-project/lotus/tree/master/miner",
           "description": "Lotus miner node",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:13:26.564Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://github.com/filecoin-project/rust-fil-proofs-ffi",
           "description": "Filecoin Proofs",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:13:42.002Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://github.com/filecoin-project/rust-filecoin-proofs-api",
           "description": "Filecoin Proofs API",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:13:59.872Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://github.com/filecoin-project/rust-fil-proofs",
           "description": "Filecoin Proofs in Rust",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:14:15.855Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://github.com/filecoin-project/bellperson",
           "description": "zk-SNARK library",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:14:37.223Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://github.com/filecoin-project/merkletree",
           "description": "merkle is a lightweight Rust implementation of a Merkle tree.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:14:53.398Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://github.com/lurk-lab/neptune",
           "description": "Rust Poseidon implementation.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:15:08.862Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://github.com/lurk-lab/neptune-triton",
           "description": "Futhark implementation of neptune-compatible Poseidon.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:15:25.592Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://github.com/filecoin-project/paired",
           "description": "Crate for using pairing-friendly elliptic curves.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:15:41.326Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://github.com/filecoin-project/go-address",
           "description": "The Filecoin address type, used for identifying actors on the Filecoin network, in various formats.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:15:56.354Z"
         },
         {
@@ -165,6 +180,7 @@
           "url": "https://github.com/filecoin-project/go-amt-ipld",
           "description": "Implementation of an array mapped trie using go and ipld",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:16:13.307Z"
         },
         {
@@ -173,6 +189,7 @@
           "url": "https://github.com/filecoin-project/go-bitfield",
           "description": "Features iterator based primitives that scale with number of runs instead of number of bits.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:16:29.706Z"
         },
         {
@@ -181,6 +198,7 @@
           "url": "https://github.com/filecoin-project/go-cbor-util",
           "description": "CBOR utilities for reading and writing objects to CBOR representation, optimizing for fast path serialization/deserialization generated by cbor-gen",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:16:43.970Z"
         },
         {
@@ -189,6 +207,7 @@
           "url": "https://github.com/filecoin-project/go-crypto",
           "description": "Crypto utility functions used in Filecoin",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:17:03.111Z"
         },
         {
@@ -197,6 +216,7 @@
           "url": "https://github.com/filecoin-project/go-data-transfer",
           "description": "A go module to perform data transfers over ipfs/go-graphsync",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:17:18.748Z"
         },
         {
@@ -205,6 +225,7 @@
           "url": "https://github.com/filecoin-project/go-fil-commcid",
           "description": "Conversion Utilities Between CID and Piece/Data/Replica Commitments",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:17:34.400Z"
         },
         {
@@ -213,6 +234,7 @@
           "url": "https://github.com/filecoin-project/go-padreader",
           "description": "Tools for mapping between bit-padded and not-bit-padded byte streams",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:17:49.154Z"
         },
         {
@@ -221,6 +243,7 @@
           "url": "https://github.com/filecoin-project/go-sectorbuilder",
           "description": "An abstraction used to manage a storage miner's sectors",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:18:04.219Z"
         },
         {
@@ -229,6 +252,7 @@
           "url": "https://github.com/filecoin-project/go-statemachine",
           "description": "A generic state machine",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:18:18.594Z"
         },
         {
@@ -237,6 +261,7 @@
           "url": "https://github.com/filecoin-project/go-statestore",
           "description": "A general-purpose key-value store for CBOR-encodable data",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:18:33.810Z"
         },
         {
@@ -245,6 +270,7 @@
           "url": "https://github.com/ipfs/go-hamt-ipld",
           "description": "This package is a reference implementation of the IPLD HAMT used in the Filecoin blockchain",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:18:48.435Z"
         },
         {
@@ -253,6 +279,7 @@
           "url": "https://github.com/ipfs/go-ipld-cbor",
           "description": "An implementation of a cbor encoded merkledag object.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:19:04.923Z"
         },
         {
@@ -261,6 +288,7 @@
           "url": "https://github.com/whyrusleeping/cbor-gen",
           "description": "Some basic utilities to generate fast path cbor codecs for your types.",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-26T14:19:19.680Z"
         }
       ],
@@ -414,6 +442,9 @@
         "language": [
           "Go",
           "Rust"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -444,8 +475,32 @@
       "websiteUrl": null,
       "description": "Filecoin is a decentralized storage network designed to store humanity's most important data. As such, security is of paramount importance to us.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_1",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [
+        "no_ofac_sdn",
+        "no_auditor"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -453,12 +508,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Filecoin Bug Bounties | Immunefi",
+      "title": "Filecoin Bug Bounties",
       "description": "Find bugs and vulnerabilities on Filecoin and get paid up to $150,000.",
       "url": "https://immunefi.com/bug-bounty/filecoin",
       "ogImg": "/api/bounty/og-image?project=Filecoin"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

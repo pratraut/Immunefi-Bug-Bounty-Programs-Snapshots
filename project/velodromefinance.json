@@ -45,6 +45,7 @@
           "url": "https://optimistic.etherscan.io/address/0x9D4736EC60715e71aFe72973f7885DCBC21EA99b",
           "description": "Distributor",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://optimistic.etherscan.io/address/0x8391fE399640E7228A059f8Fa104b8a7B4835071",
           "description": "GaugeFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://optimistic.etherscan.io/address/0xF4c67CdEAaB8360370F41514d06e32CcD8aA1d7B",
           "description": "FactoryRegistry",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://optimistic.etherscan.io/address/0x987E7922367B23C4A5fa34C8C5B1385174A095d6",
           "description": "GaugeSinkDrain",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://optimistic.etherscan.io/address/0xcDd9585005095ac7447d1fDbC990C5CFB805cff0",
           "description": "ManagedRewardsFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://optimistic.etherscan.io/address/0x6dc9E1C04eE59ed3531d73a72256C0da46D10982",
           "description": "Minter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://optimistic.etherscan.io/address/0xF1046053aa5682b4F9a81b5481394DA16BE5FF5a",
           "description": "PoolFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://optimistic.etherscan.io/address/0xa062aE8A9c5e11aaA026fc2670B0D65cCc8B2858",
           "description": "Router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://optimistic.etherscan.io/address/0x585Af0b397AC42dbeF7f18395426BF878634f18D",
           "description": "SinkConverter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://optimistic.etherscan.io/address/0xda03Dc399aF3F1545748243aAFbC5050A63B17eC",
           "description": "SinkDrain",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://optimistic.etherscan.io/address/0x5aeE5F0E6C2055EbD776DB25F48f6c9A68ABcdaE",
           "description": "SinkManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://optimistic.etherscan.io/address/0x45fF00822E8235b86Cb605ac8295c14628cE78a4",
           "description": "SinkManagerFacilitator",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://optimistic.etherscan.io/address/0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
           "description": "VELO",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://optimistic.etherscan.io/address/0x41C914ee0c7E1A5edCD0295623e6dC557B5aBf3C",
           "description": "Voter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://optimistic.etherscan.io/address/0xFAf8FD17D9840595845582fCB047DF13f006787d",
           "description": "VotingEscrow",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -165,6 +180,7 @@
           "url": "https://optimistic.etherscan.io/address/0x756E7C245C69d351FfFBfb88bA234aa395AdA8ec",
           "description": "VotingRewardsFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-06-29T09:00:00.000Z"
         },
         {
@@ -173,6 +189,7 @@
           "url": "https://optimistic.etherscan.io/address/0x95885af5492195f0754be71ad1545fe81364e531#code",
           "description": "Pool",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-19T16:13:56.419Z"
         },
         {
@@ -181,6 +198,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-05T15:28:29.706Z"
         },
         {
@@ -189,6 +207,7 @@
           "url": "https://optimistic.etherscan.io/address/0x548118C7E0B865C2CfA94D15EC86B666468ac758#code",
           "description": "CLFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-20T14:35:03.856Z"
         },
         {
@@ -197,6 +216,7 @@
           "url": "https://optimistic.etherscan.io/address/0xE0A596c403E854FFb9C828aB4f07eEae04A05D37#code",
           "description": "CLPool",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-20T14:35:24.855Z"
         },
         {
@@ -205,6 +225,7 @@
           "url": "https://optimistic.etherscan.io/address/0xA9c319945f706dd1809819321a2e31C9A169e9c1#code",
           "description": "CustomSwapFeeModule",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-20T14:35:42.263Z"
         },
         {
@@ -213,6 +234,7 @@
           "url": "https://optimistic.etherscan.io/address/0x5A993209065ea74b50E23a378ddB7068189345D0#code",
           "description": "CustomUnstakedFeeModule",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-20T14:35:57.232Z"
         },
         {
@@ -221,6 +243,7 @@
           "url": "https://optimistic.etherscan.io/address/0x282AC0eA96493650F1A5E5e5d20490C782F1592a#code",
           "description": "CLGaugeFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-20T14:36:14.434Z"
         },
         {
@@ -229,6 +252,7 @@
           "url": "https://optimistic.etherscan.io/address/0x6D600CC5F14B81665606Ca1985605464BA332Bad#code",
           "description": "CLGauge",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-20T14:36:28.752Z"
         },
         {
@@ -237,6 +261,7 @@
           "url": "https://optimistic.etherscan.io/address/0xbB5DFE1380333CEE4c2EeBd7202c80dE2256AdF4#code",
           "description": "NonfungiblePositionManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-20T14:36:43.241Z"
         }
       ],
@@ -399,6 +424,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -429,8 +457,31 @@
       "websiteUrl": null,
       "description": "Velodrome Finance is a revolutionary new AMM based on Solidly launched on Optimism. The Optimism Foundation is excited to announce its latest bug bounty matching program, specifically designed for Velodrome Finance - a next-generation AMM that combines the best of Curve, Convex and Uniswap, designed to serve as Optimism's central liquidity hub. ",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC, VELO, OP",
+      "eligibilityCriteria": [
+        "no_ofac_sdn"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -438,12 +489,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Velodrome Finance Bug Bounties | Immunefi",
+      "title": "Velodrome Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Velodrome Finance and get paid up to $100,000.",
       "url": "https://immunefi.com/bug-bounty/velodromefinance",
       "ogImg": "/api/bounty/og-image?project=Velodrome+Finance"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

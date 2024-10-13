@@ -45,6 +45,7 @@
           "url": "https://etherscan.io/address/0x32fb7D6E0cBEb9433772689aA4647828Cc7cbBA8",
           "description": "CoveToken.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://etherscan.io/address/0xFf71841EeFca78a64421db28060855036765c248",
           "description": "CoveYFI.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://etherscan.io/address/0x842b22Eb2A1C1c54344eDdbE6959F787c2d15844",
           "description": "CoveYearnGaugeFactory.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://etherscan.io/address/0x986F38B5b096070eE64B12Da762468606C8B0706",
           "description": "DYFIRedeemer.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://etherscan.io/address/0xB5ed89e400B1EdAe5a0a307e0C2196116F543605",
           "description": "ERC20RewardsGauge.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://etherscan.io/address/0x9AA729FA58e8298AaEC4C4c33189ED137B3B74f0",
           "description": "GaugeRewardReceiver.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://etherscan.io/address/0x53eaD38ca96D562433427f7Bbfcac960cC1F2E2d",
           "description": "MiniChefV3.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://etherscan.io/address/0xbB17Be6a283D7D18836a6F44dFB45F9D9CE2CE64",
           "description": "RewardForwarder.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://etherscan.io/address/0xf91E84E2E4f692e6d8F7440639d5C2147f4C06F0",
           "description": "StakingDelegateRewards.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://etherscan.io/address/0x9dadf9487737DE29ac685d231bB94348a2635CBb",
           "description": "SwapAndLock.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://etherscan.io/address/0x705F82BB431fAdA1a0F11D7b77B3f0586c545CBc",
           "description": "TimelockController.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://etherscan.io/address/0x15dDAd641337Ce39e63F1e4F659B2a9c2c2D711B",
           "description": "YSDRewardsGauge.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://etherscan.io/address/0x15633dc0ce383babc96fdcdabf08a29e87ce53e3",
           "description": "Yearn4626RouterExt.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://etherscan.io/address/0x05dcdBF02F29239D1f8d9797E22589A2DE1C152F",
           "description": "YearnStakingDelegate.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-09T06:39:35.000Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://etherscan.io/address/0x552868611d2641144454140DdED98E6160b3Bfc9",
           "description": "YearnGaugeStrategy.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-20T12:30:21.279Z"
         }
       ],
@@ -270,6 +285,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -300,8 +318,29 @@
       "websiteUrl": null,
       "description": "Cove is the first onchain portfolio manager.  Cove is optimized by Gauntlet and has been audited by Trail of Bits, Quantstamp, and yAudit. Cove brings simplicity, high-yields, and accessibility to degens and those new to the space. For more information about Cove, please visit https://www.cove.finance/",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -309,12 +348,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Cove Bug Bounties | Immunefi",
+      "title": "Cove Bug Bounties",
       "description": "Find bugs and vulnerabilities on Cove and get paid up to $50,000.",
       "url": "https://immunefi.com/bug-bounty/cove",
       "ogImg": "/api/bounty/og-image?project=Cove"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

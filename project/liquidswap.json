@@ -57,6 +57,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/swap/liquidity_pool.move",
           "description": "Liquidity Pool",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -65,6 +66,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/swap/global_config.move",
           "description": "Config",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -73,6 +75,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/swap/dao_storage.move",
           "description": "Treasury Storage",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -81,6 +84,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/swap/curves.move",
           "description": "Curves",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -89,6 +93,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/swap/emergency.move",
           "description": "Emergency",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -97,6 +102,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/libs/coin_helper.move",
           "description": "Coin Helper",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -105,6 +111,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/libs/math.move",
           "description": "Math",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -113,6 +120,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/sources/libs/stable_curve.move",
           "description": "Stable Curve Math",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -121,6 +129,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/liquidswap_router_v2/sources/router_v2.move",
           "description": "Router",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -129,6 +138,7 @@
           "url": "https://github.com/pontem-network/liquidswap/blob/main/liquidswap_router_v2/sources/scripts_v2.move",
           "description": "Scripts",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -137,6 +147,7 @@
           "url": "https://github.com/pontem-network/u256/blob/main/sources/u256.move",
           "description": "U256",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -145,6 +156,7 @@
           "url": "https://github.com/pontem-network/uq64x64",
           "description": "UQ64x64",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -153,6 +165,7 @@
           "url": "https://github.com/pontem-network/uq64x64",
           "description": "Dependency_uq64x64",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -161,6 +174,7 @@
           "url": "https://github.com/pontem-network/u256",
           "description": "Dependency_u256",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         },
         {
@@ -169,6 +183,7 @@
           "url": "https://liquidswap.com",
           "description": "Web/App",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-16T11:30-07:00"
         }
       ],
@@ -280,6 +295,9 @@
         ],
         "language": [
           "Move"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -320,8 +338,29 @@
       "websiteUrl": null,
       "description": "Liquidswap is the first AMM exchange for volatile and stable pairs on Aptos. Built by Aptos-backed Pontem, it has feature parity with both Uniswap and Curve using various bonding curves to enable liquidity providers and traders to swap assets. Liquidswap is audited by Ottersec, Halborn and Zellic. Token economic is audit coming soon.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Aptos",
+      "rewardsToken": "USDC or USDT",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -329,12 +368,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Liquidswap Bug Bounties | Immunefi",
+      "title": "Liquidswap Bug Bounties",
       "description": "Find bugs and vulnerabilities on Liquidswap and get paid up to $500,000.",
       "url": "https://immunefi.com/bug-bounty/liquidswap",
       "ogImg": "/api/bounty/og-image?project=Liquidswap"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

@@ -69,6 +69,7 @@
           "url": "https://etherscan.io/address/0x2b9d5c7f2EAD1A221d771Fb6bb5E35Df04D60AB0",
           "description": "Treasury (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -77,6 +78,7 @@
           "url": "https://bscscan.com/address/0x17e98a24f992BB7bcd62d6722d714A3C74814B94",
           "description": "Treasury (BSC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -85,6 +87,7 @@
           "url": "https://etherscan.io/address/0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
           "description": "Floki Token (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -93,6 +96,7 @@
           "url": "https://bscscan.com/address/0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
           "description": "Floki Token (BSC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -101,6 +105,7 @@
           "url": "https://etherscan.io/address/0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
           "description": "TokenFi Token (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -109,6 +114,7 @@
           "url": "https://bscscan.com/address/0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
           "description": "TokenFi Token (BSC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -117,6 +123,7 @@
           "url": "https://etherscan.io/address/0xb8d2471e35ee033db509e0456c8efc4135f4ee43",
           "description": "Floki Staking Pool (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -125,6 +132,7 @@
           "url": "https://bscscan.com/address/0xb8d2471e35ee033db509e0456c8efc4135f4ee43",
           "description": "Floki Staking Pool (BSC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -133,6 +141,7 @@
           "url": "https://etherscan.io/address/0x1e7866b5a5a4f09efd235d28d49568c2fe2f7ecd",
           "description": "TokenFi Staking Pool (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -141,6 +150,7 @@
           "url": "https://bscscan.com/address/0x1e7866b5a5a4f09efd235d28d49568c2fe2f7ecd",
           "description": "TokenFi Staking Pool (BSC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -149,6 +159,7 @@
           "url": "https://floki.com/",
           "description": "Floki",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -157,6 +168,7 @@
           "url": "https://staking.floki.com/",
           "description": "Floki Staking",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -165,6 +177,7 @@
           "url": "https://tokenfi.com/",
           "description": "TokenFi",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         },
         {
@@ -173,6 +186,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-05-27T02:57:00.000Z"
         }
       ],
@@ -433,6 +447,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -481,8 +498,29 @@
       "websiteUrl": null,
       "description": "The Floki Ecosystem is a community-powered ecosystem that aims to give people control of their finances through four key utility offerings:",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDT",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
     "project": {
@@ -490,12 +528,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Floki Bug Bounties | Immunefi",
+      "title": "Floki Bug Bounties",
       "description": "Find bugs and vulnerabilities on Floki and get paid up to $50,000.",
       "url": "https://immunefi.com/bug-bounty/floki",
       "ogImg": "/api/bounty/og-image?project=Floki"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

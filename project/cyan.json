@@ -39,6 +39,7 @@
           "url": "https://etherscan.io/address/0xE803684B9E391D01Dc1cdF76baC9aE3A596B2ae0",
           "description": "PaymentPlan",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -47,6 +48,7 @@
           "url": "https://etherscan.io/address/0x846E0cb2BEe96f65f077fa6229445D492a0ea224",
           "description": "Core",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -55,6 +57,7 @@
           "url": "https://etherscan.io/address/0x95A286Ca0347B3c8DaF06DAD1c4233c95f06c894",
           "description": "CoreRouter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -63,6 +66,7 @@
           "url": "https://etherscan.io/address/0xed567F1D7BC0fc08cc0967139C0545e73cA4587D",
           "description": "Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -71,6 +75,7 @@
           "url": "https://etherscan.io/address/0x9B630A964FA1d5F4c692ccf9CEf9C20984e1D938",
           "description": "FallbackHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -79,6 +84,7 @@
           "url": "https://etherscan.io/address/0xb9717117681946b2d34ea3A970DB93482513Bec1",
           "description": "ERC721Module",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -87,6 +93,7 @@
           "url": "https://etherscan.io/address/0x1b9f63a819AE189b48ce52944A44DE4A52639552",
           "description": "PaymentPlanModule",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -95,6 +102,7 @@
           "url": "https://etherscan.io/address/0x7422222ecf5e2Ca7DC847bfe407040db77d6Ed7F",
           "description": "DefaultModule",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -103,6 +111,7 @@
           "url": "https://etherscan.io/address/0x460e0Cd087033A73E1bC5c071711f1f27884968A",
           "description": "Cyan Vault (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -111,6 +120,7 @@
           "url": "https://etherscan.io/address/0x9dD2188FF101Bd0085f8EfC2b55f9744Cd57Bc52",
           "description": "Cyan Vault Token (ETH) CV01",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -119,6 +129,7 @@
           "url": "https://etherscan.io/address/0x7a6546d57f4590b3cAF29e771204b7C6c7CbdBC7",
           "description": "Cyan Degen Vault (ETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -127,6 +138,7 @@
           "url": "https://etherscan.io/address/0x1f844adD5f448B4D472fc7b383da0CC79514E4aE",
           "description": "Cyan Degen Vault Token (ETH) CV02",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -135,6 +147,7 @@
           "url": "https://polygonscan.com/address/0x83B86556A0A85800C62d9aE6a5cA4f7C05b3348A",
           "description": "Cyan Polygon Vault (MATIC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -143,6 +156,7 @@
           "url": "https://polygonscan.com/address/0x5671e66Aa3823E43eb6124783FcF46Ea10A89488",
           "description": "Cyan Polygon Vault Token (MATIC) CV05",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -151,6 +165,7 @@
           "url": "https://polygonscan.com/address/0xb91CDB4f1cf2D9435748471cfCD3bbEeD7Cf935F",
           "description": "Cyan Polygon Vault (WETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -159,6 +174,7 @@
           "url": "https://polygonscan.com/address/0xED750Ce5861431BA17FAb6EA02299262951390c4",
           "description": "Cyan Polygon Vault Token (WETH) CV06",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -167,6 +183,7 @@
           "url": "https://etherscan.io/address/0x99Fa02B3a88758E0A748406847a4A1Cae2841F3B",
           "description": "Cyan Vault (USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -175,6 +192,7 @@
           "url": "https://etherscan.io/address/0x098B90728ded21e70608e9b29FfF4D0E5C5fe3c1",
           "description": "Cyan Vault Token (USDC) CV07",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -183,6 +201,7 @@
           "url": "https://etherscan.io/address/0x8553B448A6E4A554c3BCf3A92e9266B48AcEB494",
           "description": "Cyan Degen Vault (USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -191,6 +210,7 @@
           "url": "https://etherscan.io/address/0x267176F3fB2dFa9aBE7D104C1Af2204b9480918A",
           "description": "Cyan Degen Vault Token (USDC) CV08",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -199,6 +219,7 @@
           "url": "https://etherscan.io/address/0xC8E34f0421416Ba9adf2bCbc84De86F6D27bA84D",
           "description": "Cyan Art Vault (USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -207,6 +228,7 @@
           "url": "https://etherscan.io/address/0x4879ef6054399C1ee3D8a2781F1D4c1d1A18701F",
           "description": "Cyan Art Vault Token (USDC) CV09",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-12T16:00+02:00"
         },
         {
@@ -215,6 +237,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2023-10-05T15:29:06.820Z"
         }
       ],
@@ -313,6 +336,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -339,8 +365,29 @@
       "websiteUrl": null,
       "description": "Cyan is the first buy now pay later service for the metaverse. Our goal is to make NFTs and all metaverse assets attainable for everyone. Choose to finance your purchase over a period of three months, or get a collateralized loan on your existing NFTs. If you have ETH to stake, you can park them in our Vaults to earn yield!",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -348,12 +395,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Cyan Bug Bounties | Immunefi",
+      "title": "Cyan Bug Bounties",
       "description": "Find bugs and vulnerabilities on Cyan and get paid up to $25,000.",
       "url": "https://immunefi.com/bug-bounty/cyan",
       "ogImg": "/api/bounty/og-image?project=Cyan"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

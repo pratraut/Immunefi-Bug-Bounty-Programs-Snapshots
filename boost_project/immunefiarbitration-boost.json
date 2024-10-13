@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "4w1C45ry290axkrzHIR77m",
       "id": "immunefiarbitration-boost",
@@ -45,6 +52,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/RewardTimelock.sol",
           "description": "RewardTimelock - 124",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -53,6 +61,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/guards/ScopeGuard.sol",
           "description": "ScopeGuard - 92",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -61,6 +70,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/guards/ImmunefiGuard.sol",
           "description": "ImmunefiGuard - 39",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -69,6 +79,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/RewardSystemBase.sol",
           "description": "RewardSystemBase - 47",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -77,6 +88,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/RewardTimelockBase.sol",
           "description": "RewardTimelockBase - 171",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -85,6 +97,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/ArbitrationBase.sol",
           "description": "ArbitrationBase - 105",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -93,6 +106,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/AccessControlBaseModule.sol",
           "description": "AccessControlBaseModule - 53",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -101,6 +115,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/WithdrawalSystemBase.sol",
           "description": "WithdrawalSystemBase - 42",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -109,6 +124,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/AccessControlGuardable.sol",
           "description": "AccessControlGuardable - 19",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -117,6 +133,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/base/TimelockBase.sol",
           "description": "TimelockBase - 192",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -125,6 +142,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/handlers/VaultSetup.sol",
           "description": "VaultSetup - 28",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -133,6 +151,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IWithdrawalSystemEvents.sol",
           "description": "IWithdrawalSystemEvents - 8",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -141,6 +160,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IRewardTimelockEvents.sol",
           "description": "IRewardTimelockEvents - 22",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -149,6 +169,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IEmergencySystemEvents.sol",
           "description": "IEmergencySystemEvents - 5",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -157,6 +178,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IImmunefiGuardEvents.sol",
           "description": "IImmunefiGuardEvents - 5",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -165,6 +187,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IArbitrationEvents.sol",
           "description": "IArbitrationEvents - 13",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -173,6 +196,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/ITimelockEvents.sol",
           "description": "ITimelockEvents - 31",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -181,6 +205,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IRewardSystemEvents.sol",
           "description": "IRewardSystemEvents - 20",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -189,6 +214,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IScopeGuardEvents.sol",
           "description": "IScopeGuardEvents - 10",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -197,6 +223,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/events/IVaultFreezerEvents.sol",
           "description": "IVaultFreezerEvents - 6",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -205,6 +232,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/WithdrawalSystem.sol",
           "description": "WithdrawalSystem - 43",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -213,6 +241,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/RewardSystem.sol",
           "description": "RewardSystem - 48",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -221,6 +250,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/VaultFreezer.sol",
           "description": "VaultFreezer - 26",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -229,6 +259,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/RewardTimelockOperationEncoder.sol",
           "description": "RewardTimelockOperationEncoder - 20",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -237,6 +268,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/TimelockOperationEncoder.sol",
           "description": "TimelockOperationEncoder - 22",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -245,6 +277,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/BaseEncoder.sol",
           "description": "BaseEncoder - 18",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -253,6 +286,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/encoders/ArbitrationOperationEncoder.sol",
           "description": "ArbitrationOperationEncoder - 14",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -261,6 +295,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/EmergencySystem.sol",
           "description": "EmergencySystem - 17",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -269,6 +304,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/common/VaultDelegate.sol",
           "description": "VaultDelegate - 110",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -277,6 +313,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/common/Rewards.sol",
           "description": "Rewards - 7",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -285,6 +322,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/common/VaultFees.sol",
           "description": "VaultFees - 50",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -293,6 +331,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/ImmunefiModule.sol",
           "description": "ImmunefiModule - 23",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -301,6 +340,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/Timelock.sol",
           "description": "Timelock - 78",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -309,6 +349,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/Arbitration.sol",
           "description": "Arbitration - 182",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -317,6 +358,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/IPriceConsumerEvents.sol",
           "description": "IPriceConsumerEvents - 5",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -325,6 +367,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/IPriceFeed.sol",
           "description": "IPriceFeed - 3",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -333,6 +376,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/Denominations.sol",
           "description": "Denominations - 23",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -341,6 +385,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/shared/interfaces/AggregatorInterface.sol",
           "description": "AggregatorInterface - 3",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -349,6 +394,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/shared/interfaces/AggregatorV3Interface.sol",
           "description": "AggregatorV3Interface - 3",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -357,6 +403,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/shared/interfaces/AggregatorV2V3Interface.sol",
           "description": "AggregatorV2V3Interface - 5",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -365,6 +412,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/chainlink/FeedRegistryInterface.sol",
           "description": "FeedRegistryInterface - 25",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -373,6 +421,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/FeedRegistryL2.sol",
           "description": "FeedRegistryL2 - 52",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -381,6 +430,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/IFeedRegistryMinimal.sol",
           "description": "IFeedRegistryMinimal - 3",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -389,6 +439,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/oracles/PriceConsumer.sol",
           "description": "PriceConsumer - 95",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         },
         {
@@ -397,6 +448,7 @@
           "url": "https://github.com/immunefi-team/vaults/blob/main/src/proxy/ProxyAdminOwnable2Step.sol",
           "description": "ProxyAdminOwnable2Step - 15",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-03-12T08:00:00.000Z"
         }
       ],
@@ -511,7 +563,10 @@
         "programType": [
           "Smart Contract"
         ],
-        "language": []
+        "language": [],
+        "featured": [
+          "Launched Recently"
+        ]
       },
       "legacy": {
         "technologies": [
@@ -538,27 +593,150 @@
         ],
         "web_rewards": []
       },
+      "evaluationEndDate": "2024-05-03T08:00:00.000Z",
+      "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. \n\nKYC is required.\n\nImmunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Immunefi technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"immunefiarb-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nOn launch day, Tuesday March 12th, Immunefi will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.\n\n\n[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdBLJGLkTNEJLTnPPak-5b5bwV2I6GVGRBKia_FHO9KB4UbFQ/viewform?usp=sf_link)",
+      "boostedIntroLive": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. \n\nKYC is required.\n\nThe rewards pool is partly distributed with the following formula, and partly at Immunefi’s discretion. The portion at Immunefi’s discretion is to reward high-quality whitehat contributions, such as exceptionally well-written reports, the best report among duplicates, and valuable but technically invalid bug reports. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/23262277256849-Immunefi-Arbitration-Boost-Reward-Terms)\n\nImmunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Immunefi within the “immunefiarb-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).\n\nWhen the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1V992rR-DhkUr4y8Kz0jpicdMw4cjWxst?usp=sharing).\n\nAll paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Immunefi%20Arbitration).",
+      "rewardsToken": "USDC",
+      "rewardsPool": 30000,
+      "sourceLinesOfCode": 1922,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1dES_h4V-8XISqI0gFTgsh1ZbcopqSYPO/view?usp=sharing",
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "marchev",
+          "critical": 0,
+          "earnings": 13730,
+          "insights": 2,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "OxSCSamurai",
+          "critical": 0,
+          "earnings": 7500,
+          "insights": 2,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "seinsidler",
+          "critical": 0,
+          "earnings": 1269,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Dudex_2004",
+          "critical": 0,
+          "earnings": 1269,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "caglankaan",
+          "critical": 0,
+          "earnings": 1269,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "greed",
+          "critical": 0,
+          "earnings": 1269,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "OxRizwan",
+          "critical": 0,
+          "earnings": 1269,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Sadhunter",
+          "critical": 0,
+          "earnings": 807,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "En3cyptedDegenExt",
+          "critical": 0,
+          "earnings": 807,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "shanb1605",
+          "critical": 0,
+          "earnings": 807,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
+      "features": [
+        "Managed Triage: Time Saver",
+        "Vault",
+        "Boost"
+      ],
+      "academyStartDate": null,
       "websiteUrl": null,
       "description": "The smart contract Arbitration Protocol is a set of on-chain workflows designed to resolve disputes between Projects and Security Researchers over bug report validity and appropriate reward. The expected output is a final binding decision on a report, followed by enforcement (as required) of the bounty reward from the Project to the Security Researcher.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | Immunefi Arbitration Bug Bounties | Immunefi",
+      "title": "Boost | Immunefi Arbitration Bug Bounties",
       "description": "Find bugs and vulnerabilities on Boost | Immunefi Arbitration and get paid up to $30,000.",
-      "url": "https://immunefi.com/bug-bounty/immunefiarbitration-boost",
+      "url": "https://immunefi.com/audit-competition/immunefiarbitration-boost",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+Immunefi+Arbitration"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

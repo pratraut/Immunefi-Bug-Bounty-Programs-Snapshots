@@ -27,6 +27,7 @@
           "url": "https://polygonscan.com/address/0x255707b70bf90aa112006e1b07b9aea6de021424",
           "description": "TETU Token",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-11T17:35:25.753Z"
         },
         {
@@ -35,6 +36,7 @@
           "url": "https://polygonscan.com/address/0x225084d30cc297f3b177d9f93f5c3ab8fb6a1454",
           "description": "xTETU Profit Share Token",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-11T17:35:50.343Z"
         },
         {
@@ -43,6 +45,7 @@
           "url": "https://polygonscan.com/address/0x6678814c273d5088114B6E40cC49C8DB04F9bC29",
           "description": "Controller",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-11T17:55:07.938Z"
         },
         {
@@ -51,6 +54,7 @@
           "url": "https://polygonscan.com/address/0x286c02C93f3CF48BB759A93756779A1C78bCF833",
           "description": "Announcer",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-11T17:55:00.117Z"
         },
         {
@@ -59,6 +63,7 @@
           "url": "https://polygonscan.com/address/0x81367059892aa1D8503a79a0Af9254DD0a09afBF",
           "description": "MintHelper",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-11T17:54:43.647Z"
         },
         {
@@ -67,6 +72,7 @@
           "url": "https://polygonscan.com/address/0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2",
           "description": "FundKeeper",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-11T17:54:35.918Z"
         },
         {
@@ -75,6 +81,7 @@
           "url": "https://polygonscan.com/address/0x7fc9e0aa043787bfad28e29632ada302c790ce33",
           "description": "tetuBAL(poly)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-12T01:14:14.164Z"
         },
         {
@@ -83,6 +90,7 @@
           "url": "https://etherscan.io/address/0xFE700D523094Cc6C673d78F1446AE0743C89586E",
           "description": "tetuBAL(eth)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-12T01:15:40.013Z"
         },
         {
@@ -91,6 +99,7 @@
           "url": "https://etherscan.io/address/0x9cc56fa7734da21ac88f6a816af10c5b898596ce",
           "description": "BalLocker(eth)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-12T01:15:37.566Z"
         },
         {
@@ -99,6 +108,7 @@
           "url": "https://etherscan.io/address/0xBb84098e47d217f51cB014f692eada1F2280a179",
           "description": "BalDepositor",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-11-12T01:15:35.255Z"
         },
         {
@@ -107,6 +117,7 @@
           "url": "https://polygonscan.com/address/0x6fb29dd17fa6e27bd112bc3a2d0b8dae597aeda4",
           "description": "veTETU",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-12-16T18:48:24.805Z"
         },
         {
@@ -115,6 +126,7 @@
           "url": "https://polygonscan.com/address/0x33b27e0a2506a4a2fbc213a01c51d0451745343a",
           "description": "ControllerV2",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-15T19:47:40.105Z"
         },
         {
@@ -123,6 +135,7 @@
           "url": "https://polygonscan.com/address/0x0d397f4515007ae4822703b74b9922508837a04e",
           "description": "TetuVault V2 USDC",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-15T19:47:37.003Z"
         },
         {
@@ -131,6 +144,7 @@
           "url": "https://polygonscan.com/address/0x088d316ee4943b04fe949b091e90a8cfd793d82b",
           "description": "TetuVault V2 WETH",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-15T19:47:32.966Z"
         },
         {
@@ -139,6 +153,7 @@
           "url": "https://polygonscan.com/address/0x34d4017f547d3d5d28d773f0a7c999a11c2b786b",
           "description": "TetuVault V2 WBTC",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-15T19:47:25.687Z"
         },
         {
@@ -147,6 +162,7 @@
           "url": "https://polygonscan.com/address/0xf9d7a7fdd6fa57ebca160d6d2b5b6c4651f7e740",
           "description": "TetuVault V2 WMATIC",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-15T19:47:23.585Z"
         },
         {
@@ -155,6 +171,7 @@
           "url": "https://polygonscan.com/address/0xc5690f7063eb60d474bcdb38b60ebf4c3a8ece3c",
           "description": "BorrowManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:36.097Z"
         },
         {
@@ -163,6 +180,7 @@
           "url": "https://polygonscan.com/address/0x2df21e2a115fcb3d850fbc67237571bbfb566e99",
           "description": "ConverterController",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:34.147Z"
         },
         {
@@ -171,6 +189,7 @@
           "url": "https://polygonscan.com/address/0xaf2decd5ad64d833be5bbd4d7eb16fea57d473a2",
           "description": "DebtMonitor",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:31.409Z"
         },
         {
@@ -179,6 +198,7 @@
           "url": "https://polygonscan.com/address/0x8e24157016b0ea7693a3bb8a62c585f5b77828ec",
           "description": "PriceOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:29.091Z"
         },
         {
@@ -187,6 +207,7 @@
           "url": "https://polygonscan.com/address/0x59d34f2fa054369ebce4ad244f4ab3a9f51700f3",
           "description": "SwapManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:27.109Z"
         },
         {
@@ -195,6 +216,7 @@
           "url": "https://polygonscan.com/address/0x5e1226f7e743ca56537b3fab0c1a9ea2fae7bab1",
           "description": "TetuConverter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:24.415Z"
         },
         {
@@ -203,6 +225,7 @@
           "url": "https://polygonscan.com/address/0xee97b67609cd92dad3772bc9c0a672c38effaf6c",
           "description": "Aave3PlatformAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:21.417Z"
         },
         {
@@ -211,6 +234,7 @@
           "url": "https://polygonscan.com/address/0x11d108c51486cc5ae8f099d5c0ed2ec1294e5573",
           "description": "AaveTwoPlatformAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:18.424Z"
         },
         {
@@ -219,6 +243,7 @@
           "url": "https://polygonscan.com/address/0xb86fc63f7409ffde027cb75cd2a424e85f6eff42",
           "description": "DForcePlatformAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:15.745Z"
         },
         {
@@ -227,6 +252,7 @@
           "url": "https://polygonscan.com/address/0x16f31fdbb251844624886eec1bcaa452cde4a135",
           "description": "Compound3PlatformAdapter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-30T21:07:13.418Z"
         }
       ],
@@ -287,6 +313,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -305,8 +334,29 @@
       "websiteUrl": null,
       "description": "TETU is a DeFi application built on Polygon that implements automated yield farming strategies in order to provide investors with a safe and secure method of receiving high and stable yield on their investments. Tetu's innovative solutions provide automated yield aggregation and distribution through xTETU.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDT",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -314,12 +364,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Tetu Bug Bounties | Immunefi",
+      "title": "Tetu Bug Bounties",
       "description": "Find bugs and vulnerabilities on Tetu and get paid up to $2,000.",
       "url": "https://immunefi.com/bug-bounty/tetu",
       "ogImg": "/api/bounty/og-image?project=Tetu"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

@@ -1,5 +1,12 @@
 {
   "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "5p6DwbodJ2UnAAEoqEya2U",
       "id": "boost-lido",
@@ -9,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/aNleyqsTXYGXlLKwk8xXD/d5c618f76994d16da63dacec4112b48b/Lido-mellow-svg__1_.png",
       "launchDate": "2024-08-15T12:00:00.000Z",
       "endDate": "2024-09-05T08:00:00.000Z",
-      "updatedDate": "2024-08-15T12:08:03.643Z",
+      "updatedDate": "2024-10-07T09:43:26.590Z",
       "kyc": false,
       "rewards": [
         {
@@ -39,6 +46,7 @@
           "url": "https://etherscan.io/address/0x5E362eb2c0706Bd1d134689eC75176018385430B",
           "description": "Vault.sol - 454",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -47,6 +55,7 @@
           "url": "https://etherscan.io/address/0xDee41701310f48744e6Bb4A5df6B5e714cE49133",
           "description": "VaultConfigurator.sol - 365",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -55,6 +64,7 @@
           "url": "https://etherscan.io/address/0x2c73350310C2b8c721d8192bd7620D1DCB1219ce",
           "description": "ERC20TvlModule.sol - 15",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -63,6 +73,7 @@
           "url": "https://etherscan.io/address/0xD570E16E3B62F05EcF3ff2706D331B7f56453adA",
           "description": "StakingModule.sol - 77",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -71,6 +82,7 @@
           "url": "https://etherscan.io/address/0x39D5F9aEbBEcba99ED5d707b11d790387B5acB63",
           "description": "ChainlinkOracle.sol - 65",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -79,6 +91,7 @@
           "url": "https://etherscan.io/address/0x278798AE6ea76ae75b381eA0D8DF140C1D5a7712",
           "description": "ConstantAggregatorV3.sol - 12",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -87,6 +100,7 @@
           "url": "https://etherscan.io/address/0xFeAFe509fae65962EF81555E3f078D58aF7ca3e9",
           "description": "ManagedRatiosOracle.sol - 30",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -95,6 +109,7 @@
           "url": "https://etherscan.io/address/0x966a3b1c9d477D113630290F037b12349649d1bd",
           "description": "WStethRatiosAggregatorV3.sol - 16",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -103,6 +118,7 @@
           "url": "https://etherscan.io/address/0xB8eF363E1909665c18BF0CB72Cba9a8152413A2E",
           "description": "DefaultProxyImplementation.sol - 12",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -111,6 +127,7 @@
           "url": "https://etherscan.io/address/0x969A0c7699ad0AC38fE05117c81D662762443E07",
           "description": "Initializer.sol - 25",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -119,6 +136,7 @@
           "url": "https://etherscan.io/address/0x078b1C03d14652bfeeDFadf7985fdf2D8a2e8108",
           "description": "SimpleDVTStakingStrategy.sol - 57",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         },
         {
@@ -127,6 +145,7 @@
           "url": "https://etherscan.io/address/0xA1b3a352c3fC7cfcBD36381CC2D0b157d6843473",
           "description": "ManagedValidator.sol - 96",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-08-15T12:00:00.000Z"
         }
       ],
@@ -239,6 +258,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -262,27 +284,58 @@
         ],
         "web_rewards": []
       },
+      "evaluationEndDate": "2024-10-14T08:00:00.000Z",
+      "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Mellow Decentralized Validator Vault.\n\nThe Decentralized Validator Vault, developed by Mellow, will be utilized to direct net-new stake to the Lido Simple DVT Module, furthering the decentralization of validators using the Lido protocol. The vault will empower solo and community stakers to run more validators via Lido along with professional node operators.\n\nStakers in the vault will receive points from the two major DVT providers, Obol & SSV Network, as well as points from Mellow. In addition, by staking in the vault, users will also hold a wstETH position within the vault, represented by an LP token.\n\nNo KYC is required.\n\nAny technical questions can be asked directly to the Mellow-Lido technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"lido-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nIn a few days after the launch, Mellow & Lido will give a live technical walkthrough.",
+      "boostedIntroLive": "",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "",
+      "rewardsToken": "DAI",
+      "rewardsPool": 100000,
+      "sourceLinesOfCode": 1281,
+      "boostedSummaryReport": null,
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
+      "academyStartDate": null,
       "websiteUrl": null,
       "description": "Mellow Decentralized Validator Vault",
       "githubUrl": null,
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
-    "project": {
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | Lido: Mellow Vault Bug Bounties | Immunefi",
+      "title": "Boost | Lido: Mellow Vault Bug Bounties",
       "description": "Find bugs and vulnerabilities on Boost | Lido: Mellow Vault and get paid up to $100,000.",
-      "url": "https://immunefi.com/bug-bounty/boost-lido",
+      "url": "https://immunefi.com/audit-competition/boost-lido",
       "ogImg": "/api/bounty/og-image?project=Boost+%7C+Lido%3A+Mellow+Vault"
-    },
-    "bbpPageV2Enabled": true,
-    "layoutProps": {
-      "headerMarginBottom": "mb-3 lg:mb-15",
-      "footerMarginTop": "mt-0"
     }
   },
   "__N_SSG": true

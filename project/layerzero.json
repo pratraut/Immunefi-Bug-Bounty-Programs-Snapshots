@@ -45,6 +45,7 @@
           "url": "https://etherscan.io/address/0x4d73adb72bc3dd368966edd0f0b2148401a178e2#code",
           "description": "UltraLightNodeV2.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://etherscan.io/address/0x07245eEa05826F5984c7c3C8F478b04892e4df89",
           "description": "FPValidator.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://etherscan.io/address/0x66A71Dcef29A0fFBDBE3c6a460a3B5BC225Cd675#code",
           "description": "Endpoint.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://github.com/LayerZero-Labs/solidity-examples/blob/main/contracts/token/oft/v1/OFT.sol",
           "description": "OFT.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://github.com/LayerZero-Labs/solidity-examples/blob/main/contracts/token/oft/v2/OFTV2.sol",
           "description": "OFTV2.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://github.com/LayerZero-Labs/solidity-examples/blob/main/contracts/token/onft721/ONFT721.sol",
           "description": "ONFT721.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://github.com/LayerZero-Labs/solidity-examples/blob/main/contracts/token/onft1155/ONFT1155.sol",
           "description": "ONFT1155.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://etherscan.io/address/0x1a44076050125825900e736c501f859c50fe728c#code",
           "description": "EndpointV2.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:59.415Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://etherscan.io/address/0xD231084BfB234C107D3eE2b22F97F3346fDAF705#code",
           "description": "SendULN301.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:56.439Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://etherscan.io/address/0x245b6e8ffe9ea5fc301e32d16f66bd4c2123eefc#code",
           "description": "ReceiveULN302.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:54.282Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://etherscan.io/address/0xbb2ea70c9e858123480642cf96acbcce1372dce1#code",
           "description": "SendULN302.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:51.689Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://etherscan.io/address/0xc02ab410f0734efa3f14628780e6e695156024c2#code",
           "description": "ReceiveULN302.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:49.342Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://etherscan.io/address/0x589dedbd617e0cbcb916a9223f4d1300c294236b#code",
           "description": "DVN.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:47.416Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://github.com/LayerZero-Labs/LayerZero-v2/blob/main/oapp/contracts/oapp/OApp.sol",
           "description": "OApp.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:43.891Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://github.com/LayerZero-Labs/LayerZero-v2/blob/main/oapp/contracts/oapp/OAppCore.sol",
           "description": "OAppCore.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:40.893Z"
         },
         {
@@ -165,6 +180,7 @@
           "url": "https://github.com/LayerZero-Labs/LayerZero-v2/blob/main/oapp/contracts/oapp/OAppSender.sol",
           "description": "OAppSender.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:37.356Z"
         },
         {
@@ -173,6 +189,7 @@
           "url": "https://github.com/LayerZero-Labs/LayerZero-v2/blob/main/oapp/contracts/oapp/OAppReceiver.sol",
           "description": "OAppReceiver.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:35.715Z"
         },
         {
@@ -181,6 +198,7 @@
           "url": "https://github.com/LayerZero-Labs/LayerZero-v2/blob/main/oapp/contracts/oft/OFT.sol",
           "description": "OFT.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-02-16T13:09:53.631Z"
         }
       ],
@@ -285,6 +303,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -315,8 +336,31 @@
       "websiteUrl": null,
       "description": "LayerZero is an omnichain interoperability protocol that allows developers to seamlessly interact with contracts across dozens of blockchains. ",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": null,
+      "rewardsToken": "USDC, USDT and BUSD",
+      "eligibilityCriteria": [
+        "no_ofac_sdn"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
     "project": {
@@ -324,12 +368,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "LayerZero (The World's Largest Bounty) Bug Bounties | Immunefi",
+      "title": "LayerZero (The World's Largest Bounty) Bug Bounties",
       "description": "Find bugs and vulnerabilities on LayerZero (The World's Largest Bounty) and get paid up to $15,000,000.",
       "url": "https://immunefi.com/bug-bounty/layerzero",
       "ogImg": "/api/bounty/og-image?project=LayerZero+%28The+World%27s+Largest+Bounty%29"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

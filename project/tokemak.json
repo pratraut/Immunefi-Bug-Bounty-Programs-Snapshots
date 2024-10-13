@@ -45,6 +45,7 @@
           "url": "https://www.tokemak.xyz",
           "description": "App",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-12-07T20:24:52.031Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://app.tokemak.xyz",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:54:03.705Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/balance-tracker/BalanceTracker.sol",
           "description": "BalanceTracker.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T13:51:41.357Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/BalancerV2Controller.sol",
           "description": "BalancerV2Controller.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:54:00.730Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/BaseController.sol",
           "description": "BaseController.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T13:51:41.439Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/ConvexController.sol",
           "description": "ConvexController.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T13:54:52.690Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/CurveControllerTemplate.sol",
           "description": "CurveControllerTemplate.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:03:31.431Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/curve/CurveControllerV2Template.sol",
           "description": " CurveControllerV2Template.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:53:55.856Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/curve/CurveControllerETH.sol",
           "description": "CurveControllerETH.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:53:53.134Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/PoolTransferController.sol",
           "description": "PoolTransferController.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:48:46.790Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/WethController.sol",
           "description": "WethController.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:48:46.856Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/delegation/DelegateFunction.sol",
           "description": "DelegateFunction.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:48:26.334Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/registry/AddressRegistry.sol",
           "description": "AddressRegistry.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-05T17:48:22.389Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/SushiswapControllerV1.sol",
           "description": "SushiswapControllerV1.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:02:16.792Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/SushiSwapControllerV2.sol",
           "description": "SushiswapControllerV2.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:05:14.654Z"
         },
         {
@@ -165,6 +180,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/TransferController.sol",
           "description": "TransferController.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:05:10.641Z"
         },
         {
@@ -173,6 +189,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/controllers/UniswapController.sol",
           "description": "UniswapController.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:07:39.460Z"
         },
         {
@@ -181,6 +198,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/event-proxy/EventProxy.sol",
           "description": "EventProxy.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:07:42.346Z"
         },
         {
@@ -189,6 +207,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/manager/Manager.sol",
           "description": "Manager.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:09:38.773Z"
         },
         {
@@ -197,6 +216,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/pools/EthPool.sol",
           "description": "EthPool.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:11:13.364Z"
         },
         {
@@ -205,6 +225,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/pools/Pool.sol",
           "description": "Pool.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:11:15.946Z"
         },
         {
@@ -213,6 +234,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/rewards/Rewards.sol",
           "description": "Rewards.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:12:57.075Z"
         },
         {
@@ -221,6 +243,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/rewards/RewardsHash.sol",
           "description": "RewardsHash.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:13:47.965Z"
         },
         {
@@ -229,6 +252,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/staking/Staking.sol",
           "description": "Staking.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:14:38.058Z"
         },
         {
@@ -237,6 +261,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/token/Toke.sol",
           "description": "Toke.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:15:31.097Z"
         },
         {
@@ -245,6 +270,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/vote/OnChainVoteL1.sol",
           "description": "OnChainVoteL1.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:17:07.994Z"
         },
         {
@@ -253,6 +279,7 @@
           "url": "https://github.comhttps://github.com/Tokemak/contracts-v1/blob/main/contracts/vote/VoteTracker.sol/Tokemak/tokemak-smart-contracts-public/blob/main/contracts/vote/VoteTracker.sol",
           "description": "VoteTracker.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-08T14:17:10.937Z"
         },
         {
@@ -261,6 +288,7 @@
           "url": "https://github.com/Tokemak/contracts-v1/blob/main/contracts/acctoke/AccToke.sol",
           "description": "AccToke.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-12-07T20:40:41.652Z"
         }
       ],
@@ -339,6 +367,9 @@
         "language": [
           "NextJS",
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -371,8 +402,29 @@
       "websiteUrl": null,
       "description": "Tokemak is a decentralized liquidity providing/market making protocol designed to create efficient, sustainable liquidity across DeFi.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "ETH, TOKE",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -380,12 +432,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Tokemak Bug Bounties | Immunefi",
+      "title": "Tokemak Bug Bounties",
       "description": "Find bugs and vulnerabilities on Tokemak and get paid up to $250,000.",
       "url": "https://immunefi.com/bug-bounty/tokemak",
       "ogImg": "/api/bounty/og-image?project=Tokemak"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

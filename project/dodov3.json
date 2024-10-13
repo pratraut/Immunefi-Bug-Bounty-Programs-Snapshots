@@ -45,6 +45,7 @@
           "url": "https://etherscan.io/address/0x2F66C5aAF006Bd9c51615D617589C16c0ed35fD3#code",
           "description": "D3Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://etherscan.io/address/0xCDA4a6cc5997002B87f28D46852F9F0aA0f3c897#code",
           "description": "D3RateManager",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://etherscan.io/address/0x200D866Edf41070DE251Ef92715a6Ea825A5Eb80#code",
           "description": "D3MMLiquidationRouter",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://etherscan.io/address/0x49186E32fEd50fd6B5604A2618c7B0b03Cd41414#code",
           "description": "D3Vault",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://etherscan.io/address/0x5fa9e06111814840398ceF6E9563d400F6ed3a8d#code",
           "description": "D3UserQuota",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://etherscan.io/address/0x2933c0374089D7D98BA0C71c5E02E1A0e09deBEE#code",
           "description": "D3PoolQuota",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://etherscan.io/address/0xFeAFe253802b77456B4627F8c2306a9CeBb5d681#code",
           "description": "D3MM",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://etherscan.io/address/0x1c29eFa924770154fD44569c5B2bF8103feA45A1#code",
           "description": "D3Maker",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://etherscan.io/address/0xa5fc92Ca57a21C87AA0477b1c8fE8B9Bbf69d6C2#code",
           "description": "D3Token",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://etherscan.io/address/0xA6d0066328Edbcf3220cf8F61e8527e589DD9719#code",
           "description": "D3FeeRateModel",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://etherscan.io/address/0xBbD59b9316eE65526DbBdEc2A748Cc05A285d54C#code",
           "description": "D3MMFactory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://etherscan.io/address/0x411ec324598EF53b1E8663e335e9094464523e6B#code",
           "description": "D3Proxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-29T12:00+03:00"
         }
       ],
@@ -241,6 +253,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -271,8 +286,29 @@
       "websiteUrl": null,
       "description": "DODO V3 is a vault maintained jointly by LPs (Liquidity Providers) and SPs (Strategy Providers), with LPs providing funds to the pool and SPs offering strategies. Both LPs and SPs share the fee income.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Avalanche, Arbitrium",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -280,12 +316,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "DODO V3 Bug Bounties | Immunefi",
+      "title": "DODO V3 Bug Bounties",
       "description": "Find bugs and vulnerabilities on DODO V3 and get paid up to $10,000.",
       "url": "https://immunefi.com/bug-bounty/dodov3",
       "ogImg": "/api/bounty/og-image?project=DODO+V3"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

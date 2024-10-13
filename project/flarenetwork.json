@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/Dhej3RK2qOIzzJ7QDeqWJ/dad95d7b2af0cc0e566f06060f26a405/JgfEVRQA_400x400.png",
       "launchDate": "2024-07-16T12:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-07-17T13:31:02.137Z",
+      "updatedDate": "2024-10-07T14:03:30.898Z",
       "kyc": false,
       "rewards": [
         {
@@ -75,14 +75,7 @@
           "url": "https://github.com/flare-foundation/go-flare",
           "description": "Flare Node",
           "isPrimacyOfImpact": null,
-          "addedAt": "2024-07-16T12:00:00.000Z"
-        },
-        {
-          "id": "6kTMdfmZ0l8CRU58gsWEvy",
-          "type": "blockchain_dlt",
-          "url": "https://github.com/flare-foundation/go-songbird",
-          "description": "Songbird Node",
-          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -91,6 +84,7 @@
           "url": "https://github.com/flare-foundation/bug-bounty/blob/main/smart-contracts.md",
           "description": "Smart Contracts",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -99,6 +93,7 @@
           "url": "https://flare.network/",
           "description": "Main Website",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -107,6 +102,7 @@
           "url": "https://coston-explorer.flare.network/",
           "description": "Block Explorer - Coston",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -115,6 +111,7 @@
           "url": "https://coston2-explorer.flare.network/",
           "description": "Block Explorer - Coston2",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -123,6 +120,7 @@
           "url": "https://songbird-explorer.flare.network/",
           "description": "Block Explorer - Songbird",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -131,6 +129,7 @@
           "url": "https://flare-explorer.flare.network/",
           "description": "Block Explorer - Flare",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -139,6 +138,7 @@
           "url": "https://portal.flare.network/",
           "description": "Flare Portal",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -147,6 +147,7 @@
           "url": "https://staking.flare.network",
           "description": "Flare Staking Tool",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         },
         {
@@ -155,6 +156,7 @@
           "url": "https://faucet.flare.network/",
           "description": "Testnet Token Faucet",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-07-16T12:00:00.000Z"
         }
       ],
@@ -361,6 +363,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -415,8 +420,29 @@
       "websiteUrl": null,
       "description": null,
       "githubUrl": null,
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Flare Network",
+      "rewardsToken": "FLR",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -424,12 +450,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Flare Network Bug Bounties | Immunefi",
+      "title": "Flare Network Bug Bounties",
       "description": "Find bugs and vulnerabilities on Flare Network and get paid up to $250,000.",
       "url": "https://immunefi.com/bug-bounty/flarenetwork",
       "ogImg": "/api/bounty/og-image?project=Flare+Network"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

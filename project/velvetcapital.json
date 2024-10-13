@@ -39,6 +39,7 @@
           "url": "https://bscscan.com/address/0x4DCdeBc14c8e3A1dc499976fe57a16162045eFBd",
           "description": "IndexSwapLibrary",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -47,6 +48,7 @@
           "url": "https://bscscan.com/address/0x0Fb11066768e7775e1b9dAC3C6022F17D893853f",
           "description": "FeeLibrary",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -55,6 +57,7 @@
           "url": "https://bscscan.com/address/0x2606ac7e68044245282643202A391d82D6650b3B",
           "description": "RebalanceLibrary",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -63,6 +66,7 @@
           "url": "https://bscscan.com/address/0x1d2bA92e2227377fCD3c047CCdF1D4389c98f29B",
           "description": "OffChainRebalance",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -71,6 +75,7 @@
           "url": "https://bscscan.com/address/0x8133c0f5414950e3ecd3870732A38D4c3510BdeE",
           "description": "RebalanceAggregator",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -79,6 +84,7 @@
           "url": "https://bscscan.com/address/0xA1c283f1C9C3A70378160434B37e79635aAB52Bf",
           "description": "Exchange",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -87,6 +93,7 @@
           "url": "https://bscscan.com/address/0x80EF871da875Bebe6D9F04aEb9eA883d00192636",
           "description": "IndexSwap",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -95,6 +102,7 @@
           "url": "https://bscscan.com/address/0xdbA97FF0dc7ddDB8c42Dc50DCD151F2E95978ae6",
           "description": "Rebalancing",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -103,6 +111,7 @@
           "url": "https://bscscan.com/address/0x433879587EC11845ACE71C9c4061DeDa7a6d17Be",
           "description": "AssetManagerConfig",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -111,6 +120,7 @@
           "url": "https://bscscan.com/address/0x3bD9A49283F059b3faa7DdBD7515e2E82dce02b1",
           "description": "FeeModule",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -119,6 +129,7 @@
           "url": "https://bscscan.com/address/0x577d56b755f5904184abE5792477a57f9CE37463",
           "description": "OffChainIndexSwap",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -127,6 +138,7 @@
           "url": "https://bscscan.com/address/0xf68e38906DD101f0617A6fB4A0FA25694620C013",
           "description": "VelvetSafeModule",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -135,6 +147,7 @@
           "url": "https://bscscan.com/address/0xC2f2Bf0c228714d038c2495343224c0d9199cC82",
           "description": "PriceOracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -143,6 +156,7 @@
           "url": "https://bscscan.com/address/0x5c2Cd133c766ea78F7BEA635fcfFff3191bD5F56",
           "description": "PancakeSwapHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -151,6 +165,7 @@
           "url": "https://bscscan.com/address/0x74003BD2bDB88EE4D6b55F88FB88616686a6f214",
           "description": "BaseHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -159,6 +174,7 @@
           "url": "https://bscscan.com/address/0x9AFC0716beAEe8a7632df4bdbE14C27055145aC7",
           "description": "VenusHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -167,6 +183,7 @@
           "url": "https://bscscan.com/address/0x26Ae500eDcE7c7a9F00007fCeF026062E10E9FE1",
           "description": "PancakeSwapLPHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -175,6 +192,7 @@
           "url": "https://bscscan.com/address/0x9B85c8D03E082365AB48230761BFaD28D4e45B37",
           "description": "BiSwapLPHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -183,6 +201,7 @@
           "url": "https://bscscan.com/address/0xb0a7f3da89634F31E904a369F83241744B5c2a7d",
           "description": "ApeSwapLPHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -191,6 +210,7 @@
           "url": "https://bscscan.com/address/0xD9528E3Ca04A9dd0cC6515Af69B7958eB3b6E248",
           "description": "WombatHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -199,6 +219,7 @@
           "url": "https://bscscan.com/address/0x8DF80904404010a5B8C767236f2d8671e1d5250D",
           "description": "ApeSwapLendingHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -207,6 +228,7 @@
           "url": "https://bscscan.com/address/0x5Dec110904701E1888ff740362231f735b4D0487",
           "description": "BeefyLPHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -215,6 +237,7 @@
           "url": "https://bscscan.com/address/0x87279059F6c600D894579A6EF6B87e8Df14E4779",
           "description": "BeefyHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -223,6 +246,7 @@
           "url": "https://bscscan.com/address/0x5d3405Db3A16Cd9C545DBac651ab5D9456C14B73",
           "description": "ZeroExHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -231,6 +255,7 @@
           "url": "https://bscscan.com/address/0xe776BAa635d7FA9D2a62371A180895F016eD4045",
           "description": "OneInchHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -239,6 +264,7 @@
           "url": "https://bscscan.com/address/0x4Dc08588a95244DF46ADd6b274079d99Bf521d57",
           "description": "ParaswapHandler",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -247,6 +273,7 @@
           "url": "https://bscscan.com/address/0xB9669646EBb93A03dB67CC05f2894487C9923775",
           "description": "ERC1967Proxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -255,6 +282,7 @@
           "url": "https://bscscan.com/address/0xE61472Ce45e559830ECF12F6a215Cd732F4D798B",
           "description": "ERC1967Proxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-12-15T12:00+03:00"
         },
         {
@@ -263,6 +291,7 @@
           "url": "https://bscscan.com/address/0xb0e7a890ae4351bd0bc8e3e6ebec4525f3edf171#code",
           "description": "New IndexSwap",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-30T14:14:17.030Z"
         },
         {
@@ -271,6 +300,7 @@
           "url": "https://bscscan.com/address/0xd21d51E9BB8aF5De3dbacc519dc73DCD95a7c036",
           "description": "New OffChainRebalance",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-01-30T14:14:15.458Z"
         }
       ],
@@ -367,7 +397,10 @@
         "programType": [
           "Smart Contract"
         ],
-        "language": []
+        "language": [],
+        "featured": [
+          "Launched Recently"
+        ]
       },
       "legacy": {
         "technologies": [
@@ -393,8 +426,29 @@
       "websiteUrl": null,
       "description": "Velvet.Capital is a DeFi Asset Management protocol that helps launch & manage on-chain funds and structured products. Users can launch their own tokenized fund or access existing ones created by world-class managers and influencers.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Base",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -402,12 +456,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Velvet Capital Bug Bounties | Immunefi",
+      "title": "Velvet Capital Bug Bounties",
       "description": "Find bugs and vulnerabilities on Velvet Capital and get paid up to $51,000.",
       "url": "https://immunefi.com/bug-bounty/velvetcapital",
       "ogImg": "/api/bounty/og-image?project=Velvet+Capital"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

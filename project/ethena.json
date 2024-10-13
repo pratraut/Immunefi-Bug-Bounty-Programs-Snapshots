@@ -57,6 +57,7 @@
           "url": "https://etherscan.io/address/0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
           "description": "USDe.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -65,6 +66,7 @@
           "url": "https://etherscan.io/address/0xe3490297a08d6fC8Da46Edb7B6142E4F461b62D3#code",
           "description": "EthenaMinting.sol V2",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -73,6 +75,7 @@
           "url": "https://etherscan.io/address/0x9d39a5de30e57443bff2a8307a4256c8797a3497",
           "description": "StakedUSDe.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -81,6 +84,7 @@
           "url": "https://etherscan.io/address/0x9d39a5de30e57443bff2a8307a4256c8797a3497",
           "description": "StakedUSDeV2.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -89,6 +93,7 @@
           "url": "https://etherscan.io/address/0x7FC7c91D556B400AFa565013E3F32055a0713425",
           "description": "USDeSilo.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -97,6 +102,7 @@
           "url": "https://etherscan.io/address/0x2cc440b721d2cafd6d64908d6d8c4acc57f8afc3",
           "description": "SingleAdminAccessControl.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -105,6 +111,7 @@
           "url": "https://etherscan.io/address/0x8707f238936c12c309bfc2B9959C35828AcFc512",
           "description": "EthenaLPStaking.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -113,6 +120,7 @@
           "url": "https://etherscan.io/address/0xf2fa332bd83149c66b09b45670bce64746c6b439#tokentxns",
           "description": "StakingRewardsDistributor.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -121,6 +129,7 @@
           "url": "https://etherscan.io/address/0x57e114B691Db790C35207b2e685D4A43181e6061",
           "description": "ENA.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -129,6 +138,7 @@
           "url": "https://www.ethena.fi",
           "description": "Project Link",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -137,6 +147,7 @@
           "url": "https://app.ethena.fi",
           "description": "Subdomain",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -145,6 +156,7 @@
           "url": "https://claim.ethena.fi",
           "description": "Subdomain",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -153,6 +165,7 @@
           "url": "https://immunefi.com/",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-04T16:46:29.000Z"
         },
         {
@@ -161,6 +174,7 @@
           "url": "https://etherscan.io/address/0x58538e6a46e07434d7e7375bc268d3cb839c0133",
           "description": "ENAOFTAdapter.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-15T09:50:42.896Z"
         },
         {
@@ -169,6 +183,7 @@
           "url": "https://etherscan.io/address/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
           "description": "USDeOFTAdapter.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-15T09:51:03.695Z"
         },
         {
@@ -177,6 +192,7 @@
           "url": "https://etherscan.io/address/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
           "description": "StakedUSDeOFTAdapter.sol",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-15T09:51:26.013Z"
         },
         {
@@ -185,6 +201,7 @@
           "url": "https://explorer.mantle.xyz/address/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
           "description": "USDeOFT.sol - Present on the following chains: Mantle, Arbitrum One, Manta Pacific, Optimism, BNB, Kava, Scroll, Mode, Metis, Fraxtal, Linea",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-15T09:54:11.685Z"
         },
         {
@@ -193,6 +210,7 @@
           "url": "https://explorer.mantle.xyz/address/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
           "description": "StakedUSDeOFT.sol - Present on the following chains: Mantle, Arbitrum One, Manta Pacific, Optimism, BNB, Kava, Scroll, Mode, Metis, Fraxtal, Linea",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-15T09:55:34.303Z"
         },
         {
@@ -201,6 +219,7 @@
           "url": "https://explorer.mantle.xyz/address/0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
           "description": "ENAOFT.sol - Present on the following chains: Mantle, Arbitrum One, Manta Pacific, Optimism, BNB, Kava, Scroll, Mode, Metis, Fraxtal, Linea",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2024-04-15T09:56:07.424Z"
         }
       ],
@@ -389,7 +408,10 @@
           "Smart Contract",
           "Websites and Applications"
         ],
-        "language": []
+        "language": [],
+        "featured": [
+          "Launched Recently"
+        ]
       },
       "legacy": {
         "technologies": [
@@ -429,8 +451,34 @@
       "websiteUrl": null,
       "description": "Ethena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated savings instrument - the 'Internet Bond'.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": "category_3",
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum",
+      "rewardsToken": "USDC",
+      "eligibilityCriteria": [
+        "no_ofac_sdn",
+        "no_official_contributor",
+        "no_employee",
+        "no_auditor"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": true
     },
     "project": {
@@ -438,12 +486,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Ethena Bug Bounties | Immunefi",
+      "title": "Ethena Bug Bounties",
       "description": "Find bugs and vulnerabilities on Ethena and get paid up to $3,000,000.",
       "url": "https://immunefi.com/bug-bounty/ethena",
       "ogImg": "/api/bounty/og-image?project=Ethena"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

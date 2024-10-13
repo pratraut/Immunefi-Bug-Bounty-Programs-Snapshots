@@ -45,6 +45,7 @@
           "url": "https://etherscan.io/address/0xD502F487e1841Fdc805130e13eae80c61186Bc98",
           "description": "IntegralToken",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-14T13:09:59.354Z"
         },
         {
@@ -53,6 +54,7 @@
           "url": "https://etherscan.io/address/0xc8805cebd927941a3b26e2edced20d666fb118ba",
           "description": "TimeRelease",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-14T13:10:01.646Z"
         },
         {
@@ -61,6 +63,7 @@
           "url": "https://etherscan.io/address/0x36bD665392236b20bd42e161f02Bf0ae1d9441Ff",
           "description": "Integral Staking  (6 Months)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-14T13:10:05.618Z"
         },
         {
@@ -69,6 +72,7 @@
           "url": "https://etherscan.io/address/0xFFc0EAC1a1aE79C697607229Aca43Ef422625a40",
           "description": "Integral Staking (3 Years)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-02-14T13:10:07.470Z"
         },
         {
@@ -77,6 +81,7 @@
           "url": "https://etherscan.io/address/0xC480b33eE5229DE3FbDFAD1D2DCD3F3BAD0C56c6",
           "description": "SIZE Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-01T19:05:55.480Z"
         },
         {
@@ -85,6 +90,7 @@
           "url": "https://etherscan.io/address/0x35cb375799b28c8d6b7c5c8d494ed180ae2e60cb",
           "description": "SIZE Delay",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:37:32.959Z"
         },
         {
@@ -93,6 +99,7 @@
           "url": "https://etherscan.io/address/0xF4418d9fe76A788F2868a558dD216549aD2d869B",
           "description": "Fee governor",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-09T06:52:02.744Z"
         },
         {
@@ -101,6 +108,7 @@
           "url": "https://arbiscan.io/address/0x0800fcf3d8b46d56510f8360a4a4d9301cd78d91",
           "description": "Fee governor (Arbitrum)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-27T08:01:59.151Z"
         },
         {
@@ -109,6 +117,7 @@
           "url": "https://arbiscan.io/address/0xa400bad76f6bc487ef6acfcda3d68edd2a513d2a",
           "description": "SIZE (Arbitrum) Delay",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-10-26T15:11:43.932Z"
         },
         {
@@ -117,6 +126,7 @@
           "url": "https://etherscan.io/address/0x2fe16Dd18bba26e457B7dD2080d5674312b026a2",
           "description": "SIZE Pair (WETH-USDC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-01T19:08:53.526Z"
         },
         {
@@ -125,6 +135,7 @@
           "url": "https://arbiscan.io/address/0x4bca34ad27df83566016b55c60dd80a9eb14913b",
           "description": "SIZE (Arbitrum) Pair (USDC-WETH)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-10-26T15:12:22.267Z"
         },
         {
@@ -133,6 +144,7 @@
           "url": "https://etherscan.io/address/0x33B1ee377D97Ef58B5cba81e69aFdb2a4008dBB2",
           "description": "Merkle Time Release (1)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:42:02.214Z"
         },
         {
@@ -141,6 +153,7 @@
           "url": "https://etherscan.io/address/0x6A16630e78f95eEBB11a74dE0bA1503B9D0984d0",
           "description": "Merkle Time Release (2)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:41:58.859Z"
         },
         {
@@ -149,6 +162,7 @@
           "url": "https://etherscan.io/address/0xd25c6DA73ADBbB68508778621621568E07a1f284",
           "description": "Merkle Time Release (3)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:41:56.019Z"
         },
         {
@@ -157,6 +171,7 @@
           "url": "https://etherscan.io/address/0x2c66Ea3f4D8D056A20FFa14fCFC7956BBEfeB5FD",
           "description": "Merkle Time Release (4)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:41:53.181Z"
         },
         {
@@ -165,6 +180,7 @@
           "url": "https://etherscan.io/address/0x1c857a1e3a9687dd788A1B3921de34210708991E",
           "description": "Merkle Time Release (5)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:41:50.748Z"
         },
         {
@@ -173,6 +189,7 @@
           "url": "https://etherscan.io/address/0x5ADbc8e7458f5ba581BD8d3F4eC46Cd765a6706b",
           "description": "Merkle Time Release (6)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:41:47.591Z"
         },
         {
@@ -181,6 +198,7 @@
           "url": "https://etherscan.io/address/0x851456EBEE49c8A2A4dd66Fe3D19c431Dd8F56AE",
           "description": "Merkle Time Release (7)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:41:44.996Z"
         },
         {
@@ -189,6 +207,7 @@
           "url": "https://etherscan.io/address/0xe96f5A2680981AEc61C4980F2F7B9ad666698e61",
           "description": "Merkle Time Release (8)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-21T19:41:42.832Z"
         },
         {
@@ -197,6 +216,7 @@
           "url": "https://etherscan.io/address/0x048f0e7ea2CFD522a4a058D1b1bDd574A0486c46",
           "description": "SIZE Pair (WETH-USDT)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-06T19:07:11.063Z"
         },
         {
@@ -205,6 +225,7 @@
           "url": "https://etherscan.io/address/0x37f6df71b40c50b2038329cabf5fda3682df1ebf",
           "description": " SIZE Pair (WETH-WBTC)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-06T19:07:08.823Z"
         },
         {
@@ -213,6 +234,7 @@
           "url": "https://etherscan.io/address/0x6ec472b613012a492693697FA551420E60567eA7",
           "description": "SIZE Pair (USDC-USDT)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-07-06T19:07:06.992Z"
         },
         {
@@ -221,6 +243,7 @@
           "url": "https://etherscan.io/address/0xd17b3c9784510E33cD5B87b490E79253BcD81e2E",
           "description": "SIZE Rrelayer",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-09T06:52:38.991Z"
         },
         {
@@ -229,6 +252,7 @@
           "url": "https://arbiscan.io/address/0x3c6951fdb433b5b8442e7aa126d50fbfb54b5f42",
           "description": "SIZE Relayer (Arbitrum)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2023-11-27T07:56:53.386Z"
         }
       ],
@@ -329,6 +353,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -359,8 +386,29 @@
       "websiteUrl": null,
       "description": "At Integral we build on-chain trading products and tools to rival those of centralized exchanges. Our mission is to serve DeFi users who care about self-custody, decentralization, security, and financial usability. Integral SIZE is a TWAP based DEX with zero price impact swaps on Ethereum. In addition, traders enjoy a MEV-resistant and low-fee trading experience.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum, Arbitrum",
+      "rewardsToken": "DAI, USDT, USDC, ETH, or ITGR",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -368,12 +416,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Integral Bug Bounties | Immunefi",
+      "title": "Integral Bug Bounties",
       "description": "Find bugs and vulnerabilities on Integral and get paid up to $25,000.",
       "url": "https://immunefi.com/bug-bounty/integral",
       "ogImg": "/api/bounty/og-image?project=Integral"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

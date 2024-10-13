@@ -5,11 +5,11 @@
       "id": "qblockchain",
       "slug": "qblockchain",
       "project": "Q Blockchain",
-      "maxBounty": 200000,
+      "maxBounty": 25000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/DqPeHRrQH2BBseNdVHUtU/2d0ce9422603fa7ccaa43a972d468b0c/Q_Logo_RGB_Blue.svg",
       "launchDate": "2022-09-06T17:30:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-08-21T13:41:23.563Z",
+      "updatedDate": "2024-09-27T12:17:40.933Z",
       "kyc": true,
       "rewards": [
         {
@@ -33,7 +33,7 @@
         {
           "assetType": "smart_contract",
           "level": "critical",
-          "payout": "USD $10,000 to USD $200,000",
+          "payout": "USD $10,000 to USD $25,000",
           "pocRequired": true
         },
         {
@@ -69,6 +69,7 @@
           "url": "https://gitlab.com/q-dev/q-client",
           "description": "Blockchain/DLT",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -77,6 +78,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/DefaultAllocationProxy.sol",
           "description": "tokeneconomics/DefaultAllocationProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -85,6 +87,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/common/CompoundRateKeeper.sol",
           "description": "common/CompoundRateKeeper",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -93,6 +96,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/common/AddressStorage.sol",
           "description": "common/AddressStorage",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -101,6 +105,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/ValidationRewardProxy.sol",
           "description": "tokeneconomics/ValidationRewardProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -109,6 +114,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/RootNodeRewardProxy.sol",
           "description": "tokeneconomics/RootNodeRewardProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -117,6 +123,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/QHolderRewardProxy.sol",
           "description": "tokeneconomics/QHolderRewardProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -125,6 +132,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/QHolderRewardPool.sol",
           "description": "tokeneconomics/QHolderRewardPool",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -133,6 +141,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/ValidationRewardPools.sol",
           "description": "tokeneconomics/ValidationRewardPools",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -141,6 +150,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/QVault.sol",
           "description": "tokeneconomics/QVault",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -149,6 +159,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/Vesting.sol",
           "description": "tokeneconomics/Vesting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -157,6 +168,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/PushPayments.sol",
           "description": "tokeneconomics/PushPayments",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -165,6 +177,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/TokenBridgeAdminProxy.sol",
           "description": "defi/TokenBridgeAdminProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -173,6 +186,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/token/StableCoin.sol",
           "description": "defi/token/StableCoin",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -181,6 +195,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/BorrowingCore.sol",
           "description": "defi/BorrowingCore",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -189,6 +204,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/Saving.sol",
           "description": "defi/Saving",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -197,6 +213,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/SystemBalance.sol",
           "description": "defi/SystemBalance",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -205,6 +222,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/LiquidationAuction.sol",
           "description": "defi/LiquidationAuction",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -213,6 +231,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/SystemSurplusAuction.sol",
           "description": "defi/SystemSurplusAuction",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -221,6 +240,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/defi/SystemDebtAuction.sol",
           "description": "defi/SystemDebtAuction",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -229,6 +249,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/constitution/Constitution.sol",
           "description": "governance/constitution/Constitution",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -237,6 +258,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/constitution/ConstitutionVoting.sol",
           "description": "governance/constitution/ConstitutionVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -245,6 +267,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/rootNodes/Roots.sol",
           "description": "governance/rootNodes/Roots",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -253,6 +276,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/rootNodes/RootsVoting.sol",
           "description": "governance/rootNodes/RootsVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -261,6 +285,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/rootNodes/RootNodesSlashingVoting.sol",
           "description": "governance/rootNodes/RootNodesSlashingVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -269,6 +294,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/rootNodes/RootNodeSlashingEscrow.sol",
           "description": "governance/rootNodes/RootNodeSlashingEscrow",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -277,6 +303,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/validators/Validators.sol",
           "description": "governance/validators/Validators",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -285,6 +312,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/validators/ValidatorsSlashingVoting.sol",
           "description": "governance/validators/ValidatorsSlashingVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -293,6 +321,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/validators/ValidatorSlashingEscrow.sol",
           "description": "governance/validators/ValidatorSlashingEscrow",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -301,6 +330,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPDR_Membership.sol",
           "description": "governance/experts/EPDR_Membership",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -309,6 +339,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPDR_MembershipVoting.sol",
           "description": "governance/experts/EPDR_MembershipVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -317,6 +348,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPDR_Parameters.sol",
           "description": "governance/experts/EPDR_Parameters",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -325,6 +357,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPDR_ParametersVoting.sol",
           "description": "governance/experts/EPDR_ParametersVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -333,6 +366,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPQFI_Membership.sol",
           "description": "governance/experts/EPQFI_Membership",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -341,6 +375,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPQFI_MembershipVoting.sol",
           "description": "governance/experts/EPQFI_MembershipVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -349,6 +384,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPQFI_Parameters.sol",
           "description": "governance/experts/EPQFI_Parameters",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -357,6 +393,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPQFI_ParametersVoting.sol",
           "description": "governance/experts/EPQFI_ParametersVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -365,6 +402,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPRS_Membership.sol",
           "description": "governance/experts/EPRS_Membership",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -373,6 +411,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPRS_MembershipVoting.sol",
           "description": "governance/experts/EPRS_MembershipVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -381,6 +420,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPRS_Parameters.sol",
           "description": "governance/experts/EPRS_Parameters",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -389,6 +429,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/experts/EPRS_ParametersVoting.sol",
           "description": "governance/experts/EPRS_ParametersVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -397,6 +438,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/EmergencyUpdateVoting.sol",
           "description": "governance/EmergencyUpdateVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -405,6 +447,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/GeneralUpdateVoting.sol",
           "description": "governance/GeneralUpdateVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -413,6 +456,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/VotingWeightProxy.sol",
           "description": "governance/VotingWeightProxy",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -421,6 +465,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/tokeneconomics/SystemReserve.sol",
           "description": "tokeneconomics/SystemReserve",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -429,6 +474,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/ContractRegistryUpgradeVoting.sol",
           "description": "governance/ContractRegistryUpgradeVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -437,6 +483,7 @@
           "url": "https://gitlab.com/q-dev/system-contracts/-/blob/mainnet/contracts/governance/ContractRegistryAddressVoting.sol",
           "description": "governance/ContractRegistryAddressVoting",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -445,6 +492,7 @@
           "url": "https://hq.q.org/",
           "description": "Web/App",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         },
         {
@@ -453,6 +501,7 @@
           "url": "https://q.org/",
           "description": "Web/App",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-09-06T17:30:00.000Z"
         }
       ],
@@ -632,12 +681,6 @@
           "severity": "medium"
         },
         {
-          "id": "59NwRyVpe03od90RZ6QTpO",
-          "title": "Any of the above impacts that have been reported and fixed in the q-client upstream repository (https://github.com/ethereum/go-ethereum) more than 6 months ago.",
-          "type": "blockchain_dlt",
-          "severity": "medium"
-        },
-        {
           "id": "2XO2Z9LUWWWc49OWbHHaQf",
           "title": "Any of the above impacts that have been reported and fixed in the q-client upstream repository (https://github.com/ethereum/go-ethereum) more than 6 months ago",
           "type": "blockchain_dlt",
@@ -678,6 +721,9 @@
         "language": [
           "NextJS",
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -703,7 +749,7 @@
         "smartcontract_rewards": [
           {
             "level": "Critical",
-            "payout": "USD $10,000 to USD $200,000"
+            "payout": "USD $10,000 to USD $25,000"
           },
           {
             "level": "High",
@@ -728,8 +774,29 @@
       "websiteUrl": null,
       "description": "The Q Blockchain is the universal governance layer for the decentralized world.",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Q",
+      "rewardsToken": "QGOV",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -737,12 +804,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Q Blockchain Bug Bounties | Immunefi",
-      "description": "Find bugs and vulnerabilities on Q Blockchain and get paid up to $200,000.",
+      "title": "Q Blockchain Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Q Blockchain and get paid up to $25,000.",
       "url": "https://immunefi.com/bug-bounty/qblockchain",
       "ogImg": "/api/bounty/og-image?project=Q+Blockchain"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

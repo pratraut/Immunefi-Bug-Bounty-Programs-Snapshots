@@ -39,6 +39,7 @@
           "url": "https://github.com/PolymeshAssociation/Polymesh/releases/latest",
           "description": null,
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-08-23T09:10:43.186Z"
         }
       ],
@@ -128,7 +129,10 @@
         "programType": [
           "Blockchain/DLT"
         ],
-        "language": []
+        "language": [],
+        "featured": [
+          "Launched Recently"
+        ]
       },
       "legacy": {
         "technologies": [
@@ -154,18 +158,38 @@
       "websiteUrl": null,
       "description": null,
       "githubUrl": null,
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
       "defaultFeasibilityLimitations": null,
-      "defaultProhibitedActivites": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": null,
+      "rewardsToken": null,
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": null,
     "metaData": {
-      "title": "Polymesh Bug Bounties | Immunefi",
+      "title": "Polymesh Bug Bounties",
       "description": "Find bugs and vulnerabilities on Polymesh and get paid up to $6,000.",
       "url": "https://immunefi.com/bug-bounty/polymesh",
       "ogImg": "/api/bounty/og-image?project=Polymesh"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"

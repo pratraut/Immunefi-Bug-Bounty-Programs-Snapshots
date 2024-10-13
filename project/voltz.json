@@ -27,6 +27,7 @@
           "url": "https://etherscan.io/address/0x6a7a5c3824508D03F0d2d24E0482Bea39E08CcAF",
           "description": "Factory",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -35,6 +36,7 @@
           "url": "https://etherscan.io/address/0x852b9435d1373C7E1d51dd52AeBd2aA54422c30D",
           "description": "Master Margin Engine Implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -43,6 +45,7 @@
           "url": "https://etherscan.io/address/0x55a6C7c923b33B4B4CB119c5EE3F10CF841f4e18",
           "description": "Master VAMM Implementation",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -51,6 +54,7 @@
           "url": "https://etherscan.io/address/0x07ceD903E6ad0278CC32bC83a3fC97112F763722",
           "description": "Periphery",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -59,6 +63,7 @@
           "url": "https://etherscan.io/address/0x9f30Ec6903F1728ca250f48f664e48c3f15038eD",
           "description": "Aave Lend Rate Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -67,6 +72,7 @@
           "url": "https://etherscan.io/address/0x073A229FFd8AeE1e5dC66662Afa84134bD6567a6",
           "description": "Aave Borrow Rate Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -75,6 +81,7 @@
           "url": "https://etherscan.io/address/0x919674d599D8df8dd9E7Ebaabfc2881089C5D91C",
           "description": "Compound Lend Rate Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -83,6 +90,7 @@
           "url": "https://etherscan.io/address/0xd24047316B274d48dBb2FE20068C9Cc849B76152",
           "description": "Compound Borrow Rate Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -91,6 +99,7 @@
           "url": "https://etherscan.io/address/0xA667502bF7f5dA45c7b6a70dA7f0595E6Cf342D8",
           "description": "Lido Staked ETH Rate Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -99,6 +108,7 @@
           "url": "https://etherscan.io/address/0x41EcaAC9061F6BABf2D42068F8F8dAF3BA9644FF",
           "description": "Rocketpool Stacked ETH Rate Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -107,6 +117,7 @@
           "url": "https://etherscan.io/address/0xA6BA323693f9e9B591F79fbDb947c7330ca2d7ab",
           "description": "Aave v3 Lend Rate Oracle",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         },
         {
@@ -115,6 +126,7 @@
           "url": "https://arbiscan.io/address/0xfb47177dc75f3910b8bc6525b4835cca67a12c48",
           "description": "GLP Rate Oracle (Arbitrum)",
           "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
           "addedAt": "2022-04-07T20:00:00"
         }
       ],
@@ -161,6 +173,9 @@
         ],
         "language": [
           "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
         ]
       },
       "legacy": {
@@ -179,8 +194,29 @@
       "websiteUrl": null,
       "description": "Voltz is a noncustodial automated market maker for Interest Rate Swaps (IRS). Voltz uses a Concentrated Liquidity Virtual AMM (vAMM) for price discovery only, with the management of the underlying assets performed by the Margin Engine. ",
       "githubUrl": null,
-      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
-      "defaultProhibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "outOfScopeBlockchain": null,
+      "outOfScopeGeneral": null,
+      "outOfScopeSmartContract": null,
+      "outOfScopeWebAndApplications": null,
+      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeSmartContract": null,
+      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": null,
+      "defaultFeasibilityLimitations": null,
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Ethereum, Arbitrum",
+      "rewardsToken": "USDC or USDT",
+      "eligibilityCriteria": [],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
       "premiumTriaging": false
     },
     "project": {
@@ -188,12 +224,11 @@
       "isSafeHarborActive": false
     },
     "metaData": {
-      "title": "Voltz Bug Bounties | Immunefi",
+      "title": "Voltz Bug Bounties",
       "description": "Find bugs and vulnerabilities on Voltz and get paid up to $40,000.",
       "url": "https://immunefi.com/bug-bounty/voltz",
       "ogImg": "/api/bounty/og-image?project=Voltz"
     },
-    "bbpPageV2Enabled": true,
     "layoutProps": {
       "headerMarginBottom": "mb-3 lg:mb-15",
       "footerMarginTop": "mt-0"
