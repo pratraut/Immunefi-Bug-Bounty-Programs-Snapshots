@@ -1,14 +1,90 @@
 [
   {
+    "contentfulId": "212Me563yfxx58zVi8pQvG",
+    "id": "shardeum-ancillaries-ii-boost",
+    "project": "Audit Comp | Shardeum: Ancillaries II",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6O1D4wPpM4PSjiCqxkQUtX/0a261a8eb6a99945842a08750ba37b36/Shardeum_Logo_Icon_Light_-_Square__1_.png",
+    "date": "2024-09-04T12:00:00.000Z",
+    "launchDate": "2024-09-04T12:00:00.000Z",
+    "endDate": "2024-10-16T12:00:00.000Z",
+    "updatedDate": "2024-10-14T08:33:28.368Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Typescript",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2024-10-30T12:00:00.000Z",
+    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Shardeum Ancillaries II. This Boost is a successor of Shardeum's Ancillaries Boost and will only cover the Web2 aspects of the project. 
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-boost\" channel.
+
+In a few days after the launch, Shardeum will give a live technical walkthrough, hosted in the Immunefi Discord.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroLive": "$100,000 USD is available in rewards for finding bugs in Shardeum's codebase of about 27000 nSLOC. There is no KYC required.
+
+Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
+
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
+When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 27000,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3ONlvASRd4Xbfx0ZfQ9fBp",
     "id": "shardeum-core-ii-boost",
-    "project": "Boost | Shardeum: Core II",
+    "project": "Audit Comp | Shardeum: Core II",
     "maximum_reward": 150000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3pQP9TMw0MizXDfwmOSf40/40fec7480d34cc54384000dd1045ab00/Shardeum_Logo_Icon_Light_-_Square__1_.png",
     "date": "2024-09-04T12:00:00.000Z",
     "launchDate": "2024-09-04T12:00:00.000Z",
     "endDate": "2024-10-16T12:00:00.000Z",
-    "updatedDate": "2024-09-27T07:05:09.394Z",
+    "updatedDate": "2024-10-14T08:32:41.876Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -77,82 +153,6 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
-    "contentfulId": "212Me563yfxx58zVi8pQvG",
-    "id": "shardeum-ancillaries-ii-boost",
-    "project": "Boost | Shardeum: Ancillaries II",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6O1D4wPpM4PSjiCqxkQUtX/0a261a8eb6a99945842a08750ba37b36/Shardeum_Logo_Icon_Light_-_Square__1_.png",
-    "date": "2024-09-04T12:00:00.000Z",
-    "launchDate": "2024-09-04T12:00:00.000Z",
-    "endDate": "2024-10-16T12:00:00.000Z",
-    "updatedDate": "2024-09-27T07:05:07.051Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Shardeum"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "Typescript",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2024-10-30T12:00:00.000Z",
-    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Shardeum Ancillaries II. This Boost is a successor of Shardeum's Ancillaries Boost and will only cover the Web2 aspects of the project. 
-
-No KYC is required.
-
-Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-boost\" channel.
-
-In a few days after the launch, Shardeum will give a live technical walkthrough, hosted in the Immunefi Discord.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroLive": "$100,000 USD is available in rewards for finding bugs in Shardeum's codebase of about 27000 nSLOC. There is no KYC required.
-
-Shardeum team will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Boost Discord channel](https://discord.com/invite/immunefi).
-
-In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
-
-When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 100000,
-    "sourceLinesOfCode": 27000,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "6QtmI17m48Hgp8wiooz7z7",
     "id": "iop-swaylend",
     "project": "IOP | Swaylend",
@@ -161,7 +161,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-10-01T08:00:00.000Z",
     "launchDate": "2024-10-01T08:00:00.000Z",
     "endDate": "2024-10-22T12:00:00.000Z",
-    "updatedDate": "2024-10-11T19:19:22.288Z",
+    "updatedDate": "2024-10-14T18:20:52.053Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -223,6 +223,77 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
+    "contentfulId": "XG79UeGqk1U64NC6aFa3J",
+    "id": "audit-comp-anvil",
+    "project": "Audit Comp | Anvil",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2mGK0eYVaDmJRa9glTW4z7/f9526c17f5faa6b5007c29f6caf1226f/4D0J2eDi_500x500-3.png",
+    "date": "2024-10-16T08:00:00.000Z",
+    "launchDate": "2024-10-16T08:00:00.000Z",
+    "endDate": "2024-11-06T08:00:00.000Z",
+    "updatedDate": "2024-10-14T13:22:12.133Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Anvil Vault
+
+Anvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.
+
+
+For more information about Anvil, please visit https://anvil.xyz/
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Anvil-Lido technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"anvil-audit-competition\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+The day after the launch, Anvil will give a live technical walkthrough.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 1384,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "sNhPrMQC7LoDKiXA6kyH3",
     "id": "thundernft-iop",
     "project": "IOP | ThunderNFT",
@@ -261,7 +332,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-10-14T08:00:00.000Z",
+    "evaluationEndDate": "2024-10-16T08:00:00.000Z",
     "boostedIntroStartingIn": "$65,000 USD in rewards is available for finding bugs on ThundeNFT which is an NFT marketplace built on Fuel. **For this Invite-Only Program, only whitehats who found at least 1 valid report in Fuel's Attackathon can submit reports.**
 
 No KYC is required.
@@ -295,15 +366,82 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "premiumTriaging": true
   },
   {
+    "contentfulId": "fzaLgdNany6A10ZLfw1RV",
+    "id": "boost-acre",
+    "project": "Audit Comp | Acre",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0cbT2nwEwQOYtYtnErdn5/29aa15cc2c2cdcec374f927e50bf9b58/ACRE_logo.png",
+    "date": "2024-08-20T08:00:25.000Z",
+    "launchDate": "2024-08-20T08:00:25.000Z",
+    "endDate": "2024-09-03T08:00:00.000Z",
+    "updatedDate": "2024-10-14T08:35:03.472Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2024-10-21T08:00:00.000Z",
+    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.
+
+Acre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.
+
+Acre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  
+
+No KYC is required.
+
+Acre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 1340,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "5p6DwbodJ2UnAAEoqEya2U",
     "id": "boost-lido",
-    "project": "Boost | Lido: Mellow Vault",
+    "project": "Audit Comp | Lido: Mellow Vault",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/aNleyqsTXYGXlLKwk8xXD/d5c618f76994d16da63dacec4112b48b/Lido-mellow-svg__1_.png",
     "date": "2024-08-15T12:00:00.000Z",
     "launchDate": "2024-08-15T12:00:00.000Z",
     "endDate": "2024-09-05T08:00:00.000Z",
-    "updatedDate": "2024-10-07T09:43:26.590Z",
+    "updatedDate": "2024-10-14T08:35:26.982Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -370,82 +508,15 @@ In a few days after the launch, Mellow & Lido will give a live technical walkthr
     "premiumTriaging": true
   },
   {
-    "contentfulId": "fzaLgdNany6A10ZLfw1RV",
-    "id": "boost-acre",
-    "project": "Boost | Acre",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0cbT2nwEwQOYtYtnErdn5/29aa15cc2c2cdcec374f927e50bf9b58/ACRE_logo.png",
-    "date": "2024-08-20T08:00:25.000Z",
-    "launchDate": "2024-08-20T08:00:25.000Z",
-    "endDate": "2024-09-03T08:00:00.000Z",
-    "updatedDate": "2024-10-07T09:41:03.591Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2024-10-14T12:40:55.000Z",
-    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.
-
-Acre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.
-
-Acre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  
-
-No KYC is required.
-
-Acre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 50000,
-    "sourceLinesOfCode": 1340,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "3o5ukksdFvgFLMTKUGqRM5",
     "id": "firedancer-boost",
-    "project": "Boost | Firedancer v0.1",
+    "project": "Audit Comp | Firedancer v0.1",
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6abbRPq25ZJAZ0KbG5mgCL/42f2a899c65754988546c1f445f4f27f/image__16_.png",
     "date": "2024-07-10T17:00:00.000Z",
     "launchDate": "2024-07-10T17:00:00.000Z",
     "endDate": "2024-08-21T08:00:00.000Z",
-    "updatedDate": "2024-10-04T09:46:51.298Z",
+    "updatedDate": "2024-10-14T08:34:02.986Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -515,13 +586,13 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
   {
     "contentfulId": "6ATHaXQVlw2wErspXGIB5O",
     "id": "boost-idex",
-    "project": "Boost | IDEX",
+    "project": "Audit Comp | IDEX",
     "maximum_reward": 45000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Z2Gy88N6R5vZwze49k4KA/4d53d963948076f62cd75315f28e7a69/IDEX_logo.png",
     "date": "2024-07-30T08:00:00.000Z",
     "launchDate": "2024-07-30T08:00:00.000Z",
     "endDate": "2024-08-23T08:00:00.000Z",
-    "updatedDate": "2024-10-09T13:18:36.014Z",
+    "updatedDate": "2024-10-14T08:34:29.080Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -634,13 +705,13 @@ All paid bug reports are available in original format [here](https://github.com/
   {
     "contentfulId": "5tYwzjVKC6BoGb4JRQRm1n",
     "id": "shardeum-ancillaries-boost",
-    "project": "Boost | Shardeum: Ancillaries",
+    "project": "Audit Comp | Shardeum: Ancillaries",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1m6RmtetyAanvdJtFgER1S/2dd905210d46dcb763551541b3636dc7/Shardeum_Logo_Icon_Light_-_Square__1_.png",
     "date": "2024-07-08T06:00:00.000Z",
     "launchDate": "2024-07-08T06:00:00.000Z",
     "endDate": "2024-08-14T06:00:00.000Z",
-    "updatedDate": "2024-09-26T13:53:14.130Z",
+    "updatedDate": "2024-10-14T08:33:45.994Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -796,13 +867,13 @@ All paid bug reports are available in original format [here](https://github.com/
   {
     "contentfulId": "2F2vr66ddqM5W8gNaOVw1H",
     "id": "shardeum-core-boost",
-    "project": "Boost | Shardeum: Core",
+    "project": "Audit Comp | Shardeum: Core",
     "maximum_reward": 500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3xrzvSX4v3cZXmp4CuDjMq/4e8e46638a00d31de927c277638a1c4b/Shardeum_Logo_Icon_Light_-_Square__1_.png",
     "date": "2024-07-08T06:00:00.000Z",
     "launchDate": "2024-07-08T06:00:00.000Z",
     "endDate": "2024-08-14T06:00:00.000Z",
-    "updatedDate": "2024-09-25T13:59:31.689Z",
+    "updatedDate": "2024-10-14T08:33:04.660Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -1196,13 +1267,13 @@ After the Attackathon Immunefi will publish a leaderboard and Attackathon findin
   {
     "contentfulId": "1ppxFzjfXI5IeBx7MpIlIN",
     "id": "folksfinance-boost",
-    "project": "Boost | Folks Finance",
+    "project": "Audit Comp | Folks Finance",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6J3xxAowY0ZlOFTEciL88K/752c37cc0e37232a1f9075df7609c79c/Folks_Finance_logo.png",
     "date": "2024-07-16T08:00:00.000Z",
     "launchDate": "2024-07-16T08:00:00.000Z",
     "endDate": "2024-08-06T08:00:00.000Z",
-    "updatedDate": "2024-09-27T12:50:21.970Z",
+    "updatedDate": "2024-10-14T08:34:47.392Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -1627,13 +1698,13 @@ All paid bug reports are available in original format [here](https://github.com/
   {
     "contentfulId": "4MqLVRmFp3FOT0n16HgNrx",
     "id": "alchemix-boost",
-    "project": "Boost | Alchemix",
+    "project": "Audit Comp | Alchemix",
     "maximum_reward": 125000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5pjZJ5fR4NCzaLxDB7TqlF/ea861b248380639b0048863f6b4aff56/AlchemixLogoMaster500px.png",
     "date": "2024-04-30T10:30:00.000Z",
     "launchDate": "2024-04-30T10:30:00.000Z",
     "endDate": "2024-05-21T10:30:00.000Z",
-    "updatedDate": "2024-07-08T16:09:51.948Z",
+    "updatedDate": "2024-10-14T08:35:48.170Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2315,180 +2386,15 @@ All paid bug reports are available in original format [here](https://github.com/
     "premiumTriaging": true
   },
   {
-    "contentfulId": "4w1C45ry290axkrzHIR77m",
-    "id": "immunefiarbitration-boost",
-    "project": "Boost | Immunefi Arbitration",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2V4kHwGy9dzUAcs61R7mC6/0dea15f36e83e9429d47c7685b2cfba0/Logo_Mark_Badge_White_Round_4x.png",
-    "date": "2024-03-12T08:00:00.000Z",
-    "launchDate": "2024-03-12T08:00:00.000Z",
-    "endDate": "2024-04-02T08:00:00.000Z",
-    "updatedDate": "2024-05-30T09:59:48.378Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2024-05-03T08:00:00.000Z",
-    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
-
-KYC is required.
-
-Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Immunefi technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"immunefiarb-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-On launch day, Tuesday March 12th, Immunefi will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
-
-
-[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdBLJGLkTNEJLTnPPak-5b5bwV2I6GVGRBKia_FHO9KB4UbFQ/viewform?usp=sf_link)",
-    "boostedIntroLive": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
-
-KYC is required.
-
-The rewards pool is partly distributed with the following formula, and partly at Immunefi’s discretion. The portion at Immunefi’s discretion is to reward high-quality whitehat contributions, such as exceptionally well-written reports, the best report among duplicates, and valuable but technically invalid bug reports. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/23262277256849-Immunefi-Arbitration-Boost-Reward-Terms)
-
-Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Immunefi within the “immunefiarb-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).
-
-When the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1V992rR-DhkUr4y8Kz0jpicdMw4cjWxst?usp=sharing).
-
-All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Immunefi%20Arbitration).",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 1922,
-    "boostedSummaryReport": "https://drive.google.com/file/d/1dES_h4V-8XISqI0gFTgsh1ZbcopqSYPO/view?usp=sharing",
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [
-      {
-        "high": 0,
-        "name": "marchev",
-        "critical": 0,
-        "earnings": 13730,
-        "insights": 2,
-        "mediumLow": 2,
-        "totalValidBugs": 2
-      },
-      {
-        "high": 0,
-        "name": "OxSCSamurai",
-        "critical": 0,
-        "earnings": 7500,
-        "insights": 2,
-        "mediumLow": 1,
-        "totalValidBugs": 1
-      },
-      {
-        "high": 0,
-        "name": "seinsidler",
-        "critical": 0,
-        "earnings": 1269,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      },
-      {
-        "high": 0,
-        "name": "Dudex_2004",
-        "critical": 0,
-        "earnings": 1269,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      },
-      {
-        "high": 0,
-        "name": "caglankaan",
-        "critical": 0,
-        "earnings": 1269,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      },
-      {
-        "high": 0,
-        "name": "greed",
-        "critical": 0,
-        "earnings": 1269,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      },
-      {
-        "high": 0,
-        "name": "OxRizwan",
-        "critical": 0,
-        "earnings": 1269,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      },
-      {
-        "high": 0,
-        "name": "Sadhunter",
-        "critical": 0,
-        "earnings": 807,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      },
-      {
-        "high": 0,
-        "name": "En3cyptedDegenExt",
-        "critical": 0,
-        "earnings": 807,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      },
-      {
-        "high": 0,
-        "name": "shanb1605",
-        "critical": 0,
-        "earnings": 807,
-        "insights": 1,
-        "mediumLow": 0,
-        "totalValidBugs": 0
-      }
-    ],
-    "features": [
-      "Managed Triage: Time Saver",
-      "Vault",
-      "Boost"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "4RlYsMPzIHbHbWLH2bq9bS",
     "id": "zerolend-boost",
-    "project": "Boost | ZeroLend",
+    "project": "Audit Comp | ZeroLend",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6DUpgCKU7RBNjZBDgQp7Oh/462a64d77ba48737bf0e6c86ef036880/Screenshot_2024-02-22_at_5.43.58___PM.png",
     "date": "2024-02-29T08:00:00.000Z",
     "launchDate": "2024-02-29T08:00:00.000Z",
     "endDate": "2024-03-14T08:00:00.000Z",
-    "updatedDate": "2024-05-30T09:54:26.333Z",
+    "updatedDate": "2024-10-14T08:36:34.027Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2772,15 +2678,180 @@ All paid bug reports are available in original format [here](https://github.com/
     "premiumTriaging": true
   },
   {
+    "contentfulId": "4w1C45ry290axkrzHIR77m",
+    "id": "immunefiarbitration-boost",
+    "project": "Audit Comp | Immunefi Arbitration",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2V4kHwGy9dzUAcs61R7mC6/0dea15f36e83e9429d47c7685b2cfba0/Logo_Mark_Badge_White_Round_4x.png",
+    "date": "2024-03-12T08:00:00.000Z",
+    "launchDate": "2024-03-12T08:00:00.000Z",
+    "endDate": "2024-04-02T08:00:00.000Z",
+    "updatedDate": "2024-10-14T08:36:10.345Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2024-05-03T08:00:00.000Z",
+    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
+
+KYC is required.
+
+Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Immunefi technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"immunefiarb-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+On launch day, Tuesday March 12th, Immunefi will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.
+
+
+[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdBLJGLkTNEJLTnPPak-5b5bwV2I6GVGRBKia_FHO9KB4UbFQ/viewform?usp=sf_link)",
+    "boostedIntroLive": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. 
+
+KYC is required.
+
+The rewards pool is partly distributed with the following formula, and partly at Immunefi’s discretion. The portion at Immunefi’s discretion is to reward high-quality whitehat contributions, such as exceptionally well-written reports, the best report among duplicates, and valuable but technically invalid bug reports. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/23262277256849-Immunefi-Arbitration-Boost-Reward-Terms)
+
+Immunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Immunefi within the “immunefiarb-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).
+
+When the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1V992rR-DhkUr4y8Kz0jpicdMw4cjWxst?usp=sharing).
+
+All paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Immunefi%20Arbitration).",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 1922,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1dES_h4V-8XISqI0gFTgsh1ZbcopqSYPO/view?usp=sharing",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "marchev",
+        "critical": 0,
+        "earnings": 13730,
+        "insights": 2,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "OxSCSamurai",
+        "critical": 0,
+        "earnings": 7500,
+        "insights": 2,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "seinsidler",
+        "critical": 0,
+        "earnings": 1269,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "Dudex_2004",
+        "critical": 0,
+        "earnings": 1269,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "caglankaan",
+        "critical": 0,
+        "earnings": 1269,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "greed",
+        "critical": 0,
+        "earnings": 1269,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "OxRizwan",
+        "critical": 0,
+        "earnings": 1269,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "Sadhunter",
+        "critical": 0,
+        "earnings": 807,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "En3cyptedDegenExt",
+        "critical": 0,
+        "earnings": 807,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "shanb1605",
+        "critical": 0,
+        "earnings": 807,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
+    "features": [
+      "Managed Triage: Time Saver",
+      "Vault",
+      "Boost"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "7c3oWHqGIS0IwmVFJMzAwl",
     "id": "pufferfinance-boost",
-    "project": "Boost | Puffer Finance",
+    "project": "Audit Comp | Puffer Finance",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5x7QhsDhZ5qzZtxIpF5wGL/2bddd9c86ed9b5e7b63d62f4bb894285/Screenshot_2024-02-16_at_2.34.23___PM.png",
     "date": "2024-02-22T08:00:00.000Z",
     "launchDate": "2024-02-22T08:00:00.000Z",
     "endDate": "2024-03-07T08:00:00.000Z",
-    "updatedDate": "2024-05-30T09:53:00.719Z",
+    "updatedDate": "2024-10-14T08:36:52.497Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3172,13 +3243,13 @@ All paid bug reports are available in original format [here](https://github.com/
   {
     "contentfulId": "4r9b9Tcfnc9zLPttcKWqwu",
     "id": "ebtc-boost",
-    "project": "Boost | eBTC",
+    "project": "Audit Comp | eBTC",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4l9J9IrYDQDKEKDRro6liJ/8f307a05a51e20350ce7e82dc207c109/ebtc.png",
     "date": "2024-02-19T08:00:00.000Z",
     "launchDate": "2024-02-19T08:00:00.000Z",
     "endDate": "2024-03-04T08:00:00.000Z",
-    "updatedDate": "2024-05-30T10:01:55.260Z",
+    "updatedDate": "2024-10-14T08:37:45.737Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3360,13 +3431,13 @@ All paid bug reports are available in original format [here](https://github.com/
   {
     "contentfulId": "42pNqgNigeVPHiqy9IPmTu",
     "id": "boosteddegatebugbounty",
-    "project": "Boost | DeGate",
+    "project": "Audit Comp | DeGate",
     "maximum_reward": 400000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3IdBeRLWUgyzNlQMTxcsLk/e46540438fbcd3e556c45e1769418263/DeGate_logo.jpeg",
     "date": "2023-11-20T16:00:00.000Z",
     "launchDate": "2023-11-20T16:00:00.000Z",
     "endDate": "2023-12-04T09:00:00.000Z",
-    "updatedDate": "2024-05-30T10:04:30.544Z",
+    "updatedDate": "2024-10-14T08:37:27.998Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"

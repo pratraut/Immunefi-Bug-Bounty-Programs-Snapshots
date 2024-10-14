@@ -11,12 +11,12 @@
       "contentfulId": "42pNqgNigeVPHiqy9IPmTu",
       "id": "boosteddegatebugbounty",
       "slug": "boosteddegatebugbounty",
-      "project": "Boost | DeGate",
+      "project": "Audit Comp | DeGate",
       "maxBounty": 400000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3IdBeRLWUgyzNlQMTxcsLk/e46540438fbcd3e556c45e1769418263/DeGate_logo.jpeg",
       "launchDate": "2023-11-20T16:00:00.000Z",
       "endDate": "2023-12-04T09:00:00.000Z",
-      "updatedDate": "2024-05-30T10:04:30.544Z",
+      "updatedDate": "2024-10-14T08:37:27.998Z",
       "kyc": false,
       "rewards": [
         {
@@ -663,10 +663,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | DeGate Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Boost | DeGate and get paid up to $400,000.",
+      "title": "Audit Comp | DeGate Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | DeGate and get paid up to $400,000.",
       "url": "https://immunefi.com/audit-competition/boosteddegatebugbounty",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+DeGate"
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+DeGate"
     }
   },
   "__N_SSG": true

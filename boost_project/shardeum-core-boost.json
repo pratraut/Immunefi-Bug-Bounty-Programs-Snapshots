@@ -11,12 +11,12 @@
       "contentfulId": "2F2vr66ddqM5W8gNaOVw1H",
       "id": "shardeum-core-boost",
       "slug": "shardeum-core-boost",
-      "project": "Boost | Shardeum: Core",
+      "project": "Audit Comp | Shardeum: Core",
       "maxBounty": 500000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3xrzvSX4v3cZXmp4CuDjMq/4e8e46638a00d31de927c277638a1c4b/Shardeum_Logo_Icon_Light_-_Square__1_.png",
       "launchDate": "2024-07-08T06:00:00.000Z",
       "endDate": "2024-08-14T06:00:00.000Z",
-      "updatedDate": "2024-09-25T13:59:31.689Z",
+      "updatedDate": "2024-10-14T08:33:04.660Z",
       "kyc": false,
       "rewards": [
         {
@@ -387,10 +387,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | Shardeum: Core Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Boost | Shardeum: Core and get paid up to $500,000.",
+      "title": "Audit Comp | Shardeum: Core Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | Shardeum: Core and get paid up to $500,000.",
       "url": "https://immunefi.com/audit-competition/shardeum-core-boost",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+Shardeum%3A+Core"
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Shardeum%3A+Core"
     }
   },
   "__N_SSG": true

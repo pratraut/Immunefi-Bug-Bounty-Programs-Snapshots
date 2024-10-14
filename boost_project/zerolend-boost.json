@@ -11,12 +11,12 @@
       "contentfulId": "4RlYsMPzIHbHbWLH2bq9bS",
       "id": "zerolend-boost",
       "slug": "zerolend-boost",
-      "project": "Boost | ZeroLend",
+      "project": "Audit Comp | ZeroLend",
       "maxBounty": 200000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6DUpgCKU7RBNjZBDgQp7Oh/462a64d77ba48737bf0e6c86ef036880/Screenshot_2024-02-22_at_5.43.58___PM.png",
       "launchDate": "2024-02-29T08:00:00.000Z",
       "endDate": "2024-03-14T08:00:00.000Z",
-      "updatedDate": "2024-05-30T09:54:26.333Z",
+      "updatedDate": "2024-10-14T08:36:34.027Z",
       "kyc": false,
       "rewards": [
         {
@@ -1336,10 +1336,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | ZeroLend Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Boost | ZeroLend and get paid up to $200,000.",
+      "title": "Audit Comp | ZeroLend Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | ZeroLend and get paid up to $200,000.",
       "url": "https://immunefi.com/audit-competition/zerolend-boost",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+ZeroLend"
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+ZeroLend"
     }
   },
   "__N_SSG": true

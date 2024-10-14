@@ -11,12 +11,12 @@
       "contentfulId": "4r9b9Tcfnc9zLPttcKWqwu",
       "id": "ebtc-boost",
       "slug": "ebtc-boost",
-      "project": "Boost | eBTC",
+      "project": "Audit Comp | eBTC",
       "maxBounty": 200000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4l9J9IrYDQDKEKDRro6liJ/8f307a05a51e20350ce7e82dc207c109/ebtc.png",
       "launchDate": "2024-02-19T08:00:00.000Z",
       "endDate": "2024-03-04T08:00:00.000Z",
-      "updatedDate": "2024-05-30T10:01:55.260Z",
+      "updatedDate": "2024-10-14T08:37:45.737Z",
       "kyc": false,
       "rewards": [
         {
@@ -461,10 +461,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | eBTC Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Boost | eBTC and get paid up to $200,000.",
+      "title": "Audit Comp | eBTC Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | eBTC and get paid up to $200,000.",
       "url": "https://immunefi.com/audit-competition/ebtc-boost",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+eBTC"
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+eBTC"
     }
   },
   "__N_SSG": true

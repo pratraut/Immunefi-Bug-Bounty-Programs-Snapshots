@@ -11,12 +11,12 @@
       "contentfulId": "6ATHaXQVlw2wErspXGIB5O",
       "id": "boost-idex",
       "slug": "boost-idex",
-      "project": "Boost | IDEX",
+      "project": "Audit Comp | IDEX",
       "maxBounty": 45000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Z2Gy88N6R5vZwze49k4KA/4d53d963948076f62cd75315f28e7a69/IDEX_logo.png",
       "launchDate": "2024-07-30T08:00:00.000Z",
       "endDate": "2024-08-23T08:00:00.000Z",
-      "updatedDate": "2024-10-09T13:18:36.014Z",
+      "updatedDate": "2024-10-14T08:34:29.080Z",
       "kyc": false,
       "rewards": [
         {
@@ -856,10 +856,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | IDEX Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Boost | IDEX and get paid up to $45,000.",
+      "title": "Audit Comp | IDEX Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | IDEX and get paid up to $45,000.",
       "url": "https://immunefi.com/audit-competition/boost-idex",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+IDEX"
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+IDEX"
     }
   },
   "__N_SSG": true

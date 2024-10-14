@@ -11,12 +11,12 @@
       "contentfulId": "3o5ukksdFvgFLMTKUGqRM5",
       "id": "firedancer-boost",
       "slug": "firedancer-boost",
-      "project": "Boost | Firedancer v0.1",
+      "project": "Audit Comp | Firedancer v0.1",
       "maxBounty": 1000000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6abbRPq25ZJAZ0KbG5mgCL/42f2a899c65754988546c1f445f4f27f/image__16_.png",
       "launchDate": "2024-07-10T17:00:00.000Z",
       "endDate": "2024-08-21T08:00:00.000Z",
-      "updatedDate": "2024-10-04T09:46:51.298Z",
+      "updatedDate": "2024-10-14T08:34:02.986Z",
       "kyc": true,
       "rewards": [
         {
@@ -195,10 +195,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | Firedancer v0.1 Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Boost | Firedancer v0.1 and get paid up to $1,000,000.",
+      "title": "Audit Comp | Firedancer v0.1 Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | Firedancer v0.1 and get paid up to $1,000,000.",
       "url": "https://immunefi.com/audit-competition/firedancer-boost",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+Firedancer+v0.1"
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Firedancer+v0.1"
     }
   },
   "__N_SSG": true

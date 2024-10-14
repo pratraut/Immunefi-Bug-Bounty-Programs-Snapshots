@@ -11,12 +11,12 @@
       "contentfulId": "5p6DwbodJ2UnAAEoqEya2U",
       "id": "boost-lido",
       "slug": "boost-lido",
-      "project": "Boost | Lido: Mellow Vault",
+      "project": "Audit Comp | Lido: Mellow Vault",
       "maxBounty": 100000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/aNleyqsTXYGXlLKwk8xXD/d5c618f76994d16da63dacec4112b48b/Lido-mellow-svg__1_.png",
       "launchDate": "2024-08-15T12:00:00.000Z",
       "endDate": "2024-09-05T08:00:00.000Z",
-      "updatedDate": "2024-10-07T09:43:26.590Z",
+      "updatedDate": "2024-10-14T08:35:26.982Z",
       "kyc": false,
       "rewards": [
         {
@@ -332,10 +332,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Boost | Lido: Mellow Vault Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Boost | Lido: Mellow Vault and get paid up to $100,000.",
+      "title": "Audit Comp | Lido: Mellow Vault Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | Lido: Mellow Vault and get paid up to $100,000.",
       "url": "https://immunefi.com/audit-competition/boost-lido",
-      "ogImg": "/api/bounty/og-image?project=Boost+%7C+Lido%3A+Mellow+Vault"
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Lido%3A+Mellow+Vault"
     }
   },
   "__N_SSG": true
