@@ -180,6 +180,13 @@ for ((c = 0; c < $boost_bounties_length; c++)); do
 		# Get project's data
 		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/audit-competition/$name/scope.json")
 		echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/audit-competition/$name/scope.json"
+		# Check if its a new program for which scope.json doesn't exist
+		is_found=$(echo -E "$PROJECT_DATA" | jq 'has("pageProps")')
+		if [[ $is_found == false ]]; then
+			echo "Not yet started. Continuing..."
+			found=true
+			break
+		fi
 		# echo -E "$PROJECT_DATA"
 		# There's no try/catch in batch, so this is our way to double check everything went right:
 		# Get name from JSON response
