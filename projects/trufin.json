@@ -275,7 +275,10 @@
       "programDocumentations": [],
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "premiumTriaging": false,
+      "isSafeHarborActive": false
+    },
     "metaData": {
       "title": "TruFin Bug Bounties",
       "description": "Find bugs and vulnerabilities on TruFin and get paid up to $40,000.",

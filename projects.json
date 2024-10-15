@@ -1469,7 +1469,7 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-14T07:37:52.847Z",
+    "updatedDate": "2024-10-15T04:42:37.798Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1605,7 +1605,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-04T13:12:46.534Z",
+    "updatedDate": "2024-10-15T11:00:29.854Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -2350,7 +2350,7 @@
     "date": "2022-06-16T16:30:00.000Z",
     "launchDate": "2022-06-16T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-09-09T08:09:55.706Z",
+    "updatedDate": "2024-10-15T04:57:27.641Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4265,7 +4265,7 @@
     "date": "2021-09-08T14:00:00.000Z",
     "launchDate": "2021-09-08T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-08-14T07:33:13.873Z",
+    "updatedDate": "2024-10-15T08:47:58.167Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4673,52 +4673,6 @@
       ]
     },
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "636PDfeURqjpvoxn51NXfV",
-    "id": "pstake",
-    "project": "pStake",
-    "maximum_reward": 300000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7d8BEERcy6p2UBcH08gYWI/63f57580f3b9a8526d1a899a3cb72a44/pstake.png",
-    "date": "2022-08-11T21:00-06:00",
-    "launchDate": "2022-08-12T03:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-07-24T14:14:57.902Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC",
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "4bPBhzeazFVzRkZqbhvfJg",
@@ -8194,58 +8148,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4ZJxSxbWcpyi0TtXyhSAzr",
-    "id": "pstakeoncosmos",
-    "project": "pStake on Cosmos",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5fBhohue6h3v22nrOJnCwr/9f0f93d056ea6684ebcf6f4e4cf5da35/pstake.png",
-    "date": "2023-04-18T01:00:00.000Z",
-    "launchDate": "2023-04-18T01:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-07-24T14:55:27.948Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "L1",
-        "Liquid Restaking",
-        "Liquid Staking",
-        "Staking"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC"
-      ],
-      "programType": [
-        "Websites and Applications",
-        "Smart Contract",
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Go",
-        "NextJS"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "5cmeFZOHY2NVzdzgbh1i4p",
     "id": "ipor",
     "project": "IPOR",
@@ -8300,10 +8202,10 @@
     "project": "Hathor Network",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jW460UDYEbPDo4PZAOuZE/dd602e17d4ff01851c727c387eeecc5a/KEBPir98_400x400.jpg",
-    "date": "2023-03-15T14:00-05:00",
-    "launchDate": "2023-03-15T14:00:00.000Z",
+    "date": "2023-03-15T19:00:00.000Z",
+    "launchDate": "2023-03-15T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-04-08T18:53:14.366Z",
+    "updatedDate": "2024-10-15T08:56:21.283Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -10047,6 +9949,58 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "1hax7qU84Oi5S074srQIrp",
+    "id": "inversefinance",
+    "project": "Inverse Finance",
+    "maximum_reward": 80000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
+    "date": "2023-11-30T11:00:00.000Z",
+    "launchDate": "2023-11-30T11:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-15T11:04:18.341Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Vaults"
+      ],
+      "productType": [
+        "DAO",
+        "Lending",
+        "Stablecoin",
+        "Token"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "Base",
+        "ETH",
+        "Optimism"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity",
+        "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "4ZholnwuM5LTAXnwAefMEj",
     "id": "forta",
     "project": "Forta Network",
@@ -10262,58 +10216,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1hax7qU84Oi5S074srQIrp",
-    "id": "inversefinance",
-    "project": "Inverse Finance",
-    "maximum_reward": 60000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
-    "date": "2023-11-30T11:00:00.000Z",
-    "launchDate": "2023-11-30T11:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-10T15:22:19.124Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Vaults"
-      ],
-      "productType": [
-        "DAO",
-        "Lending",
-        "Stablecoin",
-        "Token"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Base",
-        "ETH",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript"
       ],
       "featured": [
         "Launched Recently"
@@ -15282,6 +15184,104 @@
         "Websites and Applications"
       ],
       "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4ZJxSxbWcpyi0TtXyhSAzr",
+    "id": "pstakeoncosmos",
+    "project": "pStake on Cosmos",
+    "maximum_reward": 2000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5fBhohue6h3v22nrOJnCwr/9f0f93d056ea6684ebcf6f4e4cf5da35/pstake.png",
+    "date": "2023-04-18T01:00:00.000Z",
+    "launchDate": "2023-04-18T01:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-15T10:23:36.425Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "L1",
+        "Liquid Restaking",
+        "Liquid Staking",
+        "Staking"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Defi"
+      ],
+      "ecosystem": [
+        "BSC"
+      ],
+      "programType": [
+        "Websites and Applications",
+        "Smart Contract",
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Go",
+        "NextJS"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "636PDfeURqjpvoxn51NXfV",
+    "id": "pstake",
+    "project": "pStake",
+    "maximum_reward": 2000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7d8BEERcy6p2UBcH08gYWI/63f57580f3b9a8526d1a899a3cb72a44/pstake.png",
+    "date": "2022-08-12T03:00:00.000Z",
+    "launchDate": "2022-08-12T03:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-15T10:22:52.014Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "BSC",
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "JavaScript",
+        "Solidity"
+      ],
       "featured": [
         "Launched Recently"
       ]
