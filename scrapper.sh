@@ -21,7 +21,7 @@ projects=$(echo "$NEXT_DATA" | jq '.props.pageProps.bounties')
 # Delete vault and performance metrics field
 projects=$(echo "$projects" | jq -r 'del(.[].vaultBalance)' | jq -r 'del(.[].performanceMetrics)')
 
-# Create projects.json and boost_projects.json files if not exist
+# Create projects.json and audit_comp_projects.json files if not exist
 touch ./projects.json
 
 # Let's see if new projects were added or paused
@@ -57,7 +57,7 @@ fi
 echo "Bounty Build ID: $buildId"
 
 # Create folder if not exist
-test -d ./project || mkdir ./project
+test -d ./projects || mkdir ./projects
 
 # Get how many bounties are
 bounties_length=$(echo -E "$projects" | jq length)
@@ -87,7 +87,7 @@ for ((c = 0; c < $bounties_length; c++)); do
 		# Compare it with stored name
 		if [ "$name_received" = "$name" ]; then
 			# All good!
-			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' | jq 'del(.pageProps.project.performanceMetrics)' > ./project/$name.json
+			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' | jq 'del(.pageProps.project.performanceMetrics)' > ./projects/$name.json
 			#Print DONE
 			echo "Scanned: $name"
 			sleep $SLEEP_TIME
@@ -105,81 +105,81 @@ for ((c = 0; c < $bounties_length; c++)); do
 	fi
 done
 
-# --------------- BOOST PROGRAMS ---------------
+# --------------- AUDIT COMP. PROGRAMS ---------------
 
-# Get NEXT_DATA in JSON format for boosted bug bounties
-NEXT_DATA_BOOST=$(curl -s https://immunefi.com/audit-competition/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
-if [[ -z $NEXT_DATA_BOOST ]]; then
-	echo "ERROR: Empty NEXT_DATA_BOOST"
+# Get NEXT_DATA in JSON format for audit competitions
+NEXT_DATA_AUDIT_COMP=$(curl -s https://immunefi.com/audit-competition/ | ggrep -oP "<script id=\"__NEXT_DATA__\".*>.*</script>" | ggrep -oP "{.*}" | jq)
+if [[ -z $NEXT_DATA_AUDIT_COMP ]]; then
+	echo "ERROR: Empty NEXT_DATA_AUDIT_COMP"
 	exit
 fi
 
-boost_projects=$(echo "$NEXT_DATA_BOOST" | jq '.props.pageProps.bounties')
+audit_competitions=$(echo "$NEXT_DATA_AUDIT_COMP" | jq '.props.pageProps.bounties')
 
 # Delete vault and performance metrics field
-boost_projects=$(echo "$boost_projects" | jq -r 'del(.[].vaultBalance)' | jq -r 'del(.[].performanceMetrics)')
+audit_competitions=$(echo "$audit_competitions" | jq -r 'del(.[].vaultBalance)' | jq -r 'del(.[].performanceMetrics)')
 
 # merged two arrays
-# projects=$(jq -s 'add' <<< "$projects[@] $boost_projects[@]")
+# projects=$(jq -s 'add' <<< "$projects[@] $audit_competitions[@]")
 
-# Create boost_projects.json file if not exist
-touch ./boost_projects.json
+# Create audit_competitions.json file if not exist
+touch ./audit_competitions.json
 
 # Let's see if new projects were added or paused
-boost_file_contents=$(< ./boost_projects.json)
-echo $boost_file_contents | jq -r '.[].project' | sort > prev_boost_projects_name.txt
-# cat ./boost_projects.json | jq -r '.[].project' | sort > prev_boost_projects_name.txt
-echo "$boost_projects" | jq -r '.[].project' | sort > current_boost_projects_name.txt
+audit_file_contents=$(< ./audit_competitions.json)
+echo $audit_file_contents | jq -r '.[].project' | sort > prev_audit_competitions_name.txt
+# cat ./audit_competitions.json | jq -r '.[].project' | sort > prev_audit_competitions_name.txt
+echo "$audit_competitions" | jq -r '.[].project' | sort > current_audit_competitions_name.txt
 
 # Paused or Removed
-paused_boost_programs=$(comm -23 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | xargs)
+paused_audit_programs=$(comm -23 ./prev_audit_competitions_name.txt ./current_audit_competitions_name.txt | sed 's/^/#/' | xargs)
 # Added or Unpaused
-added_boost_programs=$(comm -13 ./prev_boost_projects_name.txt ./current_boost_projects_name.txt | sed 's/^/#/' | xargs)
+added_audit_programs=$(comm -13 ./prev_audit_competitions_name.txt ./current_audit_competitions_name.txt | sed 's/^/#/' | xargs)
 
 # Clean temporal files
-rm ./prev_boost_projects_name.txt
-rm ./current_boost_projects_name.txt
+rm ./prev_audit_competitions_name.txt
+rm ./current_audit_competitions_name.txt
 
-if [[ -z $boost_projects ]]; then
-	echo "ERROR: Empty boost_projects"
+if [[ -z $audit_competitions ]]; then
+	echo "ERROR: Empty audit_competitions"
 	exit
 fi
 
 # Save current bounties
-echo -e "$boost_projects" > boost_projects.json
+echo -e "$audit_competitions" > audit_competitions.json
 
 # Get buildId
-buildIdBoost=$(echo "$NEXT_DATA_BOOST" | jq -r '.buildId')
-if [[ -z $buildIdBoost ]]; then
-	echo "ERROR: Empty buildIdBoost"
+buildIdAudit=$(echo "$NEXT_DATA_AUDIT_COMP" | jq -r '.buildId')
+if [[ -z $buildIdAudit ]]; then
+	echo "ERROR: Empty buildIdAudit"
 	exit
 fi
 
-echo "Boost Bounty Build ID: $buildIdBoost"
+echo "Audit Competition Build ID: $buildIdAudit"
 
 # Create folder if not exist
-test -d ./boost_project || mkdir ./boost_project
+test -d ./audit_competitions || mkdir ./audit_competitions
 
 # Get how many bounties are
-boost_bounties_length=$(echo "$boost_projects" | jq length)
-echo "Boost Bounties Length: $boost_bounties_length"
+audit_comps_length=$(echo "$audit_competitions" | jq length)
+echo "Audit Competitions Length: $audit_comps_length"
 
-for ((c = 0; c < $boost_bounties_length; c++)); do
+for ((c = 0; c < $audit_comps_length; c++)); do
 	# Get project's name
-	name=$(echo "$boost_projects" | jq -r .[$c].id)
+	name=$(echo "$audit_competitions" | jq -r .[$c].id)
 	if [[ -z $name ]]; then
-		echo "ERROR: Empty Name for index [$c/$boost_bounties_length]"
+		echo "ERROR: Empty Name for index [$c/$audit_comps_length]"
 		exit
 	fi
 
-	echo "Scanning: $name [`expr $c + 1`/$boost_bounties_length]"
+	echo "Scanning: $name [`expr $c + 1`/$audit_comps_length]"
 
 	# Loop for 3 times until we get the record properly
 	found=false
 	for ((t = 0; t < 3; t++)); do
 		# Get project's data
-		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdBoost/audit-competition/$name/scope.json")
-		echo "Calling: https://immunefi.com/_next/data/$buildIdBoost/audit-competition/$name/scope.json"
+		PROJECT_DATA=$(curl -s "https://immunefi.com/_next/data/$buildIdAudit/audit-competition/$name/scope.json")
+		echo "Calling: https://immunefi.com/_next/data/$buildIdAudit/audit-competition/$name/scope.json"
 		# Check if its a new program for which scope.json doesn't exist
 		is_found=$(echo -E "$PROJECT_DATA" | jq 'has("pageProps")')
 		if [[ $is_found == false ]]; then
@@ -195,7 +195,7 @@ for ((c = 0; c < $boost_bounties_length; c++)); do
 		# Compare it with stored name
 		if [ "$name_received" = "$name" ]; then
 			# All good!
-			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' | jq 'del(.pageProps.project.performanceMetrics)' > ./boost_project/$name.json
+			echo "$PROJECT_DATA" | jq 'del(.pageProps.project.vault)' | jq 'del(.pageProps.flags)' | jq 'del(.pageProps.project.performanceMetrics)' > ./audit_competitions/$name.json
 			#Print DONE
 			echo "Scanned: $name"
 			sleep $SLEEP_TIME
@@ -204,11 +204,11 @@ for ((c = 0; c < $boost_bounties_length; c++)); do
 		else
 			# PANIC!
 			# echo "PANIC ERROR!!! [`expr $c + 1`/$bounties_length]"
-			echo "Error: name_received is empty, Try #`expr $t + 1` Retrying [`expr $c + 1`/$boost_bounties_length]"
+			echo "Error: name_received is empty, Try #`expr $t + 1` Retrying [`expr $c + 1`/$audit_comps_length]"
 		fi
 	done
 	if [ "$found" == false ] ; then
-		echo "PANIC ERROR!!! [`expr $c + 1`/$boost_bounties_length]"
+		echo "PANIC ERROR!!! [`expr $c + 1`/$audit_comps_length]"
 		exit
 	fi
 done
@@ -221,8 +221,8 @@ else
 
 	# added_qty=$(echo "$added_programs" | sed '/^\s*$/d' | wc -l)
 	# paused_qty=$(echo "$paused_programs" | sed '/^\s*$/d' | wc -l)
-	projects_changed=$(git status -s | ggrep -oP '(?<=M project\/).*(?=\.json)' | sed 's/^/#/' | xargs)
-	boost_projects_changed=$(git status -s | ggrep -oP '(?<=M boost_project\/).*(?=\.json)' | sed 's/^/#/' | xargs)
+	projects_changed=$(git status -s | ggrep -oP '(?<=M projects\/).*(?=\.json)' | sed 's/^/#/' | xargs)
+	audit_competitions_changed=$(git status -s | ggrep -oP '(?<=M audit_competitions\/).*(?=\.json)' | sed 's/^/#/' | xargs)
 	# updated_qty=$(git status -s | grep -o -P '(?<=M project\/).*(?=\.json)' | sed '/^\s*$/d' | wc -l)
 
 	# git status
@@ -231,7 +231,7 @@ else
 
 	# Commit message
 	echo -e "\n"
-	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\n\nProjects removed or paused:\n$paused_programs\n\nProjects updated their program:\n$projects_changed\n\nBoost Projects added or unpaused:\n$added_boost_programs\n\nBoost Projects removed or paused:\n$paused_boost_programs\n\nBoost Projects updated their program:\n$boost_projects_changed")
+	mg=$(echo -e "Update\n\nProjects added or unpaused:\n$added_programs\n\nProjects removed or paused:\n$paused_programs\n\nProjects updated their program:\n$projects_changed\n\nAudit Competitons added or unpaused:\n$added_audit_programs\n\nAudit Competitions removed or paused:\n$paused_audit_programs\n\nAudit Competitions updated their program:\n$audit_competitions_changed")
 	echo -e "$mg"
 
 	# Push to github
