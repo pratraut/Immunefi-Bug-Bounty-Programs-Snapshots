@@ -1469,7 +1469,7 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-15T04:42:37.798Z",
+    "updatedDate": "2024-10-16T06:26:03.970Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8197,50 +8197,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "59CD5PjqAkmouPrGHk9Dd2",
-    "id": "hathornetwork",
-    "project": "Hathor Network",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jW460UDYEbPDo4PZAOuZE/dd602e17d4ff01851c727c387eeecc5a/KEBPir98_400x400.jpg",
-    "date": "2023-03-15T19:00:00.000Z",
-    "launchDate": "2023-03-15T19:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-15T08:56:21.283Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "L1",
-        "Wallet"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Python"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "33Mt8nedD3h9tfjq49u5rn",
     "id": "metronome",
     "project": "Metronome",
@@ -10964,6 +10920,50 @@
         "Go",
         "Rust",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "59CD5PjqAkmouPrGHk9Dd2",
+    "id": "hathornetwork",
+    "project": "Hathor Network",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jW460UDYEbPDo4PZAOuZE/dd602e17d4ff01851c727c387eeecc5a/KEBPir98_400x400.jpg",
+    "date": "2023-03-15T19:00:00.000Z",
+    "launchDate": "2023-03-15T19:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-10-16T13:25:52.911Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "L1",
+        "Wallet"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "JavaScript",
+        "Python"
       ],
       "featured": [
         "Launched Recently"
@@ -15057,47 +15057,6 @@
       ]
     },
     "premiumTriaging": null
-  },
-  {
-    "contentfulId": "GemMQd0WlDxQl58sYq5A0",
-    "id": "universalpage",
-    "project": "Universal Page",
-    "maximum_reward": 5000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/68JsSwIoQJ9vEmDiNp95v2/b4f54a922bbd2653f2f7d34bea743a2e/Universal_page_copy.png",
-    "date": "2024-02-22T12:30:00.000Z",
-    "launchDate": "2024-02-22T12:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-04-08T18:56:46.252Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "6ZgCfC37kHUTchVgY2Bg7t",
