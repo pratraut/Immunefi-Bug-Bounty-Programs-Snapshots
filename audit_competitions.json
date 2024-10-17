@@ -75,10 +75,10 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "project": "Audit Comp | Anvil",
     "maximum_reward": 50000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2mGK0eYVaDmJRa9glTW4z7/f9526c17f5faa6b5007c29f6caf1226f/4D0J2eDi_500x500-3.png",
-    "date": "2024-10-16T10:25:00.000Z",
+    "date": "2024-10-16T08:00:00.000Z",
     "launchDate": "2024-10-16T08:00:00.000Z",
     "endDate": "2024-11-06T08:00:00.000Z",
-    "updatedDate": "2024-10-16T10:25:29.997Z",
+    "updatedDate": "2024-10-17T09:14:22.737Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -515,7 +515,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "date": "2024-07-10T17:00:00.000Z",
     "launchDate": "2024-07-10T17:00:00.000Z",
     "endDate": "2024-08-21T08:00:00.000Z",
-    "updatedDate": "2024-10-15T14:03:48.289Z",
+    "updatedDate": "2024-10-17T10:43:10.713Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -567,14 +567,62 @@ In this contest bug fixes may be applied mid-contest. Further details are in the
 
 When the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Boost cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/11pdF_-XieyxWF1Z1Nyr7Jq2SYWS7SLSA)
+
+All paid bug reports are available in orginal format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Firedancer%20v0.1)",
     "rewardsToken": "USDC",
     "rewardsPool": 1000000,
     "sourceLinesOfCode": 200000,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1x0fZ0jFWcbXE7-41-atdA74XweSZeSSK/view",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "c4a4dda89",
+        "critical": 0,
+        "earnings": 105558,
+        "insights": 1,
+        "mediumLow": 6,
+        "totalValidBugs": 6
+      },
+      {
+        "high": 0,
+        "name": "gln",
+        "critical": 0,
+        "earnings": 82541,
+        "insights": 1,
+        "mediumLow": 5,
+        "totalValidBugs": 5
+      },
+      {
+        "high": 0,
+        "name": "Swift77057",
+        "critical": 0,
+        "earnings": 52285,
+        "insights": 0,
+        "mediumLow": 3,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "swiss45",
+        "critical": 0,
+        "earnings": 9615,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "ret2happy",
+        "critical": 0,
+        "earnings": 0,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      }
+    ],
     "features": [
       "Boost",
       "Managed Triage: Time Saver"
