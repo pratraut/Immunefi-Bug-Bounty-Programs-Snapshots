@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4c3zRck4MBUVAaxTaPkUHt/9b1dee6e49c7d39f3b8af56a8b387816/file.png",
       "launchDate": "2024-08-12T11:00:00.000Z",
       "endDate": "2024-09-02T08:00:28.000Z",
-      "updatedDate": "2024-10-15T14:09:11.849Z",
+      "updatedDate": "2024-10-18T14:42:27.386Z",
       "kyc": false,
       "rewards": [
         {
@@ -283,18 +283,127 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-10-21T08:00:00.000Z",
+      "evaluationEndDate": "2024-10-18T08:00:00.000Z",
       "boostedIntroStartingIn": "$65,000 USD in rewards is available for finding bugs on ThundeNFT which is an NFT marketplace built on Fuel. **For this Invite-Only Program, only whitehats who found at least 1 valid report in Fuel's Attackathon can submit reports.**\n\nNo KYC is required.\n\nAny technical questions can be asked directly to the ThunderNFT technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"thundernft-iop\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nIn a few days after the launch, ThunderNFT will give a live technical walkthrough.\n\nJoin our Discord for more updates.",
       "boostedIntroLive": "$65,000 USD is available in rewards for finding bugs in ThundeNFT's codebase of 1806 nSLOC. There is no KYC required.\n\nAny technical questions and support requests can be asked directly to ThunderNFT or Immunefi in the [ThunderNFT Boost Discord channel](https://discord.com/invite/immunefi?utm_source=immunefi).\n\nWhen the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1JUPb8fcyV2giqRH6pE_5lcaD-GMn-Oas)\n\nAll paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/ThunderNFT%20%7C%20IOP)",
       "rewardsToken": "USDC",
       "rewardsPool": 65000,
       "sourceLinesOfCode": 1806,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1Vp9FnQGPurPR1urKfcidAVZfQeIn49IF/view?usp=sharing",
       "inviteOnly": true,
       "hideAssetsInScope": false,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "Solosync6",
+          "critical": 1,
+          "earnings": 17057,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 3,
+          "name": "zeroK",
+          "critical": 0,
+          "earnings": 10573,
+          "insights": 1,
+          "mediumLow": 4,
+          "totalValidBugs": 7
+        },
+        {
+          "high": 2,
+          "name": "NinetyNineCrits",
+          "critical": 2,
+          "earnings": 8409,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 5
+        },
+        {
+          "high": 1,
+          "name": "SimaoAmaro",
+          "critical": 2,
+          "earnings": 6595,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 2,
+          "name": "jecikpo",
+          "critical": 1,
+          "earnings": 5270,
+          "insights": 0,
+          "mediumLow": 5,
+          "totalValidBugs": 8
+        },
+        {
+          "high": 0,
+          "name": "Blockian",
+          "critical": 2,
+          "earnings": 3899,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 4
+        },
+        {
+          "high": 1,
+          "name": "jasonxiale",
+          "critical": 2,
+          "earnings": 3300,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 5
+        },
+        {
+          "high": 0,
+          "name": "bugtester",
+          "critical": 0,
+          "earnings": 2951,
+          "insights": 2,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Schnilch",
+          "critical": 2,
+          "earnings": 2331,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "anatomist",
+          "critical": 2,
+          "earnings": 2331,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "InquisitorScythe",
+          "critical": 1,
+          "earnings": 1435,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "rbz",
+          "critical": 0,
+          "earnings": 848,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "IOP (Invite Only Program)",
         "Managed Triage: Time Saver"
