@@ -1469,8 +1469,8 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-16T06:26:03.970Z",
-    "kyc": false,
+    "updatedDate": "2024-10-21T14:31:17.249Z",
+    "kyc": true,
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -1479,7 +1479,7 @@
     "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Not Required",
+        "KYC Required",
         "PoC Required",
         "Triaged by Immunefi"
       ],
@@ -1605,7 +1605,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-15T11:00:29.854Z",
+    "updatedDate": "2024-10-21T15:32:47.222Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -3152,7 +3152,7 @@
     "date": "2024-07-02T08:30:00.000Z",
     "launchDate": "2024-07-02T08:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-18T12:49:25.258Z",
+    "updatedDate": "2024-10-21T12:22:19.677Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3172,7 +3172,7 @@
         "Defi"
       ],
       "ecosystem": [
-        "Osmosis"
+        "Cosmos"
       ],
       "programType": [
         "Blockchain/DLT",
@@ -9876,7 +9876,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-15T11:04:18.341Z",
+    "updatedDate": "2024-10-21T15:01:17.820Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -10899,7 +10899,7 @@
     "date": "2023-03-15T19:00:00.000Z",
     "launchDate": "2023-03-15T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-16T13:25:52.911Z",
+    "updatedDate": "2024-10-21T13:27:42.131Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",

@@ -78,7 +78,7 @@ When the Boost has ended Immunefi will publish an event-specific leaderboard and
     "date": "2024-10-16T08:00:00.000Z",
     "launchDate": "2024-10-16T08:00:00.000Z",
     "endDate": "2024-11-06T08:00:00.000Z",
-    "updatedDate": "2024-10-17T09:14:22.737Z",
+    "updatedDate": "2024-10-21T11:41:01.226Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -123,9 +123,84 @@ The day after the launch, Anvil will give a live technical walkthrough.",
     "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
+    "rewardsToken": "USDT",
     "rewardsPool": 50000,
     "sourceLinesOfCode": 1384,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "5p6DwbodJ2UnAAEoqEya2U",
+    "id": "boost-lido",
+    "project": "Audit Comp | Lido: Mellow Vault",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/aNleyqsTXYGXlLKwk8xXD/d5c618f76994d16da63dacec4112b48b/Lido-mellow-svg__1_.png",
+    "date": "2024-08-15T12:00:00.000Z",
+    "launchDate": "2024-08-15T12:00:00.000Z",
+    "endDate": "2024-09-05T08:00:00.000Z",
+    "updatedDate": "2024-10-21T15:29:05.082Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [
+        "DAO",
+        "Liquid Staking",
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2024-10-28T08:00:00.000Z",
+    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Mellow Decentralized Validator Vault.
+
+The Decentralized Validator Vault, developed by Mellow, will be utilized to direct net-new stake to the Lido Simple DVT Module, furthering the decentralization of validators using the Lido protocol. The vault will empower solo and community stakers to run more validators via Lido along with professional node operators.
+
+Stakers in the vault will receive points from the two major DVT providers, Obol & SSV Network, as well as points from Mellow. In addition, by staking in the vault, users will also hold a wstETH position within the vault, represented by an LP token.
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Mellow-Lido technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"lido-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+In a few days after the launch, Mellow & Lido will give a live technical walkthrough.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "DAI",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 1281,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -173,7 +248,7 @@ The day after the launch, Anvil will give a live technical walkthrough.",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-10-21T08:00:00.000Z",
+    "evaluationEndDate": "2024-10-28T08:00:00.000Z",
     "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.
 
 Acre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.
@@ -193,81 +268,6 @@ Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sig
     "rewardsToken": "USDC",
     "rewardsPool": 50000,
     "sourceLinesOfCode": 1340,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "5p6DwbodJ2UnAAEoqEya2U",
-    "id": "boost-lido",
-    "project": "Audit Comp | Lido: Mellow Vault",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/aNleyqsTXYGXlLKwk8xXD/d5c618f76994d16da63dacec4112b48b/Lido-mellow-svg__1_.png",
-    "date": "2024-08-15T12:00:00.000Z",
-    "launchDate": "2024-08-15T12:00:00.000Z",
-    "endDate": "2024-09-05T08:00:00.000Z",
-    "updatedDate": "2024-10-15T14:05:31.953Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [
-        "DAO",
-        "Liquid Staking",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2024-10-21T08:00:00.000Z",
-    "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Mellow Decentralized Validator Vault.
-
-The Decentralized Validator Vault, developed by Mellow, will be utilized to direct net-new stake to the Lido Simple DVT Module, furthering the decentralization of validators using the Lido protocol. The vault will empower solo and community stakers to run more validators via Lido along with professional node operators.
-
-Stakers in the vault will receive points from the two major DVT providers, Obol & SSV Network, as well as points from Mellow. In addition, by staking in the vault, users will also hold a wstETH position within the vault, represented by an LP token.
-
-No KYC is required.
-
-Any technical questions can be asked directly to the Mellow-Lido technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"lido-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-In a few days after the launch, Mellow & Lido will give a live technical walkthrough.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "DAI",
-    "rewardsPool": 100000,
-    "sourceLinesOfCode": 1281,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
