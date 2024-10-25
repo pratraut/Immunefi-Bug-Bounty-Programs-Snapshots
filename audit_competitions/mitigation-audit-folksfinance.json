@@ -355,82 +355,82 @@
       ],
       "impacts": [
         {
-          "id": "AR7RmuzNEspVSzN7z9Joj",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "6XAyk7BoMaII3mNPqLvuoh",
-          "title": "Permanent freezing of funds",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "1GYHui60efiZzkOLw5Ot4k",
-          "title": "Protocol insolvency",
+          "id": 24,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed royalties"
         },
         {
-          "id": "3h6wy927LyX4BU5D1TNHDj",
-          "title": "Theft of unclaimed yield",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "51kx0J6F10YDZv0URV2k5i",
-          "title": "Theft of unclaimed royalties",
+          "id": 26,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
         },
         {
-          "id": "4XcNOUJOE4vi6XrzeoGF1n",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 5056,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary freezing of funds of at least 24h"
         },
         {
-          "id": "3NErOukErMMMdzLR0px8qf",
-          "title": "Permanent freezing of unclaimed royalties",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "6k8hCzTZTpQC0SG10wyJtX",
-          "title": "Temporary freezing of funds of at least 24h",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "WeZOgPESqpAx1wtyuyYFx",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "1HrxZOOtqJfqNmNzA1GYsw",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "3sEN6BhOlFugNK7p5QUJTe",
-          "title": "Theft of gas",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "18kYUFLEFgLuhMHwG34I4j",
-          "title": "Unbounded gas consumption",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "34Bx0Hr7xsTS6lG0Z9Es66",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.\n\nFolks Finance are expanding with a new cross-chain lending protocol using a hub and spoke model. The hub chain, Avalanche, contains the main logic and state of the lending protocol. The spoke chains, initially EVM, act as an entry point for a user to interact with the protocol.\n\nChainlink CCIP and Wormhole Messaging are used to communicate between the spoke chains and hub chain. Circle CCTP is used for native cross chain transfers of USDC.\n\nFor more information about Folks Finance and their existing products, please visit https://folks.finance. \nFolks Finance provides rewards in USDC, denominated in USD.",

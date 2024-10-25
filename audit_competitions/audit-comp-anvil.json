@@ -95,58 +95,58 @@
       ],
       "impacts": [
         {
-          "id": "7w8Ot3gqh1qEEOlPx0QryD",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 5172,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Temporary freezing of funds within the TimeBasedCollateralPool for at least 48 hours"
         },
         {
-          "id": "7jeGRD7JXEnU8cGNd0WJNb",
-          "title": "Permanent freezing of funds",
+          "id": 5173,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of funds within the CollateralVault for at least 48 hours"
         },
         {
-          "id": "2No1lM1hdym6GjHIftG1s1",
-          "title": "Protocol insolvency",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "7aYLp53lhbFQ2XXfzTrRxL",
-          "title": "Temporary freezing of funds within the CollateralVault for at least 48 hours",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "4yZiWhqg5QErZQ6RaLivtd",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "22R4ckSKbURf2F1eZbXWmn",
-          "title": "Theft of gas",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "365IaCN2y77MKkh3WykJNZ",
-          "title": "Unbounded gas consumption",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "2l5fEhoRUKjfX0KDiKdGPP",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "4ZUJrbV5gxswrgJEk6pdBi",
-          "title": "Temporary freezing of funds within the TimeBasedCollateralPool for at least 48 hours",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "Anvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.\n\nFor more information about Anvil, please visit https://anvil.xyz/ \n\nAnvil provides rewards in USDT on Ethereum, denominated in USD.\n\nKYC is required.\n\nThis Audit Competition is running on mainnet. The following conditions apply:\n\n1. Anvil team will freeze the codebase during the duration of the Audit Competition:\n2. Duplicates are rewarded",

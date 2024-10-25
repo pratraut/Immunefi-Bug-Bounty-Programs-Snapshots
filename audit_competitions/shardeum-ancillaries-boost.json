@@ -121,100 +121,100 @@
       ],
       "impacts": [
         {
-          "id": "Tnrt5O8ZpLqVJj6NS2Gl8",
-          "title": "Execute arbitrary system commands",
+          "id": 4959,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Improperly disclosing confidential user information, such as: Email address, Phone number, Physical address, etc."
         },
         {
-          "id": "3vkvGrWgdDhlJ2Q3z9rdXh",
-          "title": "Retrieve sensitive data/files from a running server, such as: /etc/shadow, database passwords, blockchain keys (this does not include non-sensitive environment variables, open source code, or usernames)",
+          "id": 4960,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, e.g: Changing the first/last name of user, Enabling/disabling notifications"
         },
         {
-          "id": "7bQ1JahyaDNhm7m5HLJsqV",
-          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as: Changing registration information, Commenting, Voting, Making trades, Withdrawals, etc.",
+          "id": 4961,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Injecting/modifying the static content on the target application without JavaScript (reflected), such as: Reflected HTML injection, Loading external site data"
         },
         {
-          "id": "fA6oYXKwNHiW9cSHRasIy",
-          "title": "Direct theft of user funds",
+          "id": 4962,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction, such as: Iframing leading to modifying the backend/browser state (must have a PoC)"
         },
         {
-          "id": "5tNMVO7ttDDtdDB0qBjF1R",
-          "title": "Malicious interactions with an already-connected wallet, such as: Modifying transaction arguments or parameters, Substituting contract addresses, Submitting malicious transactions",
+          "id": 4963,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Taking over broken or expired outgoing links, such as: Social media handles, etc."
         },
         {
-          "id": "4Vj199HZ7fS7hcZS0ZuToM",
-          "title": "Taking down the application/website",
+          "id": 4964,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "low",
+          "title": "Temporarily disabling user to access target site, such as: Locking up the victim from login, Cookie bombing, etc."
         },
         {
-          "id": "79yZgBS6INlfLvCjcArEwV",
-          "title": "Injection of malicious HTML or XSS through metadata",
+          "id": 4965,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "high",
+          "title": "Taking down the application/website"
         },
         {
-          "id": "5Hu8NoSFzu1t6nEcZbJ03k",
-          "title": "Injecting/modifying the static content on the target application without JavaScript (persistent), such as: HTML injection without JavaScript, Replacing existing text with arbitrary text, Arbitrary file uploads, etc",
+          "id": 4966,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Injection of malicious HTML or XSS through metadata"
         },
         {
-          "id": "15QsA7Pmad7YcxEj5WB91q",
-          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as: Email, Password of the victim etc.",
+          "id": 4967,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Injecting/modifying the static content on the target application without JavaScript (persistent), such as: HTML injection without JavaScript, Replacing existing text with arbitrary text, Arbitrary file uploads, etc"
         },
         {
-          "id": "015Ztyqs8kVbQdifNMGGdT",
-          "title": "Redirecting users to malicious websites (open redirect)",
+          "id": 4968,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as: Email, Password of the victim etc."
         },
         {
-          "id": "5HJt2kNiXf1uhpiVk2PcUt",
-          "title": "Improperly disclosing confidential user information, such as: Email address, Phone number, Physical address, etc.",
+          "id": 52,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "medium",
+          "title": "Redirecting users to malicious websites (open redirect)"
         },
         {
-          "id": "4cdnsdlEc6YqgQv4W2UDAz",
-          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, e.g: Changing the first/last name of user, Enabling/disabling notifications",
+          "id": 35,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Execute arbitrary system commands"
         },
         {
-          "id": "1yHmyoPdUVHR1gDRBoRFMw",
-          "title": "Injecting/modifying the static content on the target application without JavaScript (reflected), such as: Reflected HTML injection, Loading external site data",
+          "id": 4969,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Retrieve sensitive data/files from a running server, such as: /etc/shadow, database passwords, blockchain keys (this does not include non-sensitive environment variables, open source code, or usernames)"
         },
         {
-          "id": "2sunHKdKmpJnw9rDTSbKwA",
-          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction, such as: Iframing leading to modifying the backend/browser state (must have a PoC)",
+          "id": 4970,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as: Changing registration information, Commenting, Voting, Making trades, Withdrawals, etc."
         },
         {
-          "id": "61nAYy6tcfOsYIQRl0T3Si",
-          "title": "Taking over broken or expired outgoing links, such as: Social media handles, etc.",
+          "id": 42,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Direct theft of user funds"
         },
         {
-          "id": "7yg9yCGOV0nG33kx5JtlRl",
-          "title": "Temporarily disabling user to access target site, such as: Locking up the victim from login, Cookie bombing, etc.",
+          "id": 4971,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Malicious interactions with an already-connected wallet, such as: Modifying transaction arguments or parameters, Substituting contract addresses, Submitting malicious transactions"
         }
       ],
       "programOverview": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever, while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent audit competitions. This audit competition, called Ancillaries, will cover the Web2 aspects of the project. This will cover seven components: Validator Gui, Validator CLI, Archiver, Explorer, Distrubutor/Collector libraries, RPC, and Shardus-Net networking code.\n\nThe Validator GUI is the website that optionally runs on each node. This allows the node operator to interact with their node. Despite our best efforts, the community likes to have this webpage available on the internet. The Validator CLI is the command line tool used to administer the node. The GUI calls commands in the CLI, or the operator can enter the commands manually. The Archive Server’s primary role is to hold the historical state of the network and accounts.Once the network has consensed on a state change, that information is saved to archive servers. The Explorer serves a similar function to [https://etherscan.io/](https://etherscan.io/). The relayer consists of two parts: collector and distributor. These two components work together to shuffle data between ancillaries, namely the archiver servers, RPC servers, and explorer. The RPC server acts as an API, allowing users to interact with the network and inject transactions. It is designed to be as compliant as possible with Ethereum’s RPC specification, though some differences exist. Finally, lib-net is the bottom level networking library for the Shardeum network. It is written in a mix of Rust and TypeScript.\n\nFor more information about Shardeum, please visit [https://shardeum.org/](https://shardeum.org/).\n\nShardeum provides rewards in USDC, denominated in USD.",

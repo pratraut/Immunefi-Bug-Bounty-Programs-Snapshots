@@ -94,124 +94,124 @@
       ],
       "impacts": [
         {
-          "id": "41mSihIUgsX4CBqbKcem5w",
-          "title": "Execute arbitrary system commands",
+          "id": 5063,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Taking over broken or expired outgoing links, such as:  Social media handles, etc."
         },
         {
-          "id": "N4AZ6kLlDV3RrgzQGiDRt",
-          "title": "Retrieve sensitive data/files from a running server, such as:   /etc/shadow, database passwords, blockchain keys (this does not include non-sensitive environment variables, open source code, or usernames)",
+          "id": 5064,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction:  Iframing leading to modifying the backend/browser state (must demonstrate impact with PoC)"
         },
         {
-          "id": "67F2NHqLHQzIcPwjCzlARD",
-          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as: Changing registration information, Commenting, Voting, Making trades, Withdrawals, etc.",
+          "id": 5065,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Temporarily disabling user to access target site, such as: Locking up the victim from login, Cookie bombing, etc."
         },
         {
-          "id": "5DYiS8fBWNPkrTLtw9lqxe",
-          "title": "Direct theft of user funds",
+          "id": 5066,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Improperly disclosing confidential user information, such as: Email address, Phone number, Physical address, etc."
         },
         {
-          "id": "3Yby3drhXU48KitLWRpcno",
-          "title": "Malicious interactions with an already-connected wallet, such as: Modifying transaction arguments or parameters, Substituting contract addresses, Submitting malicious transactions",
+          "id": 5067,
           "type": "websites_and_applications",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Taking down the application/website"
         },
         {
-          "id": "5C3ksPHNKeS0LmqN8yOR1Z",
-          "title": "Improperly disclosing confidential user information, such as: Email address, Phone number, Physical address, etc.",
+          "id": 5068,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Subdomain takeover with already-connected wallet interaction"
         },
         {
-          "id": "1HUi05U5MQx53V3BAxtnT0",
-          "title": "Taking down the application/website",
+          "id": 5069,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Injecting/modifying the static content on the target application without JavaScript (persistent), such as: HTML injection without JavaScript, Replacing existing text with arbitrary text, Arbitrary file uploads, etc"
         },
         {
-          "id": "5IM6GvyMd34q7VwUikC6yZ",
-          "title": "Subdomain takeover with already-connected wallet interaction",
+          "id": 5070,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as:  Email Password of the victim etc."
         },
         {
-          "id": "3SEofMK7qDbgZfCDXtcCnx",
-          "title": "Injecting/modifying the static content on the target application without JavaScript (persistent), such as: HTML injection without JavaScript, Replacing existing text with arbitrary text, Arbitrary file uploads, etc",
+          "id": 5071,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Improperly disclosing confidential user information, such as: Email address, Phone number, Physical address, etc."
         },
         {
-          "id": "3phKZXXDhHQ06dvwL2JioZ",
-          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as:  Email Password of the victim etc.",
+          "id": 52,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Redirecting users to malicious websites (open redirect)"
         },
         {
-          "id": "JOJFKUHXnA4R7W0Mall6Q",
-          "title": "Improperly disclosing confidential user information, such as: Email address, Phone number, Physical address, etc.",
+          "id": 5072,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Injection of malicious HTML or XSS through metadata"
         },
         {
-          "id": "36Yfxz6qc720dwdr1e9U19",
-          "title": "Redirecting users to malicious websites (open redirect)",
+          "id": 5073,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Subdomain takeover without already-connected wallet interaction"
         },
         {
-          "id": "BrnYm6htFvGC1jZmqorhT",
-          "title": "Injection of malicious HTML or XSS through metadata",
+          "id": 5074,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "RPC API crash affecting projects with greater than or equal to 25% of the market capitalization on top of the respective layer"
         },
         {
-          "id": "2s05X8Dmc4t9BCUlOljJPh",
-          "title": "Subdomain takeover without already-connected wallet interaction",
+          "id": 5075,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction: Changing the first/last name of user, Enabling/disabling notifications"
         },
         {
-          "id": "6f8birJZZhzdSOhkQTrxJ",
-          "title": "RPC API crash affecting projects with greater than or equal to 25% of the market capitalization on top of the respective layer",
+          "id": 5076,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Injecting/modifying the static content on the target application without JavaScript (reflected), such as: Reflected HTML injection, Loading external site data"
         },
         {
-          "id": "6qWRoFUgfb0bUT0FOdDlqH",
-          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction: Changing the first/last name of user, Enabling/disabling notifications",
+          "id": 35,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Execute arbitrary system commands"
         },
         {
-          "id": "1fkQce5WwvhPMN3eYAEe8Y",
-          "title": "Injecting/modifying the static content on the target application without JavaScript (reflected), such as: Reflected HTML injection, Loading external site data",
+          "id": 5077,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Retrieve sensitive data/files from a running server, such as:   /etc/shadow, database passwords, blockchain keys (this does not include non-sensitive environment variables, open source code, or usernames)"
         },
         {
-          "id": "659ruJzhfbrxm1OTepUlsR",
-          "title": "Taking over broken or expired outgoing links, such as:  Social media handles, etc.",
+          "id": 5078,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as: Changing registration information, Commenting, Voting, Making trades, Withdrawals, etc."
         },
         {
-          "id": "3i0f3O6iQHq7E8Gq7oZSK0",
-          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction:  Iframing leading to modifying the backend/browser state (must demonstrate impact with PoC)",
+          "id": 42,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Direct theft of user funds"
         },
         {
-          "id": "zV1ElXXMALlMF8h1WyOoh",
-          "title": "Temporarily disabling user to access target site, such as: Locking up the victim from login, Cookie bombing, etc.",
+          "id": 5079,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Malicious interactions with an already-connected wallet, such as: Modifying transaction arguments or parameters, Substituting contract addresses, Submitting malicious transactions"
         }
       ],
       "programOverview": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent audit competitions. This audit competition, called Ancillaries II, will cover the Web2 aspects of the project. This will cover three components: The validator GUI, validator CLI, Archive Server, and the RPC server.\n\nFor more information about Shardeum, please visit [https://shardeum.org/](https://shardeum.org/).\n\nShardeum provides rewards in USDC, denominated in USD.",

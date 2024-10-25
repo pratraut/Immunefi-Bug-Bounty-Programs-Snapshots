@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2jVzkkyroD7248F4telELR/8fbbd1aa1f04a15a99341e7c9caed38a/GhostMarket.jpeg",
       "launchDate": "2022-09-14T17:30:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-07-31T15:58:45.014Z",
+      "updatedDate": "2024-10-25T15:19:56.122Z",
       "kyc": false,
       "rewards": [
         {
@@ -426,268 +426,268 @@
       ],
       "impacts": [
         {
-          "id": "5OUTLl45MYjCaNwFuWrCSl",
-          "title": "Any governance voting result manipulation",
+          "id": 3207,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Smart contract fails to deliver promised returns, but doesn’t lose value"
         },
         {
-          "id": "nVn4HW3I4HjR23NtUj8nX",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 3208,
+          "type": "websites_and_applications",
+          "severity": "low",
+          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction such as iframing leading to modifying the backend/browser state (demonstrate impact with PoC)"
+        },
+        {
+          "id": 3209,
+          "type": "websites_and_applications",
+          "severity": "low",
+          "title": "Any impact involving a publicly released CVE without a working PoC"
+        },
+        {
+          "id": 3210,
+          "type": "websites_and_applications",
+          "severity": "low",
+          "title": "Taking over broken or expired outgoing links such as social media handles, etc."
+        },
+        {
+          "id": 3211,
+          "type": "websites_and_applications",
+          "severity": "low",
+          "title": "Temporarily disabling user to access target site, such as locking up the victim from login, cookie bombing, etc."
+        },
+        {
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "5P1hTQ5MSMGsoPHsVbkTbT",
-          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "id": 24,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed royalties"
         },
         {
-          "id": "7ucrNUOCyf5TkrZBq9p2Ez",
-          "title": "Permanent freezing of funds",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "3I1AN85UR649lzCEwJVUJc",
-          "title": "Permanent freezing of NFTs",
+          "id": 26,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
         },
         {
-          "id": "4liM30psdHadKAmu07Lyc9",
-          "title": "Miner-extractable value (MEV)",
+          "id": 3212,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of funds for any amount of time"
         },
         {
-          "id": "24o4aoa7B6YG9W1kDtJEXM",
-          "title": "Unauthorized minting of NFTs",
+          "id": 3213,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing NFTs for any amount of time"
         },
         {
-          "id": "6d8AJcbk7md2XrvgMhnDak",
-          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT",
+          "id": 3214,
+          "type": "websites_and_applications",
+          "severity": "high",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc."
+        },
+        {
+          "id": 3215,
+          "type": "websites_and_applications",
+          "severity": "high",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc."
+        },
+        {
+          "id": 3216,
+          "type": "websites_and_applications",
+          "severity": "high",
+          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc."
+        },
+        {
+          "id": 49,
+          "type": "websites_and_applications",
+          "severity": "high",
+          "title": "Subdomain takeover without already-connected wallet interaction"
+        },
+        {
+          "id": 29,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "4arLeqX6Y6X3MNIMA0RhHV",
-          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)",
+          "id": 3217,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Block stuffing for profit"
         },
         {
-          "id": "3DR2c0dZvJt5nYXtV9n4eg",
-          "title": "Protocol insolvency",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "6YKoQjVovBNPTvFNYT1nC3",
-          "title": "Execute arbitrary system commands",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "3zX7AYvfyPm0kXIo6gAXka",
-          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "5N8IkZQJRbs8i5RR9qxe2h",
-          "title": "Taking down the application/website",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "1Ehr9iLlvobqCfRTxBU6Sm",
-          "title": "Taking down the NFT URI",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "6mxuNc0Kn9dhuXjjlHzoUO",
-          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "2ZVuy7cy88D4Vony9BlJQM",
-          "title": "Changing the NFT metadata",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "4yK0uLYcjNIFCNhItorDLQ",
-          "title": "Subdomain takeover with already-connected wallet interaction",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "1odFnM9zGzhKN3aB8mLcJ7",
-          "title": "Direct theft of user funds",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "17YRI9fiZDeVTpgj0xy2WU",
-          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "MLPAiHM2HO0DmPPj3O1j7",
-          "title": "Direct theft of user NFTs",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "6imoGoO6S1FOm0mKYYuIDB",
-          "title": "Injection of malicious HTML or XSS through NFT metadata",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "4TR2VIe3am9aWd6FXObNDF",
-          "title": "Theft of unclaimed yield",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "6QAjUkhO59aCHMgtm0E0ZB",
-          "title": "Theft of unclaimed royalties",
+          "id": 3218,
+          "type": "websites_and_applications",
+          "severity": "medium",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the first/last name of user, or en/disabling notification"
+        },
+        {
+          "id": 3219,
+          "type": "websites_and_applications",
+          "severity": "medium",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data"
+        },
+        {
+          "id": 52,
+          "type": "websites_and_applications",
+          "severity": "medium",
+          "title": "Redirecting users to malicious websites (open redirect)"
+        },
+        {
+          "id": 3220,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Any governance voting result manipulation"
         },
         {
-          "id": "6rLXUljcYypMtJvaKenhw",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "7ugT5FKdseIp9IbKvnJtfW",
-          "title": "Permanent freezing of unclaimed royalties",
+          "id": 16,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties"
         },
         {
-          "id": "7mRwAbuqfGfKLw26XjBE8R",
-          "title": "Temporary freezing of funds for any amount of time",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "rlFrKFjSfhixCrHgNmFyi",
-          "title": "Temporary freezing NFTs for any amount of time",
+          "id": 18,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Permanent freezing of NFTs"
         },
         {
-          "id": "1DwdcrpcphFLJi2Jecvtv3",
-          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
-          "type": "websites_and_applications",
-          "severity": "high"
-        },
-        {
-          "id": "2kN3syqsl218H6ikbyYZZj",
-          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
-          "type": "websites_and_applications",
-          "severity": "high"
-        },
-        {
-          "id": "6C6Dj00yOUbqsCHLuJDkUS",
-          "title": "Improperly disclosing confidential user information such as email address, phone number, physical address, etc.",
-          "type": "websites_and_applications",
-          "severity": "high"
-        },
-        {
-          "id": "1QRqk6bRHcFR9h7Hg3mJWO",
-          "title": "Subdomain takeover without already-connected wallet interaction",
-          "type": "websites_and_applications",
-          "severity": "high"
-        },
-        {
-          "id": "31tGWmL8q7Nx4kPRMqw8cl",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 3221,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Miner-extractable value (MEV)"
         },
         {
-          "id": "9aqwVGrrRAQU25FPRNJfJ",
-          "title": "Block stuffing for profit",
+          "id": 19,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Unauthorized minting of NFTs"
         },
         {
-          "id": "5g8ATFAhTPs6FnzYSQsC9u",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 20,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT"
         },
         {
-          "id": "4hcLZyIuHLPYoMnPY4BE8R",
-          "title": "Theft of gas",
+          "id": 21,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)"
         },
         {
-          "id": "6EHsYWYHTSVqI6e7ciK5C5",
-          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the first/last name of user, or en/disabling notification",
-          "type": "websites_and_applications",
-          "severity": "medium"
-        },
-        {
-          "id": "2MT6YJhw5XepCSL6OEdmZ5",
-          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data",
-          "type": "websites_and_applications",
-          "severity": "medium"
-        },
-        {
-          "id": "4JATyQXVgaNNtxfakxRs0X",
-          "title": "Redirecting users to malicious websites (Open Redirect)",
-          "type": "websites_and_applications",
-          "severity": "medium"
-        },
-        {
-          "id": "2HAb20jpIZDpTRafkwtI8C",
-          "title": "Smart contract fails to deliver promised returns, but doesn’t lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         },
         {
-          "id": "69bSX5Whv5WZHRgLRXtOm1",
-          "title": "Changing details of other users (including modifying browser local storage) without already-connected wallet interaction and with significant user interaction such as iframing leading to modifying the backend/browser state (demonstrate impact with PoC)",
+          "id": 35,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Execute arbitrary system commands"
         },
         {
-          "id": "6i0eUqezJ0I5qdf1UejhzG",
-          "title": "Any impact involving a publicly released CVE without a working PoC",
+          "id": 3222,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)"
         },
         {
-          "id": "4LznwhGSvE7lhp9xMAZ18X",
-          "title": "Taking over broken or expired outgoing links such as social media handles, etc.",
+          "id": 37,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Taking down the application/website"
         },
         {
-          "id": "4paTkHdlamDHCUW9ddEx1N",
-          "title": "Temporarily disabling user to access target site, such as locking up the victim from login, cookie bombing, etc.",
+          "id": 38,
           "type": "websites_and_applications",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Taking down the NFT URI"
+        },
+        {
+          "id": 3223,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc."
+        },
+        {
+          "id": 3224,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Changing the NFT metadata"
+        },
+        {
+          "id": 41,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Subdomain takeover with already-connected wallet interaction"
+        },
+        {
+          "id": 42,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Direct theft of user funds"
+        },
+        {
+          "id": 3225,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions"
+        },
+        {
+          "id": 44,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Direct theft of user NFTs"
+        },
+        {
+          "id": 3226,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Injection of malicious HTML or XSS through NFT metadata"
         }
       ],
       "programOverview": "GhostMarket is a powerful cross-chain Non-Fungible Tokens (NFTs) marketplace, offering a comprehensive selection of features wrapped in a gorgeous and intuitive user interface.\n\nFor more information about GhostMarket, please visit [https://ghostmarket.io/](https://ghostmarket.io/).",
       "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
       "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nCritical smart contract vulnerabilities are capped at 10% of economic damage or maximum bounty, primarily taking into consideration funds at risk, but also PR and branding aspects, at the discretion of the team. However, there is a minimum reward of USD 15 000. \n\nAll Medium, High and Critical Smart Contract bug reports require a suggestion for a fix to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nAll web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. All Smart Contract bug reports require a PoC to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nThe following vulnerabilities are not eligible for a reward:\n\n  - All vulnerabilities found in [Certik security review 1](https://drive.google.com/file/d/11JMyruL75E2UY_b13ONrcd1tQ9wk-5el/view?usp=sharing) \n  - All vulnerabilities found in [Certik security review 2](https://drive.google.com/file/d/1nLnzYUSWN2BUb-C8EewHSyifj4OhiCs3/view?usp=sharing)\n  - All vulnerabilities found in [Red4sec security review](https://drive.google.com/file/d/1OtJXFpBskhpiaqv9t4v6i9tJzWbf_OeH/view?usp=sharing)\n\nPayouts are handled by the __GhostMarket__ team directly and are denominated in USD. However, payouts are done in __GM__.",
-      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n\n__Smart Contracts and Blockchain__\n  - Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\n__Websites and Apps__\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Attacks requiring physical access to the victim device\n  - Attacks requiring access to the local network of the victim\n  - Reflected plain text injection ex: url parameters, path, etc.\n    - This does not exclude reflected HTML injection with or without javascript\n    - This does not exclude persistent plain text injection\n  - Self-XSS\n  - Captcha bypass using OCR without impact demonstration\n  - CSRF with no state modifying security impact (ex: logout CSRF)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n  - Server-side non-confidential information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used only to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Feature requests\n  - Issues related to the frontend without concrete impact and PoC\n  - Best practices issues without concrete impact and PoC\n  - Vulnerabilities primarily caused by browser/plugin defects\n  - Leakage of non sensitive api keys ex: etherscan, Infura, Alchemy, etc.\n  - Any vulnerability exploit requiring browser bugs for exploitation. ex: CSP bypass\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any testing with mainnet or public testnet contracts; all testing should be done on private testnets\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty",
+      "outOfScopeAndRules": ".",
       "assetsBodyV2": "All smart contracts of GhostMarket can be found at [https://github.com/OnBlockIO](https://github.com/OnBlockIO). However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nThough only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target. \n\nIf an impact can be caused to any other asset managed by GhostMarket that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project. This only applies to Critical and High impacts.",
       "impactsBody": null,
       "immunefiStandard": true,
@@ -773,19 +773,29 @@
       "responsiblePublicationCategory": null,
       "knownIssues": [],
       "knownIssueAssurance": false,
-      "defaultOutOfScopeBlockchain": null,
-      "defaultOutOfScopeSmartContract": null,
-      "defaultOutOfScopeGeneral": null,
-      "defaultOutOfScopeWebAndApplications": null,
-      "defaultProhibitedActivities": null,
-      "defaultFeasibilityLimitations": null,
-      "customOutOfScopeInformation": null,
+      "defaultOutOfScopeBlockchain": "- Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks",
+      "defaultOutOfScopeSmartContract": "- Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks",
+      "defaultOutOfScopeGeneral": "- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (including, but not limited to: governance and strategist contracts) without additional modifications to the privileges attributed\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n- Impacts requiring phishing or other social engineering attacks against project's employees and/or customers",
+      "defaultOutOfScopeWebAndApplications": "- Theoretical impacts without any proof or demonstration\n- Impacts involving attacks requiring physical access to the victim device\n- Impacts involving attacks requiring access to the local network of the victim\n- Reflected plain text injection (e.g. url parameters, path, etc.)\n  - This does not exclude reflected HTML injection with or without JavaScript\n  - This does not exclude persistent plain text injection\n- Any impacts involving self-XSS\n- Captcha bypass using OCR without impact demonstration\n- CSRF with no state modifying security impact (e.g. logout CSRF)\n- Impacts related to missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n- Server-side non-confidential information disclosure, such as IPs, server names, and most stack traces\n- Impacts causing only the enumeration or confirmation of the existence of users or tenants\n- Impacts caused by vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n- Lack of SSL/TLS best practices\n- Impacts that only require DDoS\n- UX and UI impacts that do not materially disrupt use of the platform\n- Impacts primarily caused by browser/plugin defects\n- Leakage of non sensitive API keys (e.g. Etherscan, Infura, Alchemy, etc.)\n- Any vulnerability exploit requiring browser bugs for exploitation (e.g. CSP bypass)\n- SPF/DMARC misconfigured records)\n- Missing HTTP Headers without demonstrated impact\n- Automated scanner reports without demonstrated impact\n- UI/UX best practice recommendations\n- Non-future-proof NFT rendering",
+      "defaultProhibitedActivities": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)",
+      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\n\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)",
+      "customOutOfScopeInformation": "  - Best practice critiques",
       "customProhibitedActivities": [],
       "rewardsTokenNetwork": null,
       "rewardsToken": "GM",
       "eligibilityCriteria": [],
       "eligibilityCriteriaAdditionalInformation": null,
-      "programCodebases": [],
+      "programCodebases": [
+        {
+          "id": 67,
+          "programId": 1978,
+          "title": "GhostMarket Codebase",
+          "description": "Github Codebase",
+          "url": "https://github.com/OnBlockIO",
+          "createdAt": "2024-10-25T15:14:28.417Z",
+          "updatedAt": "2024-10-25T15:14:28.417Z"
+        }
+      ],
       "programDocumentations": [],
       "premiumTriaging": false
     },

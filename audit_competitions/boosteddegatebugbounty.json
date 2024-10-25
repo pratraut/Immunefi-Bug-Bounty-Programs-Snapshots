@@ -94,148 +94,148 @@
       ],
       "impacts": [
         {
-          "id": "5UKxWI5lQLDy3YjFlSq3Q7",
-          "title": "Direct theft of funds exceeding 1,000,000 USD from the Default Deposit Contract",
+          "id": 4570,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Circuit fails to work correctly, but doesn’t lose value (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "riaPHA05ZjEtQUsYrvf6P",
-          "title": "Permanent freezing of funds exceeding 2,500,000 USD in the Default Deposit Contract.",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "7syg6Y0yZD234CsU9F9ZFo",
-          "title": "Theft of funds from the Default Deposit Contract that requires malicious actions from the DeGate Operator.",
+          "id": 4571,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Theft of funds from the Default Deposit Contract that requires malicious actions from the DeGate Operator."
         },
         {
-          "id": "4UTSuHJWuyJIzK39oHqfwG",
-          "title": "Permanent freezing of funds from the Default Deposit Contract that requires malicious actions from the DeGate Operator.",
+          "id": 4572,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of funds from the Default Deposit Contract that requires malicious actions from the DeGate Operator."
         },
         {
-          "id": "48AWheAi3vPIGhaF5umAO3",
-          "title": "Direct theft of user funds from the Default Deposit Contract that is less than 1,000,000 USD.",
+          "id": 4573,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Direct theft of user funds from the Default Deposit Contract that is less than 1,000,000 USD."
         },
         {
-          "id": "suz81uzYAqzVUwnEh4xTB",
-          "title": "Permanent freezing of funds in the Default Deposit Contract that is less than 2,500,000 USD.",
+          "id": 4574,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of funds in the Default Deposit Contract that is less than 2,500,000 USD."
         },
         {
-          "id": "45LmynwxKaiyuIh8ZKimbI",
-          "title": "Force DeGate into Exodus Mode",
+          "id": 4575,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Force DeGate into Exodus Mode"
         },
         {
-          "id": "6u9GeVKhgAO8dQrrgf2JDi",
-          "title": "Impact of this malicious contract verification through zk-proof",
+          "id": 4576,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Impact of this malicious contract verification through zk-proof"
         },
         {
-          "id": "5aCxLGpQC8JPgGbJyx1AyT",
-          "title": "The amount of tokens in the L2 is inconsistent with that of the L1, except for Non-Standard tokens (Zero Knowledge Proof Circuit)",
+          "id": 4577,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "The amount of tokens in the L2 is inconsistent with that of the L1, except for Non-Standard tokens (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "4Q4sXJhv0qk1T2wEUzpsn6",
-          "title": "Climbing blocks fails to recovery the asset tree (Zero Knowledge Proof Circuit)",
+          "id": 4578,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Climbing blocks fails to recovery the asset tree (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "3tiZOGazX45k1QuWVF8rzR",
-          "title": "Temporary freezing of funds: Minimum freezing of 15 days (Zero Knowledge Proof Circuit)",
+          "id": 4579,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary freezing of funds: Minimum freezing of 15 days (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "8AlmP2NazfobJDzGKY6Uv",
-          "title": "Prevent new token from registering (Zero Knowledge Proof Circuit)",
+          "id": 4580,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Prevent new token from registering (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "1p3LlPdRLFXbqenLaJP099",
-          "title": "Steal trading fee or gas fee (Zero Knowledge Proof Circuit)",
+          "id": 4581,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Steal trading fee or gas fee (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "3qxfFKEvR7Gbf1tLT1bBuT",
-          "title": "Prevent new users from registering (Zero Knowledge Proof Circuit)",
+          "id": 4582,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Prevent new users from registering (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "1O4kZX5kWb2f1EHBIquKPo",
-          "title": "The account cannot be used (Zero Knowledge Proof Circuit)",
+          "id": 4583,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "The account cannot be used (Zero Knowledge Proof Circuit)"
         },
         {
-          "id": "4UI23g85ZWlTCCGwSvYiPN",
-          "title": "Theft of unclaimed rewards",
+          "id": 4584,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Theft of unclaimed rewards"
         },
         {
-          "id": "QjA9COih1uAgtUMUf2jzp",
-          "title": "Permanent freezing of unclaimed rewards",
+          "id": 4585,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed rewards"
         },
         {
-          "id": "1XLoPPf9CoIRsyiuRznGuy",
-          "title": "Smart contract unable to operate due to lack of token funds: Minimum 24hrs",
+          "id": 4586,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds: Minimum 24hrs"
         },
         {
-          "id": "Eiy0xG5JgXWgYBLjFr0yc",
-          "title": "Block stuffing for profit",
+          "id": 4587,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Block stuffing for profit"
         },
         {
-          "id": "5GjPg1N9XvDl3Yb8gKQxvt",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "7w5SRrhke7OzMauJSLUtgw",
-          "title": "Theft of gas",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "1lUVGYpyWm8pZsc4Y32mCM",
-          "title": "Unbounded gas consumption",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "4uSQ5fyWxr6t16Osbxwi7Q",
-          "title": "Circuit fails to work correctly, but doesn’t lose value (Zero Knowledge Proof Circuit)",
+          "id": 4588,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Direct theft of funds exceeding 1,000,000 USD from the Default Deposit Contract"
         },
         {
-          "id": "6CIprQuYPkiuW0FZ6aPrhJ",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 4589,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Permanent freezing of funds exceeding 2,500,000 USD in the Default Deposit Contract."
         }
       ],
       "programOverview": "__Audit Competition Overview__\n\nA total of $400,000 USD in rewards is available in this audit competition. A baseline reward pool of $50,000 USD will be distributed among participants even if no valid bugs are found. For this audit competition, duplicates and private known issues are valid for a reward.\n\nDeGate will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to DeGate or Immunefi in the [DeGate Audit Competition Discord channel.](https://discord.com/channels/787092485969150012/1173840561455775744)\n\nWhen the audit competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event. \n\nDeGate deployed approximately 500 nSLOC designed to allow them to upgrade their contracts. This new code is the target of this audit competition. DeGate is most interested in bugs in how their new contracts were deployed and how they interact with their protocol.\n\nA high level overview of the code which is in scope for this audit competition can be found here: [https://github.com/degatedev/protocols/commit/180138015197c886ec3c87efa8bf0031b653359f#commitcomment-132582143](https://github.com/degatedev/protocols/commit/180138015197c886ec3c87efa8bf0031b653359f#commitcomment-132582143)\n\nOnly the proxies themselves are in scope for this audit competition. Bugs in the implementation contracts are out of scope, but are valid for a reward in [DeGate's normal bug bounty program,](https://immunefi.com/bounty/degate/) and should be submitted there instead.\n\n__Project Overview__\n\n[DeGate](https://degate.com/) is a decentralized orderbook exchange (DEX) built on the Ethereum blockchain that utilizes zero-knowledge technology. DeGate DEX offers spot market trading with limit orders and also offers a grid trading function.\n\nDeGate operates as a decentralized autonomous organization (DAO). The DEX platform is focused on being user-friendly and is built on the principle of Trustlessness. With DeGate’s unique Efficient Gas Saving technology, users can expect super-low gas fees while using a decentralized protocol. Another critical component of DeGate is the Permissionless Listing feature which enables any token to be listed in a permissionless manner on DeGate’s orderbook DEX.\n\nFor more information about DeGate, visit [https://docs.degate.com](https://docs.degate.com)",

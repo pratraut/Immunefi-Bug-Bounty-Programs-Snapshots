@@ -970,58 +970,58 @@
       ],
       "impacts": [
         {
-          "id": "3EKUH7eOBAqtT1xUinwmcU",
-          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "7JvnlFH9lPMnrs1MbmyaYX",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "5gHGQLUr7ct3z4SqL8QgC9",
-          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "id": 4762,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of funds for at least 1 hour"
         },
         {
-          "id": "6CEjc3TLpXH5sjYk2ewoCS",
-          "title": "Permanent freezing of funds",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "0hl4iFKcc2DLh4HiHfnVr",
-          "title": "Protocol insolvency",
+          "id": 14,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "critical",
+          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results"
         },
         {
-          "id": "4kWLzYmuQjuSmXJ5BAJimg",
-          "title": "Theft of unclaimed yield",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "1mA21cqEewHAgDqAZJyAne",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 16,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties"
         },
         {
-          "id": "18AmRsbYi27E1p9jkZDLp9",
-          "title": "Temporary freezing of funds for at least 1 hour",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "73GjoBN6llGon26ACFEby3",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "ZeroLend is a decentralized lending protocol built on zkSync Era.\n\nZeroLend's core product is its decentralized non-custodial liquidity market. ZeroLend is a fork of [AAVE V3](https://aave.com/) with changes in the incentive mechanisms that make it similar to [Radiant Capital](https://radiant.capital/).\n\nFor more information about ZeroLend, please visit https://zerolend.xyz \n\nZeroLend provides rewards in USDC, denominated in USD.",

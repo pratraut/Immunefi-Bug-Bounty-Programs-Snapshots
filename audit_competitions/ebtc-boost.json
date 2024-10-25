@@ -166,82 +166,82 @@
       ],
       "impacts": [
         {
-          "id": "Uqy1W3LeBRrMjrBUHJ7uM",
-          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "7K6y4mbnS7mB0yypQMjWJh",
-          "title": "Direct theft of 2 stETH worth of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "d9EjHlWXHD2IM9fPfCk04",
-          "title": "Permanent freezing of funds",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "3jMAY0T0XpIyruiL96Wrps",
-          "title": "Protocol insolvency",
+          "id": 4748,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of funds for at least 15 minutes"
         },
         {
-          "id": "5ecH5PJPb17qR0bjVya08I",
-          "title": "Theft of unclaimed yield",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "3hrFfKiXGr6kOxVYhoaAMx",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "6q6VZQCnwYO8KJx0XvvCfI",
-          "title": "Temporary freezing of funds for at least 15 minutes",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "2uc5Khotrri2H8dpP4Y2Bc",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "7ITs1nlnfIu9xhpt7tdwV5",
-          "title": "Block stuffing",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "68cr4Gn9h09lKtGyPKQlbz",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 14,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results"
         },
         {
-          "id": "2zZuANwPLxlP3FLfsti0rl",
-          "title": "Theft of gas",
+          "id": 4749,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of 2 stETH worth of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "TkWoxu8OANzalxQ0I2gtR",
-          "title": "Unbounded gas consumption",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "67fVhiQabL11KQqJ4bnbMN",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "eBTC is a collateralized crypto asset soft pegged to the price of Bitcoin and built on the Ethereum network. It is based on the Liquity protocol and backed exclusively by Staked Ether (stETH). The protocol is designed with an immutable core with minimized counterparty reliance and governance. \n\nIt’s designed to be the most decentralized synthetic BTC in DeFi and offers the ability for anyone in the world to borrow BTC at no cost.\n\n\nAfter locking up stETH as collateral and creating an individual position called a CDP, the user can get instant liquidity by minting eBTC. Each CDP is required to be collateralized at a fixed minimum ratio determined by the protocol.\n\nThe redemption and liquidation mechanisms help ensure that stability is maintained through economically-driven user interactions and arbitrage, rather than through active governance or monetary interventions.\n\neBTC is built by [BadgerDAO](https://badger.com/). For more information about eBTC, please visit [twitter](https://twitter.com/eBTCprotocol) and the [docs](https://docs.ebtc.finance/ebtc/).",

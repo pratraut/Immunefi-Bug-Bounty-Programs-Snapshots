@@ -85,64 +85,64 @@
       ],
       "impacts": [
         {
-          "id": "4rp8A9NhGNrU3EDCiLY9AG",
-          "title": "Network not being able to confirm new transactions (total network shutdown)",
+          "id": 12,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Shutdown of greater than 10% or equal to but less than 30% of network processing nodes without brute force actions, but does not shut down the network"
         },
         {
-          "id": "5NqhzLB74Wt7KvctGJeJVW",
-          "title": "Direct loss of funds",
+          "id": 13,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Modification of transaction fees outside of design parameters"
         },
         {
-          "id": "1G8CwVi93iZL8lfYKh1zJz",
-          "title": "Permanent freezing of funds (fix requires hardfork)",
+          "id": 5,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Unintended chain split (network partition)"
         },
         {
-          "id": "ioLde6bXXZ38teGx2GDzy",
-          "title": "Unintended chain split (network partition)",
+          "id": 4957,
           "type": "blockchain_dlt",
-          "severity": "high"
+          "severity": "high",
+          "title": "RPC API crash affecting projects with greater than or equal to 25% of the market capitalization on top of the respective layer"
         },
         {
-          "id": "3OVul7uuZevL3J189j1sBx",
-          "title": "RPC API crash affecting projects with greater than or equal to 25% of the market capitalization on top of the respective layer",
+          "id": 4958,
           "type": "blockchain_dlt",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Causing network processing nodes to process transactions from the transaction queue beyond set parameters"
         },
         {
-          "id": "22yax2f8gTBGe5XnZxn0wd",
-          "title": "Causing network processing nodes to process transactions from the transaction queue beyond set parameters",
+          "id": 9,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Increasing network processing node resource consumption by at least 30% without brute force actions, compared to the preceding 24 hours"
         },
         {
-          "id": "6BQA1Y9rapjZl3MwCGR0Ow",
-          "title": "Increasing network processing node resource consumption by at least 30% without brute force actions, compared to the preceding 24 hours",
+          "id": 10,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network"
         },
         {
-          "id": "7A7twTfdSLpyqmQRvW7WoN",
-          "title": "Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network",
+          "id": 1,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Network not being able to confirm new transactions (total network shutdown)"
         },
         {
-          "id": "1hpAwFYObeVr4HaW0ufpSE",
-          "title": "Shutdown of greater than 10% or equal to but less than 30% of network processing nodes without brute force actions, but does not shut down the network",
+          "id": 3,
           "type": "blockchain_dlt",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Direct loss of funds"
         },
         {
-          "id": "22tFsQX4QzxitROBLiQCNq",
-          "title": "Modification of transaction fees outside of design parameters",
+          "id": 4,
           "type": "blockchain_dlt",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Permanent freezing of funds (fix requires hardfork)"
         }
       ],
       "programOverview": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent audit competitions. This audit competition, called Core, will cover the Web3 aspects of the project, as well as some internal libs. This will cover three components: Shardus Core, Shardeum Validator, and Crypto Utils library. \n\n[Shardus Core](https://github.com/shardeum/shardus-core/) covers the Layer 1, p2p and consensus protocol. [Shardeum Validator](https://github.com/shardeum/shardeum) is the L2 EVM-compatible distributed application (DApp). Everything here except smart contracts is in scope. Finally, the [crypto utils](https://github.com/shardeum/lib-crypto-utils) library holds wrappers for cryptographic functions used throughout the Shardeum Foundation codebase.\n\nFor more information about Shardeum, please visit [https://shardeum.org/](https://shardeum.org/). \n\nShardeum provides rewards in USDC, denominated in USD.",

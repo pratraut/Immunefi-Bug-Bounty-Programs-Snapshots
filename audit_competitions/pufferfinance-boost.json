@@ -85,70 +85,70 @@
       ],
       "impacts": [
         {
-          "id": "7qjlF2bg0T9W3VvClEgnyG",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "uHVxIZNUoypFeqyD4xwFl",
-          "title": "Permanent freezing of funds",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "2J4mA8lHEV5KYp9Kut9CAn",
-          "title": "Protocol insolvency",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "7MExlIElemZ85z6cywYTVv",
-          "title": "Theft of unclaimed yield",
+          "id": 4750,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary freezing of funds for at least 1 hour"
         },
         {
-          "id": "1ehigzynSZMDCgrhWfOqwb",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "1r5sXlCuFyDKDknSkqk5Tf",
-          "title": "Temporary freezing of funds for at least 1 hour",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "4li7AANGeDVchje96SSEob",
-          "title": "Block stuffing",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "1wNiGedgaxVJleBiwDlBUK",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "2lDV1ufJjyAoRoRbueuDhd",
-          "title": "Theft of gas",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "2pBsRdtknZqJhv72hPOM9u",
-          "title": "Unbounded gas consumption",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "2nOSr6SbSStXEXgdM6Rsfu",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "Puffer is a decentralized [native liquid restaking](https://pufferfinance.github.io/docs-dev/protocol/restaking-modules/#native-restaking-) protocol (nLRP) built on [Eigenlayer](https://www.eigenlayer.xyz/). It makes native restaking on Eigenlayer more accessible, allowing anyone to run an Ethereum Proof of Stake (PoS) validator while supercharging their rewards.\n\n\nThe current scope is only to examine the set of smart contracts we have already deployed. These smart contracts allow the depositing of stETH and allow a multisig to sign off on a transaction to deposit the stETH assets to the EigenLayer stETH Strategy smart contract. \n\n\n\n\nFor more information about Puffer Finance, please visit [https://www.puffer.fi/](https://www.puffer.fi/)",

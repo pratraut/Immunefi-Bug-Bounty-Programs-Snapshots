@@ -151,82 +151,82 @@
       ],
       "impacts": [
         {
-          "id": "1yjUZtrK5SMzJek1b2z2mX",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "1f149Sj38KIa88Oec4wNhi",
-          "title": "Permanent freezing of funds",
+          "id": 24,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed royalties"
         },
         {
-          "id": "7rjImmio32T9jgEEDQhWj",
-          "title": "Protocol insolvency",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "26WDTaiisJeTcKO8qRYYxZ",
-          "title": "Theft of unclaimed yield",
+          "id": 26,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
         },
         {
-          "id": "6qzobynpXnblapCDAxLwno",
-          "title": "Theft of unclaimed royalties",
+          "id": 5055,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary freezing of funds for at least 1 week"
         },
         {
-          "id": "kkqpw0AL59wKjEvBTCJL5",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "5hWf5cHEZnItFcGbawlCe9",
-          "title": "Permanent freezing of unclaimed royalties",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "4B5z98NveROXuDqZ3r9ULX",
-          "title": "Temporary freezing of funds for at least 1 week",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "1SXkktDRouI2S4x6sXKtxK",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "5k8dp14yk4EV7bKn8dfSIX",
-          "title": "Block stuffing",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "6Z67EEkqyi4IzRmEjkhiAi",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "2QPd4RrTced1ifL7uDCz71",
-          "title": "Theft of gas",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "3ghqxBJwn8COVTQSpRV8EH",
-          "title": "Unbounded gas consumption",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "Lido is a liquid staking solution for Ethereum backed by industry-leading staking providers. Lido lets users stake their ETH - without locking assets or maintaining infrastructure - whilst participating in on-chain activities, e.g. lending.\n\nThe Decentralized Validator Vault, developed by Mellow, will be utilized to direct net-new stake to the Lido Simple DVT Module, furthering the decentralization of validators using the Lido protocol. The vault will empower solo and community stakers to run more validators via Lido along with professional node operators.\n\nStakers in the vault will receive points from the two major DVT providers, Obol & SSV Network, as well as points from Mellow. In addition, by staking in the vault, users will also hold a wstETH position within the vault, represented by an LP token.\n\nFor more information about Mellow Vault, please visit [https://app.mellow.finance/vaults/ethereum-dvsteth](https://app.mellow.finance/vaults/ethereum-dvsteth). \n\nFor more information about Lido, please visit [Lido.fi](https://lido.fi/). \n\nLido provides rewards in DAI, denominated in USD.",

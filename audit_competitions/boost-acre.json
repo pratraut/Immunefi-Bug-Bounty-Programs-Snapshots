@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0cbT2nwEwQOYtYtnErdn5/29aa15cc2c2cdcec374f927e50bf9b58/ACRE_logo.png",
       "launchDate": "2024-08-20T08:00:25.000Z",
       "endDate": "2024-09-03T08:00:00.000Z",
-      "updatedDate": "2024-10-15T14:07:41.826Z",
+      "updatedDate": "2024-10-25T09:56:27.874Z",
       "kyc": false,
       "rewards": [
         {
@@ -94,82 +94,82 @@
       ],
       "impacts": [
         {
-          "id": "3806On58xtawLbApf8hCtD",
-          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "7wLlLKokxGbvjjdMuJ12ci",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "1y4EVgJoA9JNNHwYPwuuSf",
-          "title": "Permanent freezing of funds",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "66tqwIs9K2hcb0GJINKwSp",
-          "title": "Protocol insolvency",
+          "id": 27,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of funds"
         },
         {
-          "id": "7yUYhwQkro9BBqjwQ9jLZF",
-          "title": "Theft of unclaimed yield",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "126zkLTwkSU5DHn1eLTal9",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "bmWLrKhL3ZpWKou9sZP0H",
-          "title": "Temporary freezing of funds",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "1Rd0to8b3JTWhIi5YRH0ZJ",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "7Eix3scJrzzmT1bbGJcj8h",
-          "title": "Block stuffing",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "6eD4BcxpvfA7QY4cc8luY2",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 14,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results"
         },
         {
-          "id": "1GnZ7BZVHffdFXkq7bRNkX",
-          "title": "Theft of gas",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "4JsP2HuqNOoVwhnQYK24JJ",
-          "title": "Unbounded gas consumption",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "5fKHCIUlS0EpftQZBiVrmd",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "Acre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.\nAcre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  \nStrictly designed for a \"bitcoin in, bitcoin out\" experience, Acre is a portal to broad exposure by supporting Bitcoin scaling with minimal user effort. Acre supports native BTC deposits via Thresholds programmable and decentralized BTC bridge.\nAcre's goal is to offer the benefits of earning rewards on idle BTC without deep technical know-how. It is important to note that each transaction within the Acre protocol is completely visible on-chain for everyone to monitor.\n\nFor more information about Acre, please visit https://acre.fi\nAcre provides rewards in USDC, denominated in USD.",
@@ -224,7 +224,7 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-10-28T08:00:00.000Z",
+      "evaluationEndDate": "2024-11-01T08:00:00.000Z",
       "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.\n\nAcre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.\n\nAcre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  \n\nNo KYC is required.\n\nAcre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nAcre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",

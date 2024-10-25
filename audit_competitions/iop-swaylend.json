@@ -83,88 +83,88 @@
       ],
       "impacts": [
         {
-          "id": "1Y0npPFWrZ3ca0qPzDrgDr",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "2SUHTTeNAKPFUqHwjZHyc",
-          "title": "Permanent freezing of funds",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "77CE0kWXdFSivzhuUzT2jj",
-          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "15aHyK1RbhxBJkJAINajXv",
-          "title": "Protocol insolvency",
+          "id": 26,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
         },
         {
-          "id": "7IlkvuJFOouQQEtFerRP5R",
-          "title": "Theft of unclaimed yield",
+          "id": 5093,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary (1 hr) freezing of funds"
         },
         {
-          "id": "76asJTdHcEKbgpW9gCM1gZ",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "B4t0viWg4QmGx4ZFKqgKt",
-          "title": "Permanent freezing of unclaimed royalties",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "5vsAdOrdYZzP4Euf58a4bW",
-          "title": "Temporary (1 hr) freezing of funds",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "2XFBSIAY3XTKlRj6PMHTfg",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "60jvUkZBwE2OsKQFGSG0dc",
-          "title": "Block stuffing",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "2WctlGQXeyJFG5S8EPKrfM",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "1UHikkPi4Mpl9IDUXOCLFf",
-          "title": "Theft of gas",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "55CGr1YJPPttn9ukV2Dcq4",
-          "title": "Unbounded gas consumption",
+          "id": 20,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT"
         },
         {
-          "id": "5Et2bmZ2t8QUvIjVloKpAd",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3.\n\nFor more information about  Swaylend, please visit https://swaylend.com/.\n\nSwaylend provides rewards in UDSC, denominated in USD.\n\nPOCs should be tested against the most recent changes / fixes at this link, so https://github.com/Swaylend/swaylend-monorepo/tree/9132747331188b86dd8cbf9a1ca37b811d08dddb\n\nPlease refer to this changelog page: https://immunefisupport.zendesk.com/hc/en-us/articles/29137422160657-Swaylend-IOP-Code-Update-Changelog",

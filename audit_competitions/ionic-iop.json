@@ -48,82 +48,82 @@
       "assets": [],
       "impacts": [
         {
-          "id": "2gtZGs3OrUaU2Fau4ash65",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "12Oaghehq9PVqMMTkpT0Me",
-          "title": "Permanent freezing of funds",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "6BNedJb64na05SwusF7L3w",
-          "title": "Protocol insolvency",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "ao4Aon3iD35ee25QAJTnM",
-          "title": "Theft of unclaimed yield",
+          "id": 26,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
         },
         {
-          "id": "1fFBLgPQZGXdBCICHkmCWQ",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 4940,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary freezing of funds of at least 24h"
         },
         {
-          "id": "4YgHdFKe8W696px2uaroCt",
-          "title": "Permanent freezing of unclaimed royalties",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "1FhV59CzKdIXlTgqrXZn2X",
-          "title": "Temporary freezing of funds of at least 24h",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "5eohD4kvdwQeOuyWTfbuM0",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "4e8kv5MK8JMZb6yDKBcYAO",
-          "title": "Block stuffing",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "4TMcEVXt9siiKqktKcSFjE",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "4GqFrZTS2lb7utsXH3nIry",
-          "title": "Theft of gas",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "7rw4jC6wh8rzA82PJkvrro",
-          "title": "Unbounded gas consumption",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "42Rohy52PDeGSw50HeqksL",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "**Immunefi’s Invite Only Program is a form of Audit Competition which is exclusively accessible to a select group of security researchers who have been specifically invited to participate based on their expertise and skills. These researchers receive a guaranteed fee for participation and additional reward for every valid bug found. Project assets are only visible to the whitelisted researchers.**\n\nIonic introduces a new feature. It consists of leveraging positions of the lending platform by repeatedly borrowing and supplying by looping over the assets. The main code of the project is a Compound/Rari fork, but the in-scope feature is completely unique. \n\nFor more information about Ionic, please visit [https://www.ionic.money/](https://www.ionic.money/). \n\nIonic provides rewards in USDC, denominated in USD.",

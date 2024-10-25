@@ -166,130 +166,130 @@
       ],
       "impacts": [
         {
-          "id": "1SBMJEC7oGf6ZSzSQtdnAj",
-          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "hclcXYZLfPsUHqBd8Qtqm",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "8mpwSOQre3fnitFM6lhZ0",
-          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties",
+          "id": 24,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed royalties"
         },
         {
-          "id": "7mOYwP51Gwa4OINksUdhU",
-          "title": "Permanent freezing of funds",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "4M7dZuVGamC1Y7wyhrSjHi",
-          "title": "Permanent freezing of NFTs",
+          "id": 26,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
         },
         {
-          "id": "4Ke8OCP9TX22c3GhO7nrad",
-          "title": "Unauthorized minting of NFTs",
+          "id": 4849,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of funds for 12 hours"
         },
         {
-          "id": "71o9Y09cuEM4PQwft7Gvm",
-          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT",
+          "id": 28,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of NFTs"
         },
         {
-          "id": "5rSpCJekNXHp7rzlitngDU",
-          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "i7j4dCrHsbvhVnsb6OneC",
-          "title": "Protocol insolvency",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "6uMxP0rn7h098JCRhLrPWw",
-          "title": "Theft of unclaimed yield",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "6VK1WXBUanhoyW2aph4oxz",
-          "title": "Theft of unclaimed royalties",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "3pgQquB2Wi1G2aVetwqLSS",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "4zRF1Y1l5BsRcj4OH1TwBR",
-          "title": "Permanent freezing of unclaimed royalties",
+          "id": 14,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results"
         },
         {
-          "id": "3lSv9tppxDUn7oufjUmWeT",
-          "title": "Temporary freezing of funds for 12 hours",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "4CehyUGkdPotMVWEMVoCvC",
-          "title": "Temporary freezing of NFTs",
+          "id": 16,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Direct theft of any user NFTs, whether at-rest or in-motion, other than unclaimed royalties"
         },
         {
-          "id": "1WypVv3nJ2WciWjR655pyY",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "2kNwOE0DgajXrNcAYQfqYy",
-          "title": "Block stuffing",
+          "id": 18,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of NFTs"
         },
         {
-          "id": "57pOLPIxEL0R5Lm10ynqtQ",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 19,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Unauthorized minting of NFTs"
         },
         {
-          "id": "JZWIARA1GptO9zmZtuCsj",
-          "title": "Theft of gas",
+          "id": 20,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT"
         },
         {
-          "id": "3qm9GndbstE7yacALziWUw",
-          "title": "Unbounded gas consumption",
+          "id": 21,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Unintended alteration of what the NFT represents (e.g. token URI, payload, artistic content)"
         },
         {
-          "id": "1s9GUgd5yYDnGH6JwkP7PB",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "veALCX is the tokenomics upgrade for ALCX, Alchemix's governance token. Users will lock 80/20 ALCX/ETH Balancer Liquidity Tokens into veALCX in exchange for voting power, ALCX emissions, and protocol revenue. Voting power is used to vote on snapshot proposals, on-chain governance of veALCX contracts, and gauge voting to direct ALCX emissions. veALCX users also earn a new ecosystem token called FLUX that allows for boosted gauge voting and early unlocks.  \n\nFor more information about Alchemix, please visit [https://alchemix.fi/](https://alchemix.fi/)\n\nAlchemix provides rewards in USDC, denominated in USD.",

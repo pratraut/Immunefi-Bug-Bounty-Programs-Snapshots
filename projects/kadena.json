@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/22KYw7t13OwNlN78HQZOT2/e72741e9f86336a41e287fe67c9b8e53/2024_Kadena_Logo_Social.png",
       "launchDate": "2022-01-08T22:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-08-12T12:33:49.807Z",
+      "updatedDate": "2024-10-25T09:28:07.273Z",
       "kyc": true,
       "rewards": [
         {
@@ -153,232 +153,232 @@
       ],
       "impacts": [
         {
-          "id": "2CiDNp0QDUNGghs26KcqWB",
-          "title": "Unintended permanent chain split requiring hard fork (Network partition requiring hard fork)",
+          "id": 1629,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Remotely manipulating the content of the chain database (rocksdb) of a node"
         },
         {
-          "id": "3wOsqCIoNVLJsairoWiYRH",
-          "title": "Permanent and total network shutdown or corruption, requiring significant rollback of history Arbitrary remote code execution",
+          "id": 1630,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Remotely manipulating the content of the Pact (sqlite) database of a node such that it is not consistent with block validation results"
         },
         {
-          "id": "5Bwx5iezUmxcFFVTmshGRk",
-          "title": "Arbitrary signature forging",
+          "id": 1631,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Transaction consuming very little gas compared to node resources"
         },
         {
-          "id": "3FmPeK50k9MeewtbdCAStx",
-          "title": "Arbitrary remote code execution",
+          "id": 1632,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanently disabling all or most nodes in the network, requiring node software update"
         },
         {
-          "id": "hTWqziKrb1go66IOsw9JR",
-          "title": "Permanent loss, freezing, or counterfeiting of a considerable amount of funds",
+          "id": 1633,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Stopping block production across the network for a prolonged period, requiring node software update"
         },
         {
-          "id": "1WUKAw3hHAn2fRSWBQqL1k",
-          "title": "Theft, permanent freezing, or counterfeiting of any considerable amount of funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 1634,
+          "type": "blockchain_dlt",
+          "severity": "high",
+          "title": "Transaction censorship for a prolonged period, without block stuffing, requiring node software update"
+        },
+        {
+          "id": 1635,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft, permanent freezing, or counterfeiting of unclaimed yield"
         },
         {
-          "id": "4Va3iqWuRxRTy5S1CZBMle",
-          "title": "Insolvency",
+          "id": 1636,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft, freezing, or counterfeiting of any amount of funds"
         },
         {
-          "id": "5hMagD3jLqBXSI4gglYD2k",
-          "title": "Execute arbitrary system commands",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "2jmRFV06bSASF4g5Nak4FB",
-          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "2b3PjrmPLyJiVo0dua67Lc",
-          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc.",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "2pdssZCMd1TAW7VFCvT4jL",
-          "title": "Subdomain takeover with already-connected wallet interaction",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "3VIH8ujSojCsrnTaJ7bsCy",
-          "title": "Direct theft of user funds",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "aM86I1TRBdlRZqWE3DKhg",
-          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "4mV0Ll8VmQ1zlPhgBgUtHE",
-          "title": "Redirected funds by address modification",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "4ihYgd5yA7m0YmXbzEiIuL",
-          "title": "Leak of unencrypted Kadena-held private keys controlling mainnet funds",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "3eNQryH95xnfuEjfJcWJQe",
-          "title": "Remotely manipulating the content of the chain database (rocksdb) of a node",
-          "type": "blockchain_dlt",
-          "severity": "high"
-        },
-        {
-          "id": "4E6f1pj3SxIJQYDx50RfFt",
-          "title": "Remotely manipulating the content of the Pact (sqlite) database of a node such that it is not consistent with block validation results",
-          "type": "blockchain_dlt",
-          "severity": "high"
-        },
-        {
-          "id": "5splyLSOC7QAUsjtqi6oEy",
-          "title": "Transaction consuming very little gas compared to node resources",
-          "type": "blockchain_dlt",
-          "severity": "high"
-        },
-        {
-          "id": "7E2TMfX9KOpSBi83n3MCIp",
-          "title": "Permanently disabling all or most nodes in the network, requiring node software update",
-          "type": "blockchain_dlt",
-          "severity": "high"
-        },
-        {
-          "id": "4Wf0m1gtCYHODkI66JDN36",
-          "title": "Stopping block production across the network for a prolonged period, requiring node software update",
-          "type": "blockchain_dlt",
-          "severity": "high"
-        },
-        {
-          "id": "210f4dTvQmrg8rPnRYKZiE",
-          "title": "Transaction censorship for a prolonged period, without block stuffing, requiring node software update",
-          "type": "blockchain_dlt",
-          "severity": "high"
-        },
-        {
-          "id": "5gsArXQo9GxdOpil0NwAzD",
-          "title": "Theft, permanent freezing, or counterfeiting of unclaimed yield",
+          "id": 27,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary freezing of funds"
         },
         {
-          "id": "5IdP94d5sH8TlRZyJzxsUW",
-          "title": "Theft, freezing, or counterfeiting of any amount of funds",
-          "type": "smart_contract",
-          "severity": "high"
-        },
-        {
-          "id": "73LxEuQHQVhZg5UJ8uRitF",
-          "title": "Temporary freezing of funds",
-          "type": "smart_contract",
-          "severity": "high"
-        },
-        {
-          "id": "76VyP3nCvheQudPEzmX3v7",
-          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc.",
+          "id": 1637,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Persistent) such as HTML injection without Javascript, replacing existing text with arbitrary text, arbitrary file uploads, etc."
         },
         {
-          "id": "1EvGMVtjb8MzhMZR0giJ8S",
-          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc.",
+          "id": 1638,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Changing sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as email or password of the victim, etc."
         },
         {
-          "id": "2hydgAGwFD9UxE0nQA48qN",
-          "title": "Taking down the application",
+          "id": 1639,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Taking down the application"
         },
         {
-          "id": "2wcFsR21UjmWYbIRjMi6K1",
-          "title": "Subdomain takeover without already-connected wallet interaction",
+          "id": 49,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Subdomain takeover without already-connected wallet interaction"
         },
         {
-          "id": "3dfAtXABqQjzQXV7CTwXlJ",
-          "title": "Leak of Kadena-held keys and/or credentials that allow access to private systems",
+          "id": 1640,
           "type": "websites_and_applications",
-          "severity": "high"
+          "severity": "high",
+          "title": "Leak of Kadena-held keys and/or credentials that allow access to private systems"
         },
         {
-          "id": "DtpDuXyN34fhnluiCyMXz",
-          "title": "Transient consensus failures",
+          "id": 1641,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Transient consensus failures"
         },
         {
-          "id": "6yaZsr70aZWNvVpAKJxk2R",
-          "title": "Denial of service for individual nodes via resource leak or improperly bounded query parameter",
+          "id": 1642,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Denial of service for individual nodes via resource leak or improperly bounded query parameter"
         },
         {
-          "id": "44iKZhmk3lbbWcXUdmNkH",
-          "title": "Transaction consuming little gas compared to node resources",
+          "id": 1643,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Transaction consuming little gas compared to node resources"
         },
         {
-          "id": "68aHNnzPR2EBvbNfDHx4WH",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "2S54WWkPJ212FoxLgtF1uU",
-          "title": "Unbounded gas consumption",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "1Zo4Fi40HZumaqDLkRprzC",
-          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the name of user, or enabling/disabling notifications",
+          "id": 1644,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Changing non-sensitive details of other users (including modifying browser local storage) without already-connected wallet interaction and with up to one click of user interaction, such as changing the name of user, or enabling/disabling notifications"
         },
         {
-          "id": "3sZrBD7zCwL4FuMpF0vzUs",
-          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data",
+          "id": 1645,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Injecting/modifying the static content on the target application without Javascript (Reflected) such as reflected HTML injection or loading external site data"
         },
         {
-          "id": "3v8KA4CG9zEwUpL7vguXmw",
-          "title": "Redirecting users to malicious websites (Open Redirect)",
+          "id": 52,
           "type": "websites_and_applications",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Redirecting users to malicious websites (open redirect)"
+        },
+        {
+          "id": 2,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Unintended permanent chain split requiring hard fork (network partition requiring hard fork)"
+        },
+        {
+          "id": 1646,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Permanent and total network shutdown or corruption, requiring significant rollback of history Arbitrary remote code execution"
+        },
+        {
+          "id": 1647,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Arbitrary signature forging"
+        },
+        {
+          "id": 1648,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Arbitrary remote code execution"
+        },
+        {
+          "id": 1649,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Permanent loss, freezing, or counterfeiting of a considerable amount of funds"
+        },
+        {
+          "id": 1650,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Theft, permanent freezing, or counterfeiting of any considerable amount of funds, whether at-rest or in-motion, other than unclaimed yield"
+        },
+        {
+          "id": 1651,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Insolvency"
+        },
+        {
+          "id": 35,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Execute arbitrary system commands"
+        },
+        {
+          "id": 1652,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Retrieve sensitive data/files from a running server such as /etc/shadow, database passwords, and blockchain keys(this does not include non-sensitive environment variables, open source code, or usernames)"
+        },
+        {
+          "id": 1653,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Taking state-modifying authenticated actions (with or without blockchain state interaction) on behalf of other users without any interaction by that user, such as, changing registration information, commenting, voting, making trades, withdrawals, etc."
+        },
+        {
+          "id": 41,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Subdomain takeover with already-connected wallet interaction"
+        },
+        {
+          "id": 42,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Direct theft of user funds"
+        },
+        {
+          "id": 1654,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Malicious interactions with an already-connected wallet such as modifying transaction arguments or parameters, substituting contract addresses, submitting malicious transactions"
+        },
+        {
+          "id": 1655,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Redirected funds by address modification"
+        },
+        {
+          "id": 1656,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Leak of unencrypted Kadena-held private keys controlling mainnet funds"
         }
       ],
       "programOverview": "Kadena was founded on the idea that blockchain could revolutionize how the world interacts and transacts. But to get to mass adoption, chain technology and the ecosystem connecting it to the business world needed to be reimagined from the ground up. Our founders built a proprietary chain architecture and created the tools to make blockchain work for business – at speed, scale, and energy efficiency previously thought unachievable.\n\nFor more information about Kadena, please visit [https://kadena.io/](https://kadena.io/). \n\nThis bug bounty program is focused on their smart contracts, blockchain, and chainweaver and is focused on preventing:\n\n  - Prolonged network shutdown\n  - Asset loss or theft",
       "prioritizedVulnerabilities": "Refer to __Impacts in Scope__ section above.",
       "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll web/app bug reports must come with a PoC (Proof of Concept document) with an end result that impacts an asset-in-scope in order to be considered for a reward. All Medium, High and Critical Smart Contract bug reports require a PoC to be eligible for a reward. A valid PoC is demonstrated privately, for example using a private devnet, and must clearly communicate the nature of the flaw, how it was discovered, and how to exercise the flaw within that private environment. It must be sufficiently well documented to allow reproduction of the findings by a third party. Explanations and statements alone are not accepted as PoC: code is required. Any bug report that has already been run on a public facing network such as mainnet or testnet will not be eligible for payout.\n\nThe following vulnerabilities are not eligible for a reward:\n\n  - Congestion and scalability vulnerabilities\n  - Vulnerabilities requiring the use of the private service API of the node being attacked\n  - Distributed denial of service (DDoS) attacks\n\nPayouts are handled by the __Kadena team__ directly and are denominated in USD. However, payouts are done in __KDA and stablecoins__, with the choice of the ratio at the discretion of the team. In addition, as part of claiming a bug bounty, whitehats must complete a KYC process from SumSub and submit relevant tax documents requested by the Kadena team.",
-      "outOfScopeAndRules": "The following vulnerabilities are excluded from the rewards for this bug bounty program:\n\n  - Attacks that the reporter has already exploited themselves, leading to damage\n  - Attacks requiring access to leaked keys/credentials\n  - Attacks requiring access to privileged addresses (governance, strategist)\n  - Attacks on a node requiring access to the node’s service API\n\n__Smart Contracts and Blockchain__\n\n  - Incorrect data supplied by third party oracles\n    - Not to exclude oracle manipulation/flash loan attacks\n  - Basic economic governance attacks (e.g. 51% attack)\n  - Lack of liquidity\n  - Best practice critiques\n  - Sybil attacks\n  - Centralization risks\n\n__Websites and Apps__\n\n  - Theoretical vulnerabilities without any proof or demonstration\n  - Content spoofing / Text injection issues\n  - Self-XSS\n  - Captcha bypass using OCR\n  - CSRF with no security impact (logout CSRF, change language, etc.)\n  - Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)\n  - Server-side information disclosure such as IPs, server names, and most stack traces\n  - Vulnerabilities used to enumerate or confirm the existence of users or tenants\n  - Vulnerabilities requiring unlikely user actions\n  - URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)\n  - Lack of SSL/TLS best practices\n  - DDoS vulnerabilities\n  - Attacks requiring privileged access from within the organization\n  - Feature requests\n  - Best practices\n\nThe following activities are prohibited by this bug bounty program:\n\n  - Any destructive testing with mainnet or public testnet contracts; all testing should be done on private devnet, with the exception of public bounty programs on testnet\n  - Any testing with pricing oracles or third party smart contracts\n  - Attempting phishing or other social engineering attacks against our employees and/or customers\n  - Any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n  - Any denial of service attacks against mainnet or testnet or other production services\n  - Automated testing of services that generates significant amounts of traffic\n  - Public disclosure of an unpatched vulnerability in an embargoed bounty\n  - Any threat to perform any of the above actions or cause otherwise damage to mainnet, testnet, or other production services",
+      "outOfScopeAndRules": ".",
       "assetsBodyV2": "All smart contracts of Kadena can be found at https://github.com/kadena-io. However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nKadena’s API specification can be found at [https://api.chainweb.com/openapi/](https://api.chainweb.com/openapi/) However attacking a node via its Service API is out-of-scope of the bug bounty program",
       "impactsBody": null,
       "immunefiStandard": true,
@@ -470,19 +470,29 @@
       "responsiblePublicationCategory": null,
       "knownIssues": [],
       "knownIssueAssurance": false,
-      "defaultOutOfScopeBlockchain": null,
-      "defaultOutOfScopeSmartContract": null,
-      "defaultOutOfScopeGeneral": null,
-      "defaultOutOfScopeWebAndApplications": null,
-      "defaultProhibitedActivities": null,
-      "defaultFeasibilityLimitations": null,
-      "customOutOfScopeInformation": null,
+      "defaultOutOfScopeBlockchain": "- Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks",
+      "defaultOutOfScopeSmartContract": "- Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks",
+      "defaultOutOfScopeGeneral": "- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (including, but not limited to: governance and strategist contracts) without additional modifications to the privileges attributed\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n- Impacts requiring phishing or other social engineering attacks against project's employees and/or customers",
+      "defaultOutOfScopeWebAndApplications": "- Theoretical impacts without any proof or demonstration\n- Impacts involving attacks requiring physical access to the victim device\n- Impacts involving attacks requiring access to the local network of the victim\n- Reflected plain text injection (e.g. url parameters, path, etc.)\n  - This does not exclude reflected HTML injection with or without JavaScript\n  - This does not exclude persistent plain text injection\n- Any impacts involving self-XSS\n- Captcha bypass using OCR without impact demonstration\n- CSRF with no state modifying security impact (e.g. logout CSRF)\n- Impacts related to missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”) without demonstration of impact\n- Server-side non-confidential information disclosure, such as IPs, server names, and most stack traces\n- Impacts causing only the enumeration or confirmation of the existence of users or tenants\n- Impacts caused by vulnerabilities requiring un-prompted, in-app user actions that are not part of the normal app workflows\n- Lack of SSL/TLS best practices\n- Impacts that only require DDoS\n- UX and UI impacts that do not materially disrupt use of the platform\n- Impacts primarily caused by browser/plugin defects\n- Leakage of non sensitive API keys (e.g. Etherscan, Infura, Alchemy, etc.)\n- Any vulnerability exploit requiring browser bugs for exploitation (e.g. CSP bypass)\n- SPF/DMARC misconfigured records)\n- Missing HTTP Headers without demonstrated impact\n- Automated scanner reports without demonstrated impact\n- UI/UX best practice recommendations\n- Non-future-proof NFT rendering",
+      "defaultProhibitedActivities": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)",
+      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\n\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)",
+      "customOutOfScopeInformation": "  - Attacks on a node requiring access to the node’s service API\n  - Best practice critiques\n  - Any threat to perform any of the above actions or cause otherwise damage to mainnet, testnet, or other production services",
       "customProhibitedActivities": [],
       "rewardsTokenNetwork": "Kadena",
       "rewardsToken": "KDA",
       "eligibilityCriteria": [],
       "eligibilityCriteriaAdditionalInformation": null,
-      "programCodebases": [],
+      "programCodebases": [
+        {
+          "id": 59,
+          "programId": 1871,
+          "title": "Kadena Smart Contract",
+          "description": "Github Smart Contracts",
+          "url": "https://github.com/kadena-io",
+          "createdAt": "2024-10-25T09:25:19.711Z",
+          "updatedAt": "2024-10-25T09:25:19.711Z"
+        }
+      ],
       "programDocumentations": [],
       "premiumTriaging": false
     },

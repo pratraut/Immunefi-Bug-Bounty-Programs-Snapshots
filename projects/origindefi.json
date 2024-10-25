@@ -39,7 +39,7 @@
           "url": "https://etherscan.io/address/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
           "description": "OUSD",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:29:13.838Z"
         },
         {
@@ -48,7 +48,7 @@
           "url": "https://etherscan.io/address/0xe75d77b1865ae93c7eaa3040b038d7aa7bc02f70",
           "description": "Vault",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:29:11.586Z"
         },
         {
@@ -57,7 +57,7 @@
           "url": "https://etherscan.io/address/0xa7695eED05094E28AA575CB0cCa3CF17848a7981",
           "description": "Oracle Router",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:29:07.715Z"
         },
         {
@@ -66,7 +66,7 @@
           "url": "https://etherscan.io/address/0x5e3646A1Db86993f73E6b74A57D8640B69F7e259",
           "description": "Aave Strategy",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:30:02.188Z"
         },
         {
@@ -75,7 +75,7 @@
           "url": "https://etherscan.io/address/0x9c459eeb3FA179a40329b81C1635525e9A0Ef094",
           "description": "Compound Strategy",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:30:05.504Z"
         },
         {
@@ -84,7 +84,7 @@
           "url": "https://etherscan.io/address/0xea2ef2e2e5a749d4a66b41db9ad85a38aa264cb3",
           "description": "Convex Strategy",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:30:49.539Z"
         },
         {
@@ -93,7 +93,7 @@
           "url": "https://etherscan.io/address/0x89eb88fedc50fc77ae8a18aad1ca0ac27f777a90#code",
           "description": "Convex OUSD Metastrategy",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-11-28T13:01:51.264Z"
         },
         {
@@ -102,7 +102,7 @@
           "url": "https://etherscan.io/address/0x5A4eEe58744D1430876d5cA93cAB5CcB763C037D",
           "description": "Morpho Strategy",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-11-28T13:01:48.482Z"
         },
         {
@@ -111,7 +111,7 @@
           "url": "https://etherscan.io/address/0x9c354503c38481a7a7a51629142963f98ecc12d0",
           "description": "OGV",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-07-14T09:47:18.536Z"
         },
         {
@@ -120,7 +120,7 @@
           "url": "https://etherscan.io/address/0x0c4576ca1c365868e162554af8e385dc3e7c66d9",
           "description": "veOGV",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-07-14T09:47:14.047Z"
         },
         {
@@ -129,7 +129,7 @@
           "url": "https://etherscan.io/address/0x1D3Fbd4d129Ddd2372EA85c5Fa00b2682081c9EC",
           "description": "Governor / Timelock",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:32:05.918Z"
         },
         {
@@ -138,7 +138,7 @@
           "url": "https://etherscan.io/address/0x77314EB392b2be47C014cde0706908b3307Ad6a9",
           "description": "OGN Buyback",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:32:03.236Z"
         },
         {
@@ -147,7 +147,7 @@
           "url": "https://etherscan.io/address/0x501804B374EF06fa9C427476147ac09F1551B9A0",
           "description": "OGN Staking",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:33:28.838Z"
         },
         {
@@ -156,7 +156,7 @@
           "url": "https://etherscan.io/address/0xcecaD69d7D4Ed6D52eFcFA028aF8732F27e08F70",
           "description": "OUSD Swap",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:33:26.316Z"
         },
         {
@@ -165,7 +165,7 @@
           "url": "https://etherscan.io/address/0x21fb5812d70b3396880d30e90d9e5c1202266c89",
           "description": "Harvester",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-04-25T19:05:16.861Z"
         },
         {
@@ -174,7 +174,7 @@
           "url": "https://etherscan.io/address/0x80c898ae5e56f888365e235ceb8cea3eb726cb58",
           "description": "Dripper",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-04-25T19:05:34.585Z"
         },
         {
@@ -183,7 +183,7 @@
           "url": "https://etherscan.io/address/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
           "description": "OETH Token",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-05-09T15:43:30.369Z"
         },
         {
@@ -192,7 +192,7 @@
           "url": "https://etherscan.io/address/0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
           "description": "wOETH Token",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-05-09T15:44:02.144Z"
         },
         {
@@ -201,7 +201,7 @@
           "url": "https://etherscan.io/address/0x39254033945AA2E4809Cc2977E7087BEE48bd7Ab",
           "description": "OETH Vault",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-05-09T15:44:31.395Z"
         },
         {
@@ -210,7 +210,7 @@
           "url": "https://etherscan.io/address/0x3fF8654D633D4Ea0faE24c52Aec73B4A20D0d0e5",
           "description": "OETH Frax Staking Strategy",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-05-09T15:44:57.246Z"
         },
         {
@@ -219,7 +219,7 @@
           "url": "https://etherscan.io/address/0x0D017aFA83EAce9F10A8EC5B6E13941664A6785C",
           "description": "OETH Harvester",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-05-24T02:03:19.685Z"
         },
         {
@@ -228,7 +228,7 @@
           "url": "https://etherscan.io/address/0x1827F9eA98E0bf96550b2FC20F7233277FcD7E63",
           "description": "Convex OETH Meta Strategy",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-05-24T02:03:07.256Z"
         },
         {
@@ -237,16 +237,16 @@
           "url": "https://etherscan.io/address/0xc0F42F73b8f01849a2DD99753524d4ba14317EB3",
           "description": "OETH Dripper",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-05-24T02:03:01.728Z"
         },
         {
           "id": "YohPfAcEEMQAVhmAuLqOS",
           "type": "websites_and_applications",
           "url": "https://www.ousd.com/",
-          "description": null,
+          "description": "Website",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2022-02-12T09:33:22.257Z"
         },
         {
@@ -255,7 +255,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-10-05T15:27:59.320Z"
         },
         {
@@ -264,7 +264,7 @@
           "url": "https://immunefi.com",
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2023-10-05T15:28:00.916Z"
         },
         {
@@ -273,7 +273,7 @@
           "url": "https://etherscan.io/address/0x6ef3D766Dfe02Dc4bF04aAe9122EB9A0Ded25615",
           "description": "PrimeStakedETH Token",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-03-06T12:01:37.160Z"
         },
         {
@@ -282,7 +282,7 @@
           "url": "https://etherscan.io/address/0xA479582c8b64533102F6F528774C536e354B8d32",
           "description": "Prime LRTDepositPool",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-03-06T12:01:53.753Z"
         },
         {
@@ -291,7 +291,7 @@
           "url": "https://etherscan.io/address/0xF879c7859b6DE6FAdaFB74224Ff05b16871646bF",
           "description": "Prime LRTConfig",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-03-06T12:02:10.774Z"
         },
         {
@@ -300,7 +300,7 @@
           "url": "https://etherscan.io/address/0xA755c18CD2376ee238daA5Ce88AcF17Ea74C1c32",
           "description": "Prime LRTOracle",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-03-06T12:02:26.394Z"
         },
         {
@@ -309,7 +309,7 @@
           "url": "https://etherscan.io/address/0x8bBBCB5F4D31a6db3201D40F478f30Dc4F704aE2",
           "description": "Prime NodeDelegator",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-03-06T12:02:47.537Z"
         },
         {
@@ -318,7 +318,7 @@
           "url": "https://etherscan.io/address/0x63898b3b6ef3d39332082178656e9862bee45c57",
           "description": "xOGN",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-06-04T08:01:43.296Z"
         },
         {
@@ -327,7 +327,7 @@
           "url": "https://etherscan.io/address/0x95c347d6214614a780847b8aaf4f96eb84f4da6d",
           "description": "Migrator",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-06-04T08:02:11.478Z"
         },
         {
@@ -336,106 +336,106 @@
           "url": "https://etherscan.io/address/0x7609c88e5880e934dd3a75bcfef44e31b1badb8b#code",
           "description": "OGN rewards",
           "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
+          "isSafeHarbor": true,
           "addedAt": "2024-06-04T08:02:45.983Z"
         }
       ],
       "impacts": [
         {
-          "id": "698vQ4twUCO638KBqs9NT8",
-          "title": "Any governance voting result manipulation",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "1j5MtWszQsAPVRAHQ0fXci",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "6ogiKZLv3hicRocEMQipSB",
-          "title": "Permanent freezing of funds",
+          "id": 27,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Temporary freezing of funds"
         },
         {
-          "id": "7rYVVLeYkjhXvalnytL7k4",
-          "title": "Protocol Insolvency",
+          "id": 1351,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "critical",
+          "title": "Any governance voting result manipulation"
         },
         {
-          "id": "6Jvt8QTwjSA7wSlMOIpXBV",
-          "title": "Ability to execute system commands",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "1VhZBr2WMcU8AeZb0BnrEo",
-          "title": "Stealing User Cookies",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "7Aq9h2h2ipfFMTqv8IMEyM",
-          "title": "Signing transactions for other users",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "5OiAU2Dxp1PjSndtAcoZwy",
-          "title": "Redirection of user deposits and withdrawals",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "39g5JJZ5mDFLGGJUoUnZmz",
-          "title": "Subdomain takeover resulting in financial loss (applicable for subdomains with addresses published)",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "5S9gF4AIbc5aGmUMllYD9M",
-          "title": "Wallet interaction modification resulting in financial loss",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "5vVJonEmE812LMqYSK36QB",
-          "title": "Direct theft of user funds",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "6S3P6RPiyBUan2kGqdrhSu",
-          "title": "Tampering with transactions submitted to the user’s wallet",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "2Qa1Vk7MeRBvNHPxwcXNso",
-          "title": "Submitting malicious transactions to an already-connected wallet",
-          "type": "websites_and_applications",
-          "severity": "critical"
-        },
-        {
-          "id": "5WmzMvieQ6WsVKS1WNBXJz",
-          "title": "Theft of unclaimed yield",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "4EC2hcemEJyHyZoWZTQw7P",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "3h1wFMU4yrsRWUmmCfg3GU",
-          "title": "Temporary freezing of funds",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "critical",
+          "title": "Protocol insolvency"
+        },
+        {
+          "id": 1352,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Ability to execute system commands"
+        },
+        {
+          "id": 1353,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Stealing User Cookies"
+        },
+        {
+          "id": 1354,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Signing transactions for other users"
+        },
+        {
+          "id": 1355,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Redirection of user deposits and withdrawals"
+        },
+        {
+          "id": 1356,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Subdomain takeover resulting in financial loss (applicable for subdomains with addresses published)"
+        },
+        {
+          "id": 1357,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Wallet interaction modification resulting in financial loss"
+        },
+        {
+          "id": 42,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Direct theft of user funds"
+        },
+        {
+          "id": 1358,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Tampering with transactions submitted to the user’s wallet"
+        },
+        {
+          "id": 1359,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Submitting malicious transactions to an already-connected wallet"
         }
       ],
       "programOverview": "Created by cryptocurrency and fintech veterans, the Origin Dollar is brought to you by the team at Origin Protocol that includes serial entrepreneurs, early cryptocurrency investors, early employees at YouTube, engineering managers at Google/Dropbox, and one of the Paypal co-founders, Yu Pan.\n\nOrigin Dollar (OUSD) is a new, fully backed stablecoin that was initially launched in September 2020 on the Ethereum network. Its design is superior to existing stablecoins because OUSD captures competitive yields while being passively held in wallets.\n\nFor more information about Origin Dollar, please visit [https://www.ousd.com/](https://www.ousd.com/).  \n\nThis bug bounty program is focused on their smart contracts and app and is focused on preventing:\n\n  - Loss of funds\n  - Loss of more than 10% of yield\n  - Freezing of funds that cannot be undone by admin actions\n  - Ability for an unauthorized user to use admin actions\n  - Governance process failures\n  - Redirected funds by address modification\n  - Shell access on server\n  - Injection of text\n  - Ability to have other users run arbitrary code on the site\n\n__Primacy of Impact vs Primacy of Rules__\n\nOrigin Dollar adheres to the Primacy of Impact for the following severity levels:\n  - Smart Contract: Critical\n\nIf a category’s severity level is covered within the Primacy of Impact, it means that even if the impacted asset is not in-scope but is owned by the project, then it would be considered as in-scope of the bug bounty program as long as it involves an impact under that respective severity level. When submitting a report, just select the Primacy of Impact asset placeholder. If the team behind this project has multiple projects, those other projects are not covered under the Primacy of Impact of this program. Instead, check if those other projects have a bug bounty program on Immunefi.\n\nNon-deployed contracts on Github are not covered under the Primacy of Impact. \n\nAll other severity levels not listed here are considered under the Primacy of Rules, which means that they are bound by the terms of the bug bounty program.",

@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3pQP9TMw0MizXDfwmOSf40/40fec7480d34cc54384000dd1045ab00/Shardeum_Logo_Icon_Light_-_Square__1_.png",
       "launchDate": "2024-09-04T12:00:00.000Z",
       "endDate": "2024-10-16T12:00:00.000Z",
-      "updatedDate": "2024-10-23T10:54:56.588Z",
+      "updatedDate": "2024-10-25T14:25:36.701Z",
       "kyc": false,
       "rewards": [
         {
@@ -76,70 +76,70 @@
       ],
       "impacts": [
         {
-          "id": "2V1W5RtgQ5CAt36AYAjYhh",
-          "title": "Network not being able to confirm new transactions (total network shutdown)",
+          "id": 13,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Modification of transaction fees outside of design parameters"
         },
         {
-          "id": "4PFvKJeJ3LKPdr9hB9brDn",
-          "title": "Direct loss of funds",
+          "id": 12,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Shutdown of greater than 10% or equal to but less than 30% of network processing nodes without brute force actions, but does not shut down the network"
         },
         {
-          "id": "1omEmYmcrhnzHuhm6lyQlS",
-          "title": "Permanent freezing of funds (fix requires hardfork)",
+          "id": 5059,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Blocking Specific Transactions"
         },
         {
-          "id": "gBVfuphisOUqgmZcDC12i",
-          "title": "Bypassing Staking Requirements",
+          "id": 5060,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Causing network processing nodes to process transactions from the transaction queue beyond set parameters"
         },
         {
-          "id": "5AhyocHinZJLYwHTgTJQrM",
-          "title": "Bypassing Slashing",
+          "id": 9,
           "type": "blockchain_dlt",
-          "severity": "critical"
+          "severity": "medium",
+          "title": "Increasing network processing node resource consumption by at least 30% without brute force actions, compared to the preceding 24 hours"
         },
         {
-          "id": "MpkAHul8FpgYanonXu0yV",
-          "title": "Blocking Specific Transactions",
+          "id": 10,
           "type": "blockchain_dlt",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network"
         },
         {
-          "id": "49Dnl3DcIuMAy8VTPb8UqS",
-          "title": "Causing network processing nodes to process transactions from the transaction queue beyond set parameters",
+          "id": 1,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Network not being able to confirm new transactions (total network shutdown)"
         },
         {
-          "id": "22RTt0eokERdDVQtwSuJ8r",
-          "title": "Increasing network processing node resource consumption by at least 30% without brute force actions, compared to the preceding 24 hours",
+          "id": 3,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct loss of funds"
         },
         {
-          "id": "1iQkPQwazGvX57hNKPYT5W",
-          "title": "Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network",
+          "id": 4,
           "type": "blockchain_dlt",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds (fix requires hardfork)"
         },
         {
-          "id": "5vza4v3z3HxDLFnCjfEJ7b",
-          "title": "Modification of transaction fees outside of design parameters",
+          "id": 5061,
           "type": "blockchain_dlt",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Bypassing Staking Requirements"
         },
         {
-          "id": "6jWPtVzRta1RaPytvOx1UG",
-          "title": "Shutdown of greater than 10% or equal to but less than 30% of network processing nodes without brute force actions, but does not shut down the network",
+          "id": 5062,
           "type": "blockchain_dlt",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Bypassing Slashing"
         }
       ],
       "programOverview": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent audit competitions. This audit competition, called Core II, will cover the Web3 aspects of the project. This will cover two components: Shardus Core Protocol and Shardeum Validator Nodes.\n\nFor more information about Shardeum, please visit [https://shardeum.org/](https://shardeum.org/).\n\nShardeum provides rewards in USDC, denominated in USD.",

@@ -454,94 +454,94 @@
       ],
       "impacts": [
         {
-          "id": "01lxCuYkS79QVQGJBMvc2b",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield",
+          "id": 34,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
         },
         {
-          "id": "2yOnM0oEog5dN7zxCFw0Pp",
-          "title": "Permanent freezing of funds",
+          "id": 23,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
         },
         {
-          "id": "6iaBDJNwUh2em92ftDcVyM",
-          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT",
+          "id": 24,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Theft of unclaimed royalties"
         },
         {
-          "id": "6f8ZIaRaLqqo8DbDYepPKt",
-          "title": "Protocol insolvency",
+          "id": 25,
           "type": "smart_contract",
-          "severity": "critical"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
         },
         {
-          "id": "9bVVKtxZbw4rS0rvuyrw2",
-          "title": "Theft of unclaimed yield",
+          "id": 26,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
         },
         {
-          "id": "3loemxLZlqXt4sGa0PsH1G",
-          "title": "Theft of unclaimed royalties",
+          "id": 27,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "high",
+          "title": "Temporary freezing of funds"
         },
         {
-          "id": "61VDCmna5urRiVR65WNNje",
-          "title": "Permanent freezing of unclaimed yield",
+          "id": 29,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": "547rkDgL9jnK8RApbRvhlz",
-          "title": "Permanent freezing of unclaimed royalties",
+          "id": 30,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Block stuffing"
         },
         {
-          "id": "3bJV5NHgfGkE8WXS1rvMHF",
-          "title": "Temporary freezing of funds",
+          "id": 31,
           "type": "smart_contract",
-          "severity": "high"
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
         },
         {
-          "id": "357ebrkEWAYzNcQ1CdcNv2",
-          "title": "Smart contract unable to operate due to lack of token funds",
+          "id": 32,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Theft of gas"
         },
         {
-          "id": "5EI8wkZQF9VXR0OT1L1JpC",
-          "title": "Block stuffing",
+          "id": 33,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
         },
         {
-          "id": "2k8I7Jvm7hoMWcdWcUNGi5",
-          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)",
+          "id": 15,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
         },
         {
-          "id": "4dvSbuiTD9hxa3l8e52e9l",
-          "title": "Theft of gas",
+          "id": 17,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
         },
         {
-          "id": "4Nv0rDYxrmDEekIyRfNnI4",
-          "title": "Unbounded gas consumption",
+          "id": 20,
           "type": "smart_contract",
-          "severity": "medium"
+          "severity": "critical",
+          "title": "Predictable or manipulable RNG that results in abuse of the principal or NFT"
         },
         {
-          "id": "2UnvPj6z7lIELuESmylbfe",
-          "title": "Contract fails to deliver promised returns, but doesn't lose value",
+          "id": 22,
           "type": "smart_contract",
-          "severity": "low"
+          "severity": "critical",
+          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "The smart contract Arbitration Protocol is a set of on-chain workflows designed to resolve disputes between Projects and Security Researchers over bug report validity and appropriate reward. The expected output is a final binding decision on a report, followed by enforcement (as required) of the bounty reward from the Project to the Security Researcher. The first level of enforcement should occur through leveraging Immunefi’s Vaults.\n\nThe Vaults are Gnosis Safe wallets, and the system includes a set of components which interact with the Vaults through a module and a guard. The purpose of the components is to scope the access of the different roles and players in the arbitration protocol, as well as their capabilities of rewarding, arbitration calling, enforcing, among others.\n\nFor more information about Immunefi Arbitration, please visit https://medium.com/immunefi/introducing-immunefis-arbitration-boost-32858a1fe7e3\n\nImmunefi Arbitration provides rewards in USDC, denominated in USD.",
