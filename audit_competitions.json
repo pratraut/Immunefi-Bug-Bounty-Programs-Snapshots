@@ -68,6 +68,81 @@ The day after the launch, Anvil will give a live technical walkthrough.",
     "premiumTriaging": true
   },
   {
+    "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
+    "id": "ethereum-protocol-attackathon",
+    "project": "Attackathon | Ethereum Protocol",
+    "maximum_reward": 0,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6WPRrSbwq2ZKZzlhwZAmaw/6463655627133a9f5dd5477ab6c55ae0/summary-tile-ethereum__1_.png",
+    "date": "2024-11-25T08:00:49.000Z",
+    "launchDate": "2024-11-25T08:00:49.000Z",
+    "endDate": "2025-01-20T08:00:00.000Z",
+    "updatedDate": "2024-10-28T14:20:22.354Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-17T14:48:00.000Z",
+    "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
+
+When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
+
+**October 28th onward:**
+
+The Ethereum Protocol Education Period is live. To help you learn the Ethereum Protocol quickly and deeply, we'll be providing the Ethereum Protocol Academy, a learning page designed for security researchers to help you upskill on the Ethereum protocol as well as the Ethereum clients. We’ll also host a series of technical walkthroughs, and both the Ethereum Protocol and Ethereum client teams will provide direct technical support. 
+
+You can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.
+
+**November 25th 2024 8am UTC to January 20th 2025 8am UTC:**
+
+Ethereum Protocol’s Attackathon is live. Find bugs and earn rewards. 
+
+During the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. 
+
+[Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "",
+    "rewardsPool": 0,
+    "sourceLinesOfCode": 0,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2024-10-28T08:00:00.000Z",
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "3GK41DXimLkjluCUDLq24f",
     "id": "fuel-network-attackathon",
     "project": "Attackathon | Fuel Network",
