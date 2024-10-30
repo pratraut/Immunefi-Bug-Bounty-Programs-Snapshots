@@ -253,11 +253,13 @@
       "defaultFeasibilityLimitations": null,
       "customOutOfScopeInformation": null,
       "customProhibitedActivities": [],
-      "rewardsTokenNetwork": null,
+      "rewardsTokenNetwork": "Ethereum",
       "eligibilityCriteria": [],
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [],
       "programDocumentations": [],
+      "primacy": "primacy_of_rules",
+      "newProgramRewardsEnabled": false,
       "premiumTriaging": true
     },
     "layoutProps": {
