@@ -14,27 +14,28 @@
       "rewards": [
         {
           "assetType": "smart_contract",
-          "level": "critical",
-          "payout": "USD $100,000",
-          "pocRequired": true
+          "severity": "critical",
+          "rewardModel": "fixed",
+          "rewardCalculationPercentage": 10,
+          "fixedReward": 100000
         },
         {
           "assetType": "smart_contract",
-          "level": "high",
-          "payout": "USD $10,000",
-          "pocRequired": true
+          "severity": "high",
+          "rewardModel": "fixed",
+          "fixedReward": 10000
         },
         {
           "assetType": "smart_contract",
-          "level": "medium",
-          "payout": "USD $2,500",
-          "pocRequired": true
+          "severity": "medium",
+          "rewardModel": "fixed",
+          "fixedReward": 2500
         },
         {
           "assetType": "smart_contract",
-          "level": "low",
-          "payout": "USD $1,000",
-          "pocRequired": true
+          "severity": "low",
+          "rewardModel": "fixed",
+          "fixedReward": 1000
         }
       ],
       "audits": null,
@@ -355,17 +356,48 @@
       "defaultOutOfScopeGeneral": null,
       "defaultOutOfScopeWebAndApplications": null,
       "defaultProhibitedActivities": null,
-      "defaultFeasibilityLimitations": null,
-      "customOutOfScopeInformation": null,
-      "customProhibitedActivities": [],
+      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\n\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)",
+      "customOutOfScopeInformation": "- Broken link hijacking is out of scope\n- Best practice critiques\n- ",
+      "customProhibitedActivities": [
+        "The following activities are prohibited by this bug bounty program. Violation of these rules can result in a temporary suspension or permanent ban from the Immunefi platform at the sole discretion of the Immunefi team, which may also result in: 1) the forfeiture and loss of access to all bug submissions, and 2) zero payout."
+      ],
       "rewardsTokenNetwork": "Avalanche, Arbitrum and BNB Chain",
       "rewardsToken": "USDC",
       "eligibilityCriteria": [],
       "eligibilityCriteriaAdditionalInformation": null,
-      "programCodebases": [],
-      "programDocumentations": [],
+      "programCodebases": [
+        {
+          "id": 226,
+          "programId": 1867,
+          "title": "Trader Joe Smart Contracts",
+          "description": "Program Smart Contracts",
+          "url": "https://github.com/traderjoe-xyz/joe-v2",
+          "createdAt": "2024-11-05T18:40:15.366Z",
+          "updatedAt": "2024-11-05T18:40:15.366Z"
+        }
+      ],
+      "programDocumentations": [
+        {
+          "id": 119,
+          "programId": 1867,
+          "title": "Trader Joe Documentation",
+          "description": "Program Documentation",
+          "url": "https://docs.traderjoexyz.com/",
+          "createdAt": "2024-11-05T18:40:47.054Z",
+          "updatedAt": "2024-11-05T18:40:47.054Z"
+        },
+        {
+          "id": 120,
+          "programId": 1867,
+          "title": "Trader Joe Documentation",
+          "description": "Program Documentation",
+          "url": "https://github.com/traderjoe-xyz/joe-v2",
+          "createdAt": "2024-11-05T18:41:15.789Z",
+          "updatedAt": "2024-11-05T18:41:15.789Z"
+        }
+      ],
       "primacy": "primacy_of_rules",
-      "newProgramRewardsEnabled": false,
+      "newProgramRewardsEnabled": true,
       "premiumTriaging": false
     },
     "project": {
