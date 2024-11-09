@@ -76,6 +76,85 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "premiumTriaging": true
   },
   {
+    "contentfulId": "2OGZujUy2wo1CzRkPqmXch",
+    "id": "audit-comp-anvil-letters-of-credit",
+    "project": "Audit Comp | Anvil: Letters of Credit",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Hr2T9A9pZCCS0Oj9fCzjH/f8f737c77bdfe9814708931dc16676c6/image__21_.png",
+    "date": "2024-11-11T10:00:28.000Z",
+    "launchDate": "2024-11-11T10:00:28.000Z",
+    "endDate": "2024-11-22T10:00:00.000Z",
+    "updatedDate": "2024-11-09T09:32:46.467Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2024-12-20T10:00:23.000Z",
+    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Anvil LetterOfCredit contract. 
+
+Anvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.
+
+For more information about Anvil, please visit https://anvil.xyz/
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Anvil technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"anvil-letters-of-credit\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Anvil's technical walkthrough on our official YouTube channel.",
+    "boostedIntroLive": "$30,000 USD is available in rewards for finding bugs in Anvil's Letters Of Credit contract of 1622 nSLOC. 
+
+KYC is required.
+
+Any technical questions and support requests can be asked directly to Anvil or Immunefi in the [Anvil Letters Of Credit Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Anvil, please visit https://anvil.xyz/",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDT",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 1622,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Vault",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "7xv2WGSExiRNS7NVZKlmPZ",
     "id": "swaylend-frontend-iop",
     "project": "IOP | SwayLend: Frontend",
