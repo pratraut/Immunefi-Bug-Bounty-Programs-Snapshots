@@ -1,0 +1,2861 @@
+{
+  "pageProps": {
+    "isAttackathon": false,
+    "academyContent": null,
+    "ethereumAttackathonSponsors": null,
+    "project": {
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
+    "bounty": {
+      "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
+      "id": "audit-comp-celo",
+      "slug": "audit-comp-celo",
+      "project": "Audit Comp | Celo",
+      "maxBounty": 50000,
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
+      "launchDate": "2024-11-13T19:00:43.000Z",
+      "endDate": "2024-12-05T19:00:00.000Z",
+      "updatedDate": "2024-11-14T15:25:36.233Z",
+      "kyc": true,
+      "rewards": [
+        {
+          "assetType": "smart_contract",
+          "level": "critical",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "high",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        },
+        {
+          "assetType": "smart_contract",
+          "level": "medium",
+          "payout": "Portion of the Reward Pool",
+          "pocRequired": true
+        }
+      ],
+      "audits": null,
+      "assets": [
+        {
+          "id": "3Ozre0HV53x291zNRJYuzq",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/specs/harnesses/LockedGoldHarness.sol",
+          "description": "LockedGoldHarness - 50",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:31:43.680Z"
+        },
+        {
+          "id": "eViBc0u16mOfTbvBmQAvR",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/specs/harnesses/AccountsHarness.sol",
+          "description": "AccountsHarness - 49",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:32:21.299Z"
+        },
+        {
+          "id": "01OHF91WQczpBKYEWSOjkH",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/specs/harnesses/GovernanceHarness.sol",
+          "description": "GovernanceHarness - 52",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:34:18.772Z"
+        },
+        {
+          "id": "64Tzh7zU5OcKiFdIa1iU5W",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/specs/harnesses/ReserveHarness.sol",
+          "description": "ReserveHarness - 11",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:34:54.214Z"
+        },
+        {
+          "id": "1FSRPDzOlBB0l9HsaNE89e",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/specs/harnesses/IRegistryExtended.sol",
+          "description": "IRegistryExtended - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:36:44.806Z"
+        },
+        {
+          "id": "68udgiBGN1VH2xiwDaA1OI",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/specs/harnesses/RegistryHarness.sol",
+          "description": "RegistryHarness - 124",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:37:17.911Z"
+        },
+        {
+          "id": "2WzWuHV1tqGhMbyYyqKeFF",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/MockUniswapV2Factory.sol",
+          "description": "MockUniswapV2Factory - 42",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:37:48.621Z"
+        },
+        {
+          "id": "2c2InNe65aLxbSAVbU1bjZ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/UniswapV2ERC20.sol",
+          "description": "UniswapV2ERC20 - 94",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:38:30.777Z"
+        },
+        {
+          "id": "6efFb0YcOWpRs3pfOq8y8g",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/MockERC20.sol",
+          "description": "MockERC20 - 7",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:39:00.416Z"
+        },
+        {
+          "id": "59CKDoe8wv37Us0WJgTWw6",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/MockUniswapV2Pair.sol",
+          "description": "MockUniswapV2Pair - 207",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:39:28.780Z"
+        },
+        {
+          "id": "3Pb4vdjyc8qPxjxBXuOwoC",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/libraries/SafeMathUni.sol",
+          "description": "SafeMathUni - 13",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:40:00.428Z"
+        },
+        {
+          "id": "5uTwOr2rI4Dn9IG5TxgECn",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/libraries/UniswapV2Library.sol",
+          "description": "UniswapV2Library - 125",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:41:20.793Z"
+        },
+        {
+          "id": "42nA89LA90WI9A9pXdiFAJ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/libraries/UQ112x112.sol",
+          "description": "UQ112x112 - 15",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:41:50.601Z"
+        },
+        {
+          "id": "2Pt9jcol1Ud8taj0eXM6pl",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/libraries/TransferHelper.sol",
+          "description": "TransferHelper - 38",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:42:18.688Z"
+        },
+        {
+          "id": "4z8SQL2qfuQVBv4g7owDRG",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/libraries/MathUni.sol",
+          "description": "MathUni - 20",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:42:51.413Z"
+        },
+        {
+          "id": "2zdrMia9qhPS0hqQpUXjz8",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/test/MockUniswapV2Router02.sol",
+          "description": "MockUniswapV2Router02 - 522",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:43:22.498Z"
+        },
+        {
+          "id": "9ZRkVpedByiXnictnUfg3",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IUniswapV2ERC20.sol",
+          "description": "IUniswapV2ERC20 - 26",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:43:51.260Z"
+        },
+        {
+          "id": "XVNWkci6mk9rwjkVgZ4gJ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IUniswapV2Router02.sol",
+          "description": "IUniswapV2Router02 - 168",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:44:16.060Z"
+        },
+        {
+          "id": "48ePzzdnDlforcrwUqFwEi",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IWETH.sol",
+          "description": "IWETH - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:44:46.030Z"
+        },
+        {
+          "id": "7zmw6gQrL3245hdUodcfcx",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IUniswapV2Factory.sol",
+          "description": "IUniswapV2Factory - 12",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:45:27.969Z"
+        },
+        {
+          "id": "3oOVrjldkbJlVec6Vk7Tmp",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IUniswapV2RouterMin.sol",
+          "description": "IUniswapV2RouterMin - 15",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:45:54.599Z"
+        },
+        {
+          "id": "705jSCw2C7Ook6jIPuue2q",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IUniswapV2FactoryMin.sol",
+          "description": "IUniswapV2FactoryMin - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:46:18.877Z"
+        },
+        {
+          "id": "iwRkhcdpqBFWJSLjOFN3U",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IUniswapV2Pair.sol",
+          "description": "IUniswapV2Pair - 54",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:46:59.758Z"
+        },
+        {
+          "id": "5yFKZEgxBksbWCSaBKfTK6",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/uniswap/interfaces/IUniswapV2Callee.sol",
+          "description": "IUniswapV2Callee - 9",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:47:25.792Z"
+        },
+        {
+          "id": "3n8PFkAyn2xdSupT4Fmg4Z",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/FederatedAttestations.sol",
+          "description": "FederatedAttestations - 477",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:47:49.111Z"
+        },
+        {
+          "id": "4WjAs2KkLmQmiYiuLLYenb",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/Attestations.sol",
+          "description": "Attestations - 474",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:48:13.599Z"
+        },
+        {
+          "id": "41BwEQ683x4PWar3cyhhwT",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/test/MockRandom.sol",
+          "description": "MockRandom - 12",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:48:39.596Z"
+        },
+        {
+          "id": "6tv7xqpg0KPIp32m8KWIld",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/test/MockAttestations.sol",
+          "description": "MockAttestations - 53",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:49:02.549Z"
+        },
+        {
+          "id": "3BBjxWJb5TdavBW2rVTGQo",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/test/RandomTest.sol",
+          "description": "RandomTest - 17",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:49:29.311Z"
+        },
+        {
+          "id": "3T9Nm6npxdS7J09f8PQoyu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/test/MockERC20Token.sol",
+          "description": "MockERC20Token - 21",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:49:58.666Z"
+        },
+        {
+          "id": "1NtWla2ciyQZAemBsUFIXx",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/test/IdentityProxyTest.sol",
+          "description": "IdentityProxyTest - 15",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:50:31.085Z"
+        },
+        {
+          "id": "65yLpC1HJ8CaaBNUpcYOO9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/test/AttestationsTest.sol",
+          "description": "AttestationsTest - 171",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:50:55.366Z"
+        },
+        {
+          "id": "14uUCYwnsIVGsm6pqpNUA4",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/Escrow.sol",
+          "description": "Escrow - 510",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:51:25.148Z"
+        },
+        {
+          "id": "3e8ADQ0SdgtqLGSiEQQd7H",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/IdentityProxyHub.sol",
+          "description": "IdentityProxyHub - 107",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:51:51.304Z"
+        },
+        {
+          "id": "1HtutlcG37yaY5lQb6tLQR",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/Random.sol",
+          "description": "identity/Random - 205",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:52:18.839Z"
+        },
+        {
+          "id": "4d6mF5G0490yZYhG4zzGnm",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/proxies/RandomProxy.sol",
+          "description": "RandomProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:52:43.670Z"
+        },
+        {
+          "id": "4B2ntW60TtDmFmOGJTXn4c",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/proxies/FederatedAttestationsProxy.sol",
+          "description": "FederatedAttestationsProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:53:06.463Z"
+        },
+        {
+          "id": "6rX87p0EF8ZB2wavBeWwbK",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/proxies/OdisPaymentsProxy.sol",
+          "description": "OdisPaymentsProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:53:29.376Z"
+        },
+        {
+          "id": "5XoPx4wCQo6QMzb5CLzarV",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/proxies/AttestationsProxy.sol",
+          "description": "AttestationsProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:53:51.426Z"
+        },
+        {
+          "id": "2xUADbdzpMdbGzhOUg3oDd",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/proxies/EscrowProxy.sol",
+          "description": "EscrowProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:54:12.711Z"
+        },
+        {
+          "id": "5OqboXfAUISp0v7i07wfAu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/IdentityProxy.sol",
+          "description": "IdentityProxy - 26",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:54:37.151Z"
+        },
+        {
+          "id": "3FPVq0fIlfPPK24wyvmPso",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/OdisPayments.sol",
+          "description": "OdisPayments - 65",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:55:00.745Z"
+        },
+        {
+          "id": "4sDuPVugHjnGaWtaRDx4kB",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IAttestations.sol",
+          "description": "IAttestations - 38",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:55:23.052Z"
+        },
+        {
+          "id": "7pe69j4dsa3c6SgWcGBtad",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IRandomInitializer.sol",
+          "description": "IRandomInitializer - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:55:45.804Z"
+        },
+        {
+          "id": "3a59C9czoThbRIkFT6beZU",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IEscrow.sol",
+          "description": "IEscrow - 31",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:56:17.917Z"
+        },
+        {
+          "id": "20xuQtWRVgNGXVr6kroSqW",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IFederatedAttestations.sol",
+          "description": "IFederatedAttestations - 59",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:56:40.931Z"
+        },
+        {
+          "id": "4c20I3zbm6B6BPx2QnrFOX",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IFederatedAttestationsInitializer.sol",
+          "description": "IFederatedAttestationsInitializer - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:57:05.067Z"
+        },
+        {
+          "id": "6Ieak2eY40jz9660AupUP3",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IRandom.sol",
+          "description": "IRandom - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:57:27.816Z"
+        },
+        {
+          "id": "23VRiF5mnVIXqXl6iG3k1t",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IOdisPayments.sol",
+          "description": "IOdisPayments - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:57:52.442Z"
+        },
+        {
+          "id": "6XkYz8vvXWsatg8CjEQc6u",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IOdisPaymentsInitializer.sol",
+          "description": "IOdisPaymentsInitializer - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:58:18.069Z"
+        },
+        {
+          "id": "7pQbKonzzb7FTAaHnHJst2",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/identity/interfaces/IEscrowInitializer.sol",
+          "description": "IEscrowInitializer - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:58:46.769Z"
+        },
+        {
+          "id": "7xOLlBiukhRhx7gaTIRP63",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/Migrations.sol",
+          "description": "Migrations - 19",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:59:10.298Z"
+        },
+        {
+          "id": "2lYIzERvSUlnPdavQjgxje",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/ProxyCloneFactory.sol",
+          "description": "ProxyCloneFactory - 58",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:59:32.174Z"
+        },
+        {
+          "id": "3Z4otYgI2lbJFLOrjVhLpQ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Initializable.sol",
+          "description": "Initializable - 30",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T10:59:55.773Z"
+        },
+        {
+          "id": "7flN0P6xVwGOHaPww57Atw",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/FeeCurrencyWhitelist.sol",
+          "description": "FeeCurrencyWhitelist - 81",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:00:21.804Z"
+        },
+        {
+          "id": "7dzkGQCQRpZcpJ36WhMx7V",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/UsingRegistry.sol",
+          "description": "UsingRegistry - 131",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:00:44.709Z"
+        },
+        {
+          "id": "1W8U3vSXf9CQ7GukFqFV2P",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/InitializableProxy.sol",
+          "description": "InitializableProxy - 30",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:01:06.857Z"
+        },
+        {
+          "id": "5t084cfQYhoGJV8SIVMqhB",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/GoldToken.sol",
+          "description": "GoldToken - 287",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:01:30.598Z"
+        },
+        {
+          "id": "5TAzqT4Cq7bb03aIiwN47A",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/CalledByVm.sol",
+          "description": "CalledByVm - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:01:52.213Z"
+        },
+        {
+          "id": "5ZqFEgzbJDLga0T9MNor0f",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/PrecompilesOverride.sol",
+          "description": "PrecompilesOverride - 62",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:03:02.251Z"
+        },
+        {
+          "id": "d1jbScHCQRbwhUABOSdcA",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/SortedLinkedListMock.sol",
+          "description": "SortedLinkedListMock - 30",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:03:23.906Z"
+        },
+        {
+          "id": "2Wl2vLIHOP9TD4VJc499mH",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/GetSetV1.sol",
+          "description": "GetSetV1 - 12",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:03:54.364Z"
+        },
+        {
+          "id": "4CYxr0SYAdQuCZBbcuMIdq",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/GetSetV0.sol",
+          "description": "GetSetV0 - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:04:14.616Z"
+        },
+        {
+          "id": "67TOx4rNfSp1SuFcgbXCWw",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/IntegerSortedLinkedListMock.sol",
+          "description": "IntegerSortedLinkedListMock - 34",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:04:45.717Z"
+        },
+        {
+          "id": "4wkqsmzAUuiROrAVvFQecM",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/ExtractFunctionSignatureTest.sol",
+          "description": "ExtractFunctionSignatureTest - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:05:07.346Z"
+        },
+        {
+          "id": "5OO7FymbwyfDtyFjkewSji",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/LinkedListWrapper.sol",
+          "description": "LinkedListWrapper - 30",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:05:30.028Z"
+        },
+        {
+          "id": "6dkoMS55q0ex31prSfXrTE",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/HasInitializer.sol",
+          "description": "HasInitializer - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:05:57.181Z"
+        },
+        {
+          "id": "5UoarU3TUoshWgVbsO2n4E",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/FixidityWrapper.sol",
+          "description": "FixidityWrapper - 39",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:06:18.474Z"
+        },
+        {
+          "id": "1p43KRT11pIIEztqgSnZGJ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/MsgSenderCheck.sol",
+          "description": "MsgSenderCheck - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:06:37.551Z"
+        },
+        {
+          "id": "6xwTBcV8pQvHdOJKBNDbx8",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/test/AddressSortedLinkedListWithMedianMock.sol",
+          "description": "AddressSortedLinkedListWithMedianMock - 38",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:06:59.833Z"
+        },
+        {
+          "id": "g9Yx5IqXrsV4SwqxImD6e",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/ExtractFunctionSignature.sol",
+          "description": "ExtractFunctionSignature - 14",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:07:20.465Z"
+        },
+        {
+          "id": "7u9g75rqBPuKi1PD67SvOC",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/UniswapFeeHandlerSeller.sol",
+          "description": "UniswapFeeHandlerSeller - 182",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:07:42.944Z"
+        },
+        {
+          "id": "Ewl7xW5bqT66beBzSx3tt",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/UsingRegistryV2BackwardsCompatible.sol",
+          "description": "UsingRegistryV2BackwardsCompatible - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:08:08.435Z"
+        },
+        {
+          "id": "4j5tCMUoDWZJ6m6tVG4feb",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/MultiSig.sol",
+          "description": "MultiSig - 356",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:08:30.853Z"
+        },
+        {
+          "id": "mxIx6LXo03gRu7wzGSO9o",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/ReentrancyGuard.sol",
+          "description": "ReentrancyGuard - 30",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:08:52.680Z"
+        },
+        {
+          "id": "6c074adXZQio144CjeK0Vx",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/CIP20Lib.sol",
+          "description": "CIP20Lib - 120",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:09:14.684Z"
+        },
+        {
+          "id": "4mwAUPO60b6f173F0ByvLb",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/TypedMemView.sol",
+          "description": "TypedMemView - 764",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:09:41.590Z"
+        },
+        {
+          "id": "2UlYs0yTCYHrJDJc8KRGN0",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/SafeMathMem.sol",
+          "description": "SafeMathMem - 67",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:10:23.274Z"
+        },
+        {
+          "id": "30Jn2SHotdyVArLuIsFFDz",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/test/CIP20Test.sol",
+          "description": "CIP20Test - 27",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:10:43.675Z"
+        },
+        {
+          "id": "5cxonp4DOXxx1dL2bzPm40",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/test/BLS12Passthrough.sol",
+          "description": "BLS12Passthrough - 278",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:11:05.981Z"
+        },
+        {
+          "id": "GFdksNo8ZLWwLhhRUrlb9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/Heap.sol",
+          "description": "Heap - 52",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:11:32.658Z"
+        },
+        {
+          "id": "5iI0msZqLAafM11KkiLRyu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/libraries/B12.sol",
+          "description": "B12 - 768",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:11:54.976Z"
+        },
+        {
+          "id": "1rethO0i4NHQuL04Nj7Wgi",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Registry.sol",
+          "description": "Registry - 88",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:13:23.586Z"
+        },
+        {
+          "id": "2bEvOmYGCUUVVsn0JrgvY9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/UsingRegistryV2.sol",
+          "description": "UsingRegistryV2 - 162",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:13:44.836Z"
+        },
+        {
+          "id": "36qQDried1GKwkmBUl8YTM",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Proxy.sol",
+          "description": "Proxy - 139",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:14:05.877Z"
+        },
+        {
+          "id": "7aHbBO2gyosso3wdp1jao5",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/ProxyFactory.sol",
+          "description": "ProxyFactory - 25",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:14:26.916Z"
+        },
+        {
+          "id": "7wlT0SIK9f6fAZAgZylG6M",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Freezable.sol",
+          "description": "Freezable - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:14:46.591Z"
+        },
+        {
+          "id": "1cxZ13nnIjd8zCIst1qZ7i",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/ExternalCall.sol",
+          "description": "ExternalCall - 23",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:15:07.838Z"
+        },
+        {
+          "id": "Vc7Vlr7rOeoRRadI3MeyB",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/FeeHandlerSeller.sol",
+          "description": "FeeHandlerSeller - 92",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:15:28.128Z"
+        },
+        {
+          "id": "7bxTBx35d959f6TR2us2Hj",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/UsingPrecompiles.sol",
+          "description": "UsingPrecompiles - 270",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:15:52.058Z"
+        },
+        {
+          "id": "5vQHL2UWuiwzROMEfJlwc3",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Create2.sol",
+          "description": "Create2 - 39",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:16:16.678Z"
+        },
+        {
+          "id": "1rMpBytOC9LswAw4Gii256",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/MentoFeeHandlerSeller.sol",
+          "description": "MentoFeeHandlerSeller - 68",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:16:42.362Z"
+        },
+        {
+          "id": "7wYQLhFIH322WBmRx42LpB",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Accounts.sol",
+          "description": "Accounts - 1039",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:17:08.087Z"
+        },
+        {
+          "id": "31dFxGkCcikBDaUl6EChkN",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Freezer.sol",
+          "description": "Freezer - 29",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:17:29.117Z"
+        },
+        {
+          "id": "3tpY9Xe0o3WSvZhmMNH06m",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/MentoFeeHandlerSellerProxy.sol",
+          "description": "MentoFeeHandlerSellerProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:17:55.150Z"
+        },
+        {
+          "id": "3GpMd5pmfmBlmKwVOzwOIU",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/ScoreManagerProxy.sol",
+          "description": "ScoreManagerProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:18:26.094Z"
+        },
+        {
+          "id": "6hfV3ZLEYvKPjHSYiRchIv",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/FeeCurrencyDirectoryProxy.sol",
+          "description": "FeeCurrencyDirectoryProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:18:51.706Z"
+        },
+        {
+          "id": "4mNn35l4PQWrvbGCLJoqce",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/EpochManagerProxy.sol",
+          "description": "EpochManagerProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:19:11.605Z"
+        },
+        {
+          "id": "1rbCZFkDb9mbuFbNEv9lY6",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/EpochManagerEnablerProxy.sol",
+          "description": "EpochManagerEnablerProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:19:30.747Z"
+        },
+        {
+          "id": "3RWHAjCnaQhWvm1hecQc5O",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/RegistryProxy.sol",
+          "description": "RegistryProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:19:50.117Z"
+        },
+        {
+          "id": "42F7YMp6o0jJC90N2KkKJM",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/FeeCurrencyWhitelistProxy.sol",
+          "description": "FeeCurrencyWhitelistProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:20:09.851Z"
+        },
+        {
+          "id": "Y3t5gArVCrcWXtFw6ZANF",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/GoldTokenProxy.sol",
+          "description": "GoldTokenProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:20:30.384Z"
+        },
+        {
+          "id": "1htADc6ZPELK7SClukCfLY",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/GasPriceMinimumProxy.sol",
+          "description": "GasPriceMinimumProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:20:51.409Z"
+        },
+        {
+          "id": "3jB0WhSZNGOfKpwd8X0O7e",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/FeeCurrencyAdapterProxy.sol",
+          "description": "FeeCurrencyAdapterProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:21:11.776Z"
+        },
+        {
+          "id": "ZVu0fuxx7T4lPZAbukoHs",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/FreezerProxy.sol",
+          "description": "FreezerProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:21:31.139Z"
+        },
+        {
+          "id": "19y8HBvzbpzFOnviJ5ECaT",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/CeloUnreleasedTreasuryProxy.sol",
+          "description": "CeloUnreleasedTreasuryProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:21:50.422Z"
+        },
+        {
+          "id": "2mibnpDfXvvIZugKa6z6Uf",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/FeeHandlerProxy.sol",
+          "description": "FeeHandlerProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:22:09.960Z"
+        },
+        {
+          "id": "57MpWsSOEh6hIQR8IEePwm",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/UniswapFeeHandlerSellerProxy.sol",
+          "description": "UniswapFeeHandlerSellerProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:22:39.085Z"
+        },
+        {
+          "id": "3njzUEkK9psWANoT7OYdMo",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/proxies/AccountsProxy.sol",
+          "description": "AccountsProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:22:58.064Z"
+        },
+        {
+          "id": "12qqtK3QS2fr3jvx7ODrsB",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/FeeHandler.sol",
+          "description": "FeeHandler - 670",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:23:19.770Z"
+        },
+        {
+          "id": "2Gv6MZWR5kq8scnqd86oTu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Blockable.sol",
+          "description": "Blockable - 60",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:23:40.962Z"
+        },
+        {
+          "id": "4qL54iGAQ21TyGov2ucCCd",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/Signatures.sol",
+          "description": "Signatures - 80",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:24:01.133Z"
+        },
+        {
+          "id": "4lpbOS2Q33DqXOr5cGTdfh",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/FixidityLib.sol",
+          "description": "FixidityLib - 260",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:24:28.328Z"
+        },
+        {
+          "id": "6OY9LIBAiWYGk2sm1VhsyK",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/linkedlists/SortedLinkedList.sol",
+          "description": "SortedLinkedList - 217",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:24:51.756Z"
+        },
+        {
+          "id": "7dgnyDZKlBhrFwwuG5nkFF",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/linkedlists/SortedLinkedListWithMedian.sol",
+          "description": "SortedLinkedListWithMedian - 251",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:25:20.759Z"
+        },
+        {
+          "id": "4Ze5oGgpY9lM1RkqmDwCtN",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/linkedlists/AddressSortedLinkedListWithMedian.sol",
+          "description": "AddressSortedLinkedListWithMedian - 154",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:25:41.677Z"
+        },
+        {
+          "id": "6cK57WcLHQt28lUDrKdjGE",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/linkedlists/AddressSortedLinkedList.sol",
+          "description": "AddressSortedLinkedList - 142",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:26:03.138Z"
+        },
+        {
+          "id": "1xHMM9x7kI6qY40TXJytm8",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/linkedlists/LinkedList.sol",
+          "description": "LinkedList - 148",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:26:23.953Z"
+        },
+        {
+          "id": "61KvbtdfkasAiGsQ4srfyp",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/linkedlists/AddressLinkedList.sol",
+          "description": "AddressLinkedList - 95",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:26:46.976Z"
+        },
+        {
+          "id": "7u6aFM7IrdlpU8NdVu8new",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/linkedlists/IntegerSortedLinkedList.sol",
+          "description": "IntegerSortedLinkedList - 111",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:27:08.056Z"
+        },
+        {
+          "id": "5auyKBBO44EqdzKGerwvKa",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IOwnable.sol",
+          "description": "IOwnable - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:27:28.878Z"
+        },
+        {
+          "id": "66BgyKxx5fMfBNNwQyhsIY",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IFeeHandler.sol",
+          "description": "IFeeHandler - 27",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:27:49.075Z"
+        },
+        {
+          "id": "39PVw3AmlLYWRUYVEYK61Y",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/ICeloTokenInitializer.sol",
+          "description": "ICeloTokenInitializer - 9",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:28:12.192Z"
+        },
+        {
+          "id": "63AO2uBmGwS1OjvqNJGR8r",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IEpochManagerEnabler.sol",
+          "description": "IEpochManagerEnabler - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:28:33.298Z"
+        },
+        {
+          "id": "CRVUXFjWONHiFjUMOFmkN",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IFeeHandlerSeller.sol",
+          "description": "IFeeHandlerSeller - 12",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:28:56.406Z"
+        },
+        {
+          "id": "1tBrHaEMr9YAJki6qdBZ8u",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IFeeCurrencyWhitelist.sol",
+          "description": "IFeeCurrencyWhitelist - 7",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:29:16.283Z"
+        },
+        {
+          "id": "70mw0PpQ4LbYa0jn1by99w",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IScoreManagerGovernance.sol",
+          "description": "IScoreManagerGovernance - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:29:40.347Z"
+        },
+        {
+          "id": "31Ec7fpytrnLRzq2uzVRf0",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IFeeHandlerSellerInitializer.sol",
+          "description": "IFeeHandlerSellerInitializer - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:30:00.661Z"
+        },
+        {
+          "id": "5i5eK3msJZcFwq6MXWt6yq",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IRegistryInitializer.sol",
+          "description": "IRegistryInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:30:20.532Z"
+        },
+        {
+          "id": "7x5xAVa20CdYRE6DIVExz9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IAccounts.sol",
+          "description": "IAccounts - 51",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:30:44.250Z"
+        },
+        {
+          "id": "4mf6GL0jJqznWrX6HqwXx4",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IInitializable.sol",
+          "description": "IInitializable - 3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:31:05.700Z"
+        },
+        {
+          "id": "2ejWC8j6IvmNhk5f5t6g45",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IFeeHandlerInitializer.sol",
+          "description": "IFeeHandlerInitializer - 12",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:31:35.246Z"
+        },
+        {
+          "id": "7mgsU4d5agBCXpR5dtV05t",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IScoreManager.sol",
+          "description": "IScoreManager - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:31:56.240Z"
+        },
+        {
+          "id": "6oIQtcZWMnYtt2k5phHLHg",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IFreezer.sol",
+          "description": "IFreezer - 7",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:32:16.384Z"
+        },
+        {
+          "id": "6n0SO2yTk3l5JJGwH6u4Dd",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IRegistry.sol",
+          "description": "IRegistry - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:32:54.372Z"
+        },
+        {
+          "id": "2vJUAVc4kBjNGdyk0oMDwZ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IProxyFactory.sol",
+          "description": "IProxyFactory - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:33:13.628Z"
+        },
+        {
+          "id": "2ySFh4KaBUvkxwNiUl42EX",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IProxy.sol",
+          "description": "IProxy - 12",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:33:32.994Z"
+        },
+        {
+          "id": "26w8Bkcb4cbnFuEf7mNqP6",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/ICeloToken.sol",
+          "description": "ICeloToken - 16",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:33:52.667Z"
+        },
+        {
+          "id": "2vCoWyLmdN9aRBm8MxzE0V",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IBlockable.sol",
+          "description": "IBlockable - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:34:15.667Z"
+        },
+        {
+          "id": "4hyP1GGQKDa60VpeYMjoLC",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/ICeloVersionedContract.sol",
+          "description": "ICeloVersionedContract - 12",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:34:37.667Z"
+        },
+        {
+          "id": "5CdVS986RFoOHaNISegnEt",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IFreezerInitializer.sol",
+          "description": "IFreezerInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:34:58.383Z"
+        },
+        {
+          "id": "31GF34czcrWxv5Th0C9zp7",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IEpochManager.sol",
+          "description": "IEpochManager - 44",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:35:20.245Z"
+        },
+        {
+          "id": "7LnhhyoERNSkfh2jCDbEzj",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IBlocker.sol",
+          "description": "IBlocker - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:35:47.336Z"
+        },
+        {
+          "id": "1F0wNz73QVKQUJV5ITqyBf",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IStableTokenMento.sol",
+          "description": "IStableTokenMento - 17",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:36:10.181Z"
+        },
+        {
+          "id": "3Lr0icc8Dv1Jt5linbE1Se",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/IAccountsInitializer.sol",
+          "description": "IAccountsInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:36:33.912Z"
+        },
+        {
+          "id": "6I5mHZyu7IjxvseNFn2tkY",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/interfaces/ICeloUnreleasedTreasury.sol",
+          "description": "ICeloUnreleasedTreasury - 11",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:36:56.138Z"
+        },
+        {
+          "id": "75KrFIyWvRfttLnoxnMHAu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/CompileExchange.sol",
+          "description": "CompileExchange - 410",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:37:19.843Z"
+        },
+        {
+          "id": "4dNiKA6DAWa8QMHJ7UhoVk",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/test/MockSortedOracles.sol",
+          "description": "MockSortedOracles - 46",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:37:39.827Z"
+        },
+        {
+          "id": "1Y3gia2ksKvBFtGj0oGaQW",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/test/MockStableToken.sol",
+          "description": "MockStableToken - 64",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:37:59.183Z"
+        },
+        {
+          "id": "6sQoc67kLJ4WAFn590jR3r",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/test/MockReserve.sol",
+          "description": "MockReserve - 33",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:38:19.590Z"
+        },
+        {
+          "id": "Dcm6ykvXkuDksuKDEfJc3",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/SortedOracles.sol",
+          "description": "SortedOracles - 457",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:38:42.318Z"
+        },
+        {
+          "id": "KyUSlJg2QDJuvZAOSbt5A",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/proxies/SortedOraclesProxy.sol",
+          "description": "SortedOraclesProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:39:01.366Z"
+        },
+        {
+          "id": "3h3ozInfzPqzrwpoZEl2bD",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/interfaces/IBreakerBox.sol",
+          "description": "IBreakerBox - 123",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:39:23.274Z"
+        },
+        {
+          "id": "349yXBOmoNKvNVa2pMAkpi",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/interfaces/ISortedOraclesInitializer.sol",
+          "description": "ISortedOraclesInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:39:43.103Z"
+        },
+        {
+          "id": "7f1z3EU5EWWyEVVqljFyHD",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/stability/interfaces/ISortedOracles.sol",
+          "description": "ISortedOracles - 13",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:40:03.438Z"
+        },
+        {
+          "id": "2SbeF5IgUmQrn9i9jHNKmT",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/LockedGold.sol",
+          "description": "LockedGold - 840",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:40:31.587Z"
+        },
+        {
+          "id": "1a9AEaJOfDWjNRsi8bCs4A",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/EpochRewardsMock.sol",
+          "description": "EpochRewardsMock - 20",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:40:57.436Z"
+        },
+        {
+          "id": "2SnQggC3G3CgMBIBWbrIq5",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/MockLockedGold.sol",
+          "description": "MockLockedGold - 108",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:41:17.146Z"
+        },
+        {
+          "id": "22BgVzsusNaHPBduzpIegY",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/MockGovernance.sol",
+          "description": "MockGovernance - 40",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:41:35.069Z"
+        },
+        {
+          "id": "7oQElqwn4ypakghhfNuCqQ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/TestTransactions.sol",
+          "description": "TestTransactions - 14",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:41:54.184Z"
+        },
+        {
+          "id": "2YavkRqj1iK4hBwXN9zrqT",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/MockUsingPrecompiles.sol",
+          "description": "MockUsingPrecompiles - 38",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:42:15.126Z"
+        },
+        {
+          "id": "51Vi1KTpqHqxeNpsSWueEY",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/MockValidators.sol",
+          "description": "MockValidators - 265",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:42:45.246Z"
+        },
+        {
+          "id": "6Rg1iNqFY3kqaae1Ht5nsv",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/ElectionTest.sol",
+          "description": "ElectionTest - 16",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:43:04.678Z"
+        },
+        {
+          "id": "TX1uNGHBsxFfIgT8VbTQn",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/test/MockElection.sol",
+          "description": "MockElection - 89",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:43:23.328Z"
+        },
+        {
+          "id": "4PxEKIqyeHAX7WzjEtOMls",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/BlockchainParameters.sol",
+          "description": "BlockchainParameters - 130",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:43:42.505Z"
+        },
+        {
+          "id": "2U1Mlfv1NIj3wixGnWmuxv",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/ReleaseGoldMultiSig.sol",
+          "description": "ReleaseGoldMultiSig - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:43:59.398Z"
+        },
+        {
+          "id": "3pQAXHGYX8n3mF86cLVI04",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/Governance.sol",
+          "description": "Governance - 1634",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:44:19.918Z"
+        },
+        {
+          "id": "3dBQBoAVP3vcYu2HZZCPmG",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/EpochRewards.sol",
+          "description": "EpochRewards - 535",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:44:41.782Z"
+        },
+        {
+          "id": "2L2FJ0fG3rVV17BIXxM5ah",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/ReleaseGold.sol",
+          "description": "ReleaseGold - 732",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:45:03.943Z"
+        },
+        {
+          "id": "1ToSYesKGbCmpaY4cF2KcO",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/GovernanceApproverMultiSig.sol",
+          "description": "GovernanceApproverMultiSig - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:45:24.177Z"
+        },
+        {
+          "id": "5RMRZIKKGjE8MdHkjKn1pI",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/DoubleSigningSlasher.sol",
+          "description": "DoubleSigningSlasher - 154",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:45:55.365Z"
+        },
+        {
+          "id": "3qIQMPvx4saZUfiNu7egjN",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/ReleaseGoldProxy.sol",
+          "description": "ReleaseGoldProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:46:14.099Z"
+        },
+        {
+          "id": "2SSVCRRDmpruj5SxRv416a",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/EpochRewardsProxy.sol",
+          "description": "EpochRewardsProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:46:42.675Z"
+        },
+        {
+          "id": "2PmpXPWwtDMXM5s8kec7Vu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/BlockchainParametersProxy.sol",
+          "description": "BlockchainParametersProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:47:08.920Z"
+        },
+        {
+          "id": "675QVL4WVaN1WA9Cswkukn",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/DowntimeSlasherProxy.sol",
+          "description": "DowntimeSlasherProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:47:29.332Z"
+        },
+        {
+          "id": "2kRqJhAQp1XZn3n2RXNWlV",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/ReleaseGoldMultiSigProxy.sol",
+          "description": "ReleaseGoldMultiSigProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:47:49.545Z"
+        },
+        {
+          "id": "6AShuji8WZAHnJaaI37Vzd",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/ValidatorsProxy.sol",
+          "description": "ValidatorsProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:48:07.482Z"
+        },
+        {
+          "id": "7GElif313gUUuAFBnqotkd",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/ElectionProxy.sol",
+          "description": "ElectionProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:48:25.253Z"
+        },
+        {
+          "id": "5efqPD2avQcfd0nXSJwF0S",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/GovernanceSlasherProxy.sol",
+          "description": "GovernanceSlasherProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:48:44.820Z"
+        },
+        {
+          "id": "2KuDKIHFWJrCDfVfxcLtag",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/GovernanceProxy.sol",
+          "description": "GovernanceProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:49:03.191Z"
+        },
+        {
+          "id": "7pNzt0vaut4ZpKi37ShAab",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/DoubleSigningSlasherProxy.sol",
+          "description": "DoubleSigningSlasherProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:49:22.994Z"
+        },
+        {
+          "id": "1k78HRmndYwfqJD1ajqsUk",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/LockedGoldProxy.sol",
+          "description": "LockedGoldProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:49:42.307Z"
+        },
+        {
+          "id": "1xPLWPypNjMAGifIaPc6rD",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/proxies/GovernanceApproverMultiSigProxy.sol",
+          "description": "GovernanceApproverMultiSigProxy - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:50:05.442Z"
+        },
+        {
+          "id": "1vEOApjVTUA1BRcPsXJMO3",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/Proposals.sol",
+          "description": "Proposals - 339",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:51:21.051Z"
+        },
+        {
+          "id": "10bsSFbrcOQJ7Zjl1tF0FX",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/Election.sol",
+          "description": "Election - 1186",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:51:40.939Z"
+        },
+        {
+          "id": "310ZlgUgqQAc552UWLHB3C",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/GovernanceSlasher.sol",
+          "description": "GovernanceSlasher - 152",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:52:16.669Z"
+        },
+        {
+          "id": "7bwt8FDY6EbORVnHtlP1Vt",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/SlasherUtil.sol",
+          "description": "SlasherUtil - 89",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:52:48.593Z"
+        },
+        {
+          "id": "6I4kLu3SrD0XWWfFLTVsLE",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IElectionInitializer.sol",
+          "description": "IElectionInitializer - 11",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:53:19.042Z"
+        },
+        {
+          "id": "2sc8OBDCGH7IqhKEZMEItD",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IDowntimeSlasherInitializer.sol",
+          "description": "IDowntimeSlasherInitializer - 9",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:53:52.098Z"
+        },
+        {
+          "id": "5HEtmAc1vkpoCw0IhjY7WY",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IReleaseGold.sol",
+          "description": "IReleaseGold - 54",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:54:13.458Z"
+        },
+        {
+          "id": "2fQbPqXl0fxfrzwF0hd2J6",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IElection.sol",
+          "description": "IElection - 67",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:54:39.747Z"
+        },
+        {
+          "id": "5niaAjf4Ab3c9AjCiTjn4s",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IGovernanceInitializer.sol",
+          "description": "IGovernanceInitializer - 18",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:54:59.697Z"
+        },
+        {
+          "id": "VyfgcbdLsFhD9TtUtYRVx",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IDoubleSigningSlasherInitializer.sol",
+          "description": "IDoubleSigningSlasherInitializer - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:55:20.292Z"
+        },
+        {
+          "id": "5GXOp4E9NEpNC9ht4do1vW",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IValidatorsInitializer.sol",
+          "description": "IValidatorsInitializer - 24",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:55:43.128Z"
+        },
+        {
+          "id": "7bAezDarvgPy48V9VUc9La",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IEpochRewards.sol",
+          "description": "IEpochRewards - 14",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:56:04.499Z"
+        },
+        {
+          "id": "7zoOCxhUm7cD3TzIV9D64C",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IValidators.sol",
+          "description": "IValidators - 94",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:56:40.119Z"
+        },
+        {
+          "id": "4NW8dc99flcoMThqAI6Q6D",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IGovernanceSlasherInitializer.sol",
+          "description": "IGovernanceSlasherInitializer - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:57:03.085Z"
+        },
+        {
+          "id": "5ZaXKKWw4VlaxJLRm6b59j",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IGovernance.sol",
+          "description": "IGovernance - 22",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:57:26.978Z"
+        },
+        {
+          "id": "3x48wvSaHAJLflgQF4rvgn",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/ILockedGoldInitializer.sol",
+          "description": "ILockedGoldInitializer - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:57:51.032Z"
+        },
+        {
+          "id": "4GhsHxASIuaEw3v6hLpz4O",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/ILockedCelo.sol",
+          "description": "ILockedCelo - 36",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:58:14.166Z"
+        },
+        {
+          "id": "7glFRt8WCI7RXLs3BLqFXv",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IEpochRewardsInitializer.sol",
+          "description": "IEpochRewardsInitializer - 17",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:58:36.600Z"
+        },
+        {
+          "id": "38EZ5braAErevNUfhJzINZ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IBlockchainParametersInitializer.sol",
+          "description": "IBlockchainParametersInitializer - 9",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:59:01.877Z"
+        },
+        {
+          "id": "6fJ8AvTxAXJmrm0huBxc3t",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/ILockedGold.sol",
+          "description": "ILockedGold - 35",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:59:20.900Z"
+        },
+        {
+          "id": "JHChKT5QmMJicHMZNGY5R",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/interfaces/IGovernanceApproverMultiSigInitializer.sol",
+          "description": "IGovernanceApproverMultiSigInitializer - 9",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T11:59:49.397Z"
+        },
+        {
+          "id": "1kDozkQfnXrOqSeJGLzsms",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/governance/DowntimeSlasher.sol",
+          "description": "DowntimeSlasher - 291",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:00:10.274Z"
+        },
+        {
+          "id": "2Ry4ifR5OMHgOHtqVPBkF",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/mocks/EpochManager_WithMocks.sol",
+          "description": "EpochManager_WithMocks - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:00:36.674Z"
+        },
+        {
+          "id": "7tA9iQUrSefvXq2njhAjkh",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/mocks/MockAccounts.sol",
+          "description": "MockAccounts - 34",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:00:56.026Z"
+        },
+        {
+          "id": "10wdeaVWA5csHZBKNv05p4",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/mocks/MockOracle.sol",
+          "description": "MockOracle - 19",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:01:23.289Z"
+        },
+        {
+          "id": "2USyCIH6euMIQU1E1ryrcL",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/UsingRegistry.sol",
+          "description": "UsingRegistry - 129",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:01:45.236Z"
+        },
+        {
+          "id": "5DIRjh0GyfvAQQ1caCIEmT",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/IsL2Check.sol",
+          "description": "IsL2Check - 45",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:02:05.862Z"
+        },
+        {
+          "id": "64qFxhmVS6xGn9yFYxK7X7",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/PrecompilesOverride.sol",
+          "description": "PrecompilesOverride - 65",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:02:26.733Z"
+        },
+        {
+          "id": "3dxk3pRyVKU3A6NV89jh3B",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/MentoFeeCurrencyAdapter.sol",
+          "description": "MentoFeeCurrencyAdapter - 94",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:02:48.985Z"
+        },
+        {
+          "id": "2kwjWYPM4VctUrp2CxKT8K",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/test/MockCeloToken.sol",
+          "description": "MockCeloToken - 37",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:03:21.228Z"
+        },
+        {
+          "id": "3dawUUHftmVbfkNZaQCqtT",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/test/MockRegistry.sol",
+          "description": "MockRegistry - 89",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:03:41.272Z"
+        },
+        {
+          "id": "2rr6cDAYtzLJT86Gb6usAS",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/test/MockCeloUnreleasedTreasury.sol",
+          "description": "MockCeloUnreleasedTreasury - 30",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:04:01.466Z"
+        },
+        {
+          "id": "1XAq0rXdjSYsWN4vncXnfi",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/ScoreManager.sol",
+          "description": "ScoreManager - 141",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:04:31.287Z"
+        },
+        {
+          "id": "6LuPumS5oGnLCGuQOVfzAa",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/UsingPrecompiles.sol",
+          "description": "UsingPrecompiles - 271",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:04:49.872Z"
+        },
+        {
+          "id": "2oR6WU458AHvlSQEF5Jc7q",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/EpochManagerEnabler.sol",
+          "description": "EpochManagerEnabler - 95",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:05:08.396Z"
+        },
+        {
+          "id": "JHQYWihVlx25gZmMSR5Tr",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/GasPriceMinimum.sol",
+          "description": "GasPriceMinimum - 257",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:05:35.003Z"
+        },
+        {
+          "id": "7XYsbLPZc3sLmGFrcLAnf",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/CeloUnreleasedTreasury.sol",
+          "description": "CeloUnreleasedTreasury - 84",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:06:00.638Z"
+        },
+        {
+          "id": "2pJVbmfBcOjBcr6VsuUElD",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/ProxyFactory08.sol",
+          "description": "ProxyFactory08 - 36",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:06:23.873Z"
+        },
+        {
+          "id": "3JnOAzZeZIPRL51VdJcdoc",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/linkedlists/SortedLinkedList.sol",
+          "description": "SortedLinkedList - 206",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:06:55.184Z"
+        },
+        {
+          "id": "1mMeTstdboNjd7Twk2U9V7",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/linkedlists/SortedLinkedListWithMedian.sol",
+          "description": "SortedLinkedListWithMedian - 252",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:07:15.182Z"
+        },
+        {
+          "id": "2iE9lMWCrCrmNXwYLzEr6R",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/linkedlists/LinkedList.sol",
+          "description": "LinkedList - 149",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:07:53.190Z"
+        },
+        {
+          "id": "HVOhDJWaqlojRYnoJlTzF",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/linkedlists/AddressLinkedList.sol",
+          "description": "AddressLinkedList - 96",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:08:11.833Z"
+        },
+        {
+          "id": "CfkjXwyK9uaoL7kt1Rcbg",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/linkedlists/IntegerSortedLinkedList.sol",
+          "description": "IntegerSortedLinkedList - 112",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:09:03.715Z"
+        },
+        {
+          "id": "5L8e8JTzw0n3Ghb846q7iw",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/FeeCurrencyDirectory.sol",
+          "description": "FeeCurrencyDirectory - 91",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:09:26.421Z"
+        },
+        {
+          "id": "3ptDEOhuCpH7PUwEDFPFE8",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/EpochManager.sol",
+          "description": "EpochManager - 693",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:09:45.570Z"
+        },
+        {
+          "id": "7Gma5vHkKWLP3VTarfMJxx",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IScoreManagerInitializer.sol",
+          "description": "IScoreManagerInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:10:11.653Z"
+        },
+        {
+          "id": "4puV8AVXoTqPDtxscKABzc",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IEpochManagerEnablerInitializer.sol",
+          "description": "IEpochManagerEnablerInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:10:30.816Z"
+        },
+        {
+          "id": "5I1CdrcfAFqarDV18mtaQG",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IOracle.sol",
+          "description": "IOracle - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:10:56.071Z"
+        },
+        {
+          "id": "17m80NdQo0n3k8sYvAqUpu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IScoreManager.sol",
+          "description": "IScoreManager - 9",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:11:39.049Z"
+        },
+        {
+          "id": "FsQBNHdp20qYS9kMTKX2w",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IGasPriceMinimumInitializer.sol",
+          "description": "IGasPriceMinimumInitializer - 11",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:12:03.203Z"
+        },
+        {
+          "id": "2xf45u4z3grjFJUmvgCE2B",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IGasPriceMinimum.sol",
+          "description": "IGasPriceMinimum - 10",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:12:22.585Z"
+        },
+        {
+          "id": "2aTfj7Ry3HjaeifTGyqK41",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IPrecompiles.sol",
+          "description": "IPrecompiles - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:12:41.893Z"
+        },
+        {
+          "id": "6wVCAJt8JR6dy5hdHjZjvz",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IStableToken.sol",
+          "description": "IStableToken - 17",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:13:09.142Z"
+        },
+        {
+          "id": "6qwnua6UxoeFJRv5n6848V",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IFeeCurrencyDirectory.sol",
+          "description": "IFeeCurrencyDirectory - 36",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:13:27.330Z"
+        },
+        {
+          "id": "o9flvFsvWnf5VtyTcVdbQ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IEpochManagerInitializer.sol",
+          "description": "IEpochManagerInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:13:45.174Z"
+        },
+        {
+          "id": "1tiVT0u2ODiGo7sSgO0qMt",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IScoreReader.sol",
+          "description": "IScoreReader - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:14:06.386Z"
+        },
+        {
+          "id": "pmWCwIcOAiyMvWi4WD80u",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/ICeloUnreleasedTreasuryInitializer.sol",
+          "description": "ICeloUnreleasedTreasuryInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:14:36.451Z"
+        },
+        {
+          "id": "5YMS8cU2IuvhExIIaux8Z9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/common/interfaces/IFeeCurrencyDirectoryInitializer.sol",
+          "description": "IFeeCurrencyDirectoryInitializer - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:14:57.703Z"
+        },
+        {
+          "id": "O0Y2TZ2o6LyuheBUGjyB9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/FeeCurrencyAdapterOwnable.sol",
+          "description": "FeeCurrencyAdapterOwnable - 36",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:15:15.890Z"
+        },
+        {
+          "id": "3nM7VZPWjXRCGpWPpY0LWa",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/test/MockStableToken.sol",
+          "description": "MockStableToken - 65",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:15:35.152Z"
+        },
+        {
+          "id": "5U7YS8SBPTiIzNjCv0RcCw",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/test/MockReserve.sol",
+          "description": "MockReserve - 37",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:15:54.603Z"
+        },
+        {
+          "id": "3yWDuqronhPpg2YqUuUgsQ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/CeloFeeCurrencyAdapterOwnable.sol",
+          "description": "CeloFeeCurrencyAdapterOwnable - 20",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:16:12.896Z"
+        },
+        {
+          "id": "7cEf5GkTAFtbx3eLJz7az6",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/FeeCurrencyAdapter.sol",
+          "description": "FeeCurrencyAdapter - 158",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:16:33.610Z"
+        },
+        {
+          "id": "5M04Oh9i4XVSSBvPWl6nBP",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/interfaces/IFeeCurrencyAdapter.sol",
+          "description": "IFeeCurrencyAdapter - 49",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:17:01.190Z"
+        },
+        {
+          "id": "20DM3yoLM7LXWLDDh8Qeeu",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/interfaces/IFeeCurrency.sol",
+          "description": "IFeeCurrency - 53",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:17:20.193Z"
+        },
+        {
+          "id": "3V05YbfNIeK0duFvRaNqop",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/stability/interfaces/IDecimals.sol",
+          "description": "IDecimals - 5",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:17:43.015Z"
+        },
+        {
+          "id": "3bix8hZCh6VDzUGist30TH",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/governance/test/EpochRewardsMock.sol",
+          "description": "EpochRewardsMock - 56",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:18:01.853Z"
+        },
+        {
+          "id": "6ILAUD0harpSz47befT54C",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/governance/test/IMockValidators.sol",
+          "description": "IMockValidators - 41",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:18:20.555Z"
+        },
+        {
+          "id": "2ODl9HhT5KUOoH9kGdZGQg",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts-0.8/governance/Validators.sol",
+          "description": "Validators - 1429",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:18:39.673Z"
+        },
+        {
+          "id": "4dXkJgYT6iQBlqPzC8VIN5",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/migrations_sol/MigrationL2.s.sol",
+          "description": "MigrationL2 - 38",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:19:00.030Z"
+        },
+        {
+          "id": "12m180d1ryq2Rhk9fdaD4B",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/migrations_sol/constants.sol",
+          "description": "constants - 36",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:19:18.493Z"
+        },
+        {
+          "id": "2VkXp0CmyUCMCGL1BdLyJy",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/migrations_sol/Migration.s.sol",
+          "description": "Migration.s - 1150",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:19:45.980Z"
+        },
+        {
+          "id": "4KiLP5J0ITMros3bwvcm9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/migrations_sol/HelperInterFaces.sol",
+          "description": "HelperInterFaces - 58",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:20:04.830Z"
+        },
+        {
+          "id": "BrBloBFJJm9jufTyCg8fJ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/core/celo_evm.go",
+          "description": "celo_evm - 3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:21:06.809Z"
+        },
+        {
+          "id": "6j2MwEZdRhLexV2vFpAWbC",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/core/chain_makers.go",
+          "description": "chain_makers - 11",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:21:29.852Z"
+        },
+        {
+          "id": "WSNxbQDSI2GL2iwZTBuWq",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/core/state_prefetcher.go",
+          "description": "state_prefetcher - 6",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:21:48.307Z"
+        },
+        {
+          "id": "7IYTSTcQyARf7K8Iiol0lS",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/core/evm.go",
+          "description": "evm - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:22:15.406Z"
+        },
+        {
+          "id": "4NJp1F7ekcPii9jUDLwCow",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/core/state_processor.go",
+          "description": "state_processor - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:22:44.850Z"
+        },
+        {
+          "id": "5oVGDhR9deqCPcp5vb6kRl",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/eth/api_backend.go",
+          "description": "api_backend - 2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:23:08.507Z"
+        },
+        {
+          "id": "KZpkAj1ooWBPyTQn5ClXK",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/eth/gasestimator/gasestimator.go",
+          "description": "gasestimator - 3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:23:29.504Z"
+        },
+        {
+          "id": "2tR6diRZrtFwRcCHmVZVKP",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/eth/state_accessor.go",
+          "description": "state_accessor - 3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:23:47.260Z"
+        },
+        {
+          "id": "n3gc7F3Ka5E0ccTrqmN4I",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/eth/tracers/api.go",
+          "description": "api - 27",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:24:08.300Z"
+        },
+        {
+          "id": "7avHQY8caQPxzAAHT0Kymx",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/internal/ethapi/api.go",
+          "description": "api - 2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:24:27.962Z"
+        },
+        {
+          "id": "3AtKV0dWn8XPbReXHecTQ5",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/miner/worker.go",
+          "description": "worker - 15",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:24:49.993Z"
+        },
+        {
+          "id": "5s2DW07yCSBBJukBz1QWDE",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/tests/state_test.go",
+          "description": "state_test - 2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:25:17.220Z"
+        },
+        {
+          "id": "1Pies1CtLGy82ZkArA6mSd",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/op-geth/blob/celo10/tests/state_test_util.go",
+          "description": "state_test_util - 2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:25:38.474Z"
+        },
+        {
+          "id": "hcpcKW4yFCuVX48nEzzfP",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/ancients.go",
+          "description": "ancients - 193",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:26:53.243Z"
+        },
+        {
+          "id": "10yGSfs5Gh68RNEvk6RZ9P",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/db.go",
+          "description": "db - 106",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:27:20.970Z"
+        },
+        {
+          "id": "61PgjrPVy2rIzWmDiSJiD4",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/genesis.go",
+          "description": "genesis - 636",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:27:43.722Z"
+        },
+        {
+          "id": "5C1O0AYuQiVKop7WpzsM8m",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/main.go",
+          "description": "main - 378",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:28:05.242Z"
+        },
+        {
+          "id": "5cAxolMMT4BamhqIeK1oNp",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/non-ancients.go",
+          "description": "ancients - 76",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:28:33.384Z"
+        },
+        {
+          "id": "3Wm6da6jEzmMklSdxhYnco",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/state.go",
+          "description": "state - 304",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:28:55.285Z"
+        },
+        {
+          "id": "42rtFJrQynvXsV1lBWfNQW",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/state_test.go",
+          "description": "state_test - 134",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:29:17.202Z"
+        },
+        {
+          "id": "3YtIGkhljSoAE1IxJb3Nmx",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/celo-migrate/transform.go",
+          "description": "transform - 76",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:29:35.736Z"
+        },
+        {
+          "id": "6YSSMuPZgi95mssRJyjSKy",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/cmd/check-derivation/main.go",
+          "description": "main - 391",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:29:57.797Z"
+        },
+        {
+          "id": "7rRMdeZksa9zx6QOukuMA0",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/deployer/broadcaster/keyed.go",
+          "description": "keyed - 193",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:30:21.452Z"
+        },
+        {
+          "id": "tcv5leBI07DnOt4Y8efPe",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/genesis/config.go",
+          "description": "config - 776",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:30:44.676Z"
+        },
+        {
+          "id": "3dIdtf7ukv8timktQ23Drg",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/optimism/blob/celo10/op-chain-ops/genesis/genesis.go",
+          "description": "genesis - 191",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:31:02.396Z"
+        },
+        {
+          "id": "6TAB1Yv4j7Lm9Pfoi9wiWS",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/staked-celo/pull/211/files",
+          "description": "Stcelo fix #1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:31:45.726Z"
+        },
+        {
+          "id": "2vL66W8EWIROUolJtpaAfO",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/commit/03d20ee25e4c2f4de40a6d922a5904d313166ef7",
+          "description": "Stcelo fix #2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:31:55.967Z"
+        },
+        {
+          "id": "swkuwFsG2LjsiaGhSNb7K",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/contracts/common/FeeHandler.sol",
+          "description": "FeeHandler - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:37:37.150Z"
+        },
+        {
+          "id": "6nKGN2uMBUNNs72BYOCueQ",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/celo-monorepo/blob/release/core-contracts/12/packages/protocol/test-sol/unit/common/FeeHandler.t.sol",
+          "description": "FeeHandler.t - 37",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T12:37:58.580Z"
+        },
+        {
+          "id": "2dU64Fi0wVodS8ouhEvlhY",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/staked-celo/blob/master/contracts/interfaces/IDefaultStrategy.sol",
+          "description": "IDefaultStrategy - 8",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T13:08:34.024Z"
+        },
+        {
+          "id": "3bY3NR8b9lVogMLDlqXA8Y",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/staked-celo/blob/master/contracts/Vote.sol",
+          "description": "Vote - 4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T13:09:03.965Z"
+        },
+        {
+          "id": "5PBsNmjJBBxPSs6IXYN4xF",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/staked-celo/blob/master/contracts/SpecificGroupStrategy.sol",
+          "description": "SpecificGroupStrategy - 59",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T13:09:23.055Z"
+        },
+        {
+          "id": "46WT4xv1JLFrw2yntStAS9",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/staked-celo/blob/master/contracts/Manager.sol",
+          "description": "Manager - 36",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T13:09:40.059Z"
+        },
+        {
+          "id": "4XYc4SqTP9MwpT61W0oGzA",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/staked-celo/blob/master/contracts/DefaultStrategy.sol",
+          "description": "DefaultStrategy - 56",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T13:09:57.469Z"
+        },
+        {
+          "id": "4ob0yWmUoUq0ExoDxokH2U",
+          "type": "smart_contract",
+          "url": "https://github.com/celo-org/staked-celo/blob/master/contracts/Account.sol",
+          "description": "Account - 53",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-11-14T13:10:12.898Z"
+        }
+      ],
+      "impacts": [
+        {
+          "id": 30,
+          "type": "smart_contract",
+          "severity": "medium",
+          "title": "Block stuffing"
+        },
+        {
+          "id": 15,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+        },
+        {
+          "id": 5218,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Permanent freezing of funds on L1"
+        },
+        {
+          "id": 22,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Protocol insolvency"
+        },
+        {
+          "id": 26,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed royalties"
+        },
+        {
+          "id": 27,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Temporary freezing of funds"
+        },
+        {
+          "id": 29,
+          "type": "smart_contract",
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
+        },
+        {
+          "id": 14,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results"
+        },
+        {
+          "id": 24,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Theft of unclaimed royalties"
+        },
+        {
+          "id": 23,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
+        },
+        {
+          "id": 25,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
+        },
+        {
+          "id": 5219,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "L1 contract manipulation (sequencer address, malicious state root update)"
+        },
+        {
+          "id": 5220,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Critical hot wallets compromised (batcher, proposer, sequencer)"
+        },
+        {
+          "id": 5221,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "L2 re-org"
+        },
+        {
+          "id": 5222,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Permanent freezing of funds on L2"
+        }
+      ],
+      "programOverview": "Our mission is to build a regenerative digital economy that creates conditions of prosperity for all.\n\nFor more information about Celo, please visit [https://celo.org/](https://celo.org/). \n\nCelo provides rewards in cUSD, denominated in USD. \n\n**This Audit Competition has an audit running in parallel. Bugs in the audit report that aren't disclosed pre-launch are valid for rewards.**",
+      "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
+      "rewardsBody": "The following reward terms are a summary. For the full details read our [Celo Audit Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/30062321013393-Celo-Audit-Competition-Reward-Terms)\n\nA reward pool of $50,000 USD will be distributed among participants, even if no valid bugs are found. \n\nDuplicates and private known issues are valid for a reward.\n\n**This Audit Competition has an audit running in parallel. Bugs in the audit report that aren't disclosed pre-launch are valid for rewards.**\n\nRewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.3](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/).\n\nRewards will be distributed all at once based on Immunefi’s distribution formula after the event has concluded and the final bug reports have been resolved.\n\n__Insight Rewards Payment Terms__\n\n*Insight Rewards*: Portion of the Rewards Pool\n\n*The \"Insight\" severity was introduced on Boost (Audit Competitions) & Attackathon programs to recognize contributions that extend beyond identifying immediate vulnerabilities. Currently, it's not an option to select the Insight severity when submitting a report. However, our team or program will designate it accordingly if applicable. \"Insights\" underscores our commitment to valuing all types of contributions that contribute to a more secure environment and will always be rewarded. [View more information about Insights](https://immunefisupport.zendesk.com/hc/en-us/articles/13333032674961-Severity-Classification-System?utm_source=immunefi)\n\n**Duplicates of Insight reports are not eligible for a reward.**",
+      "outOfScopeAndRules": "To be determined",
+      "assetsBodyV2": "Celo’s up to date codebase can be found at [https://github.com/celo-org](https://github.com/celo-org). \n\n__Asset Accuracy Assurance__\n\nBugs found on assets incorrectly listed in-scope will be considered valid and be rewarded.\n\n__Private Known Issues Reward Policy__\n\nPrivate known issues, meaning known issues that were not publicly disclosed, are valid for a reward.\n\n__Primacy of Impact vs Primacy of Rules__\n\nCelo adheres to the Primacy of Rules, which means that the whole bug bounty program is run strictly under the terms and conditions stated within this page.\n\n__KYC Requirement__\n\nCelo will be requesting KYC information in order to pay for successful bug submissions. The following information will be required:\n- Full name \n- Date of birth\n- Proof of address (either a redacted bank statement with address or a recent utility bill)\n- Copy of Passport or other Government issued ID\n\nSecurity researchers are required to submit KYC within 14 days of KYC being requested, else their rewards may be forfeited. Immunefi may make exceptions due to extenuating circumstances.\n\n__Eligibility Criteria__\n\nSecurity researchers who wish to participate must adhere to the rules of engagement set forth in this program and cannot be:\n- On OFACs SDN list \n- Official contributor, both past or present\n- Employees and/or individuals closely associated with the project \n- Security auditors that directly or indirectly participated in the audit review\n\n__Responsible Publication__\n\nWhitehats may publish their bug reports after they have been fixed & paid, or closed as invalid, with the following exceptions:\n- Bug reports in mediation may not be published until mediation has concluded and the bug report is resolved.\n\nImmunefi may publish bug reports submitted to this Audit Competition bug bounty and a leaderboard of the participants and their earnings.\n\n__Feasibility Limitations__\n\nThe project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\n\nTherefore, Immunefi has developed a set of [feasibility limitation standards](https://immunefisupport.zendesk.com/hc/en-us/articles/16913132495377-Feasibility-Limitation-Standards) which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n\n__Immunefi Standard Badge__\n\nBy adhering to Immunefi’s best practice recommendations, Celo has satisfied the requirements for the [Immunefi Standard Badge](https://immunefisupport.zendesk.com/hc/en-us/articles/15006865432209-The-Immunefi-Standard-Badge).",
+      "impactsBody": "__Technical Resources__\n\n**Roadmap** \n\n[https://forum.celo.org/t/cel2-roadmap-update/6815](https://forum.celo.org/t/cel2-roadmap-update/6815)\n\n**Technical**\n\n- [https://specs.celo.org/](https://specs.celo.org/)\n- [https://docs.celo.org/](https://docs.celo.org/)\n\n**Non-technical**\n[https://www.youtube.com/watch?v=mkpTmbkRv4A](https://www.youtube.com/watch?v=mkpTmbkRv4A)\n\n__Is this an upgrade of an existing system? If so, which? And what are the main differences?__\n\nCelo is transitioning from a standalone EVM-compatible Layer 1 blockchain to an Ethereum Layer 2. This shift, proposed by cLabs in July 2023, aims to maintain the seamless user experience that Celo is known for—characterized by speed, low costs, and ease of use—while leveraging Ethereum's security and ecosystem.\n\n__Where do you suspect there may be bugs? Which parts of the code are you most concerned about?__\n\nExperimental Features, Custom Gas Token, Alternate Data Availability Layer implementation in the OP Stack.\n\n__What attack vectors are you most concerned about?__\n\nMigration to L1 and Sequencer \n\n\n__Which part(s) of the system do you want whitehats to attempt to break the most?__\n\nCustom Gas Currency\n\n\n__What ERC20 / ERC721 / ERC777 / ERC1155 token standards are supported? Which are not?__\n\nAll ERC20 / ERC721 / ERC777 / ERC1155 standards are supported. \n\n\n__What emergency actions may you want to use as a reason to invalidate or downgrade an otherwise valid bug report?__\n\nTest on Testnet: [https://docs.celo.org/cel2/network-information](https://docs.celo.org/cel2/network-information)\n\n\n__What monitoring systems may you want to use as a reason to invalidate or downgrade an otherwise valid bug report?__\n\nThird-party security review\nBlockchain Explorer\n\n__What addresses would you consider any bug report requiring their involvement to be out of scope, as long as they operate within the privileges attributed to them?__\n\nAny is fine on Testnet\n\n\n__What external dependencies are there?__\n\n[https://github.com/ethereum-optimism/op-geth](https://github.com/ethereum-optimism/op-geth)\n\n__Where might whitehats confuse out-of-scope code to be in-scope?__\n\nOpen source code in defined repos are in scope. Anything on testnet is in scope. Cel2 code is not deployed to Mainnet. \n\nstCelo (staked-celo) is live and on Mainnet, this is in scope.  \n\n\n__What is the test suite setup information?__\n\n- [https://docs.celo.org/cel2/network-information](https://docs.celo.org/cel2/network-information)\n- [https://celo.academy/t/exploring-alfajores-testnet-a-comprehensive-guide-to-celos-test-network/2618](https://celo.academy/t/exploring-alfajores-testnet-a-comprehensive-guide-to-celos-test-network/2618)\n\n__Public Disclosure of Known Issues__\n\nBug reports covering previously-discovered bugs (listed below) are not eligible for a reward within this program. This includes known issues that the project is aware of but has consciously decided not to “fix”, necessary code changes, or any implemented operational mitigating procedures that can lessen potential risk. \n\n- [https://github.com/celo-org/staked-celo/pull/211/files](https://github.com/celo-org/staked-celo/pull/211/files)\n\n__Previous Audits__\n\nCelo’s previous audit reports can be found here: [https://celo.org/audits](https://celo.org/audits)\n\nCelo’s is currently running an audit. Bugs in the audit report that aren't disclosed pre-launch are valid for rewards.",
+      "immunefiStandard": true,
+      "tags": {
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "productType": [],
+        "projectType": [],
+        "ecosystem": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "language": [
+          "Solidity"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "legacy": {
+        "technologies": [
+          "Smart Contract"
+        ],
+        "blockchain_rewards": [],
+        "smartcontract_rewards": [
+          {
+            "level": "Critical",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "High",
+            "payout": "Portion of the Reward Pool"
+          },
+          {
+            "level": "Medium",
+            "payout": "Portion of the Reward Pool"
+          }
+        ],
+        "web_rewards": []
+      },
+      "evaluationEndDate": "2025-01-02T19:00:00.000Z",
+      "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. \n\nCelo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.\n\nFor more information about Celo, please visit https://celo.org/\n\n**KYC is required**\n\nAny technical questions can be asked directly to the Celo technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"celo-audit-competition\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, Immunefi will publish Celo's technical walkthrough on our official YouTube channel.",
+      "boostedIntroLive": "$50,000 USD is available in rewards for finding bugs in Celo contracts of approximately 30,000 nSLOC. \n\nKYC is required.\n\nAny technical questions and support requests can be asked directly to Celo or Immunefi in the [Celo Audit Competition Discord channel](https://discord.com/invite/immunefi).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nFor more information about Celo, please visit https://celo.org/",
+      "boostedIntroEvaluating": "",
+      "boostedIntroFinished": "",
+      "rewardsToken": "cUSD",
+      "rewardsPool": 50000,
+      "sourceLinesOfCode": 30634,
+      "boostedSummaryReport": null,
+      "inviteOnly": false,
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver",
+        "Vault"
+      ],
+      "academyStartDate": null,
+      "websiteUrl": "https://celo.org/",
+      "description": "Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.",
+      "githubUrl": null,
+      "feasibilityLimitations": null,
+      "prohibitedActivites": null,
+      "responsiblePublicationCategory": null,
+      "knownIssues": [],
+      "knownIssueAssurance": false,
+      "defaultOutOfScopeBlockchain": "- Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks",
+      "defaultOutOfScopeSmartContract": "- Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks",
+      "defaultOutOfScopeGeneral": "- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (including, but not limited to: governance and strategist contracts) without additional modifications to the privileges attributed\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n- Impacts requiring phishing or other social engineering attacks against project's employees and/or customers",
+      "defaultOutOfScopeWebAndApplications": null,
+      "defaultProhibitedActivities": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)",
+      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\n\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)",
+      "customOutOfScopeInformation": null,
+      "customProhibitedActivities": [],
+      "rewardsTokenNetwork": "Celo",
+      "eligibilityCriteria": [
+        "no_ofac_sdn",
+        "no_official_contributor",
+        "no_employee",
+        "no_auditor"
+      ],
+      "eligibilityCriteriaAdditionalInformation": null,
+      "programCodebases": [],
+      "programDocumentations": [],
+      "primacy": "primacy_of_rules",
+      "newProgramRewardsEnabled": false,
+      "premiumTriaging": true
+    },
+    "layoutProps": {
+      "headerMarginBottom": "mb-12 lg:mb-16"
+    },
+    "metaData": {
+      "title": "Audit Comp | Celo Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Audit Comp | Celo and get paid up to $50,000.",
+      "url": "https://immunefi.com/audit-competition/audit-comp-celo",
+      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Celo"
+    }
+  },
+  "__N_SSG": true
+}
