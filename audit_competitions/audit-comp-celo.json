@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
       "launchDate": "2024-11-13T19:00:43.000Z",
       "endDate": "2024-12-06T19:00:00.000Z",
-      "updatedDate": "2024-11-15T18:35:28.498Z",
+      "updatedDate": "2024-11-15T22:52:25.996Z",
       "kyc": true,
       "rewards": [
         {
@@ -414,7 +414,8 @@
           "Smart Contract"
         ],
         "language": [
-          "Solidity"
+          "Solidity",
+          "Go"
         ],
         "featured": [
           "Launched Recently"

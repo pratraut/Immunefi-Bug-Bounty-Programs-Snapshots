@@ -289,7 +289,7 @@ Fludi Protocol provides rewards in UDSC, denominated in USD.",
     "date": "2024-11-13T19:00:43.000Z",
     "launchDate": "2024-11-13T19:00:43.000Z",
     "endDate": "2024-12-06T19:00:00.000Z",
-    "updatedDate": "2024-11-15T18:35:28.498Z",
+    "updatedDate": "2024-11-15T22:52:25.996Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -309,7 +309,8 @@ Fludi Protocol provides rewards in UDSC, denominated in USD.",
         "Smart Contract"
       ],
       "language": [
-        "Solidity"
+        "Solidity",
+        "Go"
       ],
       "featured": [
         "Launched Recently"
