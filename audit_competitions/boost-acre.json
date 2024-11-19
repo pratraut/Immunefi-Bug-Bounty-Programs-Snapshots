@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0cbT2nwEwQOYtYtnErdn5/29aa15cc2c2cdcec374f927e50bf9b58/ACRE_logo.png",
       "launchDate": "2024-08-20T08:00:25.000Z",
       "endDate": "2024-09-03T08:00:00.000Z",
-      "updatedDate": "2024-11-15T09:24:07.964Z",
+      "updatedDate": "2024-11-19T12:19:46.549Z",
       "kyc": false,
       "rewards": [
         {
@@ -224,18 +224,91 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-11-20T08:00:00.000Z",
+      "evaluationEndDate": "2024-11-19T12:13:45.904Z",
       "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.\n\nAcre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.\n\nAcre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  \n\nNo KYC is required.\n\nAcre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nAcre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1B7bBTfp7vrZkC8Emw2H9kBa3TF-O93X-?usp=sharing)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/acre)",
       "rewardsToken": "USDC",
       "rewardsPool": 50000,
       "sourceLinesOfCode": 1340,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1ld8VgCkCMxBm65MuAcI8AFjjyAoYTBf6/view?usp=drive_link",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "brivan",
+          "critical": 0,
+          "earnings": 11416,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Dliteofficial",
+          "critical": 0,
+          "earnings": 9155,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "trachev",
+          "critical": 0,
+          "earnings": 8425,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "nnez",
+          "critical": 0,
+          "earnings": 8425,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "styphoiz",
+          "critical": 0,
+          "earnings": 3942,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Bx4",
+          "critical": 0,
+          "earnings": 3662,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "sammytm",
+          "critical": 0,
+          "earnings": 2585,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "dash",
+          "critical": 0,
+          "earnings": 2390,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        }
+      ],
       "features": [
         "Boost",
         "Managed Triage: Time Saver"

@@ -432,6 +432,71 @@ During the Attackathon, the Ethereum Protocol and Ethereum client teams commit t
     "rewardsBody": ""
   },
   {
+    "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
+    "id": "stacks-attackathon-1",
+    "project": "Attackathon | Stacks",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5HmJofkL36qALWAnM6EpVD/9a27d038ab039ca1166569a1d75f87eb/Stacks_Logo_png__1_.png",
+    "date": "2024-12-02T08:00:00.000Z",
+    "launchDate": "2024-12-02T08:00:00.000Z",
+    "endDate": "2025-01-13T08:00:00.000Z",
+    "updatedDate": "2024-11-19T14:12:28.258Z",
+    "kyc": true,
+    "technologies": [],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-13T08:00:00.000Z",
+    "boostedIntroStartingIn": "Up to $250,000 USD + bonus STX in rewards for finding bugs on the Stacks sBTC upgrade.
+
+After the first Attackathon, a second will be launched on more new code with an additional $250,000 USD + bonus STX in rewards.
+
+December 2nd the **Stacks Attackathon Education Period** begins — launching the ‘Stacks sBTC Academy’, and opening direct access to the Stack’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “stacks-attackathon\" channel.
+
+When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.
+
+[Sign up for Stacks Attackathon Updates](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "",
+    "rewardsPool": 250000,
+    "sourceLinesOfCode": 25492,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2024-12-02T08:00:00.000Z",
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "XG79UeGqk1U64NC6aFa3J",
     "id": "audit-comp-anvil",
     "project": "Audit Comp | Anvil",
@@ -500,73 +565,6 @@ The day after the launch, Anvil will give a live technical walkthrough.",
     "premiumTriaging": true
   },
   {
-    "contentfulId": "fzaLgdNany6A10ZLfw1RV",
-    "id": "boost-acre",
-    "project": "Audit Comp | Acre",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0cbT2nwEwQOYtYtnErdn5/29aa15cc2c2cdcec374f927e50bf9b58/ACRE_logo.png",
-    "date": "2024-08-20T08:00:25.000Z",
-    "launchDate": "2024-08-20T08:00:25.000Z",
-    "endDate": "2024-09-03T08:00:00.000Z",
-    "updatedDate": "2024-11-15T09:24:07.964Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2024-11-20T08:00:00.000Z",
-    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.
-
-Acre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.
-
-Acre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  
-
-No KYC is required.
-
-Acre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.
-
-When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 50000,
-    "sourceLinesOfCode": 1340,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "212Me563yfxx58zVi8pQvG",
     "id": "shardeum-ancillaries-ii-boost",
     "project": "Audit Comp | Shardeum: Ancillaries II",
@@ -575,7 +573,7 @@ Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sig
     "date": "2024-09-04T12:00:00.000Z",
     "launchDate": "2024-09-04T12:00:00.000Z",
     "endDate": "2024-10-16T12:00:00.000Z",
-    "updatedDate": "2024-11-13T13:52:21.961Z",
+    "updatedDate": "2024-11-19T13:36:59.681Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -610,7 +608,7 @@ Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sig
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-11-19T12:00:00.000Z",
+    "evaluationEndDate": "2024-11-26T12:00:00.000Z",
     "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Shardeum Ancillaries II. This Boost is a successor of Shardeum's Ancillaries Boost and will only cover the Web2 aspects of the project. 
 
 No KYC is required.
@@ -652,7 +650,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "date": "2024-09-04T12:00:00.000Z",
     "launchDate": "2024-09-04T12:00:00.000Z",
     "endDate": "2024-10-16T12:00:00.000Z",
-    "updatedDate": "2024-11-13T13:51:56.535Z",
+    "updatedDate": "2024-11-19T13:36:39.800Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -686,7 +684,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-11-19T12:00:00.000Z",
+    "evaluationEndDate": "2024-11-26T12:00:00.000Z",
     "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Shardeum Core II. This Boost is a successor of Shardeum's Core Boost and will cover two components: Shardus Core Protocol and Shardeum Validator Nodes.
 
 No KYC is required.
@@ -714,6 +712,148 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "fzaLgdNany6A10ZLfw1RV",
+    "id": "boost-acre",
+    "project": "Audit Comp | Acre",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0cbT2nwEwQOYtYtnErdn5/29aa15cc2c2cdcec374f927e50bf9b58/ACRE_logo.png",
+    "date": "2024-08-20T08:00:25.000Z",
+    "launchDate": "2024-08-20T08:00:25.000Z",
+    "endDate": "2024-09-03T08:00:00.000Z",
+    "updatedDate": "2024-11-19T12:19:46.549Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2024-11-19T12:13:45.904Z",
+    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Acre.
+
+Acre is a liquid staked Bitcoin protocol. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.
+
+Acre allows BTC holders to earn rewards on their BTC via stBTC. Acre provides a simple method for Bitcoin holders to benefit from the growth of Bitcoin scaling without losing exposure to BTC price.  
+
+No KYC is required.
+
+Acre will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Acre technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"acre-boost\" channel.
+
+When the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+Acre will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1B7bBTfp7vrZkC8Emw2H9kBa3TF-O93X-?usp=sharing)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/acre)",
+    "rewardsToken": "USDC",
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 1340,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1ld8VgCkCMxBm65MuAcI8AFjjyAoYTBf6/view?usp=drive_link",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "brivan",
+        "critical": 0,
+        "earnings": 11416,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Dliteofficial",
+        "critical": 0,
+        "earnings": 9155,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "trachev",
+        "critical": 0,
+        "earnings": 8425,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "nnez",
+        "critical": 0,
+        "earnings": 8425,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "styphoiz",
+        "critical": 0,
+        "earnings": 3942,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "Bx4",
+        "critical": 0,
+        "earnings": 3662,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "sammytm",
+        "critical": 0,
+        "earnings": 2585,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "dash",
+        "critical": 0,
+        "earnings": 2390,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      }
+    ],
     "features": [
       "Boost",
       "Managed Triage: Time Saver"
