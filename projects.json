@@ -2617,50 +2617,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "76PBermBSh2sPjXzuLP7d7",
-    "id": "moonbeamnetwork",
-    "project": "Moonbeam Network",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4US5CNdpvCjBHHpUbUip3m/7de4ab736d271da97aa27415585755f4/Moonbeam_Icon_White_2x.png",
-    "date": "2021-12-16T18:00:00.000Z",
-    "launchDate": "2021-12-16T18:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T14:00:56.293Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Polkadot"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "5hGeEYBaimwrEqTPdcs5B7",
     "id": "origindefi",
     "project": "Origin Protocol",
@@ -4471,7 +4427,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T16:18:27.726Z",
+    "updatedDate": "2024-11-20T08:04:47.434Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7204,13 +7160,13 @@
   {
     "contentfulId": "9NW8TwD0nvHR4GFQ1JFFU",
     "id": "bitflow",
-    "project": "BitFlow",
+    "project": "Bitflow",
     "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5v5WoWDJbL1kJqoQV19w2o/62536ecf20441c84538a1c7bc6c7db1f/Asset_7bitflow-defillama_copy.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1wBdOtq6xoBJTdPjGbJmiq/8165a74640386a368784458f72749f7f/tq71coRV_400x400.png",
     "date": "2024-04-08T04:27:33.000Z",
     "launchDate": "2024-04-08T04:27:33.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-11T14:06:46.450Z",
+    "updatedDate": "2024-11-20T14:53:49.509Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9080,6 +9036,50 @@
         "Smart Contract"
       ],
       "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "76PBermBSh2sPjXzuLP7d7",
+    "id": "moonbeamnetwork",
+    "project": "Moonbeam Network",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4US5CNdpvCjBHHpUbUip3m/7de4ab736d271da97aa27415585755f4/Moonbeam_Icon_White_2x.png",
+    "date": "2021-12-16T18:00:00.000Z",
+    "launchDate": "2021-12-16T18:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-11-20T09:37:37.301Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Polkadot"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Rust"
+      ],
       "featured": [
         "Launched Recently"
       ]
