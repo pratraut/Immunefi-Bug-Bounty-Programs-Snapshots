@@ -216,71 +216,6 @@ Swaylend provides rewards in UDSC, denominated in USD.
     "premiumTriaging": true
   },
   {
-    "contentfulId": "5r4GzYQFpbF0ml6Ken8S0l",
-    "id": "iop-fluid-protocol",
-    "project": "IOP | Fluid Protocol",
-    "maximum_reward": 80000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2uVW4I32P0N2q5UKbfm3nl/e362ab873873928d6c70177f3abd82e4/s7e5pBIm_400x400.png",
-    "date": "2024-11-14T11:00:00.000Z",
-    "launchDate": "2024-11-14T11:00:00.000Z",
-    "endDate": "2024-12-05T10:00:04.000Z",
-    "updatedDate": "2024-11-15T15:57:55.988Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [
-        "Fuel Network"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Sway"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2024-12-26T15:35:30.000Z",
-    "boostedIntroStartingIn": "Fluid Protocol is an over-collateralized, decentralized borrowing platform for the Fuel ecosystem.
-
-USDF is an over-collateralized, native stablecoin built on Fuel Network. Borrowers can draw 0% interest-free loans by depositing their collateral, whereby receiving USDF. Fuel Network is the fastest modular execution layer, delivering maximum security and highest flexible throughput.
-
-For more information about Fluid Protocol, please visit https://fluidprotocol.xyz/
-
-Fludi Protocol provides rewards in UDSC, denominated in USD.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 80000,
-    "sourceLinesOfCode": 6120,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": false,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Time Saver",
-      "Vault",
-      "Boost"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
     "id": "audit-comp-celo",
     "project": "Audit Comp | Celo",
@@ -352,6 +287,71 @@ For more information about Celo, please visit https://celo.org/",
       "Boost",
       "Managed Triage: Time Saver",
       "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "5r4GzYQFpbF0ml6Ken8S0l",
+    "id": "iop-fluid-protocol",
+    "project": "IOP | Fluid Protocol",
+    "maximum_reward": 80000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2uVW4I32P0N2q5UKbfm3nl/e362ab873873928d6c70177f3abd82e4/s7e5pBIm_400x400.png",
+    "date": "2024-11-14T11:00:00.000Z",
+    "launchDate": "2024-11-14T11:00:00.000Z",
+    "endDate": "2024-12-12T10:00:00.000Z",
+    "updatedDate": "2024-11-21T13:12:03.610Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "Fuel Network"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Sway"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-02T15:35:00.000Z",
+    "boostedIntroStartingIn": "Fluid Protocol is an over-collateralized, decentralized borrowing platform for the Fuel ecosystem.
+
+USDF is an over-collateralized, native stablecoin built on Fuel Network. Borrowers can draw 0% interest-free loans by depositing their collateral, whereby receiving USDF. Fuel Network is the fastest modular execution layer, delivering maximum security and highest flexible throughput.
+
+For more information about Fluid Protocol, please visit https://fluidprotocol.xyz/
+
+Fludi Protocol provides rewards in UDSC, denominated in USD.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 80000,
+    "sourceLinesOfCode": 6120,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": false,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver",
+      "Vault",
+      "Boost"
     ],
     "academyStartDate": null,
     "premiumTriaging": true

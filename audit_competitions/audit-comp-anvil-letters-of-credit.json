@@ -226,41 +226,29 @@
       "programCodebases": [
         {
           "id": 235,
-          "programId": 2965,
           "title": "Anvil’s up to date codebase",
           "description": "Codebase",
-          "url": "https://github.com/AcronymFoundation/anvil-contracts",
-          "createdAt": "2024-11-06T19:44:49.002Z",
-          "updatedAt": "2024-11-06T19:44:49.002Z"
+          "url": "https://github.com/AcronymFoundation/anvil-contracts"
         }
       ],
       "programDocumentations": [
         {
           "id": 132,
-          "programId": 2965,
           "title": "Technical education",
           "description": "Whitepaper",
-          "url": " https://docs.anvil.xyz/whitepaper",
-          "createdAt": "2024-11-06T19:45:06.375Z",
-          "updatedAt": "2024-11-06T19:45:06.375Z"
+          "url": " https://docs.anvil.xyz/whitepaper"
         },
         {
           "id": 133,
-          "programId": 2965,
           "title": "Technical education 2",
           "description": "README",
-          "url": "https://github.com/AcronymFoundation/anvil-contracts/blob/main/README.md",
-          "createdAt": "2024-11-06T19:45:32.088Z",
-          "updatedAt": "2024-11-06T19:45:32.088Z"
+          "url": "https://github.com/AcronymFoundation/anvil-contracts/blob/main/README.md"
         },
         {
           "id": 134,
-          "programId": 2965,
           "title": "Educational Resources",
           "description": "Documentation",
-          "url": " https://docs.anvil.xyz/",
-          "createdAt": "2024-11-06T19:45:52.511Z",
-          "updatedAt": "2024-11-06T19:45:52.511Z"
+          "url": " https://docs.anvil.xyz/"
         }
       ],
       "primacy": "primacy_of_rules",

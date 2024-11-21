@@ -453,23 +453,17 @@
       "programCodebases": [
         {
           "id": 29,
-          "programId": 113,
           "title": "BitFlow Codebase",
           "description": "Githib Codebase",
-          "url": "https://github.com/BitflowFinance",
-          "createdAt": "2024-10-23T08:30:12.766Z",
-          "updatedAt": "2024-10-23T08:30:12.766Z"
+          "url": "https://github.com/BitflowFinance"
         }
       ],
       "programDocumentations": [
         {
           "id": 21,
-          "programId": 113,
           "title": "Bitflow Documentation",
           "description": "Program Documentation",
-          "url": "https://docs.bitflow.finance/bitflow-documentation",
-          "createdAt": "2024-10-23T08:30:47.897Z",
-          "updatedAt": "2024-10-23T08:30:47.897Z"
+          "url": "https://docs.bitflow.finance/bitflow-documentation"
         }
       ],
       "primacy": "primacy_of_impact",

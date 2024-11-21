@@ -218,23 +218,17 @@
       "programCodebases": [
         {
           "id": 63,
-          "programId": 2962,
           "title": "Jito's Codebase",
           "description": "Jito's up-to-date codebase",
-          "url": "https://github.com/jito-foundation",
-          "createdAt": "2024-10-25T13:53:34.736Z",
-          "updatedAt": "2024-10-25T13:53:34.736Z"
+          "url": "https://github.com/jito-foundation"
         }
       ],
       "programDocumentations": [
         {
           "id": 50,
-          "programId": 2962,
           "title": "Jito's Documentation",
           "description": "Jito's documentation and further resources",
-          "url": "https://jito-foundation.gitbook.io/mev",
-          "createdAt": "2024-10-25T13:54:10.942Z",
-          "updatedAt": "2024-10-25T13:54:10.942Z"
+          "url": "https://jito-foundation.gitbook.io/mev"
         }
       ],
       "primacy": "primacy_of_rules",
