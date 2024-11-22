@@ -4868,7 +4868,7 @@
     "date": "2024-05-10T03:11:00.000Z",
     "launchDate": "2024-05-10T03:11:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T16:20:17.948Z",
+    "updatedDate": "2024-11-22T16:09:35.888Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5444,7 +5444,7 @@
     "date": "2022-02-16T04:30:00.000Z",
     "launchDate": "2022-02-16T04:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-23T12:48:19.102Z",
+    "updatedDate": "2024-11-22T11:59:14.478Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -11305,7 +11305,7 @@
     "date": "2022-02-06T18:00:00.000Z",
     "launchDate": "2022-02-06T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-08T20:37:37.061Z",
+    "updatedDate": "2024-11-22T05:49:25.597Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -11332,49 +11332,6 @@
       ],
       "language": [
         "C/C++"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "omXQKWqLY7CmBRMPQPUNR",
-    "id": "antefinance",
-    "project": "Ante Finance",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4CENEoWKC4YGCHgAxZ1f4U/1e4a8244ff3ba31e495992ea3dc67ddc/Ante_logo.png",
-    "date": "2022-01-05T18:00:00.000Z",
-    "launchDate": "2022-01-05T18:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-12T15:43:54.784Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
@@ -12905,6 +12862,49 @@
       ],
       "language": [
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "omXQKWqLY7CmBRMPQPUNR",
+    "id": "antefinance",
+    "project": "Ante Finance",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4CENEoWKC4YGCHgAxZ1f4U/1e4a8244ff3ba31e495992ea3dc67ddc/Ante_logo.png",
+    "date": "2022-01-05T18:00:00.000Z",
+    "launchDate": "2022-01-05T18:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-11-22T05:34:00.654Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
       ],
       "featured": [
         "Launched Recently"
