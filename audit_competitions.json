@@ -285,24 +285,42 @@ Fludi Protocol provides rewards in UDSC, denominated in USD.",
     "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
     "id": "ethereum-protocol-attackathon",
     "project": "Attackathon | Ethereum Protocol",
-    "maximum_reward": 0,
+    "maximum_reward": 1500000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6itRuATvu87slB9sHlEDxS/680a257b5c3950fea7a3e835ca522fb4/eth-diamond-purple.7929ed26__1_.png",
-    "date": "2024-11-25T08:00:49.000Z",
-    "launchDate": "2024-11-25T08:00:49.000Z",
-    "endDate": "2025-01-20T08:00:00.000Z",
-    "updatedDate": "2024-11-08T14:30:27.481Z",
+    "date": "2024-11-25T14:00:00.000Z",
+    "launchDate": "2024-11-25T14:00:00.000Z",
+    "endDate": "2025-01-20T14:00:00.000Z",
+    "updatedDate": "2024-11-25T14:09:56.699Z",
     "kyc": true,
-    "technologies": [],
-    "immunefiStandard": null,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
     "tags": {
       "general": [
-        "Triaged by Immunefi"
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
       ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Blockchain/DLT"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-02-17T14:48:00.000Z",
+    "evaluationEndDate": "2025-02-17T14:00:00.000Z",
     "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
 
 When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
@@ -313,14 +331,18 @@ The Ethereum Protocol Education Period is live. To help you learn the Ethereum P
 
 You can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.
 
-**November 25th 2024 8am UTC to January 20th 2025 8am UTC:**
+**November 25th 2024 2pm UTC to January 20th 2025 2pm UTC:**
 
 Ethereum Protocol’s Attackathon is live. Find bugs and earn rewards. 
 
 During the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. 
 
 [Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
-    "boostedIntroLive": "",
+    "boostedIntroLive": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
+
+You can ask the Ethereum Protocol team any questions directly in the [Ethereum Attackathon Discord channel](https://discord.gg/immunefi?utm_source=immunefi) on Immunefi's Discord. During the Attackathon, Ethereum Protocol commits to responding within 48 hours on weekdays to all bug reports.
+
+After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "ETH",
@@ -336,23 +358,7 @@ During the Attackathon, the Ethereum Protocol and Ethereum client teams commit t
       "Vault"
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
