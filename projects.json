@@ -2160,7 +2160,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:09:23.466Z",
+    "updatedDate": "2024-11-26T07:55:29.121Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7682,7 +7682,7 @@
     "date": "2023-09-08T13:00:00.000Z",
     "launchDate": "2023-09-08T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-25T12:53:35.543Z",
+    "updatedDate": "2024-11-26T12:55:25.165Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10200,6 +10200,48 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "7l25N5ypZniqrhTRbjxPCN",
+    "id": "hourglass",
+    "project": "Hourglass",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/vIhFucpudsRp4PGOnmiog/1f458ba078e9ba65c1532b9e8b13c064/hourglass.png",
+    "date": "2024-11-26T01:00:21.000Z",
+    "launchDate": "2024-11-26T01:00:21.000Z",
+    "endDate": null,
+    "updatedDate": "2024-11-26T17:39:26.643Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Liquid Staking"
+      ],
+      "projectType": [
+        "NFT"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "1W0raDGgEn9dtVvDGONLLa",
     "id": "light-protocol",
     "project": "Light Protocol",
@@ -12097,7 +12139,7 @@
     "date": "2023-03-29T17:00:00.000Z",
     "launchDate": "2023-03-29T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:45:49.456Z",
+    "updatedDate": "2024-11-26T12:28:05.997Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
