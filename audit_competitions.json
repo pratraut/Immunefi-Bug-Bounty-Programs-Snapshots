@@ -434,7 +434,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "date": "2024-11-11T10:00:28.000Z",
     "launchDate": "2024-11-11T10:00:28.000Z",
     "endDate": "2024-11-22T10:00:00.000Z",
-    "updatedDate": "2024-11-12T16:26:49.130Z",
+    "updatedDate": "2024-11-27T10:03:02.388Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -460,7 +460,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-12-20T10:00:23.000Z",
+    "evaluationEndDate": "2024-12-04T10:00:00.000Z",
     "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Anvil LetterOfCredit contract. 
 
 Anvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.
@@ -585,7 +585,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "date": "2024-09-04T12:00:00.000Z",
     "launchDate": "2024-09-04T12:00:00.000Z",
     "endDate": "2024-10-16T12:00:00.000Z",
-    "updatedDate": "2024-11-26T14:33:17.830Z",
+    "updatedDate": "2024-11-27T12:09:54.757Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -619,7 +619,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-11-29T12:00:00.000Z",
+    "evaluationEndDate": "2024-11-27T10:00:00.000Z",
     "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Shardeum Core II. This Boost is a successor of Shardeum's Core Boost and will cover two components: Shardus Core Protocol and Shardeum Validator Nodes.
 
 No KYC is required.
@@ -639,17 +639,84 @@ In this contest bug fixes may be applied mid-contest. Further details are in the
 
 When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1pNu7kiBqxRl_H7Ouqcy4qXF8MG8o5M6Y)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/shardeum-core-ii)",
     "rewardsToken": "USDC",
     "rewardsPool": 150000,
     "sourceLinesOfCode": 75000,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/10Pk2wYk1AUEq69RnmhBTeikYtHTHoSZo/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "Merkle_Bonsai",
+        "critical": 3,
+        "earnings": 59735,
+        "insights": 3,
+        "mediumLow": 0,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "periniondon630",
+        "critical": 3,
+        "earnings": 51401,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "throwing5tone7",
+        "critical": 2,
+        "earnings": 32197,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "gln",
+        "critical": 0,
+        "earnings": 1667,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "Ouabala",
+        "critical": 0,
+        "earnings": 1667,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "gladiator111",
+        "critical": 0,
+        "earnings": 1667,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "dldLambda",
+        "critical": 0,
+        "earnings": 1667,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "Boost",
-      "Managed Triage: Time Saver"
+      "Managed Triage: Time Saver",
+      "Vault"
     ],
     "academyStartDate": null,
     "premiumTriaging": true
@@ -675,7 +742,8 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
