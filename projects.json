@@ -268,7 +268,7 @@
     "date": "2022-02-11T15:00:00.000Z",
     "launchDate": "2022-02-11T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-27T16:32:31.707Z",
+    "updatedDate": "2024-11-28T11:20:34.788Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -532,7 +532,7 @@
     "date": "2021-05-11T05:00:00.000Z",
     "launchDate": "2021-05-11T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:48:54.230Z",
+    "updatedDate": "2024-11-28T11:50:40.529Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4427,7 +4427,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-27T11:02:23.434Z",
+    "updatedDate": "2024-11-28T16:24:04.039Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -5791,51 +5791,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7BKSUppj0olXCHsFuz26mV",
-    "id": "opynsqueeth",
-    "project": "Opyn: Squeeth",
-    "maximum_reward": 220000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6cn27RJHw83XgPXQcVMO45/b142d698920ce9f50a7b3e949d86af9f/SqueethLogo_Small.png",
-    "date": "2022-02-07T18:30:00.000Z",
-    "launchDate": "2022-02-07T18:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T20:27:01.415Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Derivatives",
-        "Options",
-        "Perpetuals"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
@@ -10164,7 +10119,7 @@
     "date": "2024-11-26T01:00:21.000Z",
     "launchDate": "2024-11-26T01:00:21.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-26T17:39:26.643Z",
+    "updatedDate": "2024-11-28T12:50:04.715Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",

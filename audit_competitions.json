@@ -509,7 +509,7 @@ For more information about Anvil, please visit https://anvil.xyz/",
     "date": "2024-09-04T12:00:00.000Z",
     "launchDate": "2024-09-04T12:00:00.000Z",
     "endDate": "2024-10-16T12:00:00.000Z",
-    "updatedDate": "2024-11-26T14:33:38.146Z",
+    "updatedDate": "2024-11-28T10:54:38.558Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -521,7 +521,8 @@ For more information about Anvil, please visit https://anvil.xyz/",
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "L1"
@@ -543,7 +544,7 @@ For more information about Anvil, please visit https://anvil.xyz/",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-11-29T12:00:00.000Z",
+    "evaluationEndDate": "2024-11-28T10:00:00.000Z",
     "boostedIntroStartingIn": "$100,000 USD in rewards is available for finding bugs on Shardeum Ancillaries II. This Boost is a successor of Shardeum's Ancillaries Boost and will only cover the Web2 aspects of the project. 
 
 No KYC is required.
@@ -561,17 +562,93 @@ In this contest bug fixes may be applied mid-contest. Further details are in the
 
 When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/10zwZIGt0QMig_FJrHhkTztIxN57RnanT?usp=sharing)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/shardeum-ancillaries-ii)",
     "rewardsToken": "USDC",
     "rewardsPool": 100000,
     "sourceLinesOfCode": 27000,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1qzfoiJKJegSGoylCu_ZvPjOrtkJ64Sgx/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "periniondon630",
+        "critical": 2,
+        "earnings": 67596,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 2,
+        "name": "blocksmith0",
+        "critical": 0,
+        "earnings": 17980,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 1,
+        "name": "hulkvision",
+        "critical": 0,
+        "earnings": 4267,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "Blockian",
+        "critical": 0,
+        "earnings": 3827,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "anton_quantish",
+        "critical": 0,
+        "earnings": 2816,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Ouabala",
+        "critical": 0,
+        "earnings": 1757,
+        "insights": 3,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "gln",
+        "critical": 0,
+        "earnings": 1081,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "sujan_shetty",
+        "critical": 0,
+        "earnings": 676,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "Boost",
-      "Managed Triage: Time Saver"
+      "Managed Triage: Time Saver",
+      "Vault"
     ],
     "academyStartDate": null,
     "premiumTriaging": true
