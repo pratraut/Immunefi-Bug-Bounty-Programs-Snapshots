@@ -1468,8 +1468,8 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-24T07:43:25.577Z",
-    "kyc": true,
+    "updatedDate": "2024-11-30T11:15:38.737Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -1478,7 +1478,7 @@
     "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Required",
+        "KYC Not Required",
         "PoC Required",
         "Triaged by Immunefi"
       ],
