@@ -462,15 +462,16 @@
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [
         {
-          "id": 48,
+          "id": 318,
           "title": "Moonbeam Network Codebase",
           "description": "Github Codebase",
-          "url": "https://github.com/PureStake/)"
+          "url": "https://github.com/moonbeam-foundation"
         }
       ],
       "programDocumentations": [],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": true,
+      "findingsUrl": null,
       "premiumTriaging": false
     },
     "project": {

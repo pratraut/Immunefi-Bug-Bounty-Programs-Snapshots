@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Hr2T9A9pZCCS0Oj9fCzjH/f8f737c77bdfe9814708931dc16676c6/image__21_.png",
       "launchDate": "2024-11-11T10:00:28.000Z",
       "endDate": "2024-11-22T10:00:00.000Z",
-      "updatedDate": "2024-11-27T10:03:02.388Z",
+      "updatedDate": "2024-12-02T14:32:46.379Z",
       "kyc": true,
       "rewards": [
         {
@@ -181,7 +181,7 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-12-04T10:00:00.000Z",
+      "evaluationEndDate": "2024-12-13T10:00:00.000Z",
       "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Anvil LetterOfCredit contract. \n\nAnvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.\n\nFor more information about Anvil, please visit https://anvil.xyz/\n\n**KYC is required**\n\nAny technical questions can be asked directly to the Anvil technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"anvil-letters-of-credit\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, Immunefi will publish Anvil's technical walkthrough on our official YouTube channel.",
       "boostedIntroLive": "$30,000 USD is available in rewards for finding bugs in Anvil's Letters Of Credit contract of 1622 nSLOC. \n\nKYC is required.\n\nAny technical questions and support requests can be asked directly to Anvil or Immunefi in the [Anvil Letters Of Credit Audit Competition Discord channel](https://discord.com/invite/immunefi).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nFor more information about Anvil, please visit https://anvil.xyz/",
       "boostedIntroEvaluating": "",
@@ -253,6 +253,7 @@
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
+      "findingsUrl": null,
       "premiumTriaging": true
     },
     "layoutProps": {
