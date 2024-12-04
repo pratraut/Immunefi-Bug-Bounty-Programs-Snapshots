@@ -234,10 +234,7 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": {
-      "premiumTriaging": false,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Euphrates Bug Bounties",
       "description": "Find bugs and vulnerabilities on Euphrates and get paid up to $50,000.",

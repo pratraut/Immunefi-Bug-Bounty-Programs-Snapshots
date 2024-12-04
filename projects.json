@@ -792,7 +792,7 @@
     "date": "2022-03-11T03:30:00.000Z",
     "launchDate": "2022-03-11T03:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-22T11:32:56.433Z",
+    "updatedDate": "2024-12-03T23:43:56.347Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1468,7 +1468,7 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T10:36:32.895Z",
+    "updatedDate": "2024-12-04T12:20:41.675Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -2202,7 +2202,7 @@
     "date": "2023-02-20T20:00:00.000Z",
     "launchDate": "2023-02-20T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-28T15:19:56.520Z",
+    "updatedDate": "2024-12-04T15:13:40.403Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications",
@@ -2393,7 +2393,7 @@
     "date": "2022-06-16T16:30:00.000Z",
     "launchDate": "2022-06-16T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-13T17:50:24.367Z",
+    "updatedDate": "2024-12-04T05:52:59.985Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2483,7 +2483,7 @@
     "date": "2022-04-22T02:30:00.000Z",
     "launchDate": "2022-04-22T02:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-23T14:10:44.101Z",
+    "updatedDate": "2024-12-03T23:47:30.930Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2926,6 +2926,51 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "7aG6gVhCTGHgv1jcLUTyvz",
+    "id": "pinto",
+    "project": "Pinto",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3JCmIGX1qnhz2RyETuiotC/7cf44649944682c89139001977d886f2/Pinto.png",
+    "date": "2024-12-04T16:58:00.000Z",
+    "launchDate": "2024-12-04T16:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-12-04T16:59:59.810Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Stablecoin"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Base"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity",
+        "JavaScript",
+        "Python"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "45JfvUndCULKk7AS4TxvF0",
@@ -3560,7 +3605,7 @@
     "date": "2023-02-13T20:00:00.000Z",
     "launchDate": "2023-02-13T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T15:10:17.815Z",
+    "updatedDate": "2024-12-04T18:23:08.678Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3958,7 +4003,7 @@
     "date": "2021-11-04T17:00:00.000Z",
     "launchDate": "2021-11-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-29T13:20:55.978Z",
+    "updatedDate": "2024-12-03T23:35:20.064Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4650,7 +4695,7 @@
     "date": "2024-12-03T08:00:00.000Z",
     "launchDate": "2024-12-03T08:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-03T08:41:35.787Z",
+    "updatedDate": "2024-12-04T16:57:00.385Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6685,7 +6730,7 @@
     "date": "2023-11-20T12:00:00.000Z",
     "launchDate": "2023-11-20T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-29T12:19:08.977Z",
+    "updatedDate": "2024-12-03T18:56:56.463Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7769,7 +7814,7 @@
     "date": "2023-07-11T14:00:00.000Z",
     "launchDate": "2023-07-11T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-14T13:24:09.402Z",
+    "updatedDate": "2024-12-04T15:55:35.898Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -9373,7 +9418,7 @@
     "date": "2021-06-14T09:00:00.000Z",
     "launchDate": "2021-06-14T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-22T15:47:35.253Z",
+    "updatedDate": "2024-12-03T23:34:04.953Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10076,7 +10121,7 @@
     "date": "2021-06-15T17:00:00.000Z",
     "launchDate": "2021-06-15T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:16:23.092Z",
+    "updatedDate": "2024-12-04T18:11:56.481Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -12185,7 +12230,7 @@
     "date": "2022-08-09T18:30:00.000Z",
     "launchDate": "2022-08-09T18:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-08T11:12:52.652Z",
+    "updatedDate": "2024-12-04T15:14:41.776Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -12459,7 +12504,7 @@
     "date": "2023-07-12T14:00:00.000Z",
     "launchDate": "2023-07-12T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-15T11:11:18.470Z",
+    "updatedDate": "2024-12-04T18:13:54.298Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -13633,7 +13678,7 @@
     "date": "2021-02-05T07:00:00.000Z",
     "launchDate": "2021-02-05T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-13T11:58:06.703Z",
+    "updatedDate": "2024-12-04T15:22:44.700Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -14802,7 +14847,7 @@
     "date": "2022-04-07T17:30:00.000Z",
     "launchDate": "2022-04-07T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:15:02.104Z",
+    "updatedDate": "2024-12-03T18:46:24.400Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -15068,7 +15113,7 @@
     "date": "2023-02-16T20:00:00.000Z",
     "launchDate": "2023-02-16T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-13T19:38:54.257Z",
+    "updatedDate": "2024-12-04T18:01:13.790Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
