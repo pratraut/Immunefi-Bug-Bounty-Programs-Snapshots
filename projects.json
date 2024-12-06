@@ -6991,52 +6991,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "44Ni6pLgRBAT5ubqsOGqlX",
-    "id": "blockwallet",
-    "project": "BlockWallet",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1g2KQHAZ1xTkcHPlUUWGqF/198610415cd5e46e63052300ba3eeef1/Blank_wallet_logo__3_.jpeg",
-    "date": "2021-11-30T05:00:00.000Z",
-    "launchDate": "2021-11-30T05:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T16:03:20.034Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Wallet"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Avalanche",
-        "BSC",
-        "ETH",
-        "Fantom",
-        "Polygon"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "5ozlX4zKQnOXlMqQbzVDdq",
     "id": "rysk",
     "project": "Rysk",
@@ -7066,6 +7020,43 @@
       "ecosystem": [
         "Arbitrum"
       ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "6VSug7qxArymsz9N0MRihp",
+    "id": "zerolend",
+    "project": "ZeroLend",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3krwpy8yy3IaOV7zKhDMMt/a6c889f6174da2c0762e542ae8899475/zerolend.png",
+    "date": "2024-12-05T13:19:17.000Z",
+    "launchDate": "2024-12-05T13:19:17.000Z",
+    "endDate": null,
+    "updatedDate": "2024-12-06T09:25:35.416Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
@@ -8778,7 +8769,7 @@
     "date": "2022-03-31T17:00:00.000Z",
     "launchDate": "2022-03-31T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-03T15:47:11.878Z",
+    "updatedDate": "2024-12-06T10:41:01.091Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"

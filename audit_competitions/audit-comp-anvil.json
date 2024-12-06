@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2mGK0eYVaDmJRa9glTW4z7/f9526c17f5faa6b5007c29f6caf1226f/4D0J2eDi_500x500-3.png",
       "launchDate": "2024-10-16T08:00:00.000Z",
       "endDate": "2024-11-06T08:00:00.000Z",
-      "updatedDate": "2024-12-02T14:33:24.027Z",
+      "updatedDate": "2024-12-06T11:24:19.293Z",
       "kyc": true,
       "rewards": [
         {
@@ -201,18 +201,136 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-12-09T08:52:00.000Z",
+      "evaluationEndDate": "2024-12-06T08:00:00.000Z",
       "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Anvil Vault\n\nAnvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.\n\n\nFor more information about Anvil, please visit https://anvil.xyz/\n\n**KYC is required**\n\nAny technical questions can be asked directly to the Anvil technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"anvil-audit-competition\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nThe day after the launch, Anvil will give a live technical walkthrough.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/17Wj9-nOE6kuMsw3D8Yvy85B0AoadMbkH?usp=sharing)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/anvil)",
       "rewardsToken": "USDT",
       "rewardsPool": 50000,
       "sourceLinesOfCode": 1384,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1T0yw5_D8hQJcC0259lEcDJbYh-tYkA0b/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "niroh",
+          "critical": 1,
+          "earnings": 40282,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "gladiator111",
+          "critical": 0,
+          "earnings": 3322,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "perseverance",
+          "critical": 0,
+          "earnings": 2096,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "max10afternoon",
+          "critical": 0,
+          "earnings": 1107,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Blockian",
+          "critical": 0,
+          "earnings": 694,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "coffiasd",
+          "critical": 0,
+          "earnings": 626,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "MrMorningstar",
+          "critical": 0,
+          "earnings": 417,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "zhuying",
+          "critical": 0,
+          "earnings": 294,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Hoverfly9132",
+          "critical": 0,
+          "earnings": 294,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "trtrth",
+          "critical": 0,
+          "earnings": 294,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "savi0ur",
+          "critical": 0,
+          "earnings": 294,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "ProfitableFrog6412",
+          "critical": 0,
+          "earnings": 139,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "ihtishamsudo",
+          "critical": 0,
+          "earnings": 139,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Boost",
         "Managed Triage: Time Saver"
@@ -272,7 +390,7 @@
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/anvil",
       "premiumTriaging": true
     },
     "layoutProps": {
