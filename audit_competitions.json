@@ -1,81 +1,5 @@
 [
   {
-    "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
-    "id": "audit-comp-celo",
-    "project": "Audit Comp | Celo",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
-    "date": "2024-11-13T19:00:43.000Z",
-    "launchDate": "2024-11-13T19:00:43.000Z",
-    "endDate": "2024-12-06T19:00:00.000Z",
-    "updatedDate": "2024-11-15T22:52:25.996Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity",
-        "Go"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-03T19:00:00.000Z",
-    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
-
-Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
-
-For more information about Celo, please visit https://celo.org/
-
-**KYC is required**
-
-Any technical questions can be asked directly to the Celo technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"celo-audit-competition\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Celo's technical walkthrough on our official YouTube channel.",
-    "boostedIntroLive": "$50,000 USD is available in rewards for finding bugs in Celo contracts of 5,253 nSLOC. 
-
-KYC is required.
-
-Any technical questions and support requests can be asked directly to Celo or Immunefi in the [Celo Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-For more information about Celo, please visit https://celo.org/",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "cUSD",
-    "rewardsPool": 50000,
-    "sourceLinesOfCode": 5253,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "5r4GzYQFpbF0ml6Ken8S0l",
     "id": "iop-fluid-protocol",
     "project": "IOP | Fluid Protocol",
@@ -211,7 +135,7 @@ Swaylend provides rewards in UDSC, denominated in USD.",
     "date": "2024-12-02T08:00:00.000Z",
     "launchDate": "2024-12-02T08:00:00.000Z",
     "endDate": "2025-01-13T08:00:00.000Z",
-    "updatedDate": "2024-12-02T06:46:40.137Z",
+    "updatedDate": "2024-12-07T08:52:00.174Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -437,6 +361,82 @@ For more information about Folks Finance, please visit [https://folks.finance/](
     "programOverview": "",
     "rewards": null,
     "rewardsBody": ""
+  },
+  {
+    "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
+    "id": "audit-comp-celo",
+    "project": "Audit Comp | Celo",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
+    "date": "2024-11-13T19:00:43.000Z",
+    "launchDate": "2024-11-13T19:00:43.000Z",
+    "endDate": "2024-12-06T19:00:00.000Z",
+    "updatedDate": "2024-11-15T22:52:25.996Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity",
+        "Go"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-03T19:00:00.000Z",
+    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
+
+Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
+
+For more information about Celo, please visit https://celo.org/
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Celo technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"celo-audit-competition\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Celo's technical walkthrough on our official YouTube channel.",
+    "boostedIntroLive": "$50,000 USD is available in rewards for finding bugs in Celo contracts of 5,253 nSLOC. 
+
+KYC is required.
+
+Any technical questions and support requests can be asked directly to Celo or Immunefi in the [Celo Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Celo, please visit https://celo.org/",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "cUSD",
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 5253,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
   },
   {
     "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
