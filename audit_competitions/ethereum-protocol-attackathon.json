@@ -850,7 +850,7 @@
         },
         {
           "id": "4tSde70EV2ABSBX0eQsAXV",
-          "type": "blockchain_dlt",
+          "type": "smart_contract",
           "url": "https://github.com/ethereum/solidity",
           "description": "Solidity Compiler - [124k]",
           "isPrimacyOfImpact": null,
@@ -859,7 +859,7 @@
         },
         {
           "id": "2DQBywvEv3ikGV831m8tNj",
-          "type": "blockchain_dlt",
+          "type": "smart_contract",
           "url": "https://github.com/vyperlang/vyper",
           "description": "Vyper - [19k]",
           "isPrimacyOfImpact": null,

@@ -127,6 +127,77 @@ Swaylend provides rewards in UDSC, denominated in USD.",
     "premiumTriaging": true
   },
   {
+    "contentfulId": "7JLVmMH4JBQZIJYWvN2GK",
+    "id": "folks-finance-liquid-staking-audit-competition",
+    "project": "Audit Comp | Folks: Liquid Staking",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4NFnVNSefjOLrvyAZJNJya/b7e769f644c794bf71656737775fcf99/image_23_cropped.png",
+    "date": "2024-12-09T10:00:12.000Z",
+    "launchDate": "2024-12-09T10:00:12.000Z",
+    "endDate": "2024-12-19T10:00:00.000Z",
+    "updatedDate": "2024-12-09T11:53:19.835Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-16T10:00:00.000Z",
+    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Folks: Liquid Staking Audit Competition which introduces new liquid staking contract on Algorand. 
+
+For more information about Folks Finance please visit [https://folks.finance/](https://folks.finance/). 
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi's Discord](https://discord.com/invite/immunefi) in the \"folks-liquid-staking-audit-competition\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Folks Finance's technical walkthrough on our official YouTube channel.",
+    "boostedIntroLive": "$30,000 USD is available in rewards for finding bugs in Folks Finance's contracts of 651 nSLOC.
+
+No KYC is required.
+
+Any technical questions and support requests can be asked directly to Folks Finance or Immunefi in the \"[project name]-audit-competition\" channel.
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Folks Finance, please visit [https://folks.finance/](https://folks.finance/).",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 651,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
     "id": "stacks-attackathon-1",
     "project": "Attackathon | Stacks",
@@ -284,83 +355,6 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "7JLVmMH4JBQZIJYWvN2GK",
-    "id": "folks-finance-liquid-staking-audit-competition",
-    "project": "Audit Comp | Folks: Liquid Staking",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4NFnVNSefjOLrvyAZJNJya/b7e769f644c794bf71656737775fcf99/image_23_cropped.png",
-    "date": "2024-12-09T10:00:12.000Z",
-    "launchDate": "2024-12-09T10:00:12.000Z",
-    "endDate": "2024-12-19T10:00:00.000Z",
-    "updatedDate": "2024-12-06T12:49:09.688Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "Triaged by Immunefi"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-16T10:00:00.000Z",
-    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Folks: Liquid Staking Audit Competition which introduces new liquid staking contract on Algorand. 
-
-For more information about Folks Finance please visit [https://folks.finance/](https://folks.finance/). 
-
-No KYC is required.
-
-Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi's Discord](https://discord.com/invite/immunefi) in the \"folks-liquid-staking-audit-competition\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Folks Finance's technical walkthrough on our official YouTube channel.",
-    "boostedIntroLive": "$30,000 USD is available in rewards for finding bugs in Folks Finance's contracts of 651 nSLOC.
-
-No KYC is required.
-
-Any technical questions and support requests can be asked directly to Folks Finance or Immunefi in the \"[project name]-audit-competition\" channel.
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-For more information about Folks Finance, please visit [https://folks.finance/](https://folks.finance/).",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 651,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
   },
   {
     "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
