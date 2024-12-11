@@ -2,13 +2,13 @@
   {
     "contentfulId": "14arUyqZFe1knYxkT3rkI9",
     "id": "layerzero",
-    "project": "LayerZero (The World's Largest Bounty)",
+    "project": "LayerZero",
     "maximum_reward": 15000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3UXQcPOIAaOkE2QBCasSKa/14893bedf55bdb191e4cf99a67203e85/LayerZero_logo.jpeg",
     "date": "2023-05-17T17:00:00.000Z",
     "launchDate": "2023-05-17T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-29T18:03:47.531Z",
+    "updatedDate": "2024-12-11T13:14:53.182Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1456,6 +1456,49 @@
       "language": [
         "Solidity",
         "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "5MzXAkML8HKYi5YIqDO3vs",
+    "id": "compoundfinance",
+    "project": "Compound Finance",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5pzaBv2Ygrx3DN9sctxd0a/dcb98ece577d2c0ac8b6ea637e9a3069/Compound.png",
+    "date": "2024-12-11T16:28:00.000Z",
+    "launchDate": "2024-12-11T16:28:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-12-11T16:29:11.671Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
       ],
       "featured": [
         "Launched Recently"
@@ -9925,7 +9968,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-12T15:19:16.169Z",
+    "updatedDate": "2024-12-11T08:11:23.595Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -13518,51 +13561,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5KHxwjpw2D1yTctEggTZ0A",
-    "id": "predyfinance",
-    "project": "Predy Finance",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/ZwKeZ5BwYFvCX9HfRSPfS/3c7bfbf0bbd8abb48ee21b7046c8408c/predy_lcon_Small.png",
-    "date": "2022-12-19T17:00:00.000Z",
-    "launchDate": "2022-12-19T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T20:33:53.070Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "AMM",
-        "L2",
-        "Lending",
-        "Perpetuals"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3OOAiyrBGqwJUBMkNX95VT",
     "id": "paribus",
     "project": "Paribus",
@@ -15169,52 +15167,6 @@
         "NFT"
       ],
       "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2VLQ0C3QVFKERXzJ5Ae61",
-    "id": "contrax",
-    "project": "Contrax",
-    "maximum_reward": 1000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7JuRAb0fait3HFAQzdxpzK/41c520e090e363624f942bc72674777f/logo-4x.7d0ac1c06f514c22c543_copy.png",
-    "date": "2023-02-16T20:00:00.000Z",
-    "launchDate": "2023-02-16T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-04T18:01:13.790Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "L2",
-        "Staking",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH",
         "Polygon"
       ],
       "programType": [
