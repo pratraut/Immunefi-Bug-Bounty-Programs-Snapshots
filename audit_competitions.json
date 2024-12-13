@@ -517,7 +517,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "date": "2024-11-11T10:00:28.000Z",
     "launchDate": "2024-11-11T10:00:28.000Z",
     "endDate": "2024-11-22T10:00:00.000Z",
-    "updatedDate": "2024-12-02T14:32:46.379Z",
+    "updatedDate": "2024-12-13T17:10:53.238Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -528,7 +528,8 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
@@ -543,7 +544,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-12-13T10:00:00.000Z",
+    "evaluationEndDate": "2024-12-13T16:41:08.388Z",
     "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Anvil LetterOfCredit contract. 
 
 Anvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.
@@ -567,14 +568,53 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
 
 For more information about Anvil, please visit https://anvil.xyz/",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1fpYacM4YYH1AEYNIjbSvj8hv5A6f_ctn?usp=sharing)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/anvil-letters-of-credit)",
     "rewardsToken": "USDT",
     "rewardsPool": 30000,
     "sourceLinesOfCode": 1622,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1pZrLOmiDyOSpJArm_tkvsQwJRe6PITn8/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "perseverance",
+        "critical": 2,
+        "earnings": 19861,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "max10afternoon",
+        "critical": 1,
+        "earnings": 7139,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "FaisalAli19",
+        "critical": 0,
+        "earnings": 1875,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "jovi",
+        "critical": 0,
+        "earnings": 1125,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "Boost",
       "Vault",
@@ -592,7 +632,7 @@ For more information about Anvil, please visit https://anvil.xyz/",
     "date": "2024-10-16T08:00:00.000Z",
     "launchDate": "2024-10-16T08:00:00.000Z",
     "endDate": "2024-11-06T08:00:00.000Z",
-    "updatedDate": "2024-12-06T11:24:19.293Z",
+    "updatedDate": "2024-12-13T07:19:07.234Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -620,7 +660,7 @@ For more information about Anvil, please visit https://anvil.xyz/",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2024-12-06T08:00:00.000Z",
+    "evaluationEndDate": "2024-12-09T08:00:00.000Z",
     "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Anvil Vault
 
 Anvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.

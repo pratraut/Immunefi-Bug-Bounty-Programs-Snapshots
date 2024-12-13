@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Hr2T9A9pZCCS0Oj9fCzjH/f8f737c77bdfe9814708931dc16676c6/image__21_.png",
       "launchDate": "2024-11-11T10:00:28.000Z",
       "endDate": "2024-11-22T10:00:00.000Z",
-      "updatedDate": "2024-12-02T14:32:46.379Z",
+      "updatedDate": "2024-12-13T17:10:53.238Z",
       "kyc": true,
       "rewards": [
         {
@@ -181,18 +181,55 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-12-13T10:00:00.000Z",
+      "evaluationEndDate": "2024-12-13T16:41:08.388Z",
       "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Anvil LetterOfCredit contract. \n\nAnvil is a decentralized finance (DeFi) protocol for the issuance of fully secured credit. The protocol's Ethereum-based smart contracts allow users to deposit collateral in a vault, issue letters of credit, and supply assets to staking pools. Anvil's mission is to provide flexible building blocks to bring efficient and transparent collateralized finance into an increasingly decentralized world.\n\nFor more information about Anvil, please visit https://anvil.xyz/\n\n**KYC is required**\n\nAny technical questions can be asked directly to the Anvil technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"anvil-letters-of-credit\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, Immunefi will publish Anvil's technical walkthrough on our official YouTube channel.",
       "boostedIntroLive": "$30,000 USD is available in rewards for finding bugs in Anvil's Letters Of Credit contract of 1622 nSLOC. \n\nKYC is required.\n\nAny technical questions and support requests can be asked directly to Anvil or Immunefi in the [Anvil Letters Of Credit Audit Competition Discord channel](https://discord.com/invite/immunefi).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nFor more information about Anvil, please visit https://anvil.xyz/",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1fpYacM4YYH1AEYNIjbSvj8hv5A6f_ctn?usp=sharing)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/anvil-letters-of-credit)",
       "rewardsToken": "USDT",
       "rewardsPool": 30000,
       "sourceLinesOfCode": 1622,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1pZrLOmiDyOSpJArm_tkvsQwJRe6PITn8/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "perseverance",
+          "critical": 2,
+          "earnings": 19861,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "max10afternoon",
+          "critical": 1,
+          "earnings": 7139,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "FaisalAli19",
+          "critical": 0,
+          "earnings": 1875,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "jovi",
+          "critical": 0,
+          "earnings": 1125,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Boost",
         "Vault",
@@ -253,7 +290,7 @@
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/anvil-letters-of-credit",
       "premiumTriaging": true
     },
     "layoutProps": {
