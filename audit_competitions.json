@@ -1,67 +1,5 @@
 [
   {
-    "contentfulId": "7xv2WGSExiRNS7NVZKlmPZ",
-    "id": "swaylend-frontend-iop",
-    "project": "IOP | SwayLend Frontend",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZPcNO8qqh3O8FjVrcWHTd/da4827c44e7251bf7edcfce0f98ac6fb/Screenshot_2024-10-29_alle_15.13.33-removebg-preview.png",
-    "date": "2024-11-12T10:00:00.000Z",
-    "launchDate": "2024-11-12T10:00:00.000Z",
-    "endDate": "2024-12-17T10:00:00.000Z",
-    "updatedDate": "2024-12-03T08:03:17.695Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [
-        "Fuel Network"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "Sway"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-07T10:00:00.000Z",
-    "boostedIntroStartingIn": "Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3 
-
-For more information about Swaylend, please visit https://swaylend.com/
-
-Swaylend provides rewards in UDSC, denominated in USD.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 23237,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Time Saver",
-      "Boost",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "7JLVmMH4JBQZIJYWvN2GK",
     "id": "folks-finance-liquid-staking-audit-competition",
     "project": "Audit Comp | Folks: Liquid Staking",
@@ -300,7 +238,7 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     "date": "2024-12-18T12:00:00.000Z",
     "launchDate": "2024-12-18T12:00:00.000Z",
     "endDate": "2025-01-08T12:00:00.000Z",
-    "updatedDate": "2024-12-13T19:20:03.935Z",
+    "updatedDate": "2024-12-17T10:47:30.408Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -359,6 +297,68 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "programOverview": "",
     "rewards": null,
     "rewardsBody": ""
+  },
+  {
+    "contentfulId": "7xv2WGSExiRNS7NVZKlmPZ",
+    "id": "swaylend-frontend-iop",
+    "project": "IOP | SwayLend Frontend",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZPcNO8qqh3O8FjVrcWHTd/da4827c44e7251bf7edcfce0f98ac6fb/Screenshot_2024-10-29_alle_15.13.33-removebg-preview.png",
+    "date": "2024-11-12T10:00:00.000Z",
+    "launchDate": "2024-11-12T10:00:00.000Z",
+    "endDate": "2024-12-17T10:00:00.000Z",
+    "updatedDate": "2024-12-03T08:03:17.695Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "Fuel Network"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Sway"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-07T10:00:00.000Z",
+    "boostedIntroStartingIn": "Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3 
+
+For more information about Swaylend, please visit https://swaylend.com/
+
+Swaylend provides rewards in UDSC, denominated in USD.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 23237,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver",
+      "Boost",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
   },
   {
     "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
