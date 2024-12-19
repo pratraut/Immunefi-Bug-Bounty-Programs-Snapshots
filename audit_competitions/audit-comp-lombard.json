@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ER98zQbbMd0ecna1Kk5Di/276c155814568872cab8d53286f0f898/Lombard__Finance.png",
       "launchDate": "2024-12-18T16:00:00.000Z",
       "endDate": "2025-01-08T16:00:00.000Z",
-      "updatedDate": "2024-12-18T16:03:59.526Z",
+      "updatedDate": "2024-12-19T12:20:01.938Z",
       "kyc": true,
       "rewards": [
         {
@@ -306,6 +306,15 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-12-18T16:00:00.000Z"
+        },
+        {
+          "id": "5K8zp14W8IIOvXsljVlV7R",
+          "type": "smart_contract",
+          "url": "https://github.com/lombard-finance/evm-smart-contracts/commit/edd557006050ee5b847fa1cc67c1c4e19079437e",
+          "description": "Final commit hash",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2024-12-19T10:42:41.513Z"
         }
       ],
       "impacts": [

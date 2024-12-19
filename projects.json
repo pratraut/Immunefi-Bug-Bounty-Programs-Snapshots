@@ -3156,7 +3156,7 @@
     "date": "2024-07-02T08:30:00.000Z",
     "launchDate": "2024-07-02T08:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-18T14:54:36.815Z",
+    "updatedDate": "2024-12-19T10:15:51.687Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -11286,51 +11286,6 @@
       "language": [
         "Rust",
         "Typescript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "43RI8Nrg2pvIdIwwzOzyFJ",
-    "id": "furucombofunds",
-    "project": "Furucombo Funds",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6jp3Kf5AQcrDo1w3WgxFEU/9d212a0f25120fcc7cac1fbe0228facb/Furucombo_logo.jpeg",
-    "date": "2022-06-09T21:00-06:00",
-    "launchDate": "2022-06-10T03:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2023-10-19T19:35:47.645Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DEX",
-        "L2"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
