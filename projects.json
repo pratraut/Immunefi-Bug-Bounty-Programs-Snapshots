@@ -2709,6 +2709,50 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "2fi9Y3a3dvqwile6SUdgBD",
+    "id": "cowprotocol",
+    "project": "CoW Protocol",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2SCCBIzc5z3ZxUhwhW1NSK/c6616b0b6f3bbacfebd5a6ea18f929dd/CoW-Protocol-icon-circle-light-purple.png",
+    "date": "2021-06-15T17:00:00.000Z",
+    "launchDate": "2021-06-15T17:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-12-20T09:27:05.373Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "AMM",
+        "DEX"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Gnosis"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "28OsGr8HkuuJoYv2HRz8V6",
     "id": "pancakeswap",
     "project": "PancakeSwap",
@@ -10227,50 +10271,6 @@
       "programType": [
         "Smart Contract",
         "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2fi9Y3a3dvqwile6SUdgBD",
-    "id": "cowprotocol",
-    "project": "CoW Protocol",
-    "maximum_reward": 54000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2SCCBIzc5z3ZxUhwhW1NSK/c6616b0b6f3bbacfebd5a6ea18f929dd/CoW-Protocol-icon-circle-light-purple.png",
-    "date": "2021-06-15T17:00:00.000Z",
-    "launchDate": "2021-06-15T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-04T18:11:56.481Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Gnosis"
-      ],
-      "programType": [
-        "Smart Contract"
       ],
       "language": [
         "Solidity"
