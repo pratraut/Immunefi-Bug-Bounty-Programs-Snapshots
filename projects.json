@@ -4462,58 +4462,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "6nZw6IPi0wgWGut2uLGcFr",
-    "id": "gainsnetwork",
-    "project": "Gains Network",
-    "maximum_reward": 400000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/53Lo497dIPH3nrT78lr8qx/8009fbbcd62a15a011fa8c394e5c5c59/Gains_Network_logo.jpeg",
-    "date": "2022-03-10T20:00:00.000Z",
-    "launchDate": "2022-03-10T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T20:13:02.535Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Bridge",
-        "DEX",
-        "Derivatives",
-        "Options",
-        "Perpetuals",
-        "Staking",
-        "Token"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "1FqF5pcYnLlSE3I2zvaXUA",
     "id": "enzymefinance",
     "project": "Enzyme Finance",
@@ -6389,6 +6337,58 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "6nZw6IPi0wgWGut2uLGcFr",
+    "id": "gainsnetwork",
+    "project": "Gains Network",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/53Lo497dIPH3nrT78lr8qx/8009fbbcd62a15a011fa8c394e5c5c59/Gains_Network_logo.jpeg",
+    "date": "2022-03-10T20:00:00.000Z",
+    "launchDate": "2022-03-10T20:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2024-12-23T00:05:06.954Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Bridge",
+        "DEX",
+        "Derivatives",
+        "Options",
+        "Perpetuals",
+        "Staking",
+        "Token"
+      ],
+      "projectType": [
+        "Defi",
+        "NFT"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "5Ofmg07XDu5W3IF6CgWT3k",
     "id": "superfluid",
     "project": "Superfluid",
@@ -7072,6 +7072,40 @@
       "ecosystem": [
         "Arbitrum"
       ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3i1R0hncqVJeetgHYYrqBv",
+    "id": "fbtc",
+    "project": "FBTC",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/0HsOMFTI5wCKiK3qWsupo/f4a32361884fef795964414549b32902/fbtc.png",
+    "date": "2024-12-19T19:46:46.000Z",
+    "launchDate": "2024-12-19T19:46:46.000Z",
+    "endDate": null,
+    "updatedDate": "2024-12-23T07:53:04.119Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],

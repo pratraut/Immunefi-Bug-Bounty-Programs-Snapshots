@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ER98zQbbMd0ecna1Kk5Di/276c155814568872cab8d53286f0f898/Lombard__Finance.png",
       "launchDate": "2024-12-18T16:00:00.000Z",
       "endDate": "2025-01-08T16:00:00.000Z",
-      "updatedDate": "2024-12-19T12:20:01.938Z",
+      "updatedDate": "2024-12-23T15:25:35.551Z",
       "kyc": true,
       "rewards": [
         {
@@ -432,7 +432,7 @@
       },
       "evaluationEndDate": "2025-01-29T16:00:00.000Z",
       "boostedIntroStartingIn": "$20,000 - $100,000 USD in rewards available for finding bugs on Lombard smart contracts.\n\nKYC is required.\n\nLomabard will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Lombard technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"lombard-audit-comp\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, we’ll share a technical walkthrough in the Discord channel.\n\nJoin our Discord for more updates.",
-      "boostedIntroLive": "$20,000 - $100,000 USD in rewards available for finding bugs in Lombard codebase of about 6000 nSLOC. KYC is required.\n\nAny technical questions and support requests can be asked directly to Lombard or Immunefi in the [Lombard Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1318226749347074149).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+      "boostedIntroLive": "$20,000 - $100,000 USD in rewards available for finding bugs in Lombard codebase of about 3500 nSLOC. KYC is required.\n\nAny technical questions and support requests can be asked directly to Lombard or Immunefi in the [Lombard Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1318226749347074149).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
       "boostedIntroEvaluating": "",
       "boostedIntroFinished": "",
       "rewardsToken": "USDC",
