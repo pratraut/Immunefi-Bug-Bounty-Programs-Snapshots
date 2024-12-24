@@ -8,7 +8,7 @@
     "date": "2024-12-18T16:00:00.000Z",
     "launchDate": "2024-12-18T16:00:00.000Z",
     "endDate": "2025-01-08T16:00:00.000Z",
-    "updatedDate": "2024-12-23T15:25:35.551Z",
+    "updatedDate": "2024-12-24T15:59:39.983Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -76,7 +76,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "date": "2024-12-02T08:00:00.000Z",
     "launchDate": "2024-12-02T08:00:00.000Z",
     "endDate": "2025-01-13T08:00:00.000Z",
-    "updatedDate": "2024-12-07T08:52:00.174Z",
+    "updatedDate": "2024-12-24T09:17:59.348Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -317,7 +317,8 @@ For more information about Folks Finance, please visit [https://folks.finance/](
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
