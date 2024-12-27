@@ -4685,47 +4685,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5PbQvPwR2eJb3GbupHavpk",
-    "id": "ion-protocol",
-    "project": "Ion Protocol",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1nPSwyW7vdoyFURDE9ygjZ/cfc05d9905cb66c6a258fb26a108527c/Ion_Protocol.png",
-    "date": "2024-12-03T08:00:00.000Z",
-    "launchDate": "2024-12-03T08:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-05T09:44:29.970Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7iVTE8sJI1cVoE5wkgVlrc",
     "id": "lombard-finance",
     "project": "Lombard Finance",
@@ -10876,48 +10835,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "5Pl7e4ZQsafCRm5GpyfptF",
-    "id": "axiom",
-    "project": "Axiom",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/hWV91Kc2iSwCThJXoOXd8/63d2b2d650c01f98cf59bbf27c09ca52/Picture_Name_horizontal_Picture_Name_vertical_Vector_black.svg",
-    "date": "2023-07-24T10:00:00.000Z",
-    "launchDate": "2023-07-24T10:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-09T11:48:38.504Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity",
-        "Rust"
       ],
       "featured": [
         "Launched Recently"
