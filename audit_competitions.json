@@ -298,6 +298,82 @@ For more information about Folks Finance, please visit [https://folks.finance/](
     "premiumTriaging": true
   },
   {
+    "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
+    "id": "audit-comp-celo",
+    "project": "Audit Comp | Celo",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
+    "date": "2024-11-13T19:00:43.000Z",
+    "launchDate": "2024-11-13T19:00:43.000Z",
+    "endDate": "2024-12-06T19:00:00.000Z",
+    "updatedDate": "2024-12-30T16:31:16.308Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity",
+        "Go"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-08T19:00:00.000Z",
+    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
+
+Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
+
+For more information about Celo, please visit https://celo.org/
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Celo technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"celo-audit-competition\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Celo's technical walkthrough on our official YouTube channel.",
+    "boostedIntroLive": "$50,000 USD is available in rewards for finding bugs in Celo contracts of 5,253 nSLOC. 
+
+KYC is required.
+
+Any technical questions and support requests can be asked directly to Celo or Immunefi in the [Celo Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Celo, please visit https://celo.org/",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "cUSD",
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 5253,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "7xv2WGSExiRNS7NVZKlmPZ",
     "id": "swaylend-frontend-iop",
     "project": "IOP | SwayLend Frontend",
@@ -361,15 +437,15 @@ Swaylend provides rewards in UDSC, denominated in USD.",
     "premiumTriaging": true
   },
   {
-    "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
-    "id": "audit-comp-celo",
-    "project": "Audit Comp | Celo",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
-    "date": "2024-11-13T19:00:43.000Z",
-    "launchDate": "2024-11-13T19:00:43.000Z",
-    "endDate": "2024-12-06T19:00:00.000Z",
-    "updatedDate": "2024-11-15T22:52:25.996Z",
+    "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
+    "id": "jito-restaking-audit-competition",
+    "project": "Audit Comp | Jito Restaking",
+    "maximum_reward": 150000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/59ZugNbGcWjZC9Vk2UvLSW/cab63d1c9033e2935a66537128cb37dc/image__18_.png",
+    "date": "2024-11-04T10:00:41.000Z",
+    "launchDate": "2024-11-04T10:00:41.000Z",
+    "endDate": "2024-12-02T10:00:00.000Z",
+    "updatedDate": "2024-12-30T09:27:12.396Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -382,48 +458,48 @@ Swaylend provides rewards in UDSC, denominated in USD.",
         "PoC Required",
         "Triaged by Immunefi"
       ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
       "programType": [
         "Smart Contract"
       ],
-      "language": [
-        "Solidity",
-        "Go"
-      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-01-03T19:00:00.000Z",
-    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
-
-Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
-
-For more information about Celo, please visit https://celo.org/
-
-**KYC is required**
-
-Any technical questions can be asked directly to the Celo technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"celo-audit-competition\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Celo's technical walkthrough on our official YouTube channel.",
-    "boostedIntroLive": "$50,000 USD is available in rewards for finding bugs in Celo contracts of 5,253 nSLOC. 
+    "evaluationEndDate": "2025-01-03T10:00:00.000Z",
+    "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Jito restaking protocol built on Solana.
 
 KYC is required.
 
-Any technical questions and support requests can be asked directly to Celo or Immunefi in the [Celo Audit Competition Discord channel](https://discord.com/invite/immunefi).
+Jito will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Jito technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"jito-restaking-audit-competition\" channel.
 
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+Jito will give a live technical walkthrough which will then be uploaded to Immunefi's YouTube channel, so stay tuned!
 
-For more information about Celo, please visit https://celo.org/",
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "$150,000 USD is available in rewards for finding bugs in Jito's Restaking codebase of about 14000 nSLOC. KYC is required.
+
+Any technical questions and support requests can be asked directly to Jito or Immunefi in the [Jito Restaking Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
-    "rewardsToken": "cUSD",
-    "rewardsPool": 50000,
-    "sourceLinesOfCode": 5253,
+    "rewardsToken": "JTO",
+    "rewardsPool": 150000,
+    "sourceLinesOfCode": 14000,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -497,82 +573,6 @@ Fludi Protocol provides rewards in UDSC, denominated in USD.",
       "Managed Triage: Time Saver",
       "Vault",
       "Boost"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
-    "id": "jito-restaking-audit-competition",
-    "project": "Audit Comp | Jito Restaking",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/59ZugNbGcWjZC9Vk2UvLSW/cab63d1c9033e2935a66537128cb37dc/image__18_.png",
-    "date": "2024-11-04T10:00:41.000Z",
-    "launchDate": "2024-11-04T10:00:41.000Z",
-    "endDate": "2024-12-02T10:00:00.000Z",
-    "updatedDate": "2024-11-07T20:18:32.221Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Solana"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2024-12-30T10:00:00.000Z",
-    "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Jito restaking protocol built on Solana.
-
-KYC is required.
-
-Jito will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Jito technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"jito-restaking-audit-competition\" channel.
-
-Jito will give a live technical walkthrough which will then be uploaded to Immunefi's YouTube channel, so stay tuned!
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-Join our Discord for more updates.",
-    "boostedIntroLive": "$150,000 USD is available in rewards for finding bugs in Jito's Restaking codebase of about 14000 nSLOC. KYC is required.
-
-Any technical questions and support requests can be asked directly to Jito or Immunefi in the [Jito Restaking Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "JTO",
-    "rewardsPool": 150000,
-    "sourceLinesOfCode": 14000,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
     ],
     "academyStartDate": null,
     "premiumTriaging": true
