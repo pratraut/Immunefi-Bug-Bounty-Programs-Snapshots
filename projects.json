@@ -132,7 +132,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-22T15:42:44.318Z",
+    "updatedDate": "2024-12-31T08:35:06.970Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9808,51 +9808,6 @@
       "programType": [
         "Smart Contract",
         "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7e8kSVoxKvNVVinMUj1HU8",
-    "id": "primitive",
-    "project": "Primitive",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7fcTu2xl4657b7J81707V2/d1595ca458d2e53803bafe3ec6dc5aa8/Primitive-logo_Small.png",
-    "date": "2021-03-04T07:00:00.000Z",
-    "launchDate": "2021-03-04T07:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-13T11:57:12.291Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "Options"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract"
       ],
       "language": [
         "Solidity"
