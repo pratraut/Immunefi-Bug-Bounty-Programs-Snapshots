@@ -1368,6 +1368,51 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "7aG6gVhCTGHgv1jcLUTyvz",
+    "id": "pinto",
+    "project": "Pinto",
+    "maximum_reward": 1200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3JCmIGX1qnhz2RyETuiotC/7cf44649944682c89139001977d886f2/Pinto.png",
+    "date": "2024-12-04T16:58:00.000Z",
+    "launchDate": "2024-12-04T16:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-02T09:43:32.913Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Stablecoin"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Base"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity",
+        "JavaScript",
+        "Python"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "7hbwv614VY312CQBeitjTZ",
     "id": "degate",
     "project": "DeGate",
@@ -1971,7 +2016,7 @@
     "date": "2023-07-08T11:00:00.000Z",
     "launchDate": "2023-07-08T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-11T13:55:14.406Z",
+    "updatedDate": "2025-01-01T19:57:21.288Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3019,51 +3064,6 @@
       ]
     },
     "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7aG6gVhCTGHgv1jcLUTyvz",
-    "id": "pinto",
-    "project": "Pinto",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3JCmIGX1qnhz2RyETuiotC/7cf44649944682c89139001977d886f2/Pinto.png",
-    "date": "2024-12-04T16:58:00.000Z",
-    "launchDate": "2024-12-04T16:58:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-04T16:59:59.810Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "Stablecoin"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Base"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity",
-        "JavaScript",
-        "Python"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
   },
   {
     "contentfulId": "45JfvUndCULKk7AS4TxvF0",
@@ -5942,7 +5942,7 @@
     "date": "2024-01-25T20:00:00.000Z",
     "launchDate": "2024-01-25T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-11T14:08:30.683Z",
+    "updatedDate": "2025-01-01T20:00:24.629Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -9963,7 +9963,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-15T15:27:06.549Z",
+    "updatedDate": "2025-01-01T20:05:15.812Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
