@@ -6486,59 +6486,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "bEcfVN3VcxRDxSEJYxM4e",
-    "id": "pnetwork",
-    "project": "pNetwork",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6cMB5OFI6eqRCGQxhK5d1r/4e7afe6625053e247609af062c7b7e9f/pTokens-icon-white-eye_copy.png",
-    "date": "2021-12-27T16:00:00.000Z",
-    "launchDate": "2021-12-27T16:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T11:31:52.134Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Bridge",
-        "Crosschain Liquidity",
-        "L2"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "Algorand",
-        "Arbitrum",
-        "BSC",
-        "ETH",
-        "Polygon",
-        "Telos",
-        "Telos"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "65IUTLeEU19IHIUgCAATRX",
     "id": "reaperfarm",
     "project": "Reaper Farm",
