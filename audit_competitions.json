@@ -156,7 +156,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "date": "2024-11-25T14:00:00.000Z",
     "launchDate": "2024-11-25T14:00:00.000Z",
     "endDate": "2025-01-20T14:00:00.000Z",
-    "updatedDate": "2024-12-11T01:57:33.373Z",
+    "updatedDate": "2025-01-06T14:30:29.222Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -285,6 +285,82 @@ For more information about Folks Finance, please visit [https://folks.finance/](
     "rewardsToken": "USDC",
     "rewardsPool": 30000,
     "sourceLinesOfCode": 651,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
+    "id": "jito-restaking-audit-competition",
+    "project": "Audit Comp | Jito Restaking",
+    "maximum_reward": 150000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/59ZugNbGcWjZC9Vk2UvLSW/cab63d1c9033e2935a66537128cb37dc/image__18_.png",
+    "date": "2024-11-04T10:00:41.000Z",
+    "launchDate": "2024-11-04T10:00:41.000Z",
+    "endDate": "2024-12-02T10:00:00.000Z",
+    "updatedDate": "2025-01-06T09:40:08.874Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-10T10:00:00.000Z",
+    "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Jito restaking protocol built on Solana.
+
+KYC is required.
+
+Jito will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Jito technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"jito-restaking-audit-competition\" channel.
+
+Jito will give a live technical walkthrough which will then be uploaded to Immunefi's YouTube channel, so stay tuned!
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "$150,000 USD is available in rewards for finding bugs in Jito's Restaking codebase of about 14000 nSLOC. KYC is required.
+
+Any technical questions and support requests can be asked directly to Jito or Immunefi in the [Jito Restaking Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "JTO",
+    "rewardsPool": 150000,
+    "sourceLinesOfCode": 14000,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -497,82 +573,6 @@ Fludi Protocol provides rewards in UDSC, denominated in USD.",
       "Managed Triage: Time Saver",
       "Vault",
       "Boost"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
-    "id": "jito-restaking-audit-competition",
-    "project": "Audit Comp | Jito Restaking",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/59ZugNbGcWjZC9Vk2UvLSW/cab63d1c9033e2935a66537128cb37dc/image__18_.png",
-    "date": "2024-11-04T10:00:41.000Z",
-    "launchDate": "2024-11-04T10:00:41.000Z",
-    "endDate": "2024-12-02T10:00:00.000Z",
-    "updatedDate": "2024-12-30T09:27:12.396Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Solana"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-03T10:00:00.000Z",
-    "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Jito restaking protocol built on Solana.
-
-KYC is required.
-
-Jito will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Jito technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"jito-restaking-audit-competition\" channel.
-
-Jito will give a live technical walkthrough which will then be uploaded to Immunefi's YouTube channel, so stay tuned!
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-Join our Discord for more updates.",
-    "boostedIntroLive": "$150,000 USD is available in rewards for finding bugs in Jito's Restaking codebase of about 14000 nSLOC. KYC is required.
-
-Any technical questions and support requests can be asked directly to Jito or Immunefi in the [Jito Restaking Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "JTO",
-    "rewardsPool": 150000,
-    "sourceLinesOfCode": 14000,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
     ],
     "academyStartDate": null,
     "premiumTriaging": true
