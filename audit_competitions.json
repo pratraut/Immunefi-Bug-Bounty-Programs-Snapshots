@@ -298,6 +298,145 @@ For more information about Folks Finance, please visit [https://folks.finance/](
     "premiumTriaging": true
   },
   {
+    "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
+    "id": "audit-comp-celo",
+    "project": "Audit Comp | Celo",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
+    "date": "2024-11-13T19:00:43.000Z",
+    "launchDate": "2024-11-13T19:00:43.000Z",
+    "endDate": "2024-12-06T19:00:00.000Z",
+    "updatedDate": "2025-01-07T08:00:13.865Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity",
+        "Go"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-10T19:00:00.000Z",
+    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
+
+Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
+
+For more information about Celo, please visit https://celo.org/
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Celo technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"celo-audit-competition\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Celo's technical walkthrough on our official YouTube channel.",
+    "boostedIntroLive": "$50,000 USD is available in rewards for finding bugs in Celo contracts of 5,253 nSLOC. 
+
+KYC is required.
+
+Any technical questions and support requests can be asked directly to Celo or Immunefi in the [Celo Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Celo, please visit https://celo.org/",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "cUSD",
+    "rewardsPool": 50000,
+    "sourceLinesOfCode": 5253,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "7xv2WGSExiRNS7NVZKlmPZ",
+    "id": "swaylend-frontend-iop",
+    "project": "IOP | SwayLend Frontend",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZPcNO8qqh3O8FjVrcWHTd/da4827c44e7251bf7edcfce0f98ac6fb/Screenshot_2024-10-29_alle_15.13.33-removebg-preview.png",
+    "date": "2024-11-12T10:00:00.000Z",
+    "launchDate": "2024-11-12T10:00:00.000Z",
+    "endDate": "2024-12-17T10:00:00.000Z",
+    "updatedDate": "2025-01-07T08:00:39.038Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "Fuel Network"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Sway"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-10T10:00:00.000Z",
+    "boostedIntroStartingIn": "Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3 
+
+For more information about Swaylend, please visit https://swaylend.com/
+
+Swaylend provides rewards in UDSC, denominated in USD.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 23237,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver",
+      "Boost",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
     "id": "jito-restaking-audit-competition",
     "project": "Audit Comp | Jito Restaking",
@@ -374,145 +513,6 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "premiumTriaging": true
   },
   {
-    "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
-    "id": "audit-comp-celo",
-    "project": "Audit Comp | Celo",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
-    "date": "2024-11-13T19:00:43.000Z",
-    "launchDate": "2024-11-13T19:00:43.000Z",
-    "endDate": "2024-12-06T19:00:00.000Z",
-    "updatedDate": "2024-12-30T16:31:16.308Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity",
-        "Go"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-08T19:00:00.000Z",
-    "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
-
-Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
-
-For more information about Celo, please visit https://celo.org/
-
-**KYC is required**
-
-Any technical questions can be asked directly to the Celo technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"celo-audit-competition\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Celo's technical walkthrough on our official YouTube channel.",
-    "boostedIntroLive": "$50,000 USD is available in rewards for finding bugs in Celo contracts of 5,253 nSLOC. 
-
-KYC is required.
-
-Any technical questions and support requests can be asked directly to Celo or Immunefi in the [Celo Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-For more information about Celo, please visit https://celo.org/",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "cUSD",
-    "rewardsPool": 50000,
-    "sourceLinesOfCode": 5253,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "7xv2WGSExiRNS7NVZKlmPZ",
-    "id": "swaylend-frontend-iop",
-    "project": "IOP | SwayLend Frontend",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZPcNO8qqh3O8FjVrcWHTd/da4827c44e7251bf7edcfce0f98ac6fb/Screenshot_2024-10-29_alle_15.13.33-removebg-preview.png",
-    "date": "2024-11-12T10:00:00.000Z",
-    "launchDate": "2024-11-12T10:00:00.000Z",
-    "endDate": "2024-12-17T10:00:00.000Z",
-    "updatedDate": "2024-12-03T08:03:17.695Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [
-        "Fuel Network"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "Sway"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-07T10:00:00.000Z",
-    "boostedIntroStartingIn": "Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3 
-
-For more information about Swaylend, please visit https://swaylend.com/
-
-Swaylend provides rewards in UDSC, denominated in USD.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 23237,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Time Saver",
-      "Boost",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "5r4GzYQFpbF0ml6Ken8S0l",
     "id": "iop-fluid-protocol",
     "project": "IOP | Fluid Protocol",
@@ -521,7 +521,7 @@ Swaylend provides rewards in UDSC, denominated in USD.",
     "date": "2024-11-14T11:00:00.000Z",
     "launchDate": "2024-11-14T11:00:00.000Z",
     "endDate": "2024-12-12T10:00:00.000Z",
-    "updatedDate": "2024-12-03T17:34:39.089Z",
+    "updatedDate": "2025-01-07T14:51:52.734Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -550,7 +550,7 @@ Swaylend provides rewards in UDSC, denominated in USD.",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-01-06T15:35:00.000Z",
+    "evaluationEndDate": "2025-01-07T13:25:31.198Z",
     "boostedIntroStartingIn": "Fluid Protocol is an over-collateralized, decentralized borrowing platform for the Fuel ecosystem.
 
 USDF is an over-collateralized, native stablecoin built on Fuel Network. Borrowers can draw 0% interest-free loans by depositing their collateral, whereby receiving USDF. Fuel Network is the fastest modular execution layer, delivering maximum security and highest flexible throughput.
@@ -560,14 +560,80 @@ For more information about Fluid Protocol, please visit https://fluidprotocol.xy
 Fludi Protocol provides rewards in UDSC, denominated in USD.",
     "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1H12MNgVNcauXpJtCQFw9gmkVTHVnZtDy)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/fluid-protocol)",
     "rewardsToken": "USDC",
     "rewardsPool": 80000,
     "sourceLinesOfCode": 6120,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1y__jRFS4qlN4QrRor3Rx0kyUqqXb-GA4/view?usp=sharing",
     "inviteOnly": true,
     "hideAssetsInScope": false,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "Catchme",
+        "critical": 1,
+        "earnings": 22345,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "jasonxiale",
+        "critical": 1,
+        "earnings": 20959,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "Blockian",
+        "critical": 1,
+        "earnings": 16461,
+        "insights": 2,
+        "mediumLow": 2,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "Minato7namikazi",
+        "critical": 1,
+        "earnings": 13646,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "InquisitorScythe",
+        "critical": 0,
+        "earnings": 3417,
+        "insights": 3,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "SeveritySquad",
+        "critical": 0,
+        "earnings": 2921,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "perseverance",
+        "critical": 0,
+        "earnings": 250,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "IOP (Invite Only Program)",
       "Managed Triage: Time Saver",

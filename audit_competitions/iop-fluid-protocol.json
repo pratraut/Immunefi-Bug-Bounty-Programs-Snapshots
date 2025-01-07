@@ -16,7 +16,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2uVW4I32P0N2q5UKbfm3nl/e362ab873873928d6c70177f3abd82e4/s7e5pBIm_400x400.png",
       "launchDate": "2024-11-14T11:00:00.000Z",
       "endDate": "2024-12-12T10:00:00.000Z",
-      "updatedDate": "2024-12-03T17:34:39.089Z",
+      "updatedDate": "2025-01-07T14:51:52.734Z",
       "kyc": true,
       "rewards": [
         {
@@ -506,18 +506,82 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2025-01-06T15:35:00.000Z",
+      "evaluationEndDate": "2025-01-07T13:25:31.198Z",
       "boostedIntroStartingIn": "Fluid Protocol is an over-collateralized, decentralized borrowing platform for the Fuel ecosystem.\n\nUSDF is an over-collateralized, native stablecoin built on Fuel Network. Borrowers can draw 0% interest-free loans by depositing their collateral, whereby receiving USDF. Fuel Network is the fastest modular execution layer, delivering maximum security and highest flexible throughput.\n\nFor more information about Fluid Protocol, please visit https://fluidprotocol.xyz/\n\nFludi Protocol provides rewards in UDSC, denominated in USD.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1H12MNgVNcauXpJtCQFw9gmkVTHVnZtDy)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/fluid-protocol)",
       "rewardsToken": "USDC",
       "rewardsPool": 80000,
       "sourceLinesOfCode": 6120,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1y__jRFS4qlN4QrRor3Rx0kyUqqXb-GA4/view?usp=sharing",
       "inviteOnly": true,
       "hideAssetsInScope": false,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "Catchme",
+          "critical": 1,
+          "earnings": 22345,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "jasonxiale",
+          "critical": 1,
+          "earnings": 20959,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "Blockian",
+          "critical": 1,
+          "earnings": 16461,
+          "insights": 2,
+          "mediumLow": 2,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "Minato7namikazi",
+          "critical": 1,
+          "earnings": 13646,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "InquisitorScythe",
+          "critical": 0,
+          "earnings": 3417,
+          "insights": 3,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "SeveritySquad",
+          "critical": 0,
+          "earnings": 2921,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "perseverance",
+          "critical": 0,
+          "earnings": 250,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "IOP (Invite Only Program)",
         "Managed Triage: Time Saver",
