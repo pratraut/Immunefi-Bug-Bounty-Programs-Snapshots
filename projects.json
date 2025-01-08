@@ -1746,7 +1746,7 @@
     "date": "2024-05-15T03:31:17.000Z",
     "launchDate": "2024-05-15T03:31:17.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T14:42:42.334Z",
+    "updatedDate": "2025-01-08T07:26:00.547Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -11752,6 +11752,44 @@
       "language": [
         "JavaScript"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4ACfVI3ujmDLtvdqxkcPY1",
+    "id": "hibachi",
+    "project": "Hibachi",
+    "maximum_reward": 40000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/86uYalXw77xPgt0tHUI79/99bbd4a6580107cb38c51c89c4b0d328/Hibachi.png",
+    "date": "2025-01-08T14:58:00.000Z",
+    "launchDate": "2025-01-08T14:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-08T14:58:33.410Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Celestia"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
