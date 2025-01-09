@@ -8196,52 +8196,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4VAgunLjcQhvBOgLRfk1Me",
-    "id": "mars",
-    "project": "Mars Protocol",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Wm7fq3LoYdiWGNxdZiKgy/9a9dda7803cd5218754fd4a5c303e36d/mars_logo_colored.svg",
-    "date": "2023-01-13T15:00:00.000Z",
-    "launchDate": "2023-01-13T15:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-25T14:50:26.771Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DEX",
-        "L1",
-        "Lending",
-        "Staking"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Cosmos"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Go",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "13qdBk6fj6YMTPfgO6HZCb",
     "id": "pods",
     "project": "Pods",
