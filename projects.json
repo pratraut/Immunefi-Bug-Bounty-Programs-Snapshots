@@ -1818,56 +1818,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "4G4A90rfnvCqa8BYMgRyQ9",
-    "id": "lifi",
-    "project": "LI.FI",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3V7JNb2YkuCNrYymNzJEGB/11ab4463ff5019f5628d69d7d3703cf2/lifi.png",
-    "date": "2023-11-27T09:00:00.000Z",
-    "launchDate": "2023-11-27T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-13T19:12:28.676Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "DEX Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Fantom",
-        "Polygon",
-        "Avalanche",
-        "BSC"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "JavaScript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "gjllxuvHCfDdINN1xfD3G",
     "id": "aave",
     "project": "AAVE",
@@ -6911,15 +6861,14 @@
     "date": "2022-01-27T03:30:00.000Z",
     "launchDate": "2022-01-27T03:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-13T18:54:56.603Z",
+    "updatedDate": "2025-01-10T10:40:58.872Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": true,
+    "immunefiStandard": null,
     "tags": {
       "general": [
-        "Immunefi Standard",
         "KYC Not Required",
         "PoC Not Required"
       ],
