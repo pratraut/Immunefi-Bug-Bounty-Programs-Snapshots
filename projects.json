@@ -1653,7 +1653,7 @@
     "date": "2024-09-18T15:26:00.000Z",
     "launchDate": "2024-09-18T15:26:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-11T13:59:34.654Z",
+    "updatedDate": "2025-01-13T13:46:16.416Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1664,6 +1664,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
+        "Primacy of Impact",
         "Triaged by Immunefi"
       ],
       "productType": [
@@ -3061,7 +3062,7 @@
     "date": "2024-09-18T13:00:00.000Z",
     "launchDate": "2024-09-18T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-14T08:04:08.792Z",
+    "updatedDate": "2025-01-13T17:13:05.093Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -3533,54 +3534,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1SU8fnvDtrkYL0eDgQPWFt",
-    "id": "kwenta",
-    "project": "Kwenta",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5xpKx9iCTDuLzY5uUHjUZm/4c520b8edc0050155ba8e1f26d62ce34/Kwenta_logo.jpeg",
-    "date": "2023-05-23T06:00:00.000Z",
-    "launchDate": "2023-05-23T06:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-15T22:22:52.812Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Derivatives",
-        "Perpetuals"
-      ],
-      "projectType": [
-        "Defi",
-        "Exchange"
-      ],
-      "ecosystem": [
-        "Base",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript"
       ],
       "featured": [
         "Launched Recently"
@@ -4421,7 +4374,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-17T16:48:31.060Z",
+    "updatedDate": "2025-01-13T08:38:38.971Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -11270,16 +11223,15 @@
     "date": "2021-10-27T15:00:00.000Z",
     "launchDate": "2021-10-27T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:22:35.592Z",
+    "updatedDate": "2025-01-13T08:15:37.748Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
     ],
-    "immunefiStandard": true,
+    "immunefiStandard": null,
     "tags": {
       "general": [
-        "Immunefi Standard",
         "KYC Not Required",
         "PoC Required"
       ],

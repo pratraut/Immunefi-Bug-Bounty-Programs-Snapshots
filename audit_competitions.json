@@ -1,5 +1,216 @@
 [
   {
+    "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
+    "id": "ethereum-protocol-attackathon",
+    "project": "Attackathon | Ethereum Protocol",
+    "maximum_reward": 1500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6itRuATvu87slB9sHlEDxS/680a257b5c3950fea7a3e835ca522fb4/eth-diamond-purple.7929ed26__1_.png",
+    "date": "2024-11-25T14:00:00.000Z",
+    "launchDate": "2024-11-25T14:00:00.000Z",
+    "endDate": "2025-01-20T14:00:00.000Z",
+    "updatedDate": "2025-01-06T14:30:29.222Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Blockchain/DLT"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-17T14:00:00.000Z",
+    "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
+
+When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
+
+**October 28th onward:**
+
+The Ethereum Protocol Education Period is live. To help you learn the Ethereum Protocol quickly and deeply, we'll be providing the Ethereum Protocol Academy, a learning page designed for security researchers to help you upskill on the Ethereum protocol as well as the Ethereum clients. We’ll also host a series of technical walkthroughs, and both the Ethereum Protocol and Ethereum client teams will provide direct technical support. 
+
+You can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.
+
+**November 25th 2024 2pm UTC to January 20th 2025 2pm UTC:**
+
+Ethereum Protocol’s Attackathon is live. Find bugs and earn rewards. 
+
+During the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. 
+
+[Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
+    "boostedIntroLive": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
+
+You can ask the Ethereum Protocol team any questions directly in the [Ethereum Attackathon Discord channel](https://discord.gg/immunefi?utm_source=immunefi) on Immunefi's Discord. During the Attackathon, Ethereum Protocol commits to responding within 48 hours on weekdays to all bug reports.
+
+After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "ETH",
+    "rewardsPool": 1500000,
+    "sourceLinesOfCode": 0,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2024-10-28T08:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "23vBOe26H8f97hnYr5oc2e",
+    "id": "audit-comp-shardeum-core-iii",
+    "project": "Audit Comp | Shardeum: Core III",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2RGZifA5Y7aVEVItpmE3ST/08f7b34f881a614a49730ff91f64dbfc/4B19YQz__400x400.png",
+    "date": "2025-01-15T12:00:00.000Z",
+    "launchDate": "2025-01-15T12:00:00.000Z",
+    "endDate": "2025-02-12T14:00:00.000Z",
+    "updatedDate": "2025-01-13T17:49:21.119Z",
+    "kyc": false,
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
+    "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
+
+For more information about Shardeum, please visit https://shardeum.org/
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-iii-audit-competition\" channel.
+
+Whitehats who need to run the network locally must submit their EVM address for whitelisting to receive test tokens from the project team in the Discord channel. Alternatively, you can DM the Shardeum Team for assistance.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 250000,
+    "sourceLinesOfCode": 73990,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": false,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
+    "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
+    "id": "audit-comp-shardeum-ancillaries-iii",
+    "project": "Audit Comp | Shardeum: Ancillaries III",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
+    "date": "2025-01-15T12:00:00.000Z",
+    "launchDate": "2025-01-15T12:00:00.000Z",
+    "endDate": "2025-02-12T14:00:00.000Z",
+    "updatedDate": "2025-01-13T17:48:33.217Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
+    "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-iii-audit-competition\" channel.
+
+Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 31523,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": false,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
     "id": "stacks-attackathon-1",
     "project": "Attackathon | Stacks",
@@ -80,85 +291,6 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "premiumTriaging": true
   },
   {
-    "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
-    "id": "ethereum-protocol-attackathon",
-    "project": "Attackathon | Ethereum Protocol",
-    "maximum_reward": 1500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6itRuATvu87slB9sHlEDxS/680a257b5c3950fea7a3e835ca522fb4/eth-diamond-purple.7929ed26__1_.png",
-    "date": "2024-11-25T14:00:00.000Z",
-    "launchDate": "2024-11-25T14:00:00.000Z",
-    "endDate": "2025-01-20T14:00:00.000Z",
-    "updatedDate": "2025-01-06T14:30:29.222Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Blockchain/DLT"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-02-17T14:00:00.000Z",
-    "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
-
-When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
-
-**October 28th onward:**
-
-The Ethereum Protocol Education Period is live. To help you learn the Ethereum Protocol quickly and deeply, we'll be providing the Ethereum Protocol Academy, a learning page designed for security researchers to help you upskill on the Ethereum protocol as well as the Ethereum clients. We’ll also host a series of technical walkthroughs, and both the Ethereum Protocol and Ethereum client teams will provide direct technical support. 
-
-You can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.
-
-**November 25th 2024 2pm UTC to January 20th 2025 2pm UTC:**
-
-Ethereum Protocol’s Attackathon is live. Find bugs and earn rewards. 
-
-During the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. 
-
-[Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
-    "boostedIntroLive": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
-
-You can ask the Ethereum Protocol team any questions directly in the [Ethereum Attackathon Discord channel](https://discord.gg/immunefi?utm_source=immunefi) on Immunefi's Discord. During the Attackathon, Ethereum Protocol commits to responding within 48 hours on weekdays to all bug reports.
-
-After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "ETH",
-    "rewardsPool": 1500000,
-    "sourceLinesOfCode": 0,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": "2024-10-28T08:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "3wpv0RPhG0OynSVhk9zRXe",
     "id": "audit-comp-lombard",
     "project": "Audit Comp | Lombard",
@@ -227,77 +359,6 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "premiumTriaging": true
   },
   {
-    "contentfulId": "7JLVmMH4JBQZIJYWvN2GK",
-    "id": "folks-finance-liquid-staking-audit-competition",
-    "project": "Audit Comp | Folks: Liquid Staking",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4NFnVNSefjOLrvyAZJNJya/b7e769f644c794bf71656737775fcf99/image_23_cropped.png",
-    "date": "2024-12-09T10:00:12.000Z",
-    "launchDate": "2024-12-09T10:00:12.000Z",
-    "endDate": "2024-12-19T10:00:00.000Z",
-    "updatedDate": "2024-12-09T11:53:19.835Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-16T10:00:00.000Z",
-    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Folks: Liquid Staking Audit Competition which introduces new liquid staking contract on Algorand. 
-
-For more information about Folks Finance please visit [https://folks.finance/](https://folks.finance/). 
-
-No KYC is required.
-
-Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi's Discord](https://discord.com/invite/immunefi) in the \"folks-liquid-staking-audit-competition\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Folks Finance's technical walkthrough on our official YouTube channel.",
-    "boostedIntroLive": "$30,000 USD is available in rewards for finding bugs in Folks Finance's contracts of 651 nSLOC.
-
-No KYC is required.
-
-Any technical questions and support requests can be asked directly to Folks Finance or Immunefi in the \"[project name]-audit-competition\" channel.
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-For more information about Folks Finance, please visit [https://folks.finance/](https://folks.finance/).",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 651,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
     "id": "audit-comp-celo",
     "project": "Audit Comp | Celo",
@@ -333,7 +394,7 @@ For more information about Folks Finance, please visit [https://folks.finance/](
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-01-10T19:00:00.000Z",
+    "evaluationEndDate": "2025-01-17T19:00:00.000Z",
     "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
 
 Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
@@ -365,6 +426,246 @@ For more information about Celo, please visit https://celo.org/",
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
+    "id": "jito-restaking-audit-competition",
+    "project": "Audit Comp | Jito Restaking",
+    "maximum_reward": 150000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/59ZugNbGcWjZC9Vk2UvLSW/cab63d1c9033e2935a66537128cb37dc/image__18_.png",
+    "date": "2024-11-04T10:00:41.000Z",
+    "launchDate": "2024-11-04T10:00:41.000Z",
+    "endDate": "2024-12-02T10:00:00.000Z",
+    "updatedDate": "2025-01-06T09:40:08.874Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Defi",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-17T10:00:00.000Z",
+    "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Jito restaking protocol built on Solana.
+
+KYC is required.
+
+Jito will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Jito technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"jito-restaking-audit-competition\" channel.
+
+Jito will give a live technical walkthrough which will then be uploaded to Immunefi's YouTube channel, so stay tuned!
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "$150,000 USD is available in rewards for finding bugs in Jito's Restaking codebase of about 14000 nSLOC. KYC is required.
+
+Any technical questions and support requests can be asked directly to Jito or Immunefi in the [Jito Restaking Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "JTO",
+    "rewardsPool": 150000,
+    "sourceLinesOfCode": 14000,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "7JLVmMH4JBQZIJYWvN2GK",
+    "id": "folks-finance-liquid-staking-audit-competition",
+    "project": "Audit Comp | Folks: Liquid Staking",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4NFnVNSefjOLrvyAZJNJya/b7e769f644c794bf71656737775fcf99/image_23_cropped.png",
+    "date": "2024-12-09T10:00:12.000Z",
+    "launchDate": "2024-12-09T10:00:12.000Z",
+    "endDate": "2024-12-19T10:00:00.000Z",
+    "updatedDate": "2025-01-13T13:29:03.971Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-01-13T13:27:04.445Z",
+    "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs on Folks: Liquid Staking Audit Competition which introduces new liquid staking contract on Algorand. 
+
+For more information about Folks Finance please visit [https://folks.finance/](https://folks.finance/). 
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Folks Finance technical team on Immunefi's [Immunefi's Discord](https://discord.com/invite/immunefi) in the \"folks-liquid-staking-audit-competition\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Folks Finance's technical walkthrough on our official YouTube channel.",
+    "boostedIntroLive": "$30,000 USD is available in rewards for finding bugs in Folks Finance's contracts of 651 nSLOC.
+
+No KYC is required.
+
+Any technical questions and support requests can be asked directly to Folks Finance or Immunefi in the \"[project name]-audit-competition\" channel.
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Folks Finance, please visit [https://folks.finance/](https://folks.finance/).",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1LKBn1EGnUFLXx-ULjt2epNQUsZ4M5QEV?usp=sharing)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/folks-liquid-staking)",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 651,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1xRCghsyzF9YPgrUG2TeIZTmuayOaU7LF/view?usp=sharing",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 1,
+        "name": "uhudo",
+        "critical": 0,
+        "earnings": 7155,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 1,
+        "name": "A2Security",
+        "critical": 0,
+        "earnings": 6473,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "Blockian",
+        "critical": 0,
+        "earnings": 3336,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "danvinci_20",
+        "critical": 0,
+        "earnings": 3122,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "holydevoti0n",
+        "critical": 0,
+        "earnings": 2264,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "Oxbakeng",
+        "critical": 0,
+        "earnings": 2264,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "dustykid",
+        "critical": 0,
+        "earnings": 2264,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "ruhum",
+        "critical": 0,
+        "earnings": 2264,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "k13n",
+        "critical": 0,
+        "earnings": 643,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "perseverance",
+        "critical": 0,
+        "earnings": 214,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "Boost",
       "Managed Triage: Time Saver",
@@ -431,82 +732,6 @@ Swaylend provides rewards in UDSC, denominated in USD.",
       "IOP (Invite Only Program)",
       "Managed Triage: Time Saver",
       "Boost",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3Pof1CKJjUboVnNdVCnB7h",
-    "id": "jito-restaking-audit-competition",
-    "project": "Audit Comp | Jito Restaking",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/59ZugNbGcWjZC9Vk2UvLSW/cab63d1c9033e2935a66537128cb37dc/image__18_.png",
-    "date": "2024-11-04T10:00:41.000Z",
-    "launchDate": "2024-11-04T10:00:41.000Z",
-    "endDate": "2024-12-02T10:00:00.000Z",
-    "updatedDate": "2025-01-06T09:40:08.874Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Solana"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-01-10T10:00:00.000Z",
-    "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Jito restaking protocol built on Solana.
-
-KYC is required.
-
-Jito will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Jito technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"jito-restaking-audit-competition\" channel.
-
-Jito will give a live technical walkthrough which will then be uploaded to Immunefi's YouTube channel, so stay tuned!
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-Join our Discord for more updates.",
-    "boostedIntroLive": "$150,000 USD is available in rewards for finding bugs in Jito's Restaking codebase of about 14000 nSLOC. KYC is required.
-
-Any technical questions and support requests can be asked directly to Jito or Immunefi in the [Jito Restaking Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-In this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "JTO",
-    "rewardsPool": 150000,
-    "sourceLinesOfCode": 14000,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
       "Vault"
     ],
     "academyStartDate": null,
