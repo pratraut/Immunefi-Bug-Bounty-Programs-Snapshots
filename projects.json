@@ -7597,6 +7597,58 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "1hax7qU84Oi5S074srQIrp",
+    "id": "inversefinance",
+    "project": "Inverse Finance",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
+    "date": "2023-11-30T11:00:00.000Z",
+    "launchDate": "2023-11-30T11:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-14T17:22:04.019Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Vaults"
+      ],
+      "productType": [
+        "DAO",
+        "Lending",
+        "Stablecoin",
+        "Token"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "Base",
+        "ETH",
+        "Optimism"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity",
+        "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "4DhbbUZwIC4SA01rxgafRQ",
     "id": "thusd",
     "project": "thUSD",
@@ -9751,58 +9803,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1hax7qU84Oi5S074srQIrp",
-    "id": "inversefinance",
-    "project": "Inverse Finance",
-    "maximum_reward": 80000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
-    "date": "2023-11-30T11:00:00.000Z",
-    "launchDate": "2023-11-30T11:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-01T20:05:15.812Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Vaults"
-      ],
-      "productType": [
-        "DAO",
-        "Lending",
-        "Stablecoin",
-        "Token"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Base",
-        "ETH",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript"
       ],
       "featured": [
         "Launched Recently"

@@ -87,7 +87,7 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     "date": "2025-01-15T12:00:00.000Z",
     "launchDate": "2025-01-15T12:00:00.000Z",
     "endDate": "2025-02-12T14:00:00.000Z",
-    "updatedDate": "2025-01-13T17:49:21.119Z",
+    "updatedDate": "2025-01-13T18:52:00.735Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -108,10 +108,10 @@ No KYC is required.
 
 Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-iii-audit-competition\" channel.
 
-Whitehats who need to run the network locally must submit their EVM address for whitelisting to receive test tokens from the project team in the Discord channel. Alternatively, you can DM the Shardeum Team for assistance.
+Note:
+Whitehats, to join the testnet that Shardeum will be running, please ping the project team here in the Discord channel to get your EVM address whitelisted. Alternatively, you can DM the Shardeum Team for assistance.
 
 When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
 Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
 
 Join our Discord for more updates.",
@@ -443,7 +443,7 @@ For more information about Celo, please visit https://celo.org/",
     "date": "2024-11-04T10:00:41.000Z",
     "launchDate": "2024-11-04T10:00:41.000Z",
     "endDate": "2024-12-02T10:00:00.000Z",
-    "updatedDate": "2025-01-06T09:40:08.874Z",
+    "updatedDate": "2025-01-14T15:59:15.254Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -474,7 +474,7 @@ For more information about Celo, please visit https://celo.org/",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-01-17T10:00:00.000Z",
+    "evaluationEndDate": "2025-01-14T16:01:04.053Z",
     "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Jito restaking protocol built on Solana.
 
 KYC is required.
@@ -494,14 +494,71 @@ In this contest bug fixes may be applied mid-contest. Further details are in the
 
 When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1MGBrzXcCGAa7DwIrpfeOk8mnVPGQtKK0?usp=drive_link)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/jito-restaking)",
     "rewardsToken": "JTO",
     "rewardsPool": 150000,
     "sourceLinesOfCode": 14000,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1IS2I-GncvFUAwItI8wHMAFRbn7Y7toOi/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 2,
+        "name": "niroh",
+        "critical": 0,
+        "earnings": 44487,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 1,
+        "name": "Hoverfly9132",
+        "critical": 0,
+        "earnings": 38386,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "Emmanuel001",
+        "critical": 0,
+        "earnings": 12276,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "GlitchLens",
+        "critical": 0,
+        "earnings": 8697,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "shanb1605",
+        "critical": 0,
+        "earnings": 4327,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "NinetyNineCrits",
+        "critical": 0,
+        "earnings": 4327,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "Boost",
       "Managed Triage: Time Saver",
