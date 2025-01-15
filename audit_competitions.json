@@ -84,17 +84,19 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     "project": "Audit Comp | Shardeum: Core III",
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2RGZifA5Y7aVEVItpmE3ST/08f7b34f881a614a49730ff91f64dbfc/4B19YQz__400x400.png",
-    "date": "2025-01-15T12:00:00.000Z",
-    "launchDate": "2025-01-15T12:00:00.000Z",
+    "date": "2025-01-15T23:00:00.000Z",
+    "launchDate": "2025-01-15T23:00:00.000Z",
     "endDate": "2025-02-12T14:00:00.000Z",
-    "updatedDate": "2025-01-13T18:52:00.735Z",
+    "updatedDate": "2025-01-15T18:29:28.588Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
     ],
     "immunefiStandard": null,
     "tags": {
-      "general": [],
+      "general": [
+        "Triaged by Immunefi"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -126,7 +128,8 @@ Join our Discord for more updates.",
     "hideAssetsInScope": null,
     "boostedLeaderboard": [],
     "features": [
-      "Boost"
+      "Boost",
+      "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
     "assets": null,
@@ -141,7 +144,7 @@ Join our Discord for more updates.",
       "web_rewards": []
     },
     "outOfScopeAndRules": "",
-    "premiumTriaging": false,
+    "premiumTriaging": true,
     "prioritizedVulnerabilities": "",
     "programOverview": "",
     "rewards": null,
@@ -153,17 +156,19 @@ Join our Discord for more updates.",
     "project": "Audit Comp | Shardeum: Ancillaries III",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
-    "date": "2025-01-15T12:00:00.000Z",
-    "launchDate": "2025-01-15T12:00:00.000Z",
+    "date": "2025-01-15T23:00:00.000Z",
+    "launchDate": "2025-01-15T23:00:00.000Z",
     "endDate": "2025-02-12T14:00:00.000Z",
-    "updatedDate": "2025-01-13T17:48:33.217Z",
+    "updatedDate": "2025-01-15T18:21:13.342Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
     ],
     "immunefiStandard": null,
     "tags": {
-      "general": [],
+      "general": [
+        "Triaged by Immunefi"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -189,7 +194,8 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "hideAssetsInScope": null,
     "boostedLeaderboard": [],
     "features": [
-      "Boost"
+      "Boost",
+      "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
     "assets": null,
@@ -204,7 +210,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
       "web_rewards": []
     },
     "outOfScopeAndRules": "",
-    "premiumTriaging": false,
+    "premiumTriaging": true,
     "prioritizedVulnerabilities": "",
     "programOverview": "",
     "rewards": null,
