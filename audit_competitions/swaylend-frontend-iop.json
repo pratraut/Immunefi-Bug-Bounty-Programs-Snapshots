@@ -206,14 +206,33 @@
       "boostedIntroStartingIn": "Swaylend is a leading lending protocol on the Fuel network. It is a fork of Compound V3 \n\nFor more information about Swaylend, please visit https://swaylend.com/\n\nSwaylend provides rewards in UDSC, denominated in USD.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "https://drive.google.com/drive/folders/16LqmkVujUjyV91Bvtj4QK7ibtUxKt4iC?usp=sharing",
       "rewardsToken": "USDC",
       "rewardsPool": 30000,
       "sourceLinesOfCode": 23237,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1GnZOoyjRpHNSmXatyN2xB44de-BGdCUm/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "Brainiac5",
+          "critical": 0,
+          "earnings": 2000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Blockian",
+          "critical": 0,
+          "earnings": 2000,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "IOP (Invite Only Program)",
         "Managed Triage: Time Saver",
@@ -244,7 +263,7 @@
       "programDocumentations": [],
       "primacy": "primacy_of_impact",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://app.gitbook.com/o/swaylendfrontend",
       "premiumTriaging": true
     },
     "layoutProps": {

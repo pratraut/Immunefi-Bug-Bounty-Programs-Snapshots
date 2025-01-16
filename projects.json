@@ -1827,7 +1827,7 @@
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T12:49:40.309Z",
+    "updatedDate": "2025-01-16T13:32:28.161Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5744,6 +5744,48 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4jIit4YNQBvsiXojDOpNQm",
+    "id": "pantos",
+    "project": "Pantos",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2hMIRmHQsgGngttdxTnURn/05b4815fccf998e98d6cbb046fb4c120/pantos.png",
+    "date": "2025-01-16T07:17:33.000Z",
+    "launchDate": "2025-01-16T07:17:33.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-16T16:21:20.983Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "Celo",
+        "ETH",
+        "Polygon",
+        "Avalanche"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "79hqJlFGEpIi7y64Y6Hh8b",

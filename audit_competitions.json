@@ -84,18 +84,34 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     "project": "Audit Comp | Shardeum: Core III",
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2RGZifA5Y7aVEVItpmE3ST/08f7b34f881a614a49730ff91f64dbfc/4B19YQz__400x400.png",
-    "date": "2025-01-15T23:00:00.000Z",
-    "launchDate": "2025-01-15T23:00:00.000Z",
+    "date": "2025-01-15T21:44:00.000Z",
+    "launchDate": "2025-01-15T21:44:00.000Z",
     "endDate": "2025-02-12T14:00:00.000Z",
-    "updatedDate": "2025-01-15T18:29:28.588Z",
+    "updatedDate": "2025-01-16T13:59:56.518Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
       "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
         "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Typescript"
       ],
       "featured": [
         "Launched Recently"
@@ -132,23 +148,7 @@ Join our Discord for more updates.",
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
@@ -156,18 +156,34 @@ Join our Discord for more updates.",
     "project": "Audit Comp | Shardeum: Ancillaries III",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
-    "date": "2025-01-15T23:00:00.000Z",
-    "launchDate": "2025-01-15T23:00:00.000Z",
+    "date": "2025-01-15T21:45:00.000Z",
+    "launchDate": "2025-01-15T21:45:00.000Z",
     "endDate": "2025-02-12T14:00:00.000Z",
-    "updatedDate": "2025-01-15T18:21:13.342Z",
+    "updatedDate": "2025-01-15T21:49:15.744Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
       "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
         "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Typescript"
       ],
       "featured": [
         "Launched Recently"
@@ -198,23 +214,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
@@ -746,7 +746,7 @@ All paid bug reports are available in original format [here](https://reports.imm
     "date": "2024-11-12T10:00:00.000Z",
     "launchDate": "2024-11-12T10:00:00.000Z",
     "endDate": "2024-12-17T10:00:00.000Z",
-    "updatedDate": "2025-01-07T08:00:39.038Z",
+    "updatedDate": "2025-01-16T18:41:36.334Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -783,14 +783,35 @@ For more information about Swaylend, please visit https://swaylend.com/
 Swaylend provides rewards in UDSC, denominated in USD.",
     "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "IOP Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/16LqmkVujUjyV91Bvtj4QK7ibtUxKt4iC?usp=sharing)
+
+All paid bug reports are available in original format [here](https://app.gitbook.com/o/swaylendfrontend)",
     "rewardsToken": "USDC",
     "rewardsPool": 30000,
     "sourceLinesOfCode": 23237,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1GnZOoyjRpHNSmXatyN2xB44de-BGdCUm/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "Brainiac5",
+        "critical": 0,
+        "earnings": 2000,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "Blockian",
+        "critical": 0,
+        "earnings": 2000,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "IOP (Invite Only Program)",
       "Managed Triage: Time Saver",
