@@ -1,84 +1,5 @@
 [
   {
-    "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
-    "id": "ethereum-protocol-attackathon",
-    "project": "Attackathon | Ethereum Protocol",
-    "maximum_reward": 1500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6itRuATvu87slB9sHlEDxS/680a257b5c3950fea7a3e835ca522fb4/eth-diamond-purple.7929ed26__1_.png",
-    "date": "2024-11-25T14:00:00.000Z",
-    "launchDate": "2024-11-25T14:00:00.000Z",
-    "endDate": "2025-01-20T14:00:00.000Z",
-    "updatedDate": "2025-01-06T14:30:29.222Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Blockchain/DLT"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-02-17T14:00:00.000Z",
-    "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
-
-When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
-
-**October 28th onward:**
-
-The Ethereum Protocol Education Period is live. To help you learn the Ethereum Protocol quickly and deeply, we'll be providing the Ethereum Protocol Academy, a learning page designed for security researchers to help you upskill on the Ethereum protocol as well as the Ethereum clients. We’ll also host a series of technical walkthroughs, and both the Ethereum Protocol and Ethereum client teams will provide direct technical support. 
-
-You can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.
-
-**November 25th 2024 2pm UTC to January 20th 2025 2pm UTC:**
-
-Ethereum Protocol’s Attackathon is live. Find bugs and earn rewards. 
-
-During the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. 
-
-[Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
-    "boostedIntroLive": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
-
-You can ask the Ethereum Protocol team any questions directly in the [Ethereum Attackathon Discord channel](https://discord.gg/immunefi?utm_source=immunefi) on Immunefi's Discord. During the Attackathon, Ethereum Protocol commits to responding within 48 hours on weekdays to all bug reports.
-
-After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "ETH",
-    "rewardsPool": 1500000,
-    "sourceLinesOfCode": 0,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": "2024-10-28T08:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "23vBOe26H8f97hnYr5oc2e",
     "id": "audit-comp-shardeum-core-iii",
     "project": "Audit Comp | Shardeum: Core III",
@@ -214,6 +135,166 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "4mRo81Up34VFQZKJHeBip5",
+    "id": "audit-comp-butter",
+    "project": "Audit Comp | Butter",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
+    "date": "2025-01-23T10:00:00.000Z",
+    "launchDate": "2025-01-23T10:00:00.000Z",
+    "endDate": "2025-02-03T10:00:00.000Z",
+    "updatedDate": "2025-01-20T16:46:33.554Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Butter, please visit https://buttery.gg
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 550,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
+    "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
+    "id": "ethereum-protocol-attackathon",
+    "project": "Attackathon | Ethereum Protocol",
+    "maximum_reward": 1500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6itRuATvu87slB9sHlEDxS/680a257b5c3950fea7a3e835ca522fb4/eth-diamond-purple.7929ed26__1_.png",
+    "date": "2024-11-25T14:00:00.000Z",
+    "launchDate": "2024-11-25T14:00:00.000Z",
+    "endDate": "2025-01-20T14:00:00.000Z",
+    "updatedDate": "2025-01-06T14:30:29.222Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Blockchain/DLT"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-17T14:00:00.000Z",
+    "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
+
+When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
+
+**October 28th onward:**
+
+The Ethereum Protocol Education Period is live. To help you learn the Ethereum Protocol quickly and deeply, we'll be providing the Ethereum Protocol Academy, a learning page designed for security researchers to help you upskill on the Ethereum protocol as well as the Ethereum clients. We’ll also host a series of technical walkthroughs, and both the Ethereum Protocol and Ethereum client teams will provide direct technical support. 
+
+You can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.
+
+**November 25th 2024 2pm UTC to January 20th 2025 2pm UTC:**
+
+Ethereum Protocol’s Attackathon is live. Find bugs and earn rewards. 
+
+During the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. 
+
+[Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
+    "boostedIntroLive": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
+
+You can ask the Ethereum Protocol team any questions directly in the [Ethereum Attackathon Discord channel](https://discord.gg/immunefi?utm_source=immunefi) on Immunefi's Discord. During the Attackathon, Ethereum Protocol commits to responding within 48 hours on weekdays to all bug reports.
+
+After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "ETH",
+    "rewardsPool": 1500000,
+    "sourceLinesOfCode": 0,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2024-10-28T08:00:00.000Z",
     "premiumTriaging": true
   },
   {
@@ -373,7 +454,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
     "date": "2024-11-13T19:00:43.000Z",
     "launchDate": "2024-11-13T19:00:43.000Z",
     "endDate": "2024-12-06T19:00:00.000Z",
-    "updatedDate": "2025-01-16T19:31:49.137Z",
+    "updatedDate": "2025-01-20T16:15:37.336Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -400,7 +481,7 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-01-20T19:00:00.000Z",
+    "evaluationEndDate": "2025-01-24T19:00:00.000Z",
     "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
 
 Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.

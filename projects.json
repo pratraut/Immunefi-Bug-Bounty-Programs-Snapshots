@@ -507,8 +507,7 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [],
       "projectType": [],
@@ -702,8 +701,7 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required",
-        "Vaults"
+        "PoC Required"
       ],
       "productType": [
         "Services",
@@ -1759,8 +1757,7 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Asset Management",
@@ -1886,8 +1883,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "Bridge",
@@ -1935,8 +1931,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "Staking"
@@ -2633,8 +2628,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "Stablecoin"
@@ -2983,7 +2977,7 @@
     "date": "2024-12-05T14:58:00.000Z",
     "launchDate": "2024-12-05T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-10T09:37:23.976Z",
+    "updatedDate": "2025-01-20T11:17:56.273Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3209,8 +3203,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "DAO"
@@ -4514,8 +4507,7 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required",
-        "Vaults"
+        "PoC Required"
       ],
       "productType": [
         "DAO",
@@ -4609,8 +4601,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Bug bounty"
@@ -4827,8 +4818,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "Services"
@@ -4847,45 +4837,6 @@
         "Solidity",
         "NextJS"
       ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7oo7YSn8f9xHULYz4CJ1U1",
-    "id": "waymont",
-    "project": "Waymont",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5u7ggMEIi7w6abohzGtLwG/af0ed08f8ec0b843509e647f8e13ab9b/2023-12-08_19.05.14_2.png",
-    "date": "2023-12-13T09:00:00.000Z",
-    "launchDate": "2023-12-13T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-29T14:33:36.871Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Asset Management"
-      ],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -5312,8 +5263,7 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required",
-        "Vaults"
+        "PoC Required"
       ],
       "productType": [
         "AMM",
@@ -5968,46 +5918,6 @@
       "language": [
         "Solidity"
       ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1MWWSwdzGu5YiAtxpeWGL3",
-    "id": "tinymanv2",
-    "project": "Tinyman AMM v2.0 Protocol",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/qMW04QKijrELS1608QEq1/8ba39eaead6b38dd9c445c7a72a627c4/Tinyman_v2_Logo_Small.png",
-    "date": "2022-11-28T17:00:00.000Z",
-    "launchDate": "2022-11-28T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-12T13:08:41.435Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Algorand"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -6686,8 +6596,7 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [
         "AMM",
@@ -6733,8 +6642,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "Asset Management",
@@ -6942,7 +6850,7 @@
     "date": "2025-01-17T17:20:00.000Z",
     "launchDate": "2025-01-17T17:20:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T17:27:07.782Z",
+    "updatedDate": "2025-01-20T14:00:26.030Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7066,8 +6974,7 @@
     "tags": {
       "general": [
         "KYC Not Required",
-        "PoC Required",
-        "Vaults"
+        "PoC Required"
       ],
       "productType": [
         "Lending"
@@ -7271,8 +7178,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "DEX",
@@ -7365,8 +7271,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "Lending"
@@ -7533,8 +7438,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
+        "Primacy of Impact"
       ],
       "productType": [
         "DEX",
@@ -7701,8 +7605,7 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required",
-        "Vaults"
+        "PoC Required"
       ],
       "productType": [
         "DAO",
@@ -8315,6 +8218,46 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "1MWWSwdzGu5YiAtxpeWGL3",
+    "id": "tinymanv2",
+    "project": "Tinyman AMM v2.0 Protocol",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/qMW04QKijrELS1608QEq1/8ba39eaead6b38dd9c445c7a72a627c4/Tinyman_v2_Logo_Small.png",
+    "date": "2022-11-28T17:00:00.000Z",
+    "launchDate": "2022-11-28T17:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-20T11:43:14.176Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "DEX"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Algorand"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -9021,7 +8964,7 @@
     "date": "2022-01-21T17:00:00.000Z",
     "launchDate": "2022-01-21T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-11T05:55:09.132Z",
+    "updatedDate": "2025-01-20T10:59:57.679Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -9428,7 +9371,7 @@
     "date": "2021-07-29T06:00:00.000Z",
     "launchDate": "2021-07-29T06:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:04:23.015Z",
+    "updatedDate": "2025-01-20T11:20:39.578Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10263,8 +10206,7 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Gaming"
@@ -11625,8 +11567,7 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Bug bounty"
@@ -12186,7 +12127,7 @@
     "date": "2022-07-07T16:30:00.000Z",
     "launchDate": "2022-07-07T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-08T10:53:15.634Z",
+    "updatedDate": "2025-01-20T09:44:41.975Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications",
