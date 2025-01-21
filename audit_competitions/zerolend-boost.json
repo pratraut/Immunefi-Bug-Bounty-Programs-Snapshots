@@ -4,6 +4,11 @@
     "academyContent": null,
     "ethereumAttackathonSponsors": null,
     "project": {
+      "features": [
+        "Vault",
+        "Managed Triage: Time Saver",
+        "Boost"
+      ],
       "premiumTriaging": true,
       "isSafeHarborActive": false
     },

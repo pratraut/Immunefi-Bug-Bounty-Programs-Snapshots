@@ -361,6 +361,11 @@
     },
     "ethereumAttackathonSponsors": null,
     "project": {
+      "features": [
+        "Attackathon",
+        "Vault",
+        "Managed Triage: Time Saver"
+      ],
       "premiumTriaging": true,
       "isSafeHarborActive": false
     },

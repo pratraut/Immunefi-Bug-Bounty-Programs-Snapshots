@@ -4,6 +4,10 @@
     "academyContent": null,
     "ethereumAttackathonSponsors": null,
     "project": {
+      "features": [
+        "IOP (Invite Only Program)",
+        "Managed Triage: Time Saver"
+      ],
       "premiumTriaging": true,
       "isSafeHarborActive": false
     },

@@ -4,6 +4,10 @@
     "academyContent": null,
     "ethereumAttackathonSponsors": null,
     "project": {
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
       "premiumTriaging": true,
       "isSafeHarborActive": false
     },
@@ -256,23 +260,23 @@
       "responsiblePublicationCategory": null,
       "knownIssues": [
         {
+          "id": 11,
+          "description": "Shardeum Core II Audit Competition",
+          "link": "https://reports.immunefi.com/shardeum-core-ii",
+          "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
+          "relatedImpactInScope": "blockchain_dlt"
+        },
+        {
+          "id": 10,
+          "description": "https://reports.immunefi.com/shardeum-core",
+          "link": "https://reports.immunefi.com/shardeum-core",
+          "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
+          "relatedImpactInScope": "blockchain_dlt"
+        },
+        {
           "id": 6,
           "description": "Known Issues before BB1",
           "link": "https://drive.google.com/file/d/1H6o8IPtrlTDvr_cfTRhvgr1Vvh4EYwb8/view",
-          "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
-          "relatedImpactInScope": "blockchain_dlt"
-        },
-        {
-          "id": 3,
-          "description": "Immunefi Second Audit Competition",
-          "link": "https://app.gitbook.com/o/SXzCm0g2yGtKdYxV9Y1d/s/eYmXU5PPPCrUVU4AeKnd/shardeum-core-ii",
-          "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
-          "relatedImpactInScope": "blockchain_dlt"
-        },
-        {
-          "id": 2,
-          "description": "Immunefi Audit Competition",
-          "link": "https://app.gitbook.com/o/SXzCm0g2yGtKdYxV9Y1d/s/eYmXU5PPPCrUVU4AeKnd/shardeum-core",
           "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
           "relatedImpactInScope": "blockchain_dlt"
         }

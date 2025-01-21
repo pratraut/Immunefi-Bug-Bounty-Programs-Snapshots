@@ -145,8 +145,8 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
     "date": "2025-01-23T10:00:00.000Z",
     "launchDate": "2025-01-23T10:00:00.000Z",
-    "endDate": "2025-02-03T10:00:00.000Z",
-    "updatedDate": "2025-01-20T16:46:33.554Z",
+    "endDate": "2025-02-01T10:00:00.000Z",
+    "updatedDate": "2025-01-21T11:29:13.640Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -160,7 +160,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": null,
+    "evaluationEndDate": "2025-02-28T10:00:00.000Z",
     "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
 
 For more information about Butter, please visit https://buttery.gg

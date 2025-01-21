@@ -19,7 +19,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Bridge",
@@ -104,7 +105,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [],
       "projectType": [
@@ -507,7 +509,9 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
@@ -603,7 +607,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Lending"
@@ -701,7 +706,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Vaults"
       ],
       "productType": [
         "Services",
@@ -920,7 +926,8 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Staking"
@@ -1663,7 +1670,8 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "L2"
@@ -1709,7 +1717,8 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "DEX"
@@ -1757,7 +1766,9 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Asset Management",
@@ -1883,7 +1894,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "Bridge",
@@ -1931,7 +1943,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "Staking"
@@ -2628,7 +2641,9 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Stablecoin"
@@ -2969,6 +2984,45 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "2liVOSizh3GN4HAvg3GgSb",
+    "id": "omni-network",
+    "project": "Omni Network",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6UezFvf3vSbzbQ9pomlLa7/f6e23a39129f6b419e16e52c12d32121/omni.png",
+    "date": "2025-01-21T01:10:18.000Z",
+    "launchDate": "2025-01-21T01:10:18.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-21T14:54:17.656Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3fva8pijQvzI0sAlLhWYwA",
     "id": "nucleus",
     "project": "Nucleus",
@@ -2987,7 +3041,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "Crosschain Liquidity",
@@ -3030,7 +3085,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [],
       "projectType": [
@@ -3099,7 +3155,7 @@
     "date": "2024-07-23T02:00:00.000Z",
     "launchDate": "2024-07-23T02:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:50:15.914Z",
+    "updatedDate": "2025-01-21T12:59:34.296Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3112,7 +3168,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "L2"
@@ -3158,7 +3215,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Arbitration"
       ],
       "productType": [
         "L1"
@@ -3203,7 +3261,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "DAO"
@@ -3296,7 +3355,8 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Bridge",
@@ -3472,7 +3532,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "Staking"
@@ -3684,7 +3745,7 @@
     "date": "2022-07-21T18:00:00.000Z",
     "launchDate": "2022-07-21T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T18:32:20.831Z",
+    "updatedDate": "2025-01-21T12:15:09.735Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -4465,7 +4526,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Arbitration"
       ],
       "productType": [
         "Liquid Staking",
@@ -4507,7 +4569,9 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "DAO",
@@ -4601,7 +4665,9 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Bug bounty"
@@ -4691,7 +4757,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "Liquid Restaking"
@@ -4732,7 +4799,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "L1"
@@ -4818,7 +4886,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "Services"
@@ -5263,7 +5332,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Vaults"
       ],
       "productType": [
         "AMM",
@@ -5716,7 +5786,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [],
       "projectType": [],
@@ -5759,7 +5830,8 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Yield Aggregator"
@@ -6596,7 +6668,9 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "AMM",
@@ -6642,7 +6716,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "Asset Management",
@@ -6756,52 +6831,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "7xR5cor7K2mO0CaNLxQdo9",
-    "id": "vaultcraft",
-    "project": "VaultCraft",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4gY4iTDSAUifg40yi4Gz3q/7fe15ea0abbf2ca6f57d0833284b77db/VaultCraft.png",
-    "date": "2022-01-27T03:30:00.000Z",
-    "launchDate": "2022-01-27T03:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-10T10:40:58.872Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Services",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "BSC",
-        "ETH",
-        "Optimism",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "5ozlX4zKQnOXlMqQbzVDdq",
     "id": "rysk",
     "project": "Rysk",
@@ -6861,7 +6890,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Lending"
@@ -6903,7 +6933,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Arbitration"
       ],
       "productType": [],
       "projectType": [],
@@ -6974,7 +7005,9 @@
     "tags": {
       "general": [
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Lending"
@@ -7013,7 +7046,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "Zero-Knowledge Proofs"
@@ -7053,7 +7087,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Lending"
@@ -7097,7 +7132,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Arbitration"
       ],
       "productType": [],
       "projectType": [],
@@ -7135,7 +7171,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "Stablecoin"
@@ -7178,7 +7215,9 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "DEX",
@@ -7271,7 +7310,9 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Lending"
@@ -7438,7 +7479,9 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "DEX",
@@ -7605,7 +7648,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Vaults"
       ],
       "productType": [
         "DAO",
@@ -8745,7 +8789,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "L1"
@@ -9381,7 +9426,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "AMM",
@@ -10152,7 +10198,7 @@
     "date": "2024-09-12T19:39:57.000Z",
     "launchDate": "2024-09-12T19:39:57.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:28:26.511Z",
+    "updatedDate": "2025-01-21T09:25:44.849Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -10163,7 +10209,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "Zero-Knowledge Proofs"
@@ -10206,7 +10253,9 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Gaming"
@@ -11242,51 +11291,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "6GDc4dtU4lhXyMhFkhVP2I",
-    "id": "strikefinance",
-    "project": "Strike Finance",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Nk5mZZcgEewrIUfKA4tBj/635db85abb6004b5cdeb922beebf8328/Strike_Finance_Logo__1_.jpeg",
-    "date": "2021-10-27T15:00:00.000Z",
-    "launchDate": "2021-10-27T15:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-13T08:15:37.748Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Lending",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "4WzXJzRyYzHvF3OhSfBKVO",
     "id": "gamma",
     "project": "Gamma",
@@ -11567,7 +11571,8 @@
         "KYC Required",
         "PoC Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "Bug bounty"
@@ -11658,7 +11663,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [],
       "projectType": [
@@ -13662,7 +13668,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Arbitration"
       ],
       "productType": [
         "L2"
@@ -13707,7 +13714,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [
         "DEX",

@@ -656,6 +656,11 @@
       ]
     },
     "project": {
+      "features": [
+        "Attackathon",
+        "Managed Triage: Time Saver",
+        "Vault"
+      ],
       "premiumTriaging": true,
       "isSafeHarborActive": false
     },
