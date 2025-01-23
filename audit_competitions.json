@@ -1,5 +1,81 @@
 [
   {
+    "contentfulId": "4mRo81Up34VFQZKJHeBip5",
+    "id": "audit-comp-butter",
+    "project": "Audit Comp | Butter",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
+    "date": "2025-01-23T10:00:00.000Z",
+    "launchDate": "2025-01-23T10:00:00.000Z",
+    "endDate": "2025-02-01T10:00:00.000Z",
+    "updatedDate": "2025-01-23T16:08:01.806Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-28T10:00:00.000Z",
+    "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Butter, please visit https://buttery.gg
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 550,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "23vBOe26H8f97hnYr5oc2e",
     "id": "audit-comp-shardeum-core-iii",
     "project": "Audit Comp | Shardeum: Core III",
@@ -136,87 +212,6 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     ],
     "academyStartDate": null,
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "4mRo81Up34VFQZKJHeBip5",
-    "id": "audit-comp-butter",
-    "project": "Audit Comp | Butter",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
-    "date": "2025-01-23T10:00:00.000Z",
-    "launchDate": "2025-01-23T10:00:00.000Z",
-    "endDate": "2025-02-01T10:00:00.000Z",
-    "updatedDate": "2025-01-22T11:57:52.384Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "Triaged by Immunefi"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-02-28T10:00:00.000Z",
-    "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
-
-For more information about Butter, please visit https://buttery.gg
-
-**KYC is required**
-
-Any technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
-    "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
-
-For more information about Butter, please visit https://buttery.gg
-
-**KYC is required**
-
-Any technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-For more information about Butter, please visit https://buttery.gg
-
-A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 550,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
   },
   {
     "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
