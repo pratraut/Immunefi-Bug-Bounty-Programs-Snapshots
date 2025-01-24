@@ -94,7 +94,7 @@
     "date": "2024-09-24T18:00:00.000Z",
     "launchDate": "2024-09-24T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:31:36.418Z",
+    "updatedDate": "2025-01-24T15:47:17.942Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -108,7 +108,9 @@
         "Triaged by Immunefi",
         "Arbitration"
       ],
-      "productType": [],
+      "productType": [
+        "Crosschain Liquidity"
+      ],
       "projectType": [
         "Defi"
       ],
@@ -496,7 +498,7 @@
     "date": "2024-04-04T16:46:29.000Z",
     "launchDate": "2024-04-04T16:46:29.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-14T13:31:03.132Z",
+    "updatedDate": "2025-01-24T16:21:08.812Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -513,7 +515,9 @@
         "Arbitration",
         "Vaults"
       ],
-      "productType": [],
+      "productType": [
+        "Stablecoin"
+      ],
       "projectType": [],
       "ecosystem": [],
       "programType": [
@@ -1797,7 +1801,7 @@
     "date": "2024-04-22T17:00:00.000Z",
     "launchDate": "2024-04-22T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T14:01:44.527Z",
+    "updatedDate": "2025-01-24T16:20:20.929Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1812,7 +1816,9 @@
         "Primacy of Impact",
         "Triaged by Immunefi"
       ],
-      "productType": [],
+      "productType": [
+        "Prediction Market"
+      ],
       "projectType": [],
       "ecosystem": [],
       "programType": [
@@ -2992,7 +2998,7 @@
     "date": "2025-01-21T01:10:18.000Z",
     "launchDate": "2025-01-21T01:10:18.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-21T14:54:17.656Z",
+    "updatedDate": "2025-01-24T11:19:39.001Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3005,7 +3011,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Arbitration"
       ],
       "productType": [],
       "projectType": [],
@@ -3075,7 +3082,7 @@
     "date": "2024-09-25T18:09:33.000Z",
     "launchDate": "2024-09-25T18:09:33.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:58:18.829Z",
+    "updatedDate": "2025-01-24T15:57:53.798Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -3088,15 +3095,31 @@
         "PoC Required",
         "Arbitration"
       ],
-      "productType": [],
+      "productType": [
+        "Staking",
+        "Services"
+      ],
       "projectType": [
         "Defi"
       ],
-      "ecosystem": [],
+      "ecosystem": [
+        "Arbitrum",
+        "BSC",
+        "Optimism",
+        "Polygon",
+        "Base",
+        "Linea"
+      ],
       "programType": [
         "Smart Contract"
       ],
-      "language": [],
+      "language": [
+        "Go",
+        "Typescript",
+        "Solidity",
+        "Python",
+        "C/C++"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -3566,7 +3589,7 @@
     "date": "2023-07-26T12:00:00.000Z",
     "launchDate": "2023-07-26T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T14:24:51.547Z",
+    "updatedDate": "2025-01-24T16:07:08.781Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3578,7 +3601,9 @@
         "KYC Not Required",
         "PoC Required"
       ],
-      "productType": [],
+      "productType": [
+        "Services"
+      ],
       "projectType": [],
       "ecosystem": [
         "ETH"
@@ -3745,7 +3770,7 @@
     "date": "2022-07-21T18:00:00.000Z",
     "launchDate": "2022-07-21T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-21T12:15:09.735Z",
+    "updatedDate": "2025-01-24T16:10:55.590Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3758,7 +3783,10 @@
         "KYC Not Required",
         "PoC Required"
       ],
-      "productType": [],
+      "productType": [
+        "Services",
+        "Liquid Staking"
+      ],
       "projectType": [
         "Infrastructure"
       ],
@@ -4637,6 +4665,53 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4CZw5XMAQ30BYxDk7kkyc0",
+    "id": "royco",
+    "project": "Royco",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Hh4QPr7P8sC92rhy3vTc9/ef9957de799e11eb119a3d25f4db6d00/Royco.png",
+    "date": "2025-01-15T10:24:35.000Z",
+    "launchDate": "2025-01-15T10:24:35.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-24T10:45:42.820Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "Services"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity",
+        "Typescript",
+        "JavaScript"
       ],
       "featured": [
         "Launched Recently"
@@ -6879,7 +6954,7 @@
     "date": "2025-01-17T17:20:00.000Z",
     "launchDate": "2025-01-17T17:20:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-20T14:00:26.030Z",
+    "updatedDate": "2025-01-24T17:45:44.723Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6923,7 +6998,7 @@
     "date": "2024-12-19T19:46:46.000Z",
     "launchDate": "2024-12-19T19:46:46.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:53:14.899Z",
+    "updatedDate": "2025-01-24T16:06:02.886Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6936,7 +7011,9 @@
         "PoC Not Required",
         "Arbitration"
       ],
-      "productType": [],
+      "productType": [
+        "Asset Management"
+      ],
       "projectType": [],
       "ecosystem": [],
       "programType": [
@@ -7120,7 +7197,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:48:21.151Z",
+    "updatedDate": "2025-01-24T15:51:44.338Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7135,9 +7212,15 @@
         "Primacy of Impact",
         "Arbitration"
       ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
@@ -7387,7 +7470,7 @@
     "date": "2024-02-20T16:32:00.000Z",
     "launchDate": "2024-02-20T16:32:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-11T13:21:20.704Z",
+    "updatedDate": "2025-01-24T16:19:50.540Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -7401,7 +7484,9 @@
         "PoC Required",
         "Primacy of Impact"
       ],
-      "productType": [],
+      "productType": [
+        "L1"
+      ],
       "projectType": [
         "Blockchain"
       ],
@@ -7558,7 +7643,7 @@
     "date": "2023-12-03T22:00:00.000Z",
     "launchDate": "2023-12-03T22:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-27T18:53:56.658Z",
+    "updatedDate": "2025-01-24T16:16:31.570Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -7571,7 +7656,10 @@
         "KYC Required",
         "PoC Required"
       ],
-      "productType": [],
+      "productType": [
+        "L1",
+        "Services"
+      ],
       "projectType": [],
       "ecosystem": [],
       "programType": [
@@ -9852,7 +9940,7 @@
     "date": "2024-07-08T10:30:00.000Z",
     "launchDate": "2024-07-08T10:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T16:13:26.977Z",
+    "updatedDate": "2025-01-24T15:45:00.281Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -9864,7 +9952,9 @@
         "KYC Required",
         "PoC Required"
       ],
-      "productType": [],
+      "productType": [
+        "Gaming"
+      ],
       "projectType": [
         "NFT"
       ],
@@ -10032,7 +10122,7 @@
     "date": "2022-12-09T17:00:00.000Z",
     "launchDate": "2022-12-09T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-03T18:34:10.298Z",
+    "updatedDate": "2025-01-24T16:14:20.478Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -10044,7 +10134,10 @@
         "KYC Required",
         "PoC Required"
       ],
-      "productType": [],
+      "productType": [
+        "Asset Management",
+        "Services"
+      ],
       "projectType": [
         "Defi"
       ],
@@ -11654,7 +11747,7 @@
     "date": "2025-01-08T14:58:00.000Z",
     "launchDate": "2025-01-08T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:56:41.364Z",
+    "updatedDate": "2025-01-24T16:04:12.960Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"
@@ -11667,7 +11760,9 @@
         "PoC Required",
         "Arbitration"
       ],
-      "productType": [],
+      "productType": [
+        "DEX"
+      ],
       "projectType": [
         "Defi"
       ],
@@ -13128,7 +13223,7 @@
     "date": "2023-08-07T14:00:00.000Z",
     "launchDate": "2023-08-07T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-11T18:59:29.177Z",
+    "updatedDate": "2025-01-24T16:11:54.667Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -13140,7 +13235,9 @@
         "KYC Required",
         "PoC Required"
       ],
-      "productType": [],
+      "productType": [
+        "Services"
+      ],
       "projectType": [],
       "ecosystem": [],
       "programType": [
@@ -14068,7 +14165,7 @@
     "date": "2023-06-22T14:00:00.000Z",
     "launchDate": "2023-06-22T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-22T10:55:26.586Z",
+    "updatedDate": "2025-01-24T16:09:15.276Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -14079,7 +14176,10 @@
         "KYC Not Required",
         "PoC Required"
       ],
-      "productType": [],
+      "productType": [
+        "DEX",
+        "Services"
+      ],
       "projectType": [
         "Defi"
       ],
