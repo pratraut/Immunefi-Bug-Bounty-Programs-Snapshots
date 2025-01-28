@@ -20,7 +20,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
       "launchDate": "2025-01-15T21:45:00.000Z",
       "endDate": "2025-02-12T14:00:00.000Z",
-      "updatedDate": "2025-01-15T21:49:15.744Z",
+      "updatedDate": "2025-01-28T16:11:46.762Z",
       "kyc": false,
       "rewards": [
         {
@@ -235,7 +235,10 @@
           "KYC Not Required",
           "PoC Required"
         ],
-        "productType": [],
+        "productType": [
+          "Services",
+          "Validator"
+        ],
         "projectType": [
           "Blockchain"
         ],

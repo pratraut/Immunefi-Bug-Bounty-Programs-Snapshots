@@ -2998,7 +2998,7 @@
     "date": "2025-01-21T01:10:18.000Z",
     "launchDate": "2025-01-21T01:10:18.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-24T11:19:39.001Z",
+    "updatedDate": "2025-01-28T16:18:01.769Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3014,7 +3014,11 @@
         "Triaged by Immunefi",
         "Arbitration"
       ],
-      "productType": [],
+      "productType": [
+        "Crosschain Liquidity",
+        "Services",
+        "L1"
+      ],
       "projectType": [],
       "ecosystem": [],
       "programType": [
@@ -5849,7 +5853,7 @@
     "date": "2025-01-16T07:17:33.000Z",
     "launchDate": "2025-01-16T07:17:33.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T15:15:37.006Z",
+    "updatedDate": "2025-01-28T16:20:27.455Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5864,7 +5868,10 @@
         "Triaged by Immunefi",
         "Arbitration"
       ],
-      "productType": [],
+      "productType": [
+        "Crosschain Liquidity",
+        "Bridge"
+      ],
       "projectType": [],
       "ecosystem": [
         "Celo",
@@ -9794,7 +9801,7 @@
     "date": "2021-03-05T07:00:00.000Z",
     "launchDate": "2021-03-05T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:16:54.716Z",
+    "updatedDate": "2025-01-28T11:39:13.160Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9939,7 +9946,7 @@
     "date": "2024-07-08T10:30:00.000Z",
     "launchDate": "2024-07-08T10:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-24T15:45:00.281Z",
+    "updatedDate": "2025-01-28T11:36:29.508Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -9949,7 +9956,8 @@
     "tags": {
       "general": [
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Primacy of Impact"
       ],
       "productType": [
         "Gaming"
@@ -10064,6 +10072,48 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3ISerTda22EsCwZejnr3AX",
+    "id": "ruscet",
+    "project": "Ruscet",
+    "maximum_reward": 75000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4yvoesEDWjksI0pVPGcdQs/91a08b7333d828ece9d676cd9d0718a2/ruscet.png",
+    "date": "2025-01-28T00:40:14.000Z",
+    "launchDate": "2025-01-28T00:40:14.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-28T16:21:41.627Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Derivatives",
+        "DEX",
+        "L2"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Fuel Network"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]

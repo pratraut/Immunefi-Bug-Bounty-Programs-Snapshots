@@ -8,7 +8,7 @@
     "date": "2025-01-23T10:00:00.000Z",
     "launchDate": "2025-01-23T10:00:00.000Z",
     "endDate": "2025-02-01T10:00:00.000Z",
-    "updatedDate": "2025-01-27T10:27:43.500Z",
+    "updatedDate": "2025-01-28T16:22:59.937Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -21,7 +21,11 @@
         "PoC Required",
         "Triaged by Immunefi"
       ],
-      "productType": [],
+      "productType": [
+        "DAO",
+        "Services",
+        "Prediction Market"
+      ],
       "projectType": [],
       "ecosystem": [],
       "programType": [
@@ -64,6 +68,75 @@ A few days after the launch, Immunefi will publish Butter's technical walkthroug
     "rewardsToken": "USDC",
     "rewardsPool": 30000,
     "sourceLinesOfCode": 550,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
+    "id": "audit-comp-shardeum-ancillaries-iii",
+    "project": "Audit Comp | Shardeum: Ancillaries III",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
+    "date": "2025-01-15T21:45:00.000Z",
+    "launchDate": "2025-01-15T21:45:00.000Z",
+    "endDate": "2025-02-12T14:00:00.000Z",
+    "updatedDate": "2025-01-28T16:11:46.762Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Services",
+        "Validator"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
+    "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-iii-audit-competition\" channel.
+
+Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 31523,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -138,72 +211,6 @@ Join our Discord for more updates.",
     "rewardsToken": "USDC",
     "rewardsPool": 250000,
     "sourceLinesOfCode": 73990,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
-    "id": "audit-comp-shardeum-ancillaries-iii",
-    "project": "Audit Comp | Shardeum: Ancillaries III",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
-    "date": "2025-01-15T21:45:00.000Z",
-    "launchDate": "2025-01-15T21:45:00.000Z",
-    "endDate": "2025-02-12T14:00:00.000Z",
-    "updatedDate": "2025-01-15T21:49:15.744Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Shardeum"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "Typescript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
-    "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
-
-No KYC is required.
-
-Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-iii-audit-competition\" channel.
-
-Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 100000,
-    "sourceLinesOfCode": 31523,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
