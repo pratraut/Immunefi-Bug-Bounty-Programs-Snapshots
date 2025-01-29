@@ -1144,49 +1144,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "2MAvMCnVzSLt4hACyf5Ou2",
-    "id": "zodiac",
-    "project": "Zodiac",
-    "maximum_reward": 2000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/73WYLOYzxAXGT3NzeJGCb7/d7b0c5234e9f55fcb3480097efb29a66/Zodiac_Logo.png",
-    "date": "2022-03-25T18:30:00.000Z",
-    "launchDate": "2022-03-25T18:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T16:19:07.132Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Launchpad",
-        "Services"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "K4h2snhwF8qxWvekCApVY",
     "id": "gnosischain",
     "project": "Gnosis Chain",
@@ -3182,7 +3139,7 @@
     "date": "2024-07-23T02:00:00.000Z",
     "launchDate": "2024-07-23T02:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-21T12:59:34.296Z",
+    "updatedDate": "2025-01-29T14:44:57.786Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
