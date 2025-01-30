@@ -136,7 +136,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-31T08:35:06.970Z",
+    "updatedDate": "2025-01-30T08:27:54.868Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -166,6 +166,51 @@
         "Websites and Applications"
       ],
       "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "6JILYMwxg8IrPVCykpxp5W",
+    "id": "usdt0",
+    "project": "USDT0",
+    "maximum_reward": 6000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4qpRnmuoUMcdOxUOuFQUeN/278e2ad4821b6e2dadf60d84e3a4bb4f/USDT0.png",
+    "date": "2025-01-30T14:58:00.000Z",
+    "launchDate": "2025-01-30T14:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-30T14:58:14.648Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Stablecoin",
+        "Crosschain Liquidity"
+      ],
+      "projectType": [
+        "Defi",
+        "Infrastructure"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Typescript",
         "Solidity"
       ],
       "featured": [
@@ -2955,7 +3000,7 @@
     "date": "2025-01-21T01:10:18.000Z",
     "launchDate": "2025-01-21T01:10:18.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-28T16:18:01.769Z",
+    "updatedDate": "2025-01-30T08:19:17.170Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
