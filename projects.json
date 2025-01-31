@@ -400,7 +400,7 @@
     "date": "2021-10-20T12:00:00.000Z",
     "launchDate": "2021-10-20T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T16:16:23.501Z",
+    "updatedDate": "2025-01-31T12:00:33.588Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3014,7 +3014,8 @@
         "KYC Required",
         "PoC Required",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Crosschain Liquidity",
@@ -6308,6 +6309,54 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "36LWdmrx592XUY3pcO3Lra",
+    "id": "folksfinance",
+    "project": "Folks Finance",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4TM7aspvZxpPR9ToJuIZWC/fe0d98e1960bf04060fc9d764c9cc23a/folks_finance.png",
+    "date": "2022-03-31T17:00:00.000Z",
+    "launchDate": "2022-03-31T17:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-01-31T08:35:12.570Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Algorand",
+        "Avalanche",
+        "ETH",
+        "Base",
+        "Arbitrum",
+        "BSC"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Python",
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "6nZw6IPi0wgWGut2uLGcFr",
     "id": "gainsnetwork",
     "project": "Gains Network",
@@ -8914,48 +8963,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "36LWdmrx592XUY3pcO3Lra",
-    "id": "folksfinance",
-    "project": "Folks Finance",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3Ln9Iw2eyikJa3DInp9V7s/2b5dbc873d1a8a1e1b8ac7aa96bb0db4/Folks_Finance_logo.png",
-    "date": "2022-03-31T17:00:00.000Z",
-    "launchDate": "2022-03-31T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-06T10:41:01.091Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Algorand"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Python"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6FVisGgjVU58RieK1hYrfS",
     "id": "sturdy",
     "project": "Sturdy",
@@ -10342,7 +10349,7 @@
     "date": "2024-09-12T19:39:57.000Z",
     "launchDate": "2024-09-12T19:39:57.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-21T09:25:44.849Z",
+    "updatedDate": "2025-01-31T16:09:54.359Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -14197,48 +14204,6 @@
       ],
       "programType": [
         "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2zGS4J8YlRfc4NgoU9rAax",
-    "id": "localtraders",
-    "project": "Local Traders",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7BiT0UsXWdpjzrB9gX2Is0/fa6938753148aa3246da6fa9deb15046/photo_2023-06-21_19.06.42__1_.jpeg",
-    "date": "2023-06-22T14:00:00.000Z",
-    "launchDate": "2023-06-22T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-24T16:09:15.276Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DEX",
-        "Services"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC"
-      ],
-      "programType": [
-        "Websites and Applications"
       ],
       "language": [
         "Solidity"

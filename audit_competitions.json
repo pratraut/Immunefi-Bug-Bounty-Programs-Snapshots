@@ -223,6 +223,154 @@ Join our Discord for more updates.",
     "premiumTriaging": true
   },
   {
+    "contentfulId": "3wpv0RPhG0OynSVhk9zRXe",
+    "id": "audit-comp-lombard",
+    "project": "Audit Comp | Lombard",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ER98zQbbMd0ecna1Kk5Di/276c155814568872cab8d53286f0f898/Lombard__Finance.png",
+    "date": "2024-12-18T16:00:00.000Z",
+    "launchDate": "2024-12-18T16:00:00.000Z",
+    "endDate": "2025-01-08T16:00:00.000Z",
+    "updatedDate": "2025-01-28T19:20:06.641Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-06T16:00:00.000Z",
+    "boostedIntroStartingIn": "$20,000 - $100,000 USD in rewards available for finding bugs on Lombard smart contracts.
+
+KYC is required.
+
+Lomabard will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Lombard technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"lombard-audit-comp\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, we’ll share a technical walkthrough in the Discord channel.
+
+Join our Discord for more updates.",
+    "boostedIntroLive": "$20,000 - $100,000 USD in rewards available for finding bugs in Lombard codebase of about 3500 nSLOC. KYC is required.
+
+Any technical questions and support requests can be asked directly to Lombard or Immunefi in the [Lombard Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1318226749347074149).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 3500,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
+    "id": "stacks-attackathon-1",
+    "project": "Attackathon | Stacks",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5HmJofkL36qALWAnM6EpVD/9a27d038ab039ca1166569a1d75f87eb/Stacks_Logo_png__1_.png",
+    "date": "2024-12-02T08:00:00.000Z",
+    "launchDate": "2024-12-02T08:00:00.000Z",
+    "endDate": "2025-01-13T08:00:00.000Z",
+    "updatedDate": "2024-12-24T09:17:59.348Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [],
+      "ecosystem": [
+        "Bitcoin",
+        "Stacks"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Rust",
+        "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-13T08:00:00.000Z",
+    "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
+
+On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed equally among all SRs who submit a valid bug report. Estimated to be worth about $50,000 USD as of December 2nd, 2024.
+
+After the first Attackathon, a second will be launched on more new code with an additional $250,000 USD + bonus STX in rewards.
+
+December 2nd the **Stacks Attackathon Education Period** begins — launching the ‘Stacks sBTC Academy’, and opening direct access to the Stack’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “stacks-attackathon\" channel.
+
+When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.
+
+[Sign up for Stacks Attackathon Updates](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
+    "boostedIntroLive": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
+
+On top of the $250k, a bonus reward equal to the yield generated from 1 Million STX over 3 months will be distributed equally among all SRs who submit a valid bug report. Estimated to be worth about $50,000 USD as of December 2nd, 2024.
+
+After the first Attackathon, a second will be launched on more new code with an additional $250,000 USD + bonus STX in rewards.
+
+Any technical questions and support requests can be asked directly to Stacks or Immunefi in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "STX",
+    "rewardsPool": 250000,
+    "sourceLinesOfCode": 25492,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": "2024-12-02T06:40:00.000Z",
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
     "id": "ethereum-protocol-attackathon",
     "project": "Attackathon | Ethereum Protocol",
@@ -309,154 +457,6 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     "premiumTriaging": true
   },
   {
-    "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
-    "id": "stacks-attackathon-1",
-    "project": "Attackathon | Stacks",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5HmJofkL36qALWAnM6EpVD/9a27d038ab039ca1166569a1d75f87eb/Stacks_Logo_png__1_.png",
-    "date": "2024-12-02T08:00:00.000Z",
-    "launchDate": "2024-12-02T08:00:00.000Z",
-    "endDate": "2025-01-13T08:00:00.000Z",
-    "updatedDate": "2024-12-24T09:17:59.348Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [],
-      "ecosystem": [
-        "Bitcoin",
-        "Stacks"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust",
-        "Clarity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-02-13T08:00:00.000Z",
-    "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
-
-On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed equally among all SRs who submit a valid bug report. Estimated to be worth about $50,000 USD as of December 2nd, 2024.
-
-After the first Attackathon, a second will be launched on more new code with an additional $250,000 USD + bonus STX in rewards.
-
-December 2nd the **Stacks Attackathon Education Period** begins — launching the ‘Stacks sBTC Academy’, and opening direct access to the Stack’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “stacks-attackathon\" channel.
-
-When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.
-
-[Sign up for Stacks Attackathon Updates](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
-    "boostedIntroLive": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
-
-On top of the $250k, a bonus reward equal to the yield generated from 1 Million STX over 3 months will be distributed equally among all SRs who submit a valid bug report. Estimated to be worth about $50,000 USD as of December 2nd, 2024.
-
-After the first Attackathon, a second will be launched on more new code with an additional $250,000 USD + bonus STX in rewards.
-
-Any technical questions and support requests can be asked directly to Stacks or Immunefi in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "STX",
-    "rewardsPool": 250000,
-    "sourceLinesOfCode": 25492,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": "2024-12-02T06:40:00.000Z",
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3wpv0RPhG0OynSVhk9zRXe",
-    "id": "audit-comp-lombard",
-    "project": "Audit Comp | Lombard",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ER98zQbbMd0ecna1Kk5Di/276c155814568872cab8d53286f0f898/Lombard__Finance.png",
-    "date": "2024-12-18T16:00:00.000Z",
-    "launchDate": "2024-12-18T16:00:00.000Z",
-    "endDate": "2025-01-08T16:00:00.000Z",
-    "updatedDate": "2025-01-28T19:20:06.641Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-02-06T16:00:00.000Z",
-    "boostedIntroStartingIn": "$20,000 - $100,000 USD in rewards available for finding bugs on Lombard smart contracts.
-
-KYC is required.
-
-Lomabard will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Lombard technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"lombard-audit-comp\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, we’ll share a technical walkthrough in the Discord channel.
-
-Join our Discord for more updates.",
-    "boostedIntroLive": "$20,000 - $100,000 USD in rewards available for finding bugs in Lombard codebase of about 3500 nSLOC. KYC is required.
-
-Any technical questions and support requests can be asked directly to Lombard or Immunefi in the [Lombard Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1318226749347074149).
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 100000,
-    "sourceLinesOfCode": 3500,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
     "id": "audit-comp-celo",
     "project": "Audit Comp | Celo",
@@ -476,7 +476,8 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
