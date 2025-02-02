@@ -358,11 +358,7 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": {
-      "features": [],
-      "premiumTriaging": false,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Genius Yield Bug Bounties",
       "description": "Find bugs and vulnerabilities on Genius Yield and get paid up to $25,000.",
