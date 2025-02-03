@@ -466,7 +466,7 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     "date": "2024-11-13T19:00:43.000Z",
     "launchDate": "2024-11-13T19:00:43.000Z",
     "endDate": "2024-12-06T19:00:00.000Z",
-    "updatedDate": "2025-01-29T08:52:54.262Z",
+    "updatedDate": "2025-02-03T13:00:39.221Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -494,7 +494,7 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-02-05T19:00:00.000Z",
+    "evaluationEndDate": "2025-02-03T13:00:32.445Z",
     "boostedIntroStartingIn": "$50,000 USD in rewards is available for finding bugs on Celo. 
 
 Celo is scaling Ethereum with real-world solutions, leading a thriving new digital economy for all.
@@ -518,14 +518,53 @@ When the Audit Competition has ended Immunefi will publish an event-specific lea
 
 For more information about Celo, please visit https://celo.org/",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1bz7ftAvwgTWTM8dHABn3QK-ENo4BqAuI?usp=sharing)
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/celo)",
     "rewardsToken": "cUSD",
     "rewardsPool": 50000,
     "sourceLinesOfCode": 5253,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1V-f_4lQNUUE0wRcZQx-epEdWJUpgbUEd/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 2,
+        "name": "innertia",
+        "critical": 1,
+        "earnings": 20768,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 1,
+        "name": "jovi",
+        "critical": 1,
+        "earnings": 15387,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "shadowHunter",
+        "critical": 1,
+        "earnings": 10310,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "okmxuse",
+        "critical": 0,
+        "earnings": 3536,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      }
+    ],
     "features": [
       "Boost",
       "Managed Triage: Time Saver",

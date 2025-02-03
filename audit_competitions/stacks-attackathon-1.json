@@ -307,14 +307,7 @@
       ]
     },
     "ethereumAttackathonSponsors": null,
-    "project": {
-      "features": [
-        "Attackathon",
-        "Managed Triage: Time Saver"
-      ],
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "bounty": {
       "contentfulId": "2kpLUExAOPWsbDjxl6t30b",
       "id": "stacks-attackathon-1",
@@ -692,7 +685,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
       "findingsUrl": null,
-      "premiumTriaging": true
+      "premiumTriaging": false
     },
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"
