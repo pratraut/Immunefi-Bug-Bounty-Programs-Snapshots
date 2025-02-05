@@ -175,13 +175,7 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": {
-      "features": [
-        "Arbitration"
-      ],
-      "premiumTriaging": false,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "ZeroLend Bug Bounties",
       "description": "Find bugs and vulnerabilities on ZeroLend and get paid up to $100,000.",
