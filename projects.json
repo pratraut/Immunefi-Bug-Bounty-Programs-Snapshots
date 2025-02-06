@@ -4680,6 +4680,53 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "5HYgLpGfafN3uogE6BMLIo",
+    "id": "berachain",
+    "project": "Berachain",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5Tq6M3WLliIjWqOMaXWvps/40f5596b149bb981d6553546b9ec3a2b/2XBUzQhl_400x400.png",
+    "date": "2025-02-06T11:58:00.000Z",
+    "launchDate": "2025-02-06T11:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-02-06T12:12:03.481Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Go",
+        "Solidity",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "4CZw5XMAQ30BYxDk7kkyc0",
     "id": "royco",
     "project": "Royco",
@@ -7879,7 +7926,7 @@
     "date": "2023-09-18T09:00:00.000Z",
     "launchDate": "2023-09-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T14:19:22.513Z",
+    "updatedDate": "2025-02-06T08:19:10.695Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -9316,50 +9363,6 @@
       ],
       "language": [
         "Clarity",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2SRSP5H2rB1gQgiIPN0Wjk",
-    "id": "rai",
-    "project": "Rai",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4PwDM0UpG17NLwLfk2zAmy/43c95efcf64833d22328abc38684d677/Screenshot_2024-11-15_at_1.55.28___AM.png",
-    "date": "2021-11-02T13:00:00.000Z",
-    "launchDate": "2021-11-02T13:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T20:56:00.616Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DEX",
-        "Insurance",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
         "Solidity"
       ],
       "featured": [
@@ -12407,6 +12410,52 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2H7D5VvkbK3Bs98lHKs0QF",
+    "id": "hydro",
+    "project": "Hydro",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4bv3NFZNG33D4ROLBTaUtN/fb4e9c53303ac076fbdb8e5498e3f68e/Screenshot_2025-02-05_at_13.17.45.png",
+    "date": "2025-02-06T14:58:00.000Z",
+    "launchDate": "2025-02-06T14:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-02-06T14:58:15.075Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "DAO"
+      ],
+      "projectType": [
+        "Defi",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Cosmos"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Rust",
+        "Go"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "2gfVNO1Ri3B0zPGW7mPIMx",
