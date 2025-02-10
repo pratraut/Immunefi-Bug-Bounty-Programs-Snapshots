@@ -324,7 +324,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5HmJofkL36qALWAnM6EpVD/9a27d038ab039ca1166569a1d75f87eb/Stacks_Logo_png__1_.png",
       "launchDate": "2024-12-02T08:00:00.000Z",
       "endDate": "2025-01-13T08:00:00.000Z",
-      "updatedDate": "2024-12-24T09:17:59.348Z",
+      "updatedDate": "2025-02-10T15:17:13.593Z",
       "kyc": true,
       "rewards": [
         {
@@ -646,18 +646,91 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2025-02-13T08:00:00.000Z",
+      "evaluationEndDate": "2025-02-10T15:01:52.852Z",
       "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.\n\nOn top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed equally among all SRs who submit a valid bug report. Estimated to be worth about $50,000 USD as of December 2nd, 2024.\n\nAfter the first Attackathon, a second will be launched on more new code with an additional $250,000 USD + bonus STX in rewards.\n\nDecember 2nd the **Stacks Attackathon Education Period** begins — launching the ‘Stacks sBTC Academy’, and opening direct access to the Stack’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “stacks-attackathon\" channel.\n\nWhen the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.\n\n[Sign up for Stacks Attackathon Updates](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
       "boostedIntroLive": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.\n\nOn top of the $250k, a bonus reward equal to the yield generated from 1 Million STX over 3 months will be distributed equally among all SRs who submit a valid bug report. Estimated to be worth about $50,000 USD as of December 2nd, 2024.\n\nAfter the first Attackathon, a second will be launched on more new code with an additional $250,000 USD + bonus STX in rewards.\n\nAny technical questions and support requests can be asked directly to Stacks or Immunefi in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).\n\nWhen the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Attackathon Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1V-_UyyGxXRy_0-z0L7_WysbvHyDbeVyT)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/stacks-i-attackathon)",
       "rewardsToken": "STX",
       "rewardsPool": 250000,
       "sourceLinesOfCode": 25492,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1uyOVRAIK_UAtRHszN29ekjI82BJIHJQi/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 4,
+          "name": "f4lc0n",
+          "critical": 1,
+          "earnings": 101043,
+          "insights": 2,
+          "mediumLow": 5,
+          "totalValidBugs": 10
+        },
+        {
+          "high": 7,
+          "name": "n4nika",
+          "critical": 0,
+          "earnings": 84837,
+          "insights": 3,
+          "mediumLow": 2,
+          "totalValidBugs": 9
+        },
+        {
+          "high": 0,
+          "name": "throwing5tone7",
+          "critical": 1,
+          "earnings": 45403,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "jovemjeune",
+          "critical": 0,
+          "earnings": 10892,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "PaiMei_and_Gandalf",
+          "critical": 0,
+          "earnings": 3631,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "niroh",
+          "critical": 0,
+          "earnings": 1961,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "XDZIBECX",
+          "critical": 0,
+          "earnings": 1210,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "ZoA",
+          "critical": 0,
+          "earnings": 1023,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Attackathon",
         "Managed Triage: Time Saver"
@@ -691,7 +764,7 @@
       "programDocumentations": [],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/stacks-i-attackathon",
       "premiumTriaging": true
     },
     "layoutProps": {
