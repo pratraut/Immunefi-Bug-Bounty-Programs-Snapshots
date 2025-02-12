@@ -3,15 +3,7 @@
     "isAttackathon": false,
     "academyContent": null,
     "ethereumAttackathonSponsors": null,
-    "project": {
-      "features": [
-        "Boost",
-        "Managed Triage: Time Saver",
-        "Vault"
-      ],
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "bounty": {
       "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
       "id": "audit-comp-celo",
@@ -531,7 +523,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
       "findingsUrl": "https://reports.immunefi.com/celo",
-      "premiumTriaging": true
+      "premiumTriaging": false
     },
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"

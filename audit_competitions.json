@@ -1,67 +1,139 @@
 [
   {
-    "contentfulId": "23vBOe26H8f97hnYr5oc2e",
-    "id": "audit-comp-shardeum-core-iii",
-    "project": "Audit Comp | Shardeum: Core III",
+    "contentfulId": "2guoEIPOYw11nTADTMem4K",
+    "id": "stacks-attackathon-2",
+    "project": "Attackathon | Stacks II",
     "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2RGZifA5Y7aVEVItpmE3ST/08f7b34f881a614a49730ff91f64dbfc/4B19YQz__400x400.png",
-    "date": "2025-01-15T21:44:00.000Z",
-    "launchDate": "2025-01-15T21:44:00.000Z",
-    "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-02-10T18:50:37.815Z",
-    "kyc": false,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7k7Y3ozFznu7BV69YN9Bpz/e0a8ac082886c5c1be6fb64e19325fa1/Stacks_Logo.png",
+    "date": "2025-02-24T08:00:00.000Z",
+    "launchDate": "2025-02-24T08:00:00.000Z",
+    "endDate": "2025-03-20T08:00:00.000Z",
+    "updatedDate": "2025-02-12T10:36:46.021Z",
+    "kyc": true,
     "technologies": [
+      "Smart Contract",
       "Blockchain/DLT"
     ],
-    "immunefiStandard": true,
+    "immunefiStandard": null,
     "tags": {
       "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
         "Triaged by Immunefi"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Shardeum"
-      ],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Typescript"
       ],
       "featured": [
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
-    "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
+    "evaluationEndDate": "2025-04-10T08:00:00.000Z",
+    "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
 
-For more information about Shardeum, please visit https://shardeum.org/
+On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed equally among all SRs who submit a valid bug report. Estimated to be worth about $50,000 USD as of December 2nd, 2024.
 
-No KYC is required.
+The scope is the complete sBTC upgrade, including new features, new code and bug fixes added since Stack's 1st Attackathon.
 
-Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-iii-audit-competition\" channel.
-
-Note:
-Whitehats, to join the testnet that Shardeum will be running, please ping the project team here in the Discord channel to get your EVM address whitelisted. Alternatively, you can DM the Shardeum Team for assistance.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
-
-Join our Discord for more updates.",
+[Sign up for Stacks' 2nd Attackathon](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
     "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
+    "rewardsToken": "STX",
     "rewardsPool": 250000,
-    "sourceLinesOfCode": 73990,
+    "sourceLinesOfCode": 26000,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Vault",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": "2025-02-12T11:00:00.000Z",
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
+    "contentfulId": "4mRo81Up34VFQZKJHeBip5",
+    "id": "audit-comp-butter",
+    "project": "Audit Comp | Butter",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
+    "date": "2025-01-23T10:00:00.000Z",
+    "launchDate": "2025-01-23T10:00:00.000Z",
+    "endDate": "2025-02-01T10:00:00.000Z",
+    "updatedDate": "2025-01-28T16:22:59.937Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "DAO",
+        "Services",
+        "Prediction Market"
+      ],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-28T10:00:00.000Z",
+    "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Butter, please visit https://buttery.gg
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 550,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -143,74 +215,68 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "premiumTriaging": true
   },
   {
-    "contentfulId": "4mRo81Up34VFQZKJHeBip5",
-    "id": "audit-comp-butter",
-    "project": "Audit Comp | Butter",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
-    "date": "2025-01-23T10:00:00.000Z",
-    "launchDate": "2025-01-23T10:00:00.000Z",
-    "endDate": "2025-02-01T10:00:00.000Z",
-    "updatedDate": "2025-01-28T16:22:59.937Z",
-    "kyc": true,
+    "contentfulId": "23vBOe26H8f97hnYr5oc2e",
+    "id": "audit-comp-shardeum-core-iii",
+    "project": "Audit Comp | Shardeum: Core III",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2RGZifA5Y7aVEVItpmE3ST/08f7b34f881a614a49730ff91f64dbfc/4B19YQz__400x400.png",
+    "date": "2025-01-15T21:44:00.000Z",
+    "launchDate": "2025-01-15T21:44:00.000Z",
+    "endDate": "2025-02-12T17:00:00.000Z",
+    "updatedDate": "2025-02-10T18:50:37.815Z",
+    "kyc": false,
     "technologies": [
-      "Smart Contract"
+      "Blockchain/DLT"
     ],
     "immunefiStandard": true,
     "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Required",
+        "KYC Not Required",
         "PoC Required",
         "Triaged by Immunefi"
       ],
       "productType": [
-        "DAO",
-        "Services",
-        "Prediction Market"
+        "L1"
       ],
-      "projectType": [],
-      "ecosystem": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
       "programType": [
-        "Smart Contract"
+        "Blockchain/DLT"
       ],
       "language": [
-        "Solidity"
+        "Typescript"
       ],
       "featured": [
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-02-28T10:00:00.000Z",
-    "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
+    "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
 
-For more information about Butter, please visit https://buttery.gg
+For more information about Shardeum, please visit https://shardeum.org/
 
-**KYC is required**
+No KYC is required.
 
-Any technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.
+Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-iii-audit-competition\" channel.
+
+Note:
+Whitehats, to join the testnet that Shardeum will be running, please ping the project team here in the Discord channel to get your EVM address whitelisted. Alternatively, you can DM the Shardeum Team for assistance.
 
 When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
 
-A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
-    "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
-
-For more information about Butter, please visit https://buttery.gg
-
-**KYC is required**
-
-Any technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-For more information about Butter, please visit https://buttery.gg
-
-A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+Join our Discord for more updates.",
+    "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 550,
+    "rewardsPool": 250000,
+    "sourceLinesOfCode": 73990,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -382,11 +448,11 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     "id": "stacks-attackathon-1",
     "project": "Attackathon | Stacks",
     "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5HmJofkL36qALWAnM6EpVD/9a27d038ab039ca1166569a1d75f87eb/Stacks_Logo_png__1_.png",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6vC3flp4fkFbjN9GqTKa2O/0473e8105ec2774230a0be80b1ed732a/Stacks_Logo.png",
     "date": "2024-12-02T08:00:00.000Z",
     "launchDate": "2024-12-02T08:00:00.000Z",
     "endDate": "2025-01-13T08:00:00.000Z",
-    "updatedDate": "2025-02-10T15:17:13.593Z",
+    "updatedDate": "2025-02-12T10:33:56.779Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",

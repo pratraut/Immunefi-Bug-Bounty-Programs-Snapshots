@@ -8,7 +8,7 @@
     "date": "2023-05-17T17:00:00.000Z",
     "launchDate": "2023-05-17T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:44:26.884Z",
+    "updatedDate": "2025-02-12T08:52:13.115Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -50,7 +50,6 @@
         "Horizen EON",
         "Injective",
         "Kava",
-        "Klaytn",
         "Linea",
         "Manta",
         "Mantle",
@@ -71,7 +70,12 @@
         "XPLA",
         "Xai",
         "Zora",
-        "opBNB"
+        "opBNB",
+        "Aptos",
+        "Cronos",
+        "Rootstock",
+        "Sei",
+        "TON"
       ],
       "programType": [
         "Smart Contract"
@@ -318,7 +322,7 @@
     "date": "2022-02-11T15:00:00.000Z",
     "launchDate": "2022-02-11T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-07T18:40:25.453Z",
+    "updatedDate": "2025-02-12T10:52:27.953Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2651,6 +2655,7 @@
         "PoC Required",
         "Primacy of Impact",
         "Arbitration",
+        "Safe Harbor",
         "Vaults"
       ],
       "productType": [
@@ -3000,7 +3005,7 @@
     "date": "2025-01-21T01:10:18.000Z",
     "launchDate": "2025-01-21T01:10:18.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-30T08:19:17.170Z",
+    "updatedDate": "2025-02-12T12:22:01.453Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4463,7 +4468,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-03T10:03:02.008Z",
+    "updatedDate": "2025-02-11T19:15:40.524Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4680,6 +4685,41 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "45dMmlLm6rlsaZsC1bBUOV",
+    "id": "fassets",
+    "project": "FAssets",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6RvAn0eXVoZdyCg9bNkFXK/f86c8ae6a66353298cff60617734a793/Flare.png",
+    "date": "2025-02-10T03:45:00.000Z",
+    "launchDate": "2025-02-10T03:45:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-02-12T07:01:26.890Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "5HYgLpGfafN3uogE6BMLIo",
     "id": "berachain",
     "project": "Berachain",
@@ -4725,41 +4765,6 @@
       ]
     },
     "premiumTriaging": false
-  },
-  {
-    "contentfulId": "45dMmlLm6rlsaZsC1bBUOV",
-    "id": "fassets",
-    "project": "FAssets",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6RvAn0eXVoZdyCg9bNkFXK/f86c8ae6a66353298cff60617734a793/Flare.png",
-    "date": "2025-01-23T03:45:15.000Z",
-    "launchDate": "2025-01-23T03:45:15.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-10T18:02:02.414Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
   },
   {
     "contentfulId": "4CZw5XMAQ30BYxDk7kkyc0",
@@ -11233,7 +11238,7 @@
     "date": "2022-06-30T18:00:00.000Z",
     "launchDate": "2022-06-30T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-15T15:10:25.991Z",
+    "updatedDate": "2025-02-12T06:29:21.369Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -11763,6 +11768,7 @@
         "Primacy of Impact",
         "Triaged by Immunefi",
         "Arbitration",
+        "Safe Harbor",
         "Vaults"
       ],
       "productType": [
@@ -13437,9 +13443,10 @@
     "date": "2023-05-10T17:00:00.000Z",
     "launchDate": "2023-05-10T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-04T14:28:33.740Z",
+    "updatedDate": "2025-02-11T19:08:30.736Z",
     "kyc": true,
     "technologies": [
+      "Smart Contract",
       "Websites and Applications",
       "Blockchain/DLT"
     ],
@@ -13462,7 +13469,8 @@
       ],
       "programType": [
         "Blockchain/DLT",
-        "Websites and Applications"
+        "Websites and Applications",
+        "Smart Contract"
       ],
       "language": [
         "Rust"
