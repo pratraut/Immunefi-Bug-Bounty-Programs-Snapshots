@@ -3,7 +3,15 @@
     "isAttackathon": false,
     "academyContent": null,
     "ethereumAttackathonSponsors": null,
-    "project": null,
+    "project": {
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver",
+        "Vault"
+      ],
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "7KGwKZtM9PknJhqbmGYbi8",
       "id": "audit-comp-celo",
@@ -13,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7nM3c2euHCQclF8A6mCxD/f953e7450deb632beb4fe7aca1e5766f/Celo_Symbol_CMYK_Onyx__1_.png",
       "launchDate": "2024-11-13T19:00:43.000Z",
       "endDate": "2024-12-06T19:00:00.000Z",
-      "updatedDate": "2025-02-03T13:00:39.221Z",
+      "updatedDate": "2025-02-13T08:23:35.978Z",
       "kyc": true,
       "rewards": [
         {
@@ -447,7 +455,7 @@
       "rewardsToken": "cUSD",
       "rewardsPool": 50000,
       "sourceLinesOfCode": 5253,
-      "boostedSummaryReport": "https://drive.google.com/file/d/1V-f_4lQNUUE0wRcZQx-epEdWJUpgbUEd/view?usp=sharing",
+      "boostedSummaryReport": "https://drive.google.com/file/d/1hxnu0v5URZ-fg3nwmw-ISClJexASKiTt/view",
       "inviteOnly": false,
       "hideAssetsInScope": null,
       "boostedLeaderboard": [
@@ -523,7 +531,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
       "findingsUrl": "https://reports.immunefi.com/celo",
-      "premiumTriaging": false
+      "premiumTriaging": true
     },
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"

@@ -111,7 +111,11 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "features": [],
+      "premiumTriaging": false,
+      "isSafeHarborActive": false
+    },
     "metaData": {
       "title": "Utix Bug Bounties",
       "description": "Find bugs and vulnerabilities on Utix and get paid up to $500,000.",
