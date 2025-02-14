@@ -2409,7 +2409,7 @@
     "date": "2022-06-16T16:30:00.000Z",
     "launchDate": "2022-06-16T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-16T08:10:56.452Z",
+    "updatedDate": "2025-02-14T10:14:11.934Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6258,18 +6258,17 @@
   },
   {
     "contentfulId": "4VdqFNRoZrrKqz7gmPZunC",
-    "id": "beethovenx",
-    "project": "Beethoven X",
+    "id": "beets",
+    "project": "Beets",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/51mxB0LXiEa0Xw3RxkNzxC/e1a4c30f9a29211ca0a5373af83bf642/BEETS-og.png",
     "date": "2022-09-16T03:30:00.000Z",
     "launchDate": "2022-09-16T03:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T16:02:43.040Z",
+    "updatedDate": "2025-02-14T10:33:12.823Z",
     "kyc": false,
     "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
+      "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -6292,8 +6291,7 @@
         "Optimism"
       ],
       "programType": [
-        "Smart Contract",
-        "Websites and Applications"
+        "Smart Contract"
       ],
       "language": [
         "Solidity"

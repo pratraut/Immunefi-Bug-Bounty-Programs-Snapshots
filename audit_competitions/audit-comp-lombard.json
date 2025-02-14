@@ -20,7 +20,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ER98zQbbMd0ecna1Kk5Di/276c155814568872cab8d53286f0f898/Lombard__Finance.png",
       "launchDate": "2024-12-18T16:00:00.000Z",
       "endDate": "2025-01-08T16:00:00.000Z",
-      "updatedDate": "2025-02-13T08:47:26.133Z",
+      "updatedDate": "2025-02-14T13:21:33.839Z",
       "kyc": true,
       "rewards": [
         {
@@ -434,7 +434,7 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2025-02-17T16:00:00.000Z",
+      "evaluationEndDate": "2025-02-14T13:21:28.298Z",
       "boostedIntroStartingIn": "$20,000 - $100,000 USD in rewards available for finding bugs on Lombard smart contracts.\n\nKYC is required.\n\nLomabard will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Lombard technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"lombard-audit-comp\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, we’ll share a technical walkthrough in the Discord channel.\n\nJoin our Discord for more updates.",
       "boostedIntroLive": "$20,000 - $100,000 USD in rewards available for finding bugs in Lombard codebase of about 3500 nSLOC. KYC is required.\n\nAny technical questions and support requests can be asked directly to Lombard or Immunefi in the [Lombard Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1318226749347074149).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
       "boostedIntroEvaluating": "",
@@ -442,10 +442,137 @@
       "rewardsToken": "USDC",
       "rewardsPool": 100000,
       "sourceLinesOfCode": 3500,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1Q_GTHwJxCKkduR5P0yLuvWg3IuySyhU-/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "perseverance",
+          "critical": 0,
+          "earnings": 10841,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "holydevoti0n",
+          "critical": 0,
+          "earnings": 8131,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "security",
+          "critical": 0,
+          "earnings": 4238,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "OxAlix2",
+          "critical": 0,
+          "earnings": 2905,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "MrMorningstar",
+          "critical": 0,
+          "earnings": 2775,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "iamandreiski",
+          "critical": 0,
+          "earnings": 2147,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "jasonxiale",
+          "critical": 0,
+          "earnings": 1334,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "nnez",
+          "critical": 0,
+          "earnings": 1334,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Shahen",
+          "critical": 0,
+          "earnings": 519,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "IlIlHunterlIlI",
+          "critical": 0,
+          "earnings": 194,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "c4a4dda89",
+          "critical": 0,
+          "earnings": 194,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "focusoor",
+          "critical": 0,
+          "earnings": 194,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "OxAnmol",
+          "critical": 0,
+          "earnings": 130,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "huntercheto",
+          "critical": 0,
+          "earnings": 65,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Boost",
         "Managed Triage: Time Saver"
@@ -481,7 +608,7 @@
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/lombard",
       "premiumTriaging": true
     },
     "layoutProps": {
