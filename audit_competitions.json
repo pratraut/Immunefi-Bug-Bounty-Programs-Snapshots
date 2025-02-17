@@ -1,5 +1,63 @@
 [
   {
+    "contentfulId": "5LqOVoeuw6tE0KBPtbjfav",
+    "id": "iop-zano",
+    "project": "IOP | Zano",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2UvftJe7XYAVH926tVd3Yq/e2c7302dea7cc9dd5caebc6f88993f56/zano.png",
+    "date": "2025-02-17T10:00:00.000Z",
+    "launchDate": "2025-02-17T10:00:00.000Z",
+    "endDate": "2025-03-03T14:00:00.000Z",
+    "updatedDate": "2025-02-17T18:28:36.314Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "C/C++"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-03-31T14:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 25000,
+    "sourceLinesOfCode": 5000,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "2guoEIPOYw11nTADTMem4K",
     "id": "stacks-attackathon-2",
     "project": "Attackathon | Stacks II",
