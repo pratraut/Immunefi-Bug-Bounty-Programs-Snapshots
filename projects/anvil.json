@@ -271,16 +271,9 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
-      "premiumTriaging": true
+      "premiumTriaging": false
     },
-    "project": {
-      "features": [
-        "Subscription Plan: Essential",
-        "Managed Triage: Signal Booster"
-      ],
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Anvil Bug Bounties",
       "description": "Find bugs and vulnerabilities on Anvil and get paid up to $100,000.",
