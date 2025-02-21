@@ -140,7 +140,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-30T08:27:54.868Z",
+    "updatedDate": "2025-02-21T14:36:23.278Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -13463,55 +13463,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7oF7kiK4Y8JTL3tUN0ZzHE",
-    "id": "metalswap",
-    "project": "MetalSwap",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1V2qLefMPkiAuR0numHlBO/bc2b481781e33c0b15ef91283f5c3ce4/logoD_copy.png",
-    "date": "2023-02-03T18:00:00.000Z",
-    "launchDate": "2023-02-03T18:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T12:05:45.460Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Bridge",
-        "DEX",
-        "Derivatives",
-        "Liquid Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC",
-        "ETH",
-        "Linea",
-        "Optimism",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
