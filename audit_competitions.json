@@ -66,20 +66,35 @@
     "date": "2025-02-24T08:00:00.000Z",
     "launchDate": "2025-02-24T08:00:00.000Z",
     "endDate": "2025-03-20T08:00:00.000Z",
-    "updatedDate": "2025-02-20T21:22:49.106Z",
+    "updatedDate": "2025-02-24T08:24:55.561Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
       "Blockchain/DLT"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [],
+      "ecosystem": [
+        "Bitcoin",
+        "Stacks"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
       "language": [
         "Rust",
         "Clarity"
-      ],
-      "general": [
-        "Triaged by Immunefi"
       ],
       "featured": [
         "Launched Recently"
@@ -93,12 +108,18 @@ On top of the above rewards, the yield generated from 1 Million STX over 3 month
 The scope is the complete sBTC upgrade, including new features, new code and bug fixes added since Stack's 1st Attackathon.
 
 [Sign up for Stacks' 2nd Attackathon](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
-    "boostedIntroLive": "",
+    "boostedIntroLive": "A flat **$250,000 USD** is in rewards for finding bugs on the Stacks sBTC upgrade.
+
+**On top of the above rewards**, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
+
+You can ask technical questions to the Stacks team directly in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "STX",
     "rewardsPool": 250000,
-    "sourceLinesOfCode": 26000,
+    "sourceLinesOfCode": 38000,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -109,23 +130,7 @@ The scope is the complete sBTC upgrade, including new features, new code and bug
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": "2025-02-12T11:00:00.000Z",
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "4mRo81Up34VFQZKJHeBip5",
@@ -358,8 +363,8 @@ Join our Discord for more updates.",
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6itRuATvu87slB9sHlEDxS/680a257b5c3950fea7a3e835ca522fb4/eth-diamond-purple.7929ed26__1_.png",
     "date": "2024-11-25T14:00:00.000Z",
     "launchDate": "2024-11-25T14:00:00.000Z",
-    "endDate": "2025-01-20T14:00:00.000Z",
-    "updatedDate": "2025-01-24T15:44:14.609Z",
+    "endDate": "2025-01-25T14:00:00.000Z",
+    "updatedDate": "2025-02-24T10:49:28.701Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -396,7 +401,7 @@ Join our Discord for more updates.",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-02-17T14:00:00.000Z",
+    "evaluationEndDate": "2025-03-05T14:00:00.000Z",
     "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
 
 When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.

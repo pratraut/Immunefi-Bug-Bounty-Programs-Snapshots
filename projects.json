@@ -2997,6 +2997,44 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "3yfvM5zeq18YpCiyrCpVWx",
+    "id": "symbiotic",
+    "project": "Symbiotic",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3JOu1jGRL3ble8qzc1DwcS/cc699f3aea75cafc031a7fa283606620/symbiotic.png",
+    "date": "2025-02-21T02:38:44.000Z",
+    "launchDate": "2025-02-21T02:38:44.000Z",
+    "endDate": null,
+    "updatedDate": "2025-02-24T04:41:10.039Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Arbitration"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "2liVOSizh3GN4HAvg3GgSb",
     "id": "omni-network",
     "project": "Omni Network",
@@ -10128,7 +10166,7 @@
     "date": "2025-01-28T00:40:14.000Z",
     "launchDate": "2025-01-28T00:40:14.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-18T08:53:04.052Z",
+    "updatedDate": "2025-02-24T17:08:19.016Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
