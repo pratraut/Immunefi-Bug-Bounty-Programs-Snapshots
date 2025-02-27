@@ -20,7 +20,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
       "launchDate": "2025-01-23T10:00:00.000Z",
       "endDate": "2025-02-01T10:00:00.000Z",
-      "updatedDate": "2025-01-28T16:22:59.937Z",
+      "updatedDate": "2025-02-27T08:24:44.457Z",
       "kyc": true,
       "rewards": [
         {
@@ -211,7 +211,7 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2025-02-28T10:00:00.000Z",
+      "evaluationEndDate": "2025-02-27T08:25:09.254Z",
       "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. \n\nFor more information about Butter, please visit https://buttery.gg\n\n**KYC is required**\n\nAny technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
       "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. \n\nFor more information about Butter, please visit https://buttery.gg\n\n**KYC is required**\n\nAny technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nFor more information about Butter, please visit https://buttery.gg\n\nA few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
       "boostedIntroEvaluating": "",
@@ -219,10 +219,83 @@
       "rewardsToken": "USDC",
       "rewardsPool": 30000,
       "sourceLinesOfCode": 550,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/181PpjmsDspnmFvnXT90Uo4lKp3ux87d9/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "perseverance",
+          "critical": 0,
+          "earnings": 27900,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Topmark",
+          "critical": 0,
+          "earnings": 477,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "onthesunnyside",
+          "critical": 0,
+          "earnings": 477,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Bx4",
+          "critical": 0,
+          "earnings": 477,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "iehnnkta",
+          "critical": 0,
+          "earnings": 286,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "NHristov",
+          "critical": 0,
+          "earnings": 191,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "kenzo",
+          "critical": 0,
+          "earnings": 95,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "huntercheto",
+          "critical": 0,
+          "earnings": 95,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Boost",
         "Managed Triage: Time Saver"
@@ -350,7 +423,7 @@
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/butter",
       "premiumTriaging": true
     },
     "layoutProps": {

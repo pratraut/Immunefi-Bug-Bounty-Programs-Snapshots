@@ -133,86 +133,6 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "premiumTriaging": true
   },
   {
-    "contentfulId": "4mRo81Up34VFQZKJHeBip5",
-    "id": "audit-comp-butter",
-    "project": "Audit Comp | Butter",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
-    "date": "2025-01-23T10:00:00.000Z",
-    "launchDate": "2025-01-23T10:00:00.000Z",
-    "endDate": "2025-02-01T10:00:00.000Z",
-    "updatedDate": "2025-01-28T16:22:59.937Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "DAO",
-        "Services",
-        "Prediction Market"
-      ],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-02-28T10:00:00.000Z",
-    "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
-
-For more information about Butter, please visit https://buttery.gg
-
-**KYC is required**
-
-Any technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
-    "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
-
-For more information about Butter, please visit https://buttery.gg
-
-**KYC is required**
-
-Any technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).
-
-When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-For more information about Butter, please visit https://buttery.gg
-
-A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 550,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
     "id": "audit-comp-shardeum-ancillaries-iii",
     "project": "Audit Comp | Shardeum: Ancillaries III",
@@ -439,6 +359,159 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
       "Vault"
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "4mRo81Up34VFQZKJHeBip5",
+    "id": "audit-comp-butter",
+    "project": "Audit Comp | Butter",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
+    "date": "2025-01-23T10:00:00.000Z",
+    "launchDate": "2025-01-23T10:00:00.000Z",
+    "endDate": "2025-02-01T10:00:00.000Z",
+    "updatedDate": "2025-02-27T08:24:44.457Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "DAO",
+        "Services",
+        "Prediction Market"
+      ],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-02-27T08:25:09.254Z",
+    "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. 
+
+For more information about Butter, please visit https://buttery.gg
+
+**KYC is required**
+
+Any technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+For more information about Butter, please visit https://buttery.gg
+
+A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 550,
+    "boostedSummaryReport": "https://drive.google.com/file/d/181PpjmsDspnmFvnXT90Uo4lKp3ux87d9/view?usp=sharing",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "perseverance",
+        "critical": 0,
+        "earnings": 27900,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Topmark",
+        "critical": 0,
+        "earnings": 477,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "onthesunnyside",
+        "critical": 0,
+        "earnings": 477,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "Bx4",
+        "critical": 0,
+        "earnings": 477,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "iehnnkta",
+        "critical": 0,
+        "earnings": 286,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "NHristov",
+        "critical": 0,
+        "earnings": 191,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "kenzo",
+        "critical": 0,
+        "earnings": 95,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "huntercheto",
+        "critical": 0,
+        "earnings": 95,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
     "premiumTriaging": true
   },
   {
