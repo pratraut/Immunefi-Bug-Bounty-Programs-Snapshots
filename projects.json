@@ -7121,44 +7121,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "7EaXNROYrqHmxGsRR9h5SW",
-    "id": "spectral",
-    "project": "Spectral",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7aR9zyLNYxX30fVXUjjTJb/02eb0a57062717504ef408f6b1dbcf7d/Spectral.png",
-    "date": "2025-02-17T15:00:00.000Z",
-    "launchDate": "2025-02-17T15:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-17T15:10:16.233Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "2n7XanQodOKo93sehEDzqv",
     "id": "anvil",
     "project": "Anvil",
