@@ -392,11 +392,7 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": {
-      "features": [],
-      "premiumTriaging": false,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Polygon zkEVM Bug Bounties",
       "description": "Find bugs and vulnerabilities on Polygon zkEVM and get paid up to $1,000,000.",
