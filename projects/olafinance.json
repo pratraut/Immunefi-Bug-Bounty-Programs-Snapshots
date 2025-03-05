@@ -889,7 +889,11 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "features": [],
+      "premiumTriaging": false,
+      "isSafeHarborActive": false
+    },
     "metaData": {
       "title": "Ola Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Ola Finance and get paid up to $10,000.",
