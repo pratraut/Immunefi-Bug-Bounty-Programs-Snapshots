@@ -608,7 +608,13 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "features": [
+        "Subscription Plan: Essential"
+      ],
+      "premiumTriaging": false,
+      "isSafeHarborActive": false
+    },
     "metaData": {
       "title": "Xterio Bug Bounties",
       "description": "Find bugs and vulnerabilities on Xterio and get paid up to $80,000.",
