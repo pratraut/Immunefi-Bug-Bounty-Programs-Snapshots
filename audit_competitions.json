@@ -1,63 +1,5 @@
 [
   {
-    "contentfulId": "5LqOVoeuw6tE0KBPtbjfav",
-    "id": "iop-zano",
-    "project": "IOP | Zano",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2UvftJe7XYAVH926tVd3Yq/e2c7302dea7cc9dd5caebc6f88993f56/zano.png",
-    "date": "2025-02-17T10:00:00.000Z",
-    "launchDate": "2025-02-17T10:00:00.000Z",
-    "endDate": "2025-03-10T14:00:00.000Z",
-    "updatedDate": "2025-02-28T10:45:28.071Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "C/C++"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-04-10T14:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 25000,
-    "sourceLinesOfCode": 5000,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "2guoEIPOYw11nTADTMem4K",
     "id": "stacks-attackathon-2",
     "project": "Attackathon | Stacks II",
@@ -141,7 +83,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "date": "2025-03-07T18:00:00.000Z",
     "launchDate": "2025-03-07T18:00:00.000Z",
     "endDate": "2025-04-04T18:00:00.000Z",
-    "updatedDate": "2025-03-09T09:02:58.197Z",
+    "updatedDate": "2025-03-10T11:23:09.118Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -208,12 +150,12 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "contentfulId": "JKXrUAJckDBf7c66aXAPF",
     "id": "audit-comp-yeet",
     "project": "Audit Comp | Yeet",
-    "maximum_reward": 30,
+    "maximum_reward": 30000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
     "date": "2025-03-11T14:00:00.000Z",
     "launchDate": "2025-03-11T14:00:00.000Z",
     "endDate": "2025-03-25T14:00:00.000Z",
-    "updatedDate": "2025-03-07T16:25:41.465Z",
+    "updatedDate": "2025-03-10T13:01:57.917Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -273,6 +215,64 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "rewardsBody": ""
   },
   {
+    "contentfulId": "5LqOVoeuw6tE0KBPtbjfav",
+    "id": "iop-zano",
+    "project": "IOP | Zano",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2UvftJe7XYAVH926tVd3Yq/e2c7302dea7cc9dd5caebc6f88993f56/zano.png",
+    "date": "2025-02-17T10:00:00.000Z",
+    "launchDate": "2025-02-17T10:00:00.000Z",
+    "endDate": "2025-03-10T14:00:00.000Z",
+    "updatedDate": "2025-02-28T10:45:28.071Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "C/C++"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-04-10T14:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 25000,
+    "sourceLinesOfCode": 5000,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
     "id": "audit-comp-shardeum-ancillaries-iii",
     "project": "Audit Comp | Shardeum: Ancillaries III",
@@ -281,7 +281,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "date": "2025-01-15T21:45:00.000Z",
     "launchDate": "2025-01-15T21:45:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-02-10T18:49:54.438Z",
+    "updatedDate": "2025-03-10T18:26:18.784Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -314,7 +314,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
+    "evaluationEndDate": "2025-03-17T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
 
 No KYC is required.
@@ -350,7 +350,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "date": "2025-01-15T21:44:00.000Z",
     "launchDate": "2025-01-15T21:44:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-02-10T18:50:37.815Z",
+    "updatedDate": "2025-03-10T18:25:41.463Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -382,7 +382,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-12T10:00:00.000Z",
+    "evaluationEndDate": "2025-03-17T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
 
 For more information about Shardeum, please visit https://shardeum.org/

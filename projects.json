@@ -1058,52 +1058,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "3k2ksVQuBWuV2t6GO0r0FO",
-    "id": "eigenlayer",
-    "project": "EigenLayer",
-    "maximum_reward": 2000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1fGXCRkOEb10n2rbNzZuEx/e1a710a7a3af9141424011913bbc58be/Eigenlayer_logo.jpeg",
-    "date": "2023-06-14T21:00:00.000Z",
-    "launchDate": "2023-06-14T21:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-05T04:40:25.058Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Restaking"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7tG50vrUH2wqGPBMvgYmOT",
     "id": "sweateconomy",
     "project": "Sweat Economy",
@@ -3043,7 +2997,7 @@
     "date": "2025-01-21T01:10:18.000Z",
     "launchDate": "2025-01-21T01:10:18.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-12T12:22:01.453Z",
+    "updatedDate": "2025-03-10T10:39:21.890Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4506,7 +4460,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-18T11:16:53.950Z",
+    "updatedDate": "2025-03-10T13:44:14.979Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4516,7 +4470,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Asset Management"
@@ -4538,7 +4493,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "4stvmZzuDFiH3lJ3NahK3E",
@@ -5993,8 +5948,7 @@
         "PoC Required",
         "Primacy of Impact",
         "Triaged by Immunefi",
-        "Arbitration",
-        "Vaults"
+        "Arbitration"
       ],
       "productType": [
         "Yield Aggregator"
@@ -9682,7 +9636,7 @@
     "date": "2021-06-09T07:00:00.000Z",
     "launchDate": "2021-06-09T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-24T09:38:02.946Z",
+    "updatedDate": "2025-03-10T10:17:52.020Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -14090,7 +14044,7 @@
     "date": "2023-12-04T09:00:00.000Z",
     "launchDate": "2023-12-04T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T13:58:04.455Z",
+    "updatedDate": "2025-03-10T03:52:50.225Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"
@@ -14809,6 +14763,57 @@
       ]
     },
     "premiumTriaging": null
+  },
+  {
+    "contentfulId": "4pspSoJaelRH5xBmQ4QDrf",
+    "id": "qblockchain",
+    "project": "Q Blockchain",
+    "maximum_reward": 5000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/DqPeHRrQH2BBseNdVHUtU/2d0ce9422603fa7ccaa43a972d468b0c/Q_Logo_RGB_Blue.svg",
+    "date": "2022-09-06T17:30:00.000Z",
+    "launchDate": "2022-09-06T17:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-03-10T15:31:14.294Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Bridge",
+        "L1",
+        "Yield Aggregator"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Q"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "NextJS",
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
   },
   {
     "contentfulId": "6ZgCfC37kHUTchVgY2Bg7t",
