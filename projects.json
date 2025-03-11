@@ -6811,48 +6811,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "30UQU3vtyWykpfH4ITqhdE",
-    "id": "granite-protocol",
-    "project": "Granite Protocol",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3fdopun3Bz1q6QKlheZ9Qm/62bce98dda30c5ee99ffa4baa9593945/Granite_Protocol.png",
-    "date": "2025-02-26T15:58:00.000Z",
-    "launchDate": "2025-02-26T15:58:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-26T16:58:09.988Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Stacks"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "5dQ0rFmlbPuB8XNeDBHKoe",
     "id": "nftx",
     "project": "NFTX",
@@ -11725,7 +11683,7 @@
     "date": "2020-12-02T05:00:00.000Z",
     "launchDate": "2020-12-02T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-22T14:10:02.644Z",
+    "updatedDate": "2025-03-11T17:22:34.827Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
