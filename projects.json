@@ -322,7 +322,7 @@
     "date": "2022-02-11T15:00:00.000Z",
     "launchDate": "2022-02-11T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-12T10:52:27.953Z",
+    "updatedDate": "2025-03-12T03:46:13.684Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -747,7 +747,7 @@
     "date": "2021-08-04T17:00:00.000Z",
     "launchDate": "2021-08-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-15T14:49:12.027Z",
+    "updatedDate": "2025-03-12T08:27:40.760Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -760,6 +760,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
+        "Triaged by Immunefi",
         "Vaults"
       ],
       "productType": [
@@ -790,7 +791,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "7wv5tzP2imO90TO80ARNoa",
@@ -1346,7 +1347,7 @@
     "date": "2024-12-04T16:58:00.000Z",
     "launchDate": "2024-12-04T16:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-02T09:43:32.913Z",
+    "updatedDate": "2025-03-12T07:32:43.624Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -1801,7 +1802,7 @@
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-27T16:09:33.347Z",
+    "updatedDate": "2025-03-12T08:20:36.607Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -4460,7 +4461,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-10T13:44:14.979Z",
+    "updatedDate": "2025-03-12T11:50:52.912Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6957,7 +6958,7 @@
     "date": "2022-07-01T16:30:00.000Z",
     "launchDate": "2022-07-01T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-10T18:16:17.818Z",
+    "updatedDate": "2025-03-12T16:13:10.157Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -8205,6 +8206,49 @@
         "Smart Contract"
       ],
       "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3k2ksVQuBWuV2t6GO0r0FO",
+    "id": "eigenlayer",
+    "project": "EigenLayer",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1fGXCRkOEb10n2rbNzZuEx/e1a710a7a3af9141424011913bbc58be/Eigenlayer_logo.jpeg",
+    "date": "2023-06-14T21:00:00.000Z",
+    "launchDate": "2023-06-14T21:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-03-12T08:09:39.055Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Restaking"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "JavaScript",
         "Solidity"
       ],
       "featured": [
@@ -12142,7 +12186,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
