@@ -4687,10 +4687,11 @@
     "date": "2025-02-10T03:45:00.000Z",
     "launchDate": "2025-02-10T03:45:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-12T07:01:26.890Z",
+    "updatedDate": "2025-03-13T14:43:47.086Z",
     "kyc": false,
     "technologies": [
-      "Smart Contract"
+      "Smart Contract",
+      "Blockchain/DLT"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -4704,7 +4705,8 @@
       "projectType": [],
       "ecosystem": [],
       "programType": [
-        "Smart Contract"
+        "Smart Contract",
+        "Blockchain/DLT"
       ],
       "language": [],
       "featured": [
@@ -4950,7 +4952,7 @@
     "date": "2024-07-16T12:00:00.000Z",
     "launchDate": "2024-07-16T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-05T04:45:42.223Z",
+    "updatedDate": "2025-03-13T14:55:00.021Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
