@@ -78,12 +78,12 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "contentfulId": "JKXrUAJckDBf7c66aXAPF",
     "id": "audit-comp-yeet",
     "project": "Audit Comp | Yeet",
-    "maximum_reward": 30000,
+    "maximum_reward": 30,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
     "date": "2025-03-11T14:00:00.000Z",
     "launchDate": "2025-03-11T14:00:00.000Z",
     "endDate": "2025-03-25T14:00:00.000Z",
-    "updatedDate": "2025-03-10T13:01:57.917Z",
+    "updatedDate": "2025-03-17T13:30:13.423Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -274,7 +274,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "date": "2025-01-15T21:45:00.000Z",
     "launchDate": "2025-01-15T21:45:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-10T18:26:18.784Z",
+    "updatedDate": "2025-03-17T14:13:45.792Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -307,7 +307,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-17T10:00:00.000Z",
+    "evaluationEndDate": "2025-03-24T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
 
 No KYC is required.
@@ -343,7 +343,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "date": "2025-01-15T21:44:00.000Z",
     "launchDate": "2025-01-15T21:44:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-10T18:25:41.463Z",
+    "updatedDate": "2025-03-17T14:14:33.946Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -375,7 +375,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-17T10:00:00.000Z",
+    "evaluationEndDate": "2025-03-24T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
 
 For more information about Shardeum, please visit https://shardeum.org/

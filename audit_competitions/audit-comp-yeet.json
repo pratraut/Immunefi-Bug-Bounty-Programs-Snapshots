@@ -17,11 +17,11 @@
       "id": "audit-comp-yeet",
       "slug": "audit-comp-yeet",
       "project": "Audit Comp | Yeet",
-      "maxBounty": 30000,
+      "maxBounty": 30,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
       "launchDate": "2025-03-11T14:00:00.000Z",
       "endDate": "2025-03-25T14:00:00.000Z",
-      "updatedDate": "2025-03-10T13:01:57.917Z",
+      "updatedDate": "2025-03-17T13:30:13.423Z",
       "kyc": false,
       "rewards": [
         {
@@ -243,7 +243,7 @@
       ],
       "programOverview": "Your favorite Bonzi on berachain. Yeet is a gamified DeFi protocol in the Berachain ecosystem with no dominant game theoretic strategy. Players can win or lose money in a variety of different ways, and employ multiple types of tactics whilst playing.\n\nFor more information about Yeet, please visit https://www.yeetit.xyz/",
       "prioritizedVulnerabilities": "To be determined",
-      "rewardsBody": "**Reward pool:**\n\nIf bugs are found → USD $30k (see [Immunefi’s Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms))\n\nIf not a single bug is found (Insights do not count as bugs) the reward pool is (15% of the max Reward Pool) → $4.5k.\n\nDuplicate submissions of bugs are valid. Duplicate submissions of Insights are invalid.\n\nPrivate known issues, meaning known issues that were not publicly disclosed, are valid and unlock the corresponding reward pool.\n\nYeet rewards are denominated in USD and distributed in USDC on Ethereum\n\n**Proof of Concept (PoC) Requirements**\n\nFor this program, runnable PoC code is not required. Whitehats are instead required to write a step-by-step explanation of the PoC and impact.",
+      "rewardsBody": "**Reward pool:**\n\nIf bugs are found → USD $30k (see [Immunefi’s Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms))\n\nIf not a single bug is found (Insights do not count as bugs) the reward pool is (15% of the max Reward Pool) → $4.5k.\n\nDuplicate submissions of bugs are valid. Duplicate submissions of Insights are invalid.\n\nPrivate known issues, meaning known issues that were not publicly disclosed, are valid and unlock the corresponding reward pool.\n\nYeet rewards are denominated in USD and distributed in USDC on Ethereum\n\n**Proof of Concept (PoC) Requirements**\n\nFor this program, runnable PoC code is not required. Whitehats are instead required to write a step-by-step explanation of the PoC and impact\nThis explanation needs to be entered in the PoC section of the submission wizard to prevent the submission from being excluded by our OOS filter.",
       "outOfScopeAndRules": "To be determined",
       "assetsBodyV2": "**Is this an upgrade of an existing system? If so, which? And what are the main differences?**\n\nNo\n\n**What ERC20 / ERC721 / ERC777 / ERC1155 token standards are supported?**\n\nERC4626, ERC-20\n\n**What emergency actions may you want to use as a reason to downgrade an otherwise valid bug report?**\n\nIf there are configurations that we can change that would mitigate affected areas. Pausing the game or changing game settings for example.\n\n**What addresses would you consider any bug report requiring their involvement to be out of scope, as long as they operate within the privileges attributed to them?**\n\nAny addresses controlled by the team—whether an EOA with elevated access or a multisig—would not typically be considered in scope for a bug report, as long as the team retains control over them.\n\n**What addresses would you consider any bug report requiring their involvement be out of scope, even if they exceed the privileges attributed to them?**\n\nAny addresses controlled by the team—whether an EOA with elevated access or a multisig—would not typically be considered in scope for a bug report, as long as the team retains control over them.\n\n**Which chains and/or networks will the code in scope be deployed to?**\n\nBerachain\n\n**What external dependencies are there?**\n\ndocs.oogabooga.io, \ndocs.pyth.network/entropy, \nhttps://www.beradrome.com/ \nhttps://kodiak.finance/\n\n**Are there any unusual points about your protocol that may confuse Security Researchers?**\n\nNo\n\n**What are the most valuable educational resources already available? (Ie. Documentation, Explainer videos or articles, etc)**\n\ndocs.yeetit.xyz",
       "impactsBody": "**Build Commands, Test Commands, and How to Run Them**\n\nforge build, forge test.\n\n**Asset Accuracy Assurance**\n\nBugs found on assets incorrectly listed in-scope are valid.\n\n**Code Freeze Assurance**\n\nCode of the assets in scope is frozen while the program is live.\n\n- Duplicate submissions of bugs are valid. Duplicate submissions of Insights are invalid.\n\n- The project commits to keeping private all info related to bug findings until this program is over. This means the project will not leak info about any bug findings or planned bug fixes, including bug findings found independently by the project or from concurrent private audits.",
@@ -349,7 +349,7 @@
     },
     "metaData": {
       "title": "Audit Comp | Yeet Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Audit Comp | Yeet and get paid up to $30,000.",
+      "description": "Find bugs and vulnerabilities on Audit Comp | Yeet and get paid up to $30.",
       "url": "https://immunefi.com/audit-competition/audit-comp-yeet",
       "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Yeet"
     }
