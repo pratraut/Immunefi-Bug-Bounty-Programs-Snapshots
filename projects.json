@@ -747,7 +747,7 @@
     "date": "2021-08-04T17:00:00.000Z",
     "launchDate": "2021-08-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-12T08:27:40.760Z",
+    "updatedDate": "2025-03-18T15:29:19.883Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3418,7 +3418,7 @@
     "date": "2023-11-28T14:00:00.000Z",
     "launchDate": "2023-11-28T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-18T09:17:31.199Z",
+    "updatedDate": "2025-03-18T13:56:04.710Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -3447,7 +3447,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": null
+    "premiumTriaging": false
   },
   {
     "contentfulId": "7JaV6WUrrwRAbA2tk5ywRE",
@@ -9638,7 +9638,7 @@
     "date": "2021-06-09T07:00:00.000Z",
     "launchDate": "2021-06-09T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-18T05:23:28.175Z",
+    "updatedDate": "2025-03-18T13:55:07.121Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -13683,6 +13683,46 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3BdWjgw4Oj55bYeulzSWzX",
+    "id": "berachain-webapps",
+    "project": "Berachain (Web/Apps)",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2diXYoF3V6dLx321wM3wvg/bfb6686f0481055416ee5c2977a5a2a3/Berachain.png",
+    "date": "2025-03-18T09:00:00.000Z",
+    "launchDate": "2025-03-18T09:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-03-18T13:55:27.940Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Infrastructure"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "3rmPcpKzYQ8bchp8QvptbY",
