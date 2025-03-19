@@ -6861,52 +6861,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "1x07EhiIckcDqpiFnRfWKs",
-    "id": "alongside",
-    "project": "Alongside",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3hVvpMi8cvuvdkqtHRbXts/1a45b75c813f1ed274abf5196e5b5d56/AMKT-Square.png",
-    "date": "2023-11-02T19:00:00.000Z",
-    "launchDate": "2023-11-02T19:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T14:13:45.055Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Vaults"
-      ],
-      "productType": [
-        "Asset Management",
-        "DAO",
-        "Derivatives"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "4EaCMKaIS3LZaUlyc0pwe4",
     "id": "filecoin",
     "project": "Filecoin",
@@ -8386,51 +8340,6 @@
       "ecosystem": [
         "ETH",
         "Optimism"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "13qdBk6fj6YMTPfgO6HZCb",
-    "id": "pods",
-    "project": "Pods",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2HNgiB8jmI9Wq4dU3C3bu/565e3bd8490b35e7fd054cd850b34b15/Pods-logo.jpg",
-    "date": "2023-01-12T19:00:00.000Z",
-    "launchDate": "2023-01-12T19:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-08T20:26:39.898Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Yield Aggregator",
-        "Derivatives"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
       ],
       "programType": [
         "Smart Contract",
@@ -13693,7 +13602,7 @@
     "date": "2025-03-18T09:00:00.000Z",
     "launchDate": "2025-03-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-18T13:55:27.940Z",
+    "updatedDate": "2025-03-19T15:02:41.217Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"
@@ -14358,52 +14267,6 @@
       ],
       "language": [
         "Kotlin"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "77cE1zzAB8uHgo0tAqiGFa",
-    "id": "duetfinance",
-    "project": "Duet Finance",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vXimJyIxov2NZPVOHsVQY/fecd254c57b0ee292780cd6ae32f8f90/Duet_Finance_logo.jpeg",
-    "date": "2022-02-15T04:00:00.000Z",
-    "launchDate": "2022-02-15T04:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-05T18:28:54.181Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "AMM",
-        "DAO",
-        "Synthetic Assets",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "BSC"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
