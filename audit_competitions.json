@@ -61,6 +61,81 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "premiumTriaging": true
   },
   {
+    "contentfulId": "2guoEIPOYw11nTADTMem4K",
+    "id": "stacks-attackathon-2",
+    "project": "Attackathon | Stacks II",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7k7Y3ozFznu7BV69YN9Bpz/e0a8ac082886c5c1be6fb64e19325fa1/Stacks_Logo.png",
+    "date": "2025-02-24T08:00:00.000Z",
+    "launchDate": "2025-02-24T08:00:00.000Z",
+    "endDate": "2025-03-27T08:00:00.000Z",
+    "updatedDate": "2025-03-20T20:04:00.707Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [],
+      "ecosystem": [
+        "Bitcoin",
+        "Stacks"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Rust",
+        "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-04-17T08:00:00.000Z",
+    "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
+
+On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
+
+The scope is the complete sBTC upgrade, including new features, new code and bug fixes added since Stack's 1st Attackathon.
+
+[Sign up for Stacks' 2nd Attackathon](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
+    "boostedIntroLive": "A flat **$250,000 USD** is in rewards for finding bugs on the Stacks sBTC upgrade.
+
+**On top of the above rewards**, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
+
+You can ask technical questions to the Stacks team directly in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "STX",
+    "rewardsPool": 250000,
+    "sourceLinesOfCode": 38000,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Vault",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": "2025-02-12T11:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
     "id": "movement-labs-attackathon",
     "project": "Attackathon | Movement Labs",
@@ -133,81 +208,6 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "premiumTriaging": true
   },
   {
-    "contentfulId": "2guoEIPOYw11nTADTMem4K",
-    "id": "stacks-attackathon-2",
-    "project": "Attackathon | Stacks II",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7k7Y3ozFznu7BV69YN9Bpz/e0a8ac082886c5c1be6fb64e19325fa1/Stacks_Logo.png",
-    "date": "2025-02-24T08:00:00.000Z",
-    "launchDate": "2025-02-24T08:00:00.000Z",
-    "endDate": "2025-03-20T08:00:00.000Z",
-    "updatedDate": "2025-02-26T06:22:04.153Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [],
-      "ecosystem": [
-        "Bitcoin",
-        "Stacks"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust",
-        "Clarity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-04-10T08:00:00.000Z",
-    "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
-
-On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
-
-The scope is the complete sBTC upgrade, including new features, new code and bug fixes added since Stack's 1st Attackathon.
-
-[Sign up for Stacks' 2nd Attackathon](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
-    "boostedIntroLive": "A flat **$250,000 USD** is in rewards for finding bugs on the Stacks sBTC upgrade.
-
-**On top of the above rewards**, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
-
-You can ask technical questions to the Stacks team directly in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "STX",
-    "rewardsPool": 250000,
-    "sourceLinesOfCode": 38000,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Vault",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": "2025-02-12T11:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "5LqOVoeuw6tE0KBPtbjfav",
     "id": "iop-zano",
     "project": "IOP | Zano",
@@ -275,7 +275,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "date": "2025-01-15T21:45:00.000Z",
     "launchDate": "2025-01-15T21:45:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-17T14:13:45.792Z",
+    "updatedDate": "2025-03-21T11:22:58.027Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -308,7 +308,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-24T10:00:00.000Z",
+    "evaluationEndDate": "2025-03-28T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
 
 No KYC is required.
@@ -344,7 +344,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "date": "2025-01-15T21:44:00.000Z",
     "launchDate": "2025-01-15T21:44:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-17T14:14:33.946Z",
+    "updatedDate": "2025-03-21T11:21:40.581Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -355,7 +355,8 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "L1"
@@ -376,7 +377,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-24T10:00:00.000Z",
+    "evaluationEndDate": "2025-03-28T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
 
 For more information about Shardeum, please visit https://shardeum.org/
