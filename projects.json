@@ -1300,7 +1300,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:51:51.782Z",
+    "updatedDate": "2025-03-22T10:47:08.260Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1311,7 +1311,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required"
+        "PoC Required",
+        "Triaged by Immunefi"
       ],
       "productType": [
         "DAO",
@@ -1336,7 +1337,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "7aG6gVhCTGHgv1jcLUTyvz",
@@ -4409,11 +4410,11 @@
     "id": "badger",
     "project": "Badger DAO",
     "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/YTJQeFFqEJVGTiAwSXLbS/ec3860feb1cace5ef1c29ea3d9178177/Badger-logo.jpg",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2I5ZKJi2QOmP5HdH5u6nWp/9f2ca7210ef9111416a8c640c8a425e4/badger.png",
     "date": "2021-01-08T07:00:00.000Z",
     "launchDate": "2021-01-08T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-03T07:13:40.766Z",
+    "updatedDate": "2025-03-21T18:55:35.446Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
