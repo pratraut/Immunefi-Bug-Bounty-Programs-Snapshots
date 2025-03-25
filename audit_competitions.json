@@ -1,66 +1,5 @@
 [
   {
-    "contentfulId": "JKXrUAJckDBf7c66aXAPF",
-    "id": "audit-comp-yeet",
-    "project": "Audit Comp | Yeet",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
-    "date": "2025-03-11T14:00:00.000Z",
-    "launchDate": "2025-03-11T14:00:00.000Z",
-    "endDate": "2025-03-25T14:00:00.000Z",
-    "updatedDate": "2025-03-24T11:06:24.437Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-04-25T14:00:00.000Z",
-    "boostedIntroStartingIn": "$30,000 USD in rewards available for finding bugs on Yeet smart contracts.
-
-KYC is not required.
-
-Yeet will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Yeet technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"yeet-audit-comp\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 1538,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Vault",
-      "Managed Triage: Signal Booster"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "2guoEIPOYw11nTADTMem4K",
     "id": "stacks-attackathon-2",
     "project": "Attackathon | Stacks II",
@@ -208,6 +147,67 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "premiumTriaging": true
   },
   {
+    "contentfulId": "JKXrUAJckDBf7c66aXAPF",
+    "id": "audit-comp-yeet",
+    "project": "Audit Comp | Yeet",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
+    "date": "2025-03-11T14:00:00.000Z",
+    "launchDate": "2025-03-11T14:00:00.000Z",
+    "endDate": "2025-03-25T14:00:00.000Z",
+    "updatedDate": "2025-03-24T11:06:24.437Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-04-25T14:00:00.000Z",
+    "boostedIntroStartingIn": "$30,000 USD in rewards available for finding bugs on Yeet smart contracts.
+
+KYC is not required.
+
+Yeet will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Yeet technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"yeet-audit-comp\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 1538,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Vault",
+      "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "5LqOVoeuw6tE0KBPtbjfav",
     "id": "iop-zano",
     "project": "IOP | Zano",
@@ -227,8 +227,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required",
-        "Vaults"
+        "PoC Required"
       ],
       "productType": [
         "L1"
