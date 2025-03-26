@@ -208,64 +208,6 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "premiumTriaging": true
   },
   {
-    "contentfulId": "5LqOVoeuw6tE0KBPtbjfav",
-    "id": "iop-zano",
-    "project": "IOP | Zano",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2UvftJe7XYAVH926tVd3Yq/e2c7302dea7cc9dd5caebc6f88993f56/zano.png",
-    "date": "2025-02-17T10:00:00.000Z",
-    "launchDate": "2025-02-17T10:00:00.000Z",
-    "endDate": "2025-03-10T14:00:00.000Z",
-    "updatedDate": "2025-02-28T10:45:28.071Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "C/C++"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-04-10T14:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 25000,
-    "sourceLinesOfCode": 5000,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
     "id": "audit-comp-shardeum-ancillaries-iii",
     "project": "Audit Comp | Shardeum: Ancillaries III",
@@ -494,6 +436,85 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
     "premiumTriaging": true
+  },
+  {
+    "contentfulId": "5LqOVoeuw6tE0KBPtbjfav",
+    "id": "iop-zano",
+    "project": "IOP | Zano",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2UvftJe7XYAVH926tVd3Yq/e2c7302dea7cc9dd5caebc6f88993f56/zano.png",
+    "date": "2025-02-17T10:00:00.000Z",
+    "launchDate": "2025-02-17T10:00:00.000Z",
+    "endDate": "2025-03-10T14:00:00.000Z",
+    "updatedDate": "2025-03-26T17:01:27.321Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "C/C++"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-03-26T14:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Invite-Only-Program cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1oUpt-4gLND-g4xQbzCCDbUmM9psCSu2Z). The amounts show $5K in guaranteed rewards per SR and a $15K reward pool distributed according to the [Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms).
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/zano-iop).",
+    "rewardsToken": "USDC",
+    "rewardsPool": 25000,
+    "sourceLinesOfCode": 5000,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1R8jcc5_vFfCdR4jAmtfEGvmCoa2j0dJe/view",
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": [
+      {
+        "high": 1,
+        "name": "jovi",
+        "critical": 0,
+        "earnings": 14533,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Blockian",
+        "critical": 0,
+        "earnings": 467,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
+    "features": [
+      "IOP (Invite Only Program)"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": false
   },
   {
     "contentfulId": "4mRo81Up34VFQZKJHeBip5",

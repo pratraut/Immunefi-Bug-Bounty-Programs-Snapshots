@@ -19,7 +19,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2UvftJe7XYAVH926tVd3Yq/e2c7302dea7cc9dd5caebc6f88993f56/zano.png",
       "launchDate": "2025-02-17T10:00:00.000Z",
       "endDate": "2025-03-10T14:00:00.000Z",
-      "updatedDate": "2025-02-28T10:45:28.071Z",
+      "updatedDate": "2025-03-26T17:01:27.321Z",
       "kyc": true,
       "rewards": [
         {
@@ -341,18 +341,37 @@
           }
         ]
       },
-      "evaluationEndDate": "2025-04-10T14:00:00.000Z",
+      "evaluationEndDate": "2025-03-26T14:00:00.000Z",
       "boostedIntroStartingIn": "",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Invite-Only-Program cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1oUpt-4gLND-g4xQbzCCDbUmM9psCSu2Z). The amounts show $5K in guaranteed rewards per SR and a $15K reward pool distributed according to the [Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms).\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/zano-iop).",
       "rewardsToken": "USDC",
       "rewardsPool": 25000,
       "sourceLinesOfCode": 5000,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1R8jcc5_vFfCdR4jAmtfEGvmCoa2j0dJe/view",
       "inviteOnly": true,
       "hideAssetsInScope": true,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 1,
+          "name": "jovi",
+          "critical": 0,
+          "earnings": 14533,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Blockian",
+          "critical": 0,
+          "earnings": 467,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "IOP (Invite Only Program)"
       ],
