@@ -747,7 +747,7 @@
     "date": "2021-08-04T17:00:00.000Z",
     "launchDate": "2021-08-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-18T15:29:19.883Z",
+    "updatedDate": "2025-03-26T07:32:16.234Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1539,7 +1539,7 @@
     "date": "2024-12-11T16:28:00.000Z",
     "launchDate": "2024-12-11T16:28:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-11T16:29:11.671Z",
+    "updatedDate": "2025-03-26T00:54:32.767Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -4594,7 +4594,7 @@
     "date": "2022-08-25T07:00:00.000Z",
     "launchDate": "2022-08-25T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:36:35.724Z",
+    "updatedDate": "2025-03-26T01:31:50.121Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4605,6 +4605,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
+        "Triaged by Immunefi",
         "Arbitration",
         "Vaults"
       ],
@@ -4631,7 +4632,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "4bPBhzeazFVzRkZqbhvfJg",
@@ -8222,7 +8223,7 @@
     "date": "2023-06-14T21:00:00.000Z",
     "launchDate": "2023-06-14T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-12T08:09:39.055Z",
+    "updatedDate": "2025-03-26T07:26:36.286Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -9892,7 +9893,7 @@
     "date": "2024-07-08T10:30:00.000Z",
     "launchDate": "2024-07-08T10:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-28T11:36:29.508Z",
+    "updatedDate": "2025-03-26T04:46:57.669Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -13597,7 +13598,7 @@
     "date": "2025-03-18T09:00:00.000Z",
     "launchDate": "2025-03-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-25T11:45:06.240Z",
+    "updatedDate": "2025-03-25T21:32:16.814Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"

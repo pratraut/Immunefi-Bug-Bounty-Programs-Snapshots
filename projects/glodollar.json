@@ -245,11 +245,7 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": {
-      "features": [],
-      "premiumTriaging": false,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Glo Dollar Bug Bounties",
       "description": "Find bugs and vulnerabilities on Glo Dollar and get paid up to $50,000.",
