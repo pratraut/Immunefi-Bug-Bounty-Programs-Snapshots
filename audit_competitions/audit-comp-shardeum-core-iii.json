@@ -20,7 +20,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2RGZifA5Y7aVEVItpmE3ST/08f7b34f881a614a49730ff91f64dbfc/4B19YQz__400x400.png",
       "launchDate": "2025-01-15T21:44:00.000Z",
       "endDate": "2025-02-12T17:00:00.000Z",
-      "updatedDate": "2025-03-21T11:21:40.581Z",
+      "updatedDate": "2025-03-27T18:51:19.274Z",
       "kyc": false,
       "rewards": [
         {
@@ -237,7 +237,7 @@
         "smartcontract_rewards": [],
         "web_rewards": []
       },
-      "evaluationEndDate": "2025-03-28T10:00:00.000Z",
+      "evaluationEndDate": "2025-04-01T10:00:00.000Z",
       "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.\n\nFor more information about Shardeum, please visit https://shardeum.org/\n\nNo KYC is required.\n\nAny technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-iii-audit-competition\" channel.\n\nNote:\nWhitehats, to join the testnet that Shardeum will be running, please ping the project team here in the Discord channel to get your EVM address whitelisted. Alternatively, you can DM the Shardeum Team for assistance.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\nShardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.\n\nJoin our Discord for more updates.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",

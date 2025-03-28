@@ -1360,7 +1360,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "Stablecoin"
@@ -2591,14 +2592,14 @@
   },
   {
     "contentfulId": "5hGeEYBaimwrEqTPdcs5B7",
-    "id": "origindefi",
+    "id": "originprotocol",
     "project": "Origin Protocol",
     "maximum_reward": 1000000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/V5uJkzVDim5cy4syFWXHn/081f82c419fd83a700d15a8c80e46eb6/ognresized.png",
     "date": "2021-11-22T07:15:00.000Z",
     "launchDate": "2021-11-22T07:15:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-06T06:49:06.135Z",
+    "updatedDate": "2025-03-27T04:11:25.670Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7277,52 +7278,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "1TwVacL83Wjb83NmpQ8DNe",
-    "id": "termstructurelabs",
-    "project": "Term Structure Labs",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5TIaWxbM1WD1RGRYe2e6iu/115df1c11ffc0241cf375e7aa010e799/izMPc8Ke_400x400.png",
-    "date": "2024-06-12T03:22:00.000Z",
-    "launchDate": "2024-06-12T03:22:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-24T15:51:44.338Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Arbitration"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "2UM6ZJsDWnsUZ9RnbXCnBZ",
     "id": "arkadiko",
     "project": "Arkadiko",
@@ -10306,6 +10261,50 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "1TwVacL83Wjb83NmpQ8DNe",
+    "id": "termstructurelabs",
+    "project": "TermMax",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6rB2UnvCtcaZKo2NLotubD/287fcccf956bc219626bbc5792446bfa/TermMax-Logo-transparent.png",
+    "date": "2024-06-12T03:22:00.000Z",
+    "launchDate": "2024-06-12T03:22:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-03-28T08:12:10.460Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Primacy of Impact",
+        "Arbitration"
+      ],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "726D9ls5tKdv1wVhZSWGLh",
     "id": "cove",
     "project": "Cove",
@@ -10761,7 +10760,7 @@
     "date": "2023-05-23T11:00:00.000Z",
     "launchDate": "2023-05-23T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T14:11:02.253Z",
+    "updatedDate": "2025-03-27T17:47:00.499Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -12887,7 +12886,7 @@
     "date": "2021-11-15T15:00:00.000Z",
     "launchDate": "2021-11-15T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-14T13:40:03.830Z",
+    "updatedDate": "2025-03-28T16:29:48.628Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -13982,58 +13981,6 @@
       ]
     },
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "66rNNDUFFR8zNOhW4N03xE",
-    "id": "dodov3",
-    "project": "DODO V3",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4sFrO9aAWCFKq0DfA1A731/e53371efe3c81a848b9a81839c76003b/Dodo.png",
-    "date": "2023-11-29T09:00:00.000Z",
-    "launchDate": "2023-11-29T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T12:08:55.441Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Crosschain Liquidity",
-        "DEX",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Aurora",
-        "Avalanche",
-        "Base",
-        "ETH",
-        "Linea",
-        "Optimism",
-        "Polygon",
-        "Scroll"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "EKIiouzPOBlw9bgCEkqjO",

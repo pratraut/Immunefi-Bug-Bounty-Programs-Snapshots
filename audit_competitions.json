@@ -1,5 +1,212 @@
 [
   {
+    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
+    "id": "movement-labs-attackathon",
+    "project": "Attackathon | Movement Labs",
+    "maximum_reward": 400000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
+    "date": "2025-03-07T18:00:00.000Z",
+    "launchDate": "2025-03-07T18:00:00.000Z",
+    "endDate": "2025-04-04T18:00:00.000Z",
+    "updatedDate": "2025-03-20T17:42:10.676Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Move",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-05-07T18:00:36.000Z",
+    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
+
+March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
+
+Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 400000,
+    "sourceLinesOfCode": 48884,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2025-03-06T16:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "194xuCBDnCLZE5ggR4PYDr",
+    "id": "audit-comp-spectra-finance",
+    "project": "Audit Comp | Spectra Finance",
+    "maximum_reward": 40000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/66EpjCkt0P3hOk8Bd6zd6Y/7fa614a2ce84e59b551dd90458cf47b5/Spectra-Finance_Logo_Black.png",
+    "date": "2025-04-03T14:00:00.000Z",
+    "launchDate": "2025-04-03T14:00:00.000Z",
+    "endDate": "2025-04-17T14:00:00.000Z",
+    "updatedDate": "2025-03-28T16:27:23.133Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-05-17T14:00:00.000Z",
+    "boostedIntroStartingIn": "**$40,000 USD** in rewards is available for finding bugs on Spectra Finance contract. 
+
+For more information, please visit  about [Spectra Finance](https://www.spectra.finance/)
+
+Any technical questions can be asked directly to the Spectra Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/channels/787092485969150012/1355219052267831459) in the \"spectra-audit-comp\" channel.",
+    "boostedIntroLive": "**$40,000 USD** in rewards is available for finding bugs on Spectra contracts. 
+
+For more information, please visit about [Spectra Finance](https://www.spectra.finance/)
+
+Any technical questions and support requests can be asked directly to Spectra Finance or Immunefi in the [Spectra Finance Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1355219052267831459).
+
+When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Spectra Finance's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 40000,
+    "sourceLinesOfCode": 2395,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Signal Booster",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
+    "contentfulId": "JKXrUAJckDBf7c66aXAPF",
+    "id": "audit-comp-yeet",
+    "project": "Audit Comp | Yeet",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
+    "date": "2025-03-11T14:00:00.000Z",
+    "launchDate": "2025-03-11T14:00:00.000Z",
+    "endDate": "2025-03-25T14:00:00.000Z",
+    "updatedDate": "2025-03-24T11:06:24.437Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-04-25T14:00:00.000Z",
+    "boostedIntroStartingIn": "$30,000 USD in rewards available for finding bugs on Yeet smart contracts.
+
+KYC is not required.
+
+Yeet will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Yeet technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"yeet-audit-comp\" channel.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "sourceLinesOfCode": 1538,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Vault",
+      "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "2guoEIPOYw11nTADTMem4K",
     "id": "stacks-attackathon-2",
     "project": "Attackathon | Stacks II",
@@ -75,139 +282,6 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "premiumTriaging": true
   },
   {
-    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
-    "id": "movement-labs-attackathon",
-    "project": "Attackathon | Movement Labs",
-    "maximum_reward": 400000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
-    "date": "2025-03-07T18:00:00.000Z",
-    "launchDate": "2025-03-07T18:00:00.000Z",
-    "endDate": "2025-04-04T18:00:00.000Z",
-    "updatedDate": "2025-03-20T17:42:10.676Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Move",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-05-07T18:00:36.000Z",
-    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
-
-March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
-
-Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 400000,
-    "sourceLinesOfCode": 48884,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": "2025-03-06T16:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "JKXrUAJckDBf7c66aXAPF",
-    "id": "audit-comp-yeet",
-    "project": "Audit Comp | Yeet",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
-    "date": "2025-03-11T14:00:00.000Z",
-    "launchDate": "2025-03-11T14:00:00.000Z",
-    "endDate": "2025-03-25T14:00:00.000Z",
-    "updatedDate": "2025-03-24T11:06:24.437Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-04-25T14:00:00.000Z",
-    "boostedIntroStartingIn": "$30,000 USD in rewards available for finding bugs on Yeet smart contracts.
-
-KYC is not required.
-
-Yeet will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Yeet technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"yeet-audit-comp\" channel.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "sourceLinesOfCode": 1538,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Vault",
-      "Managed Triage: Signal Booster"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
     "id": "audit-comp-shardeum-ancillaries-iii",
     "project": "Audit Comp | Shardeum: Ancillaries III",
@@ -216,7 +290,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "date": "2025-01-15T21:45:00.000Z",
     "launchDate": "2025-01-15T21:45:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-21T11:22:58.027Z",
+    "updatedDate": "2025-03-27T18:52:11.292Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -249,7 +323,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-28T10:00:00.000Z",
+    "evaluationEndDate": "2025-04-01T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
 
 No KYC is required.
@@ -285,7 +359,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "date": "2025-01-15T21:44:00.000Z",
     "launchDate": "2025-01-15T21:44:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-21T11:21:40.581Z",
+    "updatedDate": "2025-03-27T18:51:19.274Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -318,7 +392,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-28T10:00:00.000Z",
+    "evaluationEndDate": "2025-04-01T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
 
 For more information about Shardeum, please visit https://shardeum.org/
@@ -397,7 +471,7 @@ Join our Discord for more updates.",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-03-28T14:00:00.000Z",
+    "evaluationEndDate": "2025-04-02T14:00:00.000Z",
     "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
 
 When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
@@ -421,11 +495,12 @@ You can ask the Ethereum Protocol team any questions directly in the [Ethereum A
 
 After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Attackathon Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1gFH-tCNRMzAcbT1xPF3BgIqFI6gDK_G7?usp=sharing).
+All paid bug reports are available in original format [here](https://reports.immunefi.com/ethereum-protocol-attackathon)",
     "rewardsToken": "ETH",
     "rewardsPool": 1500000,
     "sourceLinesOfCode": 0,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/15lCy1jza9MsnDooWmponwdaTq_EjV2-m/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": [],
