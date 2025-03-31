@@ -20,7 +20,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
       "launchDate": "2025-01-15T21:45:00.000Z",
       "endDate": "2025-02-12T17:00:00.000Z",
-      "updatedDate": "2025-03-27T18:52:11.292Z",
+      "updatedDate": "2025-03-31T17:47:16.075Z",
       "kyc": false,
       "rewards": [
         {
@@ -280,18 +280,82 @@
           }
         ]
       },
-      "evaluationEndDate": "2025-04-01T10:00:00.000Z",
+      "evaluationEndDate": "2025-03-31T17:47:10.219Z",
       "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.\n\nNo KYC is required.\n\nAny technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-iii-audit-competition\" channel.\n\nShardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/11ltDwfWK0Ow799N_FY9oZ8Bpk8Oynj5p?usp=sharing). \n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/shardeum-ancillaries-iii)",
       "rewardsToken": "USDC",
       "rewardsPool": 100000,
       "sourceLinesOfCode": 31523,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1cuZEwk7e163gcIe0a-AGLnpvOd0eJlZj/view",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "Blockian",
+          "critical": 3,
+          "earnings": 49315,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "periniondon630",
+          "critical": 3,
+          "earnings": 31936,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "ZhouWu",
+          "critical": 1,
+          "earnings": 9836,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "anton_quantish",
+          "critical": 0,
+          "earnings": 5542,
+          "insights": 0,
+          "mediumLow": 4,
+          "totalValidBugs": 4
+        },
+        {
+          "high": 0,
+          "name": "Franfran",
+          "critical": 0,
+          "earnings": 2197,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "riproprip",
+          "critical": 0,
+          "earnings": 675,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "br0nz3p1ck4x3",
+          "critical": 0,
+          "earnings": 500,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Boost",
         "Managed Triage: Time Saver"

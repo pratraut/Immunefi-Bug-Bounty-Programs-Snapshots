@@ -1059,6 +1059,51 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "3k2ksVQuBWuV2t6GO0r0FO",
+    "id": "eigenlayer",
+    "project": "EigenLayer",
+    "maximum_reward": 2000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1fGXCRkOEb10n2rbNzZuEx/e1a710a7a3af9141424011913bbc58be/Eigenlayer_logo.jpeg",
+    "date": "2023-06-14T21:00:00.000Z",
+    "launchDate": "2023-06-14T21:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-03-31T17:49:00.729Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "Restaking"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Websites and Applications",
+        "Smart Contract"
+      ],
+      "language": [
+        "JavaScript",
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "7tG50vrUH2wqGPBMvgYmOT",
     "id": "sweateconomy",
     "project": "Sweat Economy",
@@ -2955,6 +3000,43 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "CcB9X3ihXIqZOX2TkhC9Q",
+    "id": "resolv",
+    "project": "Resolv",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/PVFDul5ntVzCg90oXYIWi/5ccd470c276900e19c507f93174d4eb0/1gDrgTdA_400x400.png",
+    "date": "2025-03-31T03:00:08.000Z",
+    "launchDate": "2025-03-31T03:00:08.000Z",
+    "endDate": null,
+    "updatedDate": "2025-03-31T13:19:11.823Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications",
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3yfvM5zeq18YpCiyrCpVWx",
     "id": "symbiotic",
     "project": "Symbiotic",
@@ -4463,7 +4545,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T11:07:49.841Z",
+    "updatedDate": "2025-03-31T06:50:05.052Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7768,7 +7850,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-17T12:34:51.396Z",
+    "updatedDate": "2025-03-31T04:37:48.551Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8161,49 +8243,6 @@
         "Smart Contract"
       ],
       "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3k2ksVQuBWuV2t6GO0r0FO",
-    "id": "eigenlayer",
-    "project": "EigenLayer",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1fGXCRkOEb10n2rbNzZuEx/e1a710a7a3af9141424011913bbc58be/Eigenlayer_logo.jpeg",
-    "date": "2023-06-14T21:00:00.000Z",
-    "launchDate": "2023-06-14T21:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-26T07:26:36.286Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Restaking"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
         "Solidity"
       ],
       "featured": [
@@ -9548,7 +9587,7 @@
     "date": "2021-06-09T07:00:00.000Z",
     "launchDate": "2021-06-09T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-18T13:55:07.121Z",
+    "updatedDate": "2025-03-31T04:22:39.829Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",

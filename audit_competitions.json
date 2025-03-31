@@ -282,76 +282,6 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "premiumTriaging": true
   },
   {
-    "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
-    "id": "audit-comp-shardeum-ancillaries-iii",
-    "project": "Audit Comp | Shardeum: Ancillaries III",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
-    "date": "2025-01-15T21:45:00.000Z",
-    "launchDate": "2025-01-15T21:45:00.000Z",
-    "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-27T18:52:11.292Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [
-        "Services",
-        "Validator"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Shardeum"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "Typescript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-04-01T10:00:00.000Z",
-    "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
-
-No KYC is required.
-
-Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-iii-audit-competition\" channel.
-
-Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
-
-When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
-    "boostedIntroLive": "",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 100000,
-    "sourceLinesOfCode": 31523,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "23vBOe26H8f97hnYr5oc2e",
     "id": "audit-comp-shardeum-core-iii",
     "project": "Audit Comp | Shardeum: Core III",
@@ -496,8 +426,7 @@ You can ask the Ethereum Protocol team any questions directly in the [Ethereum A
 
 After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "Attackathon Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1gFH-tCNRMzAcbT1xPF3BgIqFI6gDK_G7?usp=sharing).
-All paid bug reports are available in original format [here](https://reports.immunefi.com/ethereum-protocol-attackathon)",
+    "boostedIntroFinished": "Attackathon Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1gFH-tCNRMzAcbT1xPF3BgIqFI6gDK_G7?usp=sharing).",
     "rewardsToken": "ETH",
     "rewardsPool": 1500000,
     "sourceLinesOfCode": 0,
@@ -511,6 +440,142 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Vault"
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "6UE7QOY0udMSU9Pdb9bI5T",
+    "id": "audit-comp-shardeum-ancillaries-iii",
+    "project": "Audit Comp | Shardeum: Ancillaries III",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/50jbsPjqHgWEHZN7KZIjiB/396901905d4d1515ab3c0aaa9fc5bcc4/4B19YQz__400x400.png",
+    "date": "2025-01-15T21:45:00.000Z",
+    "launchDate": "2025-01-15T21:45:00.000Z",
+    "endDate": "2025-02-12T17:00:00.000Z",
+    "updatedDate": "2025-03-31T17:47:16.075Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [
+        "Services",
+        "Validator"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Shardeum"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-03-31T17:47:10.219Z",
+    "boostedIntroStartingIn": "A total of $100,000 USD in rewards is available for identifying bugs in Shardeum Ancillaries III. This scope is limited to the Web2 components of the project.
+
+No KYC is required.
+
+Any technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-ancillaries-iii-audit-competition\" channel.
+
+Shardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/11ltDwfWK0Ow799N_FY9oZ8Bpk8Oynj5p?usp=sharing). 
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/shardeum-ancillaries-iii)",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "sourceLinesOfCode": 31523,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1cuZEwk7e163gcIe0a-AGLnpvOd0eJlZj/view",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "Blockian",
+        "critical": 3,
+        "earnings": 49315,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "periniondon630",
+        "critical": 3,
+        "earnings": 31936,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "ZhouWu",
+        "critical": 1,
+        "earnings": 9836,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "anton_quantish",
+        "critical": 0,
+        "earnings": 5542,
+        "insights": 0,
+        "mediumLow": 4,
+        "totalValidBugs": 4
+      },
+      {
+        "high": 0,
+        "name": "Franfran",
+        "critical": 0,
+        "earnings": 2197,
+        "insights": 1,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "riproprip",
+        "critical": 0,
+        "earnings": 675,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "br0nz3p1ck4x3",
+        "critical": 0,
+        "earnings": 500,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
     "premiumTriaging": true
   },
   {

@@ -524,11 +524,7 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": {
-      "features": [],
-      "premiumTriaging": false,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Lido on Polygon Bug Bounties",
       "description": "Find bugs and vulnerabilities on Lido on Polygon and get paid up to $2,000,000.",
