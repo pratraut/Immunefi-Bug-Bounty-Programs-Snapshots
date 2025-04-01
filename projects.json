@@ -3988,50 +3988,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "6js8NwdMz0VTWI0lSDaS1p",
-    "id": "driftprotocol",
-    "project": "Drift Protocol",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/295bRNp7R842rstlHYsEUq/5c7ed337835e630a209c547e3885a1fe/Drift_Logo_Circular__4__Small.png",
-    "date": "2022-02-15T14:00:00.000Z",
-    "launchDate": "2022-02-15T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-02T11:15:25.991Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "AMM",
-        "DEX",
-        "Lending",
-        "Perpetuals"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Solana"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "1NFtCGb9Diezav4nEIlC4C",
     "id": "maple",
     "project": "Maple",
@@ -6941,55 +6897,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "5dQ0rFmlbPuB8XNeDBHKoe",
-    "id": "nftx",
-    "project": "NFTX",
-    "maximum_reward": 150000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2znSWgmnYpypWSL8mndKTA/e07cab4e385ad1f79fb7c02dbad5d3a8/NFTX_logo_copy.png",
-    "date": "2024-02-22T03:56:00.000Z",
-    "launchDate": "2024-02-22T03:56:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-29T11:04:09.589Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Arbitration",
-        "Vaults"
-      ],
-      "productType": [
-        "AMM",
-        "L2"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "4EaCMKaIS3LZaUlyc0pwe4",
     "id": "filecoin",
     "project": "Filecoin",
@@ -7324,7 +7231,7 @@
     "date": "2024-07-10T14:00:00.000Z",
     "launchDate": "2024-07-10T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:51:42.118Z",
+    "updatedDate": "2025-04-01T10:20:57.458Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7351,7 +7258,8 @@
         "Smart Contract"
       ],
       "language": [
-        "Solidity"
+        "Solidity",
+        "Cairo"
       ],
       "featured": [
         "Launched Recently"

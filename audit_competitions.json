@@ -102,7 +102,11 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
 
 For more information, please visit  about [Spectra Finance](https://www.spectra.finance/)
 
-Any technical questions can be asked directly to the Spectra Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/channels/787092485969150012/1355219052267831459) in the \"spectra-audit-comp\" channel.",
+Any technical questions can be asked directly to the Spectra Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/channels/787092485969150012/1355219052267831459) in the \"spectra-audit-comp\" channel.
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Audit-Competition-Proof-of-Concept-Rules)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/13333032674961-Severity-Classification-System)",
     "boostedIntroLive": "**$40,000 USD** in rewards is available for finding bugs on Spectra contracts. 
 
 For more information, please visit about [Spectra Finance](https://www.spectra.finance/)
@@ -111,7 +115,11 @@ Any technical questions and support requests can be asked directly to Spectra Fi
 
 When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.
 
-A few days after the launch, Immunefi will publish Spectra Finance's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
+A few days after the launch, Immunefi will publish Spectra Finance's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Audit-Competition-Proof-of-Concept-Rules)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/13333032674961-Severity-Classification-System)",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "USDC",
@@ -323,7 +331,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-04-01T10:00:00.000Z",
+    "evaluationEndDate": "2025-04-02T10:00:00.000Z",
     "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
 
 For more information about Shardeum, please visit https://shardeum.org/
@@ -402,7 +410,7 @@ Join our Discord for more updates.",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-04-02T14:00:00.000Z",
+    "evaluationEndDate": "2025-04-03T14:00:00.000Z",
     "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
 
 When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
