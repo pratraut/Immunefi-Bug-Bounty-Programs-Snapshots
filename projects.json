@@ -186,7 +186,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-21T14:36:23.278Z",
+    "updatedDate": "2025-04-02T04:11:30.263Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3718,7 +3718,7 @@
     "date": "2023-04-28T09:00:00.000Z",
     "launchDate": "2023-04-28T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-03T14:53:53.186Z",
+    "updatedDate": "2025-04-02T07:58:47.025Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -10216,7 +10216,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-28T08:12:10.460Z",
+    "updatedDate": "2025-04-02T05:41:14.047Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10228,6 +10228,7 @@
         "KYC Not Required",
         "PoC Required",
         "Primacy of Impact",
+        "Triaged by Immunefi",
         "Arbitration"
       ],
       "productType": [
@@ -10249,7 +10250,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "726D9ls5tKdv1wVhZSWGLh",
@@ -13544,7 +13545,7 @@
     "date": "2025-03-18T09:00:00.000Z",
     "launchDate": "2025-03-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-25T21:32:16.814Z",
+    "updatedDate": "2025-04-02T15:49:43.796Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"
