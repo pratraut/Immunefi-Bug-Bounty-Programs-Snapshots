@@ -80,18 +80,31 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "date": "2025-04-03T14:00:00.000Z",
     "launchDate": "2025-04-03T14:00:00.000Z",
     "endDate": "2025-04-17T14:00:00.000Z",
-    "updatedDate": "2025-03-28T16:27:23.133Z",
+    "updatedDate": "2025-04-03T14:12:48.100Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi"
       ],
       "featured": [
         "Launched Recently"
@@ -135,23 +148,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
       "Vault"
     ],
     "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "JKXrUAJckDBf7c66aXAPF",
@@ -410,7 +407,7 @@ Join our Discord for more updates.",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-04-03T14:00:00.000Z",
+    "evaluationEndDate": null,
     "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.
 
 When the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.
@@ -434,11 +431,11 @@ You can ask the Ethereum Protocol team any questions directly in the [Ethereum A
 
 After the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "Attackathon Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1gFH-tCNRMzAcbT1xPF3BgIqFI6gDK_G7?usp=sharing).",
+    "boostedIntroFinished": "",
     "rewardsToken": "ETH",
     "rewardsPool": 1500000,
     "sourceLinesOfCode": 0,
-    "boostedSummaryReport": "https://drive.google.com/file/d/15lCy1jza9MsnDooWmponwdaTq_EjV2-m/view?usp=sharing",
+    "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": [],
