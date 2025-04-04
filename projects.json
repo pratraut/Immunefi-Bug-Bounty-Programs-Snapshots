@@ -547,7 +547,7 @@
     "date": "2024-04-04T16:46:29.000Z",
     "launchDate": "2024-04-04T16:46:29.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-24T16:21:08.812Z",
+    "updatedDate": "2025-04-04T06:04:44.442Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4445,54 +4445,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "acesGw4rUiItbT33VouZb",
-    "id": "badger",
-    "project": "Badger DAO",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2I5ZKJi2QOmP5HdH5u6nWp/9f2ca7210ef9111416a8c640c8a425e4/badger.png",
-    "date": "2021-01-08T07:00:00.000Z",
-    "launchDate": "2021-01-08T07:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-21T18:55:35.446Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "Asset Management",
-        "DAO",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH",
-        "Fantom",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "1FqF5pcYnLlSE3I2zvaXUA",
     "id": "enzymefinance",
     "project": "Enzyme Finance",
@@ -4501,7 +4453,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-31T06:50:05.052Z",
+    "updatedDate": "2025-04-04T09:05:05.231Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7359,51 +7311,6 @@
       ]
     },
     "premiumTriaging": false
-  },
-  {
-    "contentfulId": "xwXB7AJUXSwJ6nweqDLy9",
-    "id": "ebtc",
-    "project": "eBTC",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TXjTYWcKldzilwGzOUXdk/f325730c8503f87906011f80f2be0863/2024-03-26_17.25.08.png",
-    "date": "2024-03-25T02:28:00.000Z",
-    "launchDate": "2024-03-25T02:28:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-28T13:41:54.698Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "Lending",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
   },
   {
     "contentfulId": "56powSA6iD9VrESduXTQii",
