@@ -3008,7 +3008,7 @@
     "date": "2025-03-31T03:00:08.000Z",
     "launchDate": "2025-03-31T03:00:08.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-31T13:19:11.823Z",
+    "updatedDate": "2025-04-07T04:50:51.122Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3754,50 +3754,6 @@
       ],
       "language": [
         "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3tJxksdj87QQHfLFZVpUHa",
-    "id": "davos",
-    "project": "Davos",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1BM295EDyK0WCfv6u6E20q/6d01c2564be90322b7f0df4aa701c94e/Davos_logo.jpeg",
-    "date": "2023-02-13T20:00:00.000Z",
-    "launchDate": "2023-02-13T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-04T18:23:08.678Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Lending",
-        "Stablecoin"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
         "Solidity"
       ],
       "featured": [
@@ -5071,48 +5027,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "6cPsyzraFgfp79R5CdZxzo",
-    "id": "betafinance",
-    "project": "Beta Finance",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3T3V79UYWTtCBEJb3b71DI/a01d4e7ddade1a1318c5b6ebf5d224ef/Beta_Logo_Green_copy_2.png",
-    "date": "2023-12-07T14:00:00.000Z",
-    "launchDate": "2023-12-07T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-10T12:51:50.696Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6JuaLTmjZ6yB1K8rV29w1c",
     "id": "stellar",
     "project": "Stellar",
@@ -5726,52 +5640,6 @@
       "ecosystem": [
         "Arbitrum",
         "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3zKvVSEUEh5ZxEdOf6MiiJ",
-    "id": "pendle",
-    "project": "Pendle",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/14hUM20Rje5ERaKlMEGATT/6c87c32f2b4b5019bd2810ce6de081a0/Pendle.jpeg",
-    "date": "2021-06-16T23:00:00.000Z",
-    "launchDate": "2021-06-16T23:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T13:42:25.017Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "Derivatives"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "BSC",
-        "ETH",
-        "Optimism"
       ],
       "programType": [
         "Smart Contract"
@@ -13976,51 +13844,6 @@
         "Websites and Applications"
       ],
       "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2hFK0OoxRps8CFk5l5sQEM",
-    "id": "olafinance",
-    "project": "Ola Finance",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5DxkOSf6OOAEcb9oswgYKX/72bc0c7c946c4f135e35754ef86cca59/Ola_Finance_Logo.svg",
-    "date": "2022-07-19T17:00:00.000Z",
-    "launchDate": "2022-07-19T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T16:13:00.537Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC",
-        "Fantom"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
       "featured": [
         "Launched Recently"
       ]
