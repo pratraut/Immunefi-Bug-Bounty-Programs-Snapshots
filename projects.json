@@ -648,7 +648,7 @@
     "date": "2024-06-27T13:00:00.000Z",
     "launchDate": "2024-06-27T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-17T12:31:53.435Z",
+    "updatedDate": "2025-04-08T06:08:53.119Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2644,7 +2644,7 @@
     "date": "2021-11-22T07:15:00.000Z",
     "launchDate": "2021-11-22T07:15:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-27T04:11:25.670Z",
+    "updatedDate": "2025-04-08T15:56:24.872Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -4946,7 +4946,7 @@
     "date": "2024-06-24T16:00:00.000Z",
     "launchDate": "2024-06-24T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-20T08:29:50.070Z",
+    "updatedDate": "2025-04-08T08:30:09.539Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -11397,47 +11397,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4ACfVI3ujmDLtvdqxkcPY1",
-    "id": "hibachi",
-    "project": "Hibachi",
-    "maximum_reward": 40000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/86uYalXw77xPgt0tHUI79/99bbd4a6580107cb38c51c89c4b0d328/Hibachi.png",
-    "date": "2025-01-08T14:58:00.000Z",
-    "launchDate": "2025-01-08T14:58:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-24T16:04:12.960Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Arbitration"
-      ],
-      "productType": [
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Celestia"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7LeHUJz7EAfiSU7HSGhaow",
     "id": "starknet-staking",
     "project": "Starknet Staking",
@@ -12776,6 +12735,46 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4ACfVI3ujmDLtvdqxkcPY1",
+    "id": "hibachi",
+    "project": "Hibachi",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/86uYalXw77xPgt0tHUI79/99bbd4a6580107cb38c51c89c4b0d328/Hibachi.png",
+    "date": "2025-01-08T14:58:00.000Z",
+    "launchDate": "2025-01-08T14:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-04-08T14:37:35.770Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required"
+      ],
+      "productType": [
+        "DEX"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Celestia"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
