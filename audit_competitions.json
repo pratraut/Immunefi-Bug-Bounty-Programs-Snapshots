@@ -79,6 +79,67 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "premiumTriaging": true
   },
   {
+    "contentfulId": "1qMPJ8h4qCdWwYpqRR2PsB",
+    "id": "iop-circuitdao",
+    "project": "IOP | CircuitDAO",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1URwP89FgDG52nc6opXzeb/ce036e4b8d9434e0a30c490588047691/1CjIg_vq_400x400.png",
+    "date": "2025-04-09T13:50:00.000Z",
+    "launchDate": "2025-04-09T13:50:00.000Z",
+    "endDate": "2025-04-24T14:42:00.000Z",
+    "updatedDate": "2025-04-09T14:02:24.640Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "$10,000 USD in rewards is available for finding bugs on CircuitDAO contracts.
+
+For more information, please visit about CircuitDAO website [](https://circuitdao.com/)
+
+This is an invite-only Program Competition, open to Security Researchers who have been invited.
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions )
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level )",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 10000,
+    "sourceLinesOfCode": 6750,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "JKXrUAJckDBf7c66aXAPF",
     "id": "audit-comp-yeet",
     "project": "Audit Comp | Yeet",
@@ -295,7 +356,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "date": "2025-01-15T21:44:00.000Z",
     "launchDate": "2025-01-15T21:44:00.000Z",
     "endDate": "2025-02-12T17:00:00.000Z",
-    "updatedDate": "2025-03-27T18:51:19.274Z",
+    "updatedDate": "2025-04-09T08:58:39.054Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -328,7 +389,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-04-09T10:00:00.000Z",
+    "evaluationEndDate": null,
     "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.
 
 For more information about Shardeum, please visit https://shardeum.org/

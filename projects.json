@@ -967,7 +967,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-03T07:36:31.787Z",
+    "updatedDate": "2025-04-09T17:48:23.813Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -2179,7 +2179,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-07T09:15:07.635Z",
+    "updatedDate": "2025-04-09T08:16:14.983Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -3952,7 +3952,7 @@
     "date": "2022-01-25T21:00:00.000Z",
     "launchDate": "2022-01-25T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-28T19:22:08.714Z",
+    "updatedDate": "2025-04-09T09:07:38.444Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -4409,7 +4409,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-04T09:05:05.231Z",
+    "updatedDate": "2025-04-09T10:55:55.167Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4946,7 +4946,7 @@
     "date": "2024-06-24T16:00:00.000Z",
     "launchDate": "2024-06-24T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-08T08:30:09.539Z",
+    "updatedDate": "2025-04-09T10:26:15.186Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -7123,56 +7123,6 @@
       ],
       "language": [
         "Clarity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "9NW8TwD0nvHR4GFQ1JFFU",
-    "id": "bitflow",
-    "project": "Bitflow",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1wBdOtq6xoBJTdPjGbJmiq/8165a74640386a368784458f72749f7f/tq71coRV_400x400.png",
-    "date": "2024-04-08T04:27:33.000Z",
-    "launchDate": "2024-04-08T04:27:33.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-20T14:53:49.509Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact",
-        "Arbitration",
-        "Vaults"
-      ],
-      "productType": [
-        "DEX",
-        "Liquid Staking"
-      ],
-      "projectType": [
-        "Exchange",
-        "Defi"
-      ],
-      "ecosystem": [
-        "Stacks"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Clarity",
-        "NextJS"
       ],
       "featured": [
         "Launched Recently"
@@ -10466,57 +10416,6 @@
       ],
       "language": [
         "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7b5G0A2cQCRO35I25M5f06",
-    "id": "sommelier",
-    "project": "Sommelier",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6wpLwpWt9BhmcV8bJV0JSg/46263f2599f8f9e293646ed77c4831f8/Sommelier_logo.png",
-    "date": "2023-05-23T11:00:00.000Z",
-    "launchDate": "2023-05-23T11:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-27T17:47:00.499Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Token",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi"
-      ],
-      "ecosystem": [
-        "Cosmos",
-        "ETH"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Go",
-        "Rust",
         "Solidity"
       ],
       "featured": [
