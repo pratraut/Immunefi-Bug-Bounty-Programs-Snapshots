@@ -1016,7 +1016,11 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "features": [],
+      "premiumTriaging": false,
+      "isSafeHarborActive": false
+    },
     "metaData": {
       "title": "DFX Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on DFX Finance and get paid up to $50,000.",
