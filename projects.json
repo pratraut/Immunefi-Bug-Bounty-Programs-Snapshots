@@ -2644,7 +2644,7 @@
     "date": "2021-11-22T07:15:00.000Z",
     "launchDate": "2021-11-22T07:15:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-08T15:56:24.872Z",
+    "updatedDate": "2025-04-11T14:50:58.288Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7519,50 +7519,6 @@
       "language": [
         "Solidity",
         "Typescript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "4DhbbUZwIC4SA01rxgafRQ",
-    "id": "thusd",
-    "project": "thUSD",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6BrYyooIOzzpaWHIY3aC4i/f76f26d6dcfca6ffeb7bd99c0b37c824/Screenshot_2023-10-05_at_1.10.00_AM.png",
-    "date": "2023-10-05T13:00:00.000Z",
-    "launchDate": "2023-10-05T13:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-23T15:26:09.891Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Currency"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
