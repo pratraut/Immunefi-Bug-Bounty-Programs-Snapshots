@@ -9771,6 +9771,41 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "1TcrkpfKn2Qesu4m5PfmLN",
+    "id": "beradrome",
+    "project": "Beradrome",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2za0m2IsJWu03xbGzOM9Zc/1008cbaedccd4964316dbaa1d4c6f351/Beradrome.png",
+    "date": "2025-04-01T08:39:36.000Z",
+    "launchDate": "2025-04-01T08:39:36.000Z",
+    "endDate": null,
+    "updatedDate": "2025-04-14T12:58:18.536Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "6VAelWeBFYd3GJAJ4vzYvx",
     "id": "metastreet-yield-pass",
     "project": "Metastreet Yield Pass",
