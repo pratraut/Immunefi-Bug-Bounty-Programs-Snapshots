@@ -918,7 +918,7 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-17T11:51:23.948Z",
+    "updatedDate": "2025-04-15T13:57:41.154Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -929,7 +929,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Triaged by Immunefi"
       ],
       "productType": [
         "L1",
@@ -956,7 +957,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "2oF5ZRoWcAvJCzrEn5ZCWx",
@@ -9932,10 +9933,11 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-02T05:41:14.047Z",
+    "updatedDate": "2025-04-15T14:47:51.433Z",
     "kyc": false,
     "technologies": [
-      "Smart Contract"
+      "Smart Contract",
+      "Websites and Applications"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -9957,7 +9959,8 @@
         "ETH"
       ],
       "programType": [
-        "Smart Contract"
+        "Smart Contract",
+        "Websites and Applications"
       ],
       "language": [
         "Solidity"
