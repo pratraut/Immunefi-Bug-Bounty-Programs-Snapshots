@@ -3148,7 +3148,7 @@
     "date": "2025-01-21T01:10:18.000Z",
     "launchDate": "2025-01-21T01:10:18.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-10T09:04:07.364Z",
+    "updatedDate": "2025-04-17T10:07:04.579Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4503,7 +4503,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-09T10:55:55.167Z",
+    "updatedDate": "2025-04-17T09:09:30.845Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4735,7 +4735,7 @@
     "date": "2025-02-10T03:45:00.000Z",
     "launchDate": "2025-02-10T03:45:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-13T14:43:47.086Z",
+    "updatedDate": "2025-04-17T15:36:38.203Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -5876,7 +5876,7 @@
     "date": "2025-04-16T02:43:13.000Z",
     "launchDate": "2025-04-16T02:43:13.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-16T13:33:54.422Z",
+    "updatedDate": "2025-04-17T07:03:54.275Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6668,7 +6668,7 @@
     "date": "2021-07-01T07:00:00.000Z",
     "launchDate": "2021-07-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-29T15:30:58.949Z",
+    "updatedDate": "2025-04-17T12:38:13.901Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6679,7 +6679,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Not Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Lending",
@@ -6705,7 +6706,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "JppSOY676PExwZtWrsXOm",
