@@ -2546,51 +2546,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "6MFG2NSQuPTHcUeAwJLHL1",
-    "id": "benddao",
-    "project": "BendDAO",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4PIWMMp8ZqlAH9Z3xYsglc/741d9f126b4f7ab43f9ebe3a6a85717c/BendDAO_logo.png",
-    "date": "2022-04-22T02:30:00.000Z",
-    "launchDate": "2022-04-22T02:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-03T23:47:30.930Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "5ZuiJ8tRQpsJY2j4cDljap",
     "id": "hakkafinance",
     "project": "Hakka Finance",
@@ -5095,7 +5050,7 @@
     "date": "2024-05-10T03:11:00.000Z",
     "launchDate": "2024-05-10T03:11:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T14:38:14.967Z",
+    "updatedDate": "2025-04-18T12:53:04.950Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -12470,49 +12425,6 @@
       "ecosystem": [
         "Optimism",
         "Arbitrum"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "39gPsNiXlUJ0tEacm2LDdp",
-    "id": "singularitydao",
-    "project": "SingularityDAO",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3AOuNcszt6FsC0HQUPEGKj/70812d119721588c2e8a0b01ab8770f0/Screenshot_2024-11-15_at_1.39.54___AM.png",
-    "date": "2023-03-08T20:00:00.000Z",
-    "launchDate": "2023-03-08T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T20:40:15.007Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Asset Management",
-        "Bridge",
-        "Launchpad"
-      ],
-      "projectType": [],
-      "ecosystem": [
-        "ETH"
       ],
       "programType": [
         "Smart Contract"
