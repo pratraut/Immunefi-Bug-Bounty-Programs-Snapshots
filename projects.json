@@ -142,7 +142,7 @@
     "date": "2023-04-27T09:00:00.000Z",
     "launchDate": "2023-04-27T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-17T12:31:05.599Z",
+    "updatedDate": "2025-04-21T08:54:50.011Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -153,7 +153,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Triaged by Immunefi"
       ],
       "productType": [
         "Stablecoin",
@@ -178,7 +179,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "4MSwmyXBE9T6RRVOHPX6fj",
@@ -9966,6 +9967,45 @@
       "ecosystem": [
         "BSC"
       ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "bH5Xecdo2bRnFfHbfoqBa",
+    "id": "usdn",
+    "project": "USDN",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/eg4KntgnqGEXCaoNRIODv/96c11278c62f890c722ab2112f8c83f8/USDN.png",
+    "date": "2025-04-21T12:58:00.000Z",
+    "launchDate": "2025-04-21T12:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-04-21T12:58:13.723Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Stablecoin"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
       "programType": [
         "Smart Contract"
       ],
