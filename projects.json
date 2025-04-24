@@ -9761,50 +9761,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "3ISerTda22EsCwZejnr3AX",
-    "id": "ruscet",
-    "project": "Ruscet",
-    "maximum_reward": 75000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4yvoesEDWjksI0pVPGcdQs/91a08b7333d828ece9d676cd9d0718a2/ruscet.png",
-    "date": "2025-01-28T00:40:14.000Z",
-    "launchDate": "2025-01-28T00:40:14.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-26T14:00:08.804Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Vaults"
-      ],
-      "productType": [
-        "Derivatives",
-        "DEX",
-        "L2"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Fuel Network"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "55EgTrgg8dy3yNfXxlb5Nd",
     "id": "horizen",
     "project": "Horizen",
