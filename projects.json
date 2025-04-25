@@ -3667,7 +3667,7 @@
     "date": "2023-08-21T10:00:00.000Z",
     "launchDate": "2023-08-21T10:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:57:47.294Z",
+    "updatedDate": "2025-04-25T14:09:38.170Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -8700,53 +8700,6 @@
         "Rust",
         "Bitcoin Script",
         "Clarity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "6FVisGgjVU58RieK1hYrfS",
-    "id": "sturdy",
-    "project": "Sturdy",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2a6wus3cXmNiNovBJ8ICfk/89f9c8c63964848f40bf35fd5dca7503/Sturdy_Logo_Small.png",
-    "date": "2022-03-14T15:30:00.000Z",
-    "launchDate": "2022-03-14T15:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-12T15:47:51.687Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Lending",
-        "Stablecoin"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Fantom"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
