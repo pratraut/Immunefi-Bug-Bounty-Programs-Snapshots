@@ -20,7 +20,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/TCewawmeHxFAMPrXEqxUN/3f0522188f281b23bc8d1c78628b8b55/Butter_VI_Final_Icon_Dark_16x9__1_.png",
       "launchDate": "2025-01-23T10:00:00.000Z",
       "endDate": "2025-02-01T10:00:00.000Z",
-      "updatedDate": "2025-02-27T08:24:44.457Z",
+      "updatedDate": "2025-04-29T10:15:26.145Z",
       "kyc": true,
       "rewards": [
         {
@@ -216,7 +216,7 @@
       "boostedIntroStartingIn": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. \n\nFor more information about Butter, please visit https://buttery.gg\n\n**KYC is required**\n\nAny technical questions can be asked directly to the Butter technical team on Immunefi's [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"butter\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
       "boostedIntroLive": "**$30,000 USD** in rewards is available for finding bugs on Butter contract. \n\nFor more information about Butter, please visit https://buttery.gg\n\n**KYC is required**\n\nAny technical questions and support requests can be asked directly to Butter or Immunefi in the [Butter Audit Competition Discord channel](https://discord.com/invite/immunefi).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nFor more information about Butter, please visit https://buttery.gg\n\nA few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1wpSBXIJ_9tHpYAWu84YpaHCUOvCvJiD4)\n\nAll paid bug reports are available in original format here --> [Reports: Butter Audit Competition](https://reports.immunefi.com/butter)",
       "rewardsToken": "USDC",
       "rewardsPool": 30000,
       "sourceLinesOfCode": 550,

@@ -190,7 +190,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-02T04:11:30.263Z",
+    "updatedDate": "2025-04-28T13:57:38.180Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -762,7 +762,7 @@
     "date": "2021-08-04T17:00:00.000Z",
     "launchDate": "2021-08-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-26T07:32:16.234Z",
+    "updatedDate": "2025-04-28T19:22:30.720Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2463,7 +2463,7 @@
     "date": "2022-06-16T16:30:00.000Z",
     "launchDate": "2022-06-16T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T10:53:36.555Z",
+    "updatedDate": "2025-04-29T14:36:58.164Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2797,7 +2797,7 @@
     "date": "2021-03-28T07:00:00.000Z",
     "launchDate": "2021-03-28T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-15T11:50:22.066Z",
+    "updatedDate": "2025-04-28T19:18:18.918Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6821,7 +6821,7 @@
     "date": "2025-02-26T15:58:00.000Z",
     "launchDate": "2025-02-26T15:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T10:20:13.808Z",
+    "updatedDate": "2025-04-29T06:26:25.489Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6848,7 +6848,9 @@
       "programType": [
         "Smart Contract"
       ],
-      "language": [],
+      "language": [
+        "Clarity"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -12110,55 +12112,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "2gfVNO1Ri3B0zPGW7mPIMx",
-    "id": "geniusyield",
-    "project": "Genius Yield",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6YFKEKWaLwdH1t6IXgJXBb/3c4e0d346b5a33d3a6018c3f8c6eb513/Green_GEN_with_logo.png",
-    "date": "2024-02-26T01:53:00.000Z",
-    "launchDate": "2024-02-26T01:53:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-10T17:56:46.431Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "DEX",
-        "Bug bounty",
-        "Staking"
-      ],
-      "projectType": [
-        "Exchange",
-        "Defi"
-      ],
-      "ecosystem": [
-        "Cardano"
-      ],
-      "programType": [
-        "Websites and Applications",
-        "Smart Contract"
-      ],
-      "language": [
-        "Haskell",
-        "Plutus"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3z2ECKyX1B0YYhlth8wPif",
     "id": "coreum",
     "project": "Coreum",
@@ -14135,7 +14088,7 @@
     "date": "2021-09-14T12:00:00.000Z",
     "launchDate": "2021-09-14T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-04T19:12:53.651Z",
+    "updatedDate": "2025-04-29T14:58:37.924Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -14263,6 +14216,55 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2gfVNO1Ri3B0zPGW7mPIMx",
+    "id": "geniusyield",
+    "project": "Genius Yield",
+    "maximum_reward": 8000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4h3De2WibDI0xBVeGVSiE9/5f39219ae4e3c97c67041760f6385fd6/Genius_Yield.png",
+    "date": "2024-02-26T01:53:00.000Z",
+    "launchDate": "2024-02-26T01:53:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-04-29T14:24:26.542Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "DEX",
+        "Bug bounty",
+        "Staking"
+      ],
+      "projectType": [
+        "Exchange",
+        "Defi"
+      ],
+      "ecosystem": [
+        "Cardano"
+      ],
+      "programType": [
+        "Websites and Applications",
+        "Smart Contract"
+      ],
+      "language": [
+        "Haskell",
+        "Plutus"
       ],
       "featured": [
         "Launched Recently"

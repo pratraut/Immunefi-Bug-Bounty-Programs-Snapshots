@@ -851,7 +851,7 @@ All paid bug reports are available in original format [here](https://reports.imm
     "date": "2025-01-23T10:00:00.000Z",
     "launchDate": "2025-01-23T10:00:00.000Z",
     "endDate": "2025-02-01T10:00:00.000Z",
-    "updatedDate": "2025-02-27T08:24:44.457Z",
+    "updatedDate": "2025-04-29T10:15:26.145Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -908,7 +908,9 @@ For more information about Butter, please visit https://buttery.gg
 
 A few days after the launch, Immunefi will publish Butter's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1wpSBXIJ_9tHpYAWu84YpaHCUOvCvJiD4)
+
+All paid bug reports are available in original format here --> [Reports: Butter Audit Competition](https://reports.immunefi.com/butter)",
     "rewardsToken": "USDC",
     "rewardsPool": 30000,
     "sourceLinesOfCode": 550,
@@ -1005,7 +1007,7 @@ A few days after the launch, Immunefi will publish Butter's technical walkthroug
     "date": "2024-12-18T16:00:00.000Z",
     "launchDate": "2024-12-18T16:00:00.000Z",
     "endDate": "2025-01-08T16:00:00.000Z",
-    "updatedDate": "2025-02-14T13:21:33.839Z",
+    "updatedDate": "2025-04-29T10:18:04.249Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1050,7 +1052,9 @@ Any technical questions and support requests can be asked directly to Lombard or
 
 When the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
     "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1Av4itxzWFuAykHmPdVLCkNNx4U1oG4ND)
+
+All paid bug reports are available in original format here --> [Reports: Lombard Audit Competition](https://reports.immunefi.com/lombard)",
     "rewardsToken": "USDC",
     "rewardsPool": 100000,
     "sourceLinesOfCode": 3500,
