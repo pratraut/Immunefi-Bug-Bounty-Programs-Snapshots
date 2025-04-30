@@ -190,7 +190,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-28T13:57:38.180Z",
+    "updatedDate": "2025-04-30T14:11:15.225Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -936,7 +936,7 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-15T13:57:41.154Z",
+    "updatedDate": "2025-04-30T13:52:34.870Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5549,6 +5549,55 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "48o8b7ZTZLjBBqgnesORcW",
+    "id": "stacks",
+    "project": "Stacks",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7rDt9WPKt1aTDNVmrLDaZ9/e8474a103962162a8e704ac863984684/stacks__1_.png",
+    "date": "2022-03-31T19:30:00.000Z",
+    "launchDate": "2022-03-31T19:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-04-30T05:47:28.227Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Arbitration"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Stacks",
+        "Bitcoin"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Rust",
+        "Bitcoin Script",
+        "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "7rsKJOZbyj2NAHuY0ktp1a",
     "id": "keep3rnetwork",
     "project": "Keep3r Network",
@@ -6989,6 +7038,80 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "7s0Drruc5AExzGn84CMEX3",
+    "id": "haven1",
+    "project": "Haven1",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vvfy5qYACiilc6H32yvlJ/dfb4dd89e109cfb705f93bc4109f81ad/Haven1.png",
+    "date": "2025-04-30T12:58:00.000Z",
+    "launchDate": "2025-04-30T12:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-04-30T12:58:12.769Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "6AWiiKKjahDhpTDSkupFzO",
+    "id": "ostium",
+    "project": "Ostium",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/28Y1opgIz9KYOLep9I9LeJ/59cbd0b6b78fd59315392da40c22d2e8/Screenshot_2025-04-30_at_6.36.13â__pm_Small.png",
+    "date": "2025-04-30T00:00:00.000Z",
+    "launchDate": "2025-04-30T00:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-04-30T17:38:04.888Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "2n7XanQodOKo93sehEDzqv",
     "id": "anvil",
     "project": "Anvil",
@@ -7830,7 +7953,7 @@
     "date": "2023-08-04T12:00:00.000Z",
     "launchDate": "2023-08-04T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-25T07:23:40.143Z",
+    "updatedDate": "2025-04-30T14:00:33.521Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -8653,55 +8776,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "48o8b7ZTZLjBBqgnesORcW",
-    "id": "stacks",
-    "project": "Stacks",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7rDt9WPKt1aTDNVmrLDaZ9/e8474a103962162a8e704ac863984684/stacks__1_.png",
-    "date": "2022-03-31T19:30:00.000Z",
-    "launchDate": "2022-03-31T19:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-17T14:35:14.931Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Arbitration"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Stacks",
-        "Bitcoin"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust",
-        "Bitcoin Script",
-        "Clarity"
       ],
       "featured": [
         "Launched Recently"
