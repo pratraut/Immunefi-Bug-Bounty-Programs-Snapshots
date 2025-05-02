@@ -150,7 +150,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "date": "2025-03-11T14:00:00.000Z",
     "launchDate": "2025-03-11T14:00:00.000Z",
     "endDate": "2025-03-25T14:00:00.000Z",
-    "updatedDate": "2025-04-22T21:54:24.059Z",
+    "updatedDate": "2025-05-02T06:27:18.055Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -178,7 +178,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-05-02T14:00:00.000Z",
+    "evaluationEndDate": "2025-05-09T14:00:00.000Z",
     "boostedIntroStartingIn": "$30,000 USD in rewards available for finding bugs on Yeet smart contracts.
 
 KYC is not required.
@@ -286,7 +286,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "date": "2025-02-24T08:00:00.000Z",
     "launchDate": "2025-02-24T08:00:00.000Z",
     "endDate": "2025-03-27T08:00:00.000Z",
-    "updatedDate": "2025-04-22T14:51:29.246Z",
+    "updatedDate": "2025-05-02T06:28:11.442Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -321,7 +321,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-05-02T08:00:00.000Z",
+    "evaluationEndDate": "2025-05-09T08:00:00.000Z",
     "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
 
 On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.

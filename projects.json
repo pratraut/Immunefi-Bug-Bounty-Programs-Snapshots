@@ -329,7 +329,7 @@
     "date": "2022-02-11T15:00:00.000Z",
     "launchDate": "2022-02-11T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-12T03:46:13.684Z",
+    "updatedDate": "2025-05-02T07:47:09.529Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -601,7 +601,7 @@
     "date": "2021-05-11T05:00:00.000Z",
     "launchDate": "2021-05-11T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-28T11:50:40.529Z",
+    "updatedDate": "2025-05-02T07:23:16.885Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -936,7 +936,7 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-30T13:52:34.870Z",
+    "updatedDate": "2025-05-02T07:42:52.994Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2165,58 +2165,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "2VsaBV0AWoSV71kLKq8oAC",
-    "id": "polygonzkevm",
-    "project": "Polygon zkEVM",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4HtvkOERB7FEW5uUNz22lB/2ba376a451814502754906d247e472e5/Polygon_zkEVM_logo_dark_copy.png",
-    "date": "2023-03-24T04:00:00.000Z",
-    "launchDate": "2023-03-24T04:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-20T11:28:32.105Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Bridge",
-        "L1",
-        "L2",
-        "Zero-Knowledge Proofs",
-        "Circuits"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "C/C++",
-        "Go",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3WMzRBYHWXzf6d0Id9mCCi",
     "id": "ondofinance",
     "project": "Ondo Finance",
@@ -2797,7 +2745,7 @@
     "date": "2021-03-28T07:00:00.000Z",
     "launchDate": "2021-03-28T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-28T19:18:18.918Z",
+    "updatedDate": "2025-05-02T08:13:45.152Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7084,7 +7032,7 @@
     "date": "2025-04-30T00:00:00.000Z",
     "launchDate": "2025-04-30T00:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-01T15:05:20.305Z",
+    "updatedDate": "2025-05-02T15:55:28.080Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -7095,7 +7043,8 @@
       "general": [
         "KYC Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Triaged by Immunefi"
       ],
       "productType": [],
       "projectType": [],
@@ -7109,7 +7058,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "2n7XanQodOKo93sehEDzqv",
@@ -8221,6 +8170,58 @@
         "Smart Contract"
       ],
       "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2VsaBV0AWoSV71kLKq8oAC",
+    "id": "polygonzkevm",
+    "project": "Polygon zkEVM",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4HtvkOERB7FEW5uUNz22lB/2ba376a451814502754906d247e472e5/Polygon_zkEVM_logo_dark_copy.png",
+    "date": "2023-03-24T04:00:00.000Z",
+    "launchDate": "2023-03-24T04:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-05-02T10:06:29.344Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "Bridge",
+        "L1",
+        "L2",
+        "Zero-Knowledge Proofs",
+        "Circuits"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Polygon"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "C/C++",
+        "Go",
         "Solidity"
       ],
       "featured": [
