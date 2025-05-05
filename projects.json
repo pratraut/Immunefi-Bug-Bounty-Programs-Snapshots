@@ -661,7 +661,7 @@
     "date": "2024-06-27T13:00:00.000Z",
     "launchDate": "2024-06-27T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-08T06:08:53.119Z",
+    "updatedDate": "2025-05-05T13:46:38.981Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2173,7 +2173,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-09T08:16:14.983Z",
+    "updatedDate": "2025-05-05T08:53:41.334Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -4631,44 +4631,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "45dMmlLm6rlsaZsC1bBUOV",
-    "id": "fassets",
-    "project": "FAssets",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6RvAn0eXVoZdyCg9bNkFXK/f86c8ae6a66353298cff60617734a793/Flare.png",
-    "date": "2025-02-10T03:45:00.000Z",
-    "launchDate": "2025-02-10T03:45:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-04-17T15:36:38.203Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract",
-        "Blockchain/DLT"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "5HYgLpGfafN3uogE6BMLIo",
     "id": "berachain",
     "project": "Berachain",
@@ -6335,7 +6297,7 @@
     "date": "2022-03-31T17:00:00.000Z",
     "launchDate": "2022-03-31T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-17T07:51:39.556Z",
+    "updatedDate": "2025-05-05T14:42:26.281Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6994,11 +6956,10 @@
     "date": "2025-04-30T12:58:00.000Z",
     "launchDate": "2025-04-30T12:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-30T12:58:12.769Z",
+    "updatedDate": "2025-05-05T07:54:19.737Z",
     "kyc": false,
     "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
+      "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -7013,7 +6974,6 @@
       "projectType": [],
       "ecosystem": [],
       "programType": [
-        "Blockchain/DLT",
         "Smart Contract"
       ],
       "language": [],
@@ -11653,7 +11613,7 @@
     "date": "2023-09-27T14:00:00.000Z",
     "launchDate": "2023-09-27T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:12:55.006Z",
+    "updatedDate": "2025-05-05T13:29:44.803Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -13414,6 +13374,48 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "6NBigxSdOADbd7ObPHrJPl",
+    "id": "yo-protocol",
+    "project": "YO Protocol",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4tiXVdfiMqdRMuuLMVDjsc/f048a90f465a4625784d6d7acb1c8ebb/Screenshot_2025-04-30_at_09.50.39.png",
+    "date": "2025-05-05T13:00:00.000Z",
+    "launchDate": "2025-05-05T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-05-05T16:58:04.633Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Yield Aggregator",
+        "Asset Management"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
