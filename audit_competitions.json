@@ -1,5 +1,93 @@
 [
   {
+    "contentfulId": "31KZR5ZJ9ub35gxMfk8f9l",
+    "id": "audit-comp-flare-fassets",
+    "project": "Audit Comp | Flare | FAssets",
+    "maximum_reward": 125000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Ht5ANaRgVQI77zZ9AsJDm/18581691b5f8dd8c0e52fc9eb9364029/F_light_bg.png",
+    "date": "2025-05-12T10:00:00.000Z",
+    "launchDate": "2025-05-12T10:00:00.000Z",
+    "endDate": "2025-06-09T10:00:00.000Z",
+    "updatedDate": "2025-05-06T14:43:05.211Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "language": [
+        "Solidity"
+      ],
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "**$125,000 USD** in rewards available for finding bugs on the Flare Network's FAssets smart contracts. 
+
+
+This is a **Mainnet Audit Competition** and the project may fix bugs mid-competition. The more bugs a project fixes the more rewards will be unlocked for a simultaneously running mitigation competition that is open for everyone to participate in. 
+
+
+If Flare Network doesn't make any public bug fix during their Mainnet Audit Competition, then within a maximum of 30 days after mainnet competition has ended their **mitigation audit** will launch. 
+
+
+__Mitigation Audit Rewards__
+
+
+The maximum reward pool for the mitigation audit is **$25,000 USD**.
+
+
+If any bug in scope is fixed during the Mainnet Audit Competition then a mitigation audit will begin immediately, run simultaneously, and end 5 days after the mainnet Audit Competition has ended.
+
+
+The mitigation audit’s reward pool is based on how many bugs are fixed while the competitions are live relative to how many bugs are found in the mainnet Audit Competition. So if projects make more bug fixes mid-competition then the size of the mitigation audit reward pool increases up to the maximum.
+
+KYC is not required.
+
+
+When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+
+For more information, please visit [Flare Network](https://flare.network/)",
+    "boostedIntroLive": "",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "",
+    "rewardsPool": 125000,
+    "sourceLinesOfCode": 0,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Vault",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "1qMPJ8h4qCdWwYpqRR2PsB",
     "id": "iop-circuitdao",
     "project": "IOP | CircuitDAO",
@@ -213,7 +301,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
     "date": "2025-03-07T18:00:00.000Z",
     "launchDate": "2025-03-07T18:00:00.000Z",
     "endDate": "2025-04-04T18:00:00.000Z",
-    "updatedDate": "2025-03-20T17:42:10.676Z",
+    "updatedDate": "2025-05-06T07:38:13.126Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -245,7 +333,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-05-07T18:00:36.000Z",
+    "evaluationEndDate": "2025-05-14T18:00:00.000Z",
     "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
 
 On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
