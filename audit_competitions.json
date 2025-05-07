@@ -8,7 +8,7 @@
     "date": "2025-05-12T10:00:00.000Z",
     "launchDate": "2025-05-12T10:00:00.000Z",
     "endDate": "2025-06-09T10:00:00.000Z",
-    "updatedDate": "2025-05-06T14:43:05.211Z",
+    "updatedDate": "2025-05-07T13:36:20.422Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -25,7 +25,7 @@
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": null,
+    "evaluationEndDate": "2025-07-07T10:00:00.000Z",
     "boostedIntroStartingIn": "**$125,000 USD** in rewards available for finding bugs on the Flare Network's FAssets smart contracts. 
 
 
@@ -56,9 +56,9 @@ For more information, please visit [Flare Network](https://flare.network/)",
     "boostedIntroLive": "",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
-    "rewardsToken": "",
+    "rewardsToken": "USDC",
     "rewardsPool": 125000,
-    "sourceLinesOfCode": 0,
+    "sourceLinesOfCode": 13957,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -66,7 +66,7 @@ For more information, please visit [Flare Network](https://flare.network/)",
     "features": [
       "Boost",
       "Vault",
-      "Managed Triage: Time Saver"
+      "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
     "assets": null,
@@ -250,8 +250,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
         "KYC Not Required",
         "PoC Not Required",
         "Step-by-step PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [],
       "projectType": [],
