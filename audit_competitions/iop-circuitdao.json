@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1URwP89FgDG52nc6opXzeb/ce036e4b8d9434e0a30c490588047691/1CjIg_vq_400x400.png",
       "launchDate": "2025-04-09T13:50:00.000Z",
       "endDate": "2025-04-24T14:42:00.000Z",
-      "updatedDate": "2025-04-09T14:02:24.640Z",
+      "updatedDate": "2025-05-08T13:03:26.097Z",
       "kyc": true,
       "rewards": [
         {
@@ -57,7 +57,17 @@
           "date": "2025-02-24"
         }
       ],
-      "assets": [],
+      "assets": [
+        {
+          "id": "5CGpgRNLs3Rc1BSdMOLDF5",
+          "type": "smart_contract",
+          "url": "https://github.com/immunefi-team/CircuitDAO-IoP/tree/main/circuit_puzzles",
+          "description": "Files: circuit_puzzles/*.clsp, circuit_puzzles/programs/*.clsp & circuit_puzzles/include/*.clib",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-04-09T13:50:00.000Z"
+        }
+      ],
       "impacts": [
         {
           "id": 5442,
@@ -190,7 +200,7 @@
       "prioritizedVulnerabilities": "For CircuitDAO, the files to hunt on are:  \n`circuit_puzzles/*.clsp`, `circuit_puzzles/programs/*.clsp`, and `circuit_puzzles/include/*.clib`.",
       "rewardsBody": "Rewards are distributed among SRs according to [Immunefi’s Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms).\n\nTotal budget: **$10,000** broken down as follows:\n\n\n**Reward pool:**\n\nIf bugs are found → USD $6k (see [Immunefi’s Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms))\n\nIf only Insights are found → USD $900 (9% of the Reward pool)\n\n**Guaranteed rewards:**\n$2k per SR → $4k total (for 2 SRs)\n\nDuplicate submissions of bugs are valid. Duplicate submissions of Insights are invalid.\n\n**Proof of Concept (PoC) Requirements**\n\nFor this program, runnable PoC code is not required. Whitehats are instead required to write a step-by-step explanation of the PoC and impact.\nRead our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions )\n\n**Insight reports can be submitted**. \nRead our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level )",
       "outOfScopeAndRules": null,
-      "assetsBodyV2": "",
+      "assetsBodyV2": "__Build Commands, Test Commands, and How to Run Them__\n\nClone both puzzle and circuit repo from our github:\n\nhttps://github.com/circuitdao\n\nTo run tests, activate poetry shell in local circuit repo folder, install dependencies, and run pytest, eg via:\n\npytest -n=auto --capture=fd --verbosity=0 --disable-warnings tests/\n\nYou should get 690 tests passed (shouldn’t take more than 5 mins with the above command) based on the circuit repo commit corresponding to the puzzles commit linked above.\n\n__Asset Accuracy Assurance__\n\nBugs found on assets incorrectly listed in-scope are valid.\n\n__Private Known Issues Reward Policy__\n\nPrivate known issues, meaning known issues that were not publicly disclosed, are valid for a reward.\n\n__Eligibility Criteria__\n\nSecurity researchers who wish to participate must adhere to the rules of engagement set forth in this program and cannot be:\n- On OFACs SDN list \n- Official contributor, both past or present\n- Employees and/or individuals closely associated with the project \n- Security auditors that directly or indirectly participated in the audit review\n\n__Dispute Resolution__\n\nIf there is any dispute over bug reports between projects and security researchers, Immunefi has final say on validity and severity based on the terms of this program.\n\n__Responsible Publication Policy__\n\nImmunefi will publish bug reports, earnings, and a leaderboard for this Invite Only Program. Security Researchers may publish their bug reports as well, but only after Immunefi has published the valid bug reports as part of the competition results.",
       "impactsBody": "__Where might Security Researchers confuse out-of-scope code to be in-scope?__\n\nN/A. There shouldn’t be any confusion. \n\n\n__Is this an upgrade of an existing system? If so, which? And what are the main differences?__\n\nNo. As a CDP protocol, we have taken some inspiration from MakerDAO, both the initial single-collateral DAI system as well as some innovations of the multi-collateral version such as Dutch liquidation auctions. However, the implementation is completely different due to Chia’s coinset (UTXO) model and Chialisp as smart contract language.\n\n\n__Where do you suspect there may be bugs and/or what attack vectors are you most concerned about?__\n\nSee the list of in-scope bugs below. The higher the severity, the more concerned we are about the respective exploit.\n\n\n__What ERC20 / ERC721 / ERC777 / ERC1155 token standards are supported?__\n\nThe protocol makes use of Chia Asset Token (CAT) standard (https://chialisp.com/cats/), singletons (https://chialisp.com/singletons/) and various custom coin types. An overview can be found here: https://docs.circuitdao.com/technical-manual/overview#list-of-protocol-coins\n\n__What emergency actions may you want to use as a reason to downgrade an otherwise valid bug report?__\n\nMitigation measures that can be taken by governance. As an (out-of-scope) example, if Announcers collude to manipulate the Oracle price, governance can swap out the Oracle by updating the ORACLE_LAUNCHER_ID Statute within STATUTES_PRICE_DELAY. \n\n__What addresses would you consider any bug report requiring their involvement to be out of scope, as long as they operate within the privileges attributed to them?__\n\nNone\n\n__What addresses would you consider any bug report requiring their involvement be out of scope, even if they exceed the privileges attributed to them?__\n\nNone\n\n__Which chains and/or networks will the code in scope be deployed to?__\n\nThe project will eventually be deployed on Chia (mainnet and testnet11). \n\n__What external dependencies are there?__\n\nSee the pyproject.toml files in ‘puzzles’ and ‘circuit’ Github repos.\nIn terms of security context, the Chialisp code from ‘puzzles’ repos will get deployed on Chia mainnet. We will run a Chia fullnode service to connect the dapp backend to the blockchain.\n\n__Are there any unusual points about your protocol that may confuse Security Researchers?__\n\nThe protocol differs from many other DeFi projects is that governance is done completely on-chain by governance token (CRT) holders. Governance proposals are created, vetoed on, and implemented (“enacted”) on-chain. There is no governance multi-sig (controlled by a foundation or otherwise).\n\nThe protocol is largely immutable, with governance being limited to changing the value of certain parameters (“Statutes”) or outputting custom conditions. The one exception to this is the Oracle singleton, which governance can replace entirely (by changing the value of the Oracle launcher ID at Statutes index 0)\n\n__What are the most valuable educational resources already available? (Ie. Documentation, Explainer videos or articles, etc)__\n\nDocumentation for Circuit protocol can be found at: https://docs.circuitdao.com/\nNote that the documentation is not up-to-date with the latest commit and contains inaccurate descriptions in several places. However, the docs should work well as an introduction to and general overview of the protocol.\n\nSRs may also be interested in the audit report by Zellic: \n\nChialisp-related documentation can be found at: https://chialisp.com/\n\nThe protocol makes use of modern chialisp features: https://chialisp.com/modern-chialisp/",
       "immunefiStandard": true,
       "tags": {
@@ -236,18 +246,28 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": null,
+      "evaluationEndDate": "2025-05-08T12:56:25.331Z",
       "boostedIntroStartingIn": "",
       "boostedIntroLive": "$10,000 USD in rewards is available for finding bugs on CircuitDAO contracts.\n\nFor more information, please visit about CircuitDAO website [](https://circuitdao.com/)\n\nThis is an invite-only Program Competition, open to Security Researchers who have been invited.\n\nRunnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions )\n\nInsight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level )",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Invite-Only-Program cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1p1rnkK8Cqrw5yi3LDbFWDMJRk8CvDYxz?usp=drive_link). The amounts show $2K in guaranteed rewards per SR and a $6K reward pool distributed according to the [Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms).\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/iop-circuitdao).",
       "rewardsToken": "USDC",
       "rewardsPool": 10000,
       "sourceLinesOfCode": 6750,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1BqpVegztIFXDZL0VHmy1e5L5rEjuzn9B/view",
       "inviteOnly": true,
-      "hideAssetsInScope": true,
-      "boostedLeaderboard": [],
+      "hideAssetsInScope": false,
+      "boostedLeaderboard": [
+        {
+          "high": 1,
+          "name": "perseverance",
+          "critical": 1,
+          "earnings": 6000,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 3
+        }
+      ],
       "features": [
         "IOP (Invite Only Program)",
         "Managed Triage: Time Saver",
@@ -277,7 +297,7 @@
       "programDocumentations": [],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/iop-circuitdao",
       "premiumTriaging": true
     },
     "layoutProps": {

@@ -53,7 +53,30 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
 
 
 For more information, please visit [Flare Network](https://flare.network/)",
-    "boostedIntroLive": "",
+    "boostedIntroLive": "**$125,000 USD** in rewards available for finding bugs on the Flare Network's FAssets smart contracts. 
+
+
+This is a **Mainnet Audit Competition** and the project may fix bugs mid-competition. The more bugs a project fixes the more rewards will be unlocked for a simultaneously running mitigation competition that is open for everyone to participate in. 
+
+
+If Flare Network doesn't make any public bug fix during their Mainnet Audit Competition, then within a maximum of 30 days after mainnet competition has ended their **Mitigation Audit** will launch. 
+
+For more information, please visit [Flare Network](https://flare.network/)
+
+
+- KYC is not required.
+
+- Flat Reward Pool for the Mainnet Audit Competition
+
+- Any technical questions and support requests can be asked directly to Flare Network or Immunefi in the [Flare Network Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1369326485659189259).
+
+- When the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+- A few days after the launch, Immunefi will publish Flare Network's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
+
+- Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Audit-Competition-Proof-of-Concept-Rules)
+
+- Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "USDC",
@@ -86,68 +109,6 @@ For more information, please visit [Flare Network](https://flare.network/)",
     "programOverview": "",
     "rewards": null,
     "rewardsBody": ""
-  },
-  {
-    "contentfulId": "1qMPJ8h4qCdWwYpqRR2PsB",
-    "id": "iop-circuitdao",
-    "project": "IOP | CircuitDAO",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1URwP89FgDG52nc6opXzeb/ce036e4b8d9434e0a30c490588047691/1CjIg_vq_400x400.png",
-    "date": "2025-04-09T13:50:00.000Z",
-    "launchDate": "2025-04-09T13:50:00.000Z",
-    "endDate": "2025-04-24T14:42:00.000Z",
-    "updatedDate": "2025-04-09T14:02:24.640Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": null,
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "$10,000 USD in rewards is available for finding bugs on CircuitDAO contracts.
-
-For more information, please visit about CircuitDAO website [](https://circuitdao.com/)
-
-This is an invite-only Program Competition, open to Security Researchers who have been invited.
-
-Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions )
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level )",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 10000,
-    "sourceLinesOfCode": 6750,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
   },
   {
     "contentfulId": "194xuCBDnCLZE5ggR4PYDr",
@@ -238,7 +199,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "date": "2025-03-11T14:00:00.000Z",
     "launchDate": "2025-03-11T14:00:00.000Z",
     "endDate": "2025-03-25T14:00:00.000Z",
-    "updatedDate": "2025-05-02T06:27:18.055Z",
+    "updatedDate": "2025-05-08T18:47:39.473Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -265,7 +226,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-05-09T14:00:00.000Z",
+    "evaluationEndDate": "2025-05-13T14:00:00.000Z",
     "boostedIntroStartingIn": "$30,000 USD in rewards available for finding bugs on Yeet smart contracts.
 
 KYC is not required.
@@ -373,7 +334,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "date": "2025-02-24T08:00:00.000Z",
     "launchDate": "2025-02-24T08:00:00.000Z",
     "endDate": "2025-03-27T08:00:00.000Z",
-    "updatedDate": "2025-05-02T06:28:11.442Z",
+    "updatedDate": "2025-05-08T11:37:35.165Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -408,7 +369,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-05-09T08:00:00.000Z",
+    "evaluationEndDate": "2025-05-13T08:00:00.000Z",
     "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
 
 On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
@@ -525,6 +486,80 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
       "Vault"
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "1qMPJ8h4qCdWwYpqRR2PsB",
+    "id": "iop-circuitdao",
+    "project": "IOP | CircuitDAO",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1URwP89FgDG52nc6opXzeb/ce036e4b8d9434e0a30c490588047691/1CjIg_vq_400x400.png",
+    "date": "2025-04-09T13:50:00.000Z",
+    "launchDate": "2025-04-09T13:50:00.000Z",
+    "endDate": "2025-04-24T14:42:00.000Z",
+    "updatedDate": "2025-05-08T13:03:26.097Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-05-08T12:56:25.331Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "$10,000 USD in rewards is available for finding bugs on CircuitDAO contracts.
+
+For more information, please visit about CircuitDAO website [](https://circuitdao.com/)
+
+This is an invite-only Program Competition, open to Security Researchers who have been invited.
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions )
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level )",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "Invite-Only-Program cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1p1rnkK8Cqrw5yi3LDbFWDMJRk8CvDYxz?usp=drive_link). The amounts show $2K in guaranteed rewards per SR and a $6K reward pool distributed according to the [Standardized Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31657285001873-Standardized-Competition-Reward-Terms).
+
+All paid bug reports are available in original format [here](https://reports.immunefi.com/iop-circuitdao).",
+    "rewardsToken": "USDC",
+    "rewardsPool": 10000,
+    "sourceLinesOfCode": 6750,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1BqpVegztIFXDZL0VHmy1e5L5rEjuzn9B/view",
+    "inviteOnly": true,
+    "hideAssetsInScope": false,
+    "boostedLeaderboard": [
+      {
+        "high": 1,
+        "name": "perseverance",
+        "critical": 1,
+        "earnings": 6000,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 3
+      }
+    ],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
     "premiumTriaging": true
   },
   {
