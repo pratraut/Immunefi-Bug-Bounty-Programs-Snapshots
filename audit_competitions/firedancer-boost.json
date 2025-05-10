@@ -247,8 +247,8 @@
     "metaData": {
       "title": "Audit Comp | Firedancer v0.1 Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Firedancer v0.1 and get paid up to $1,000,000.",
-      "url": "https://immunefi.com/audit-competition/firedancer-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Firedancer+v0.1"
+      "url": "https://immunefi.com/audit-competition/firedancer-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Firedancer+v0.1&slug=firedancer-boost"
     }
   },
   "__N_SSG": true

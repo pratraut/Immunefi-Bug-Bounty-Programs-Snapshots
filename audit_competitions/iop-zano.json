@@ -431,8 +431,8 @@
     "metaData": {
       "title": "IOP | Zano Bug Bounties",
       "description": "Find bugs and vulnerabilities on IOP | Zano and get paid up to $25,000.",
-      "url": "https://immunefi.com/audit-competition/iop-zano",
-      "ogImg": "/api/bounty/og-image?project=IOP+%7C+Zano"
+      "url": "https://immunefi.com/audit-competition/iop-zano/",
+      "ogImg": "/api/bounty/og-image/?project=IOP+%7C+Zano&slug=iop-zano"
     }
   },
   "__N_SSG": true

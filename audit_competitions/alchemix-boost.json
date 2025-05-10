@@ -919,8 +919,8 @@
     "metaData": {
       "title": "Audit Comp | Alchemix Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Alchemix and get paid up to $125,000.",
-      "url": "https://immunefi.com/audit-competition/alchemix-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Alchemix"
+      "url": "https://immunefi.com/audit-competition/alchemix-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Alchemix&slug=alchemix-boost"
     }
   },
   "__N_SSG": true

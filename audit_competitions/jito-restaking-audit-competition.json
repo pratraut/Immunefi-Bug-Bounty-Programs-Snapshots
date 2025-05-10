@@ -303,8 +303,8 @@
     "metaData": {
       "title": "Audit Comp | Jito Restaking Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Jito Restaking and get paid up to $150,000.",
-      "url": "https://immunefi.com/audit-competition/jito-restaking-audit-competition",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Jito+Restaking"
+      "url": "https://immunefi.com/audit-competition/jito-restaking-audit-competition/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Jito+Restaking&slug=jito-restaking-audit-competition"
     }
   },
   "__N_SSG": true

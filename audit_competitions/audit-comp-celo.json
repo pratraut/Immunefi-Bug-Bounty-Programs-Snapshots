@@ -540,8 +540,8 @@
     "metaData": {
       "title": "Audit Comp | Celo Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Celo and get paid up to $50,000.",
-      "url": "https://immunefi.com/audit-competition/audit-comp-celo",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Celo"
+      "url": "https://immunefi.com/audit-competition/audit-comp-celo/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Celo&slug=audit-comp-celo"
     }
   },
   "__N_SSG": true

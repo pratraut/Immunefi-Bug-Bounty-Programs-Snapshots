@@ -583,8 +583,8 @@
     "metaData": {
       "title": "Audit Comp | Puffer Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Puffer Finance and get paid up to $200,000.",
-      "url": "https://immunefi.com/audit-competition/pufferfinance-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Puffer+Finance"
+      "url": "https://immunefi.com/audit-competition/pufferfinance-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Puffer+Finance&slug=pufferfinance-boost"
     }
   },
   "__N_SSG": true

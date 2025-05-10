@@ -467,8 +467,8 @@
     "metaData": {
       "title": "Audit Comp | eBTC Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | eBTC and get paid up to $200,000.",
-      "url": "https://immunefi.com/audit-competition/ebtc-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+eBTC"
+      "url": "https://immunefi.com/audit-competition/ebtc-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+eBTC&slug=ebtc-boost"
     }
   },
   "__N_SSG": true

@@ -769,8 +769,8 @@
     "metaData": {
       "title": "Attackathon | Stacks Bug Bounties",
       "description": "Find bugs and vulnerabilities on Attackathon | Stacks and get paid up to $250,000.",
-      "url": "https://immunefi.com/audit-competition/stacks-attackathon-1",
-      "ogImg": "/api/bounty/og-image?project=Attackathon+%7C+Stacks"
+      "url": "https://immunefi.com/audit-competition/stacks-attackathon-1/",
+      "ogImg": "/api/bounty/og-image/?project=Attackathon+%7C+Stacks&slug=stacks-attackathon-1"
     }
   },
   "__N_SSG": true

@@ -862,8 +862,8 @@
     "metaData": {
       "title": "Audit Comp | IDEX Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | IDEX and get paid up to $45,000.",
-      "url": "https://immunefi.com/audit-competition/boost-idex",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+IDEX"
+      "url": "https://immunefi.com/audit-competition/boost-idex/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+IDEX&slug=boost-idex"
     }
   },
   "__N_SSG": true

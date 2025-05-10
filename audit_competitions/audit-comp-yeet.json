@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1CC05KTqzC9pnQ0o7kXJ0t/dcb30f884a2cabb80ba78be5f4a59db0/yeet.png",
       "launchDate": "2025-03-11T14:00:00.000Z",
       "endDate": "2025-03-25T14:00:00.000Z",
-      "updatedDate": "2025-05-02T06:27:18.055Z",
+      "updatedDate": "2025-05-09T18:56:50.357Z",
       "kyc": false,
       "rewards": [
         {
@@ -293,7 +293,7 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2025-05-09T14:00:00.000Z",
+      "evaluationEndDate": "2025-05-09T18:03:18.249Z",
       "boostedIntroStartingIn": "$30,000 USD in rewards available for finding bugs on Yeet smart contracts.\n\nKYC is not required.\n\nYeet will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Yeet technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"yeet-audit-comp\" channel.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
@@ -301,10 +301,659 @@
       "rewardsToken": "USDC",
       "rewardsPool": 30000,
       "sourceLinesOfCode": 1538,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1N4hI89jA2gfWfKe3k9CA39mBuIcpooOU/view",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 2,
+          "name": "merlinboii",
+          "critical": 1,
+          "earnings": 7691,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 5
+        },
+        {
+          "high": 2,
+          "name": "kmm",
+          "critical": 1,
+          "earnings": 4222,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "max10afternoon",
+          "critical": 1,
+          "earnings": 4099,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "trtrth",
+          "critical": 0,
+          "earnings": 4002,
+          "insights": 3,
+          "mediumLow": 3,
+          "totalValidBugs": 4
+        },
+        {
+          "high": 0,
+          "name": "RNemes",
+          "critical": 0,
+          "earnings": 3384,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "robin_bl4z3",
+          "critical": 0,
+          "earnings": 1150,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "yesofcourse",
+          "critical": 0,
+          "earnings": 484,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "Oxl33",
+          "critical": 1,
+          "earnings": 425,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 4
+        },
+        {
+          "high": 0,
+          "name": "NHristov",
+          "critical": 0,
+          "earnings": 274,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "DoD4uFN",
+          "critical": 0,
+          "earnings": 233,
+          "insights": 2,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "OxAnmol",
+          "critical": 0,
+          "earnings": 218,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "cryptostaker",
+          "critical": 0,
+          "earnings": 218,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "kaysoft",
+          "critical": 0,
+          "earnings": 218,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "coffiasd",
+          "critical": 1,
+          "earnings": 184,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "Ragnarok",
+          "critical": 1,
+          "earnings": 154,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Minnow80539",
+          "critical": 0,
+          "earnings": 146,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "OldDingo56530",
+          "critical": 0,
+          "earnings": 146,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "dobrevaleri",
+          "critical": 1,
+          "earnings": 132,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "Oxgritty",
+          "critical": 1,
+          "earnings": 110,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "nnez",
+          "critical": 1,
+          "earnings": 110,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 1,
+          "name": "BenR",
+          "critical": 0,
+          "earnings": 109,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "Bluedragon",
+          "critical": 0,
+          "earnings": 94,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Yaneca_b",
+          "critical": 1,
+          "earnings": 87,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "pontifex",
+          "critical": 1,
+          "earnings": 87,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "peppef",
+          "critical": 1,
+          "earnings": 82,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "x60scs",
+          "critical": 1,
+          "earnings": 75,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "X0sauce",
+          "critical": 0,
+          "earnings": 72,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "p0wd3r",
+          "critical": 0,
+          "earnings": 72,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "Ace30",
+          "critical": 0,
+          "earnings": 72,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "valy001",
+          "critical": 0,
+          "earnings": 72,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 1,
+          "name": "Le_Rems",
+          "critical": 0,
+          "earnings": 72,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "chista0x",
+          "critical": 0,
+          "earnings": 59,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "h2134",
+          "critical": 0,
+          "earnings": 59,
+          "insights": 4,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Oxrochimaru",
+          "critical": 0,
+          "earnings": 56,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "DSbeX",
+          "critical": 0,
+          "earnings": 49,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "zaevlad",
+          "critical": 0,
+          "earnings": 49,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "MarsKittyHacker",
+          "critical": 0,
+          "earnings": 49,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "T0_Socrates",
+          "critical": 0,
+          "earnings": 49,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "pxng0lin",
+          "critical": 0,
+          "earnings": 44,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Victor_TheOracle",
+          "critical": 0,
+          "earnings": 44,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "rajkaur",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "armormadeofwoe",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Pyro",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "InquisitorScythe",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "zeroK",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "aksoy",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "whitehatanon1",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "aman",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "vladi319",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Oxodus",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Ekko",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "testnate",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "hustling0x",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "greed",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Oxgee001",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Invcbull",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Bani70",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "KaptenCrtz",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "x0bserver",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "libro9595",
+          "critical": 1,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Oxbakeng",
+          "critical": 0,
+          "earnings": 37,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "ZeroXGondar",
+          "critical": 0,
+          "earnings": 37,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "OxSimao",
+          "critical": 0,
+          "earnings": 37,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "perseverance",
+          "critical": 0,
+          "earnings": 30,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "styphoiz",
+          "critical": 0,
+          "earnings": 22,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "k1k1",
+          "critical": 0,
+          "earnings": 22,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "p3nc1l",
+          "critical": 0,
+          "earnings": 22,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Nawsanders",
+          "critical": 0,
+          "earnings": 22,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Oxblackadam",
+          "critical": 0,
+          "earnings": 22,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Dimaranti",
+          "critical": 0,
+          "earnings": 22,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "xdead4f",
+          "critical": 0,
+          "earnings": 7,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Exp10its",
+          "critical": 0,
+          "earnings": 7,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Boost",
         "Vault",
@@ -342,7 +991,7 @@
       "programDocumentations": [],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/yeet",
       "premiumTriaging": true
     },
     "layoutProps": {
@@ -351,8 +1000,8 @@
     "metaData": {
       "title": "Audit Comp | Yeet Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Yeet and get paid up to $30,000.",
-      "url": "https://immunefi.com/audit-competition/audit-comp-yeet",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Yeet"
+      "url": "https://immunefi.com/audit-competition/audit-comp-yeet/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Yeet&slug=audit-comp-yeet"
     }
   },
   "__N_SSG": true

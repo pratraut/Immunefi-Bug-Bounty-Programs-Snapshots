@@ -446,8 +446,8 @@
     "metaData": {
       "title": "IOP | ThunderNFT Bug Bounties",
       "description": "Find bugs and vulnerabilities on IOP | ThunderNFT and get paid up to $65,000.",
-      "url": "https://immunefi.com/audit-competition/thundernft-iop",
-      "ogImg": "/api/bounty/og-image?project=IOP+%7C+ThunderNFT"
+      "url": "https://immunefi.com/audit-competition/thundernft-iop/",
+      "ogImg": "/api/bounty/og-image/?project=IOP+%7C+ThunderNFT&slug=thundernft-iop"
     }
   },
   "__N_SSG": true

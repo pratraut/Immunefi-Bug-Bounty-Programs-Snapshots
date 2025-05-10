@@ -479,8 +479,8 @@
     "metaData": {
       "title": "Audit Comp | Spectra Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Spectra Finance and get paid up to $40,000.",
-      "url": "https://immunefi.com/audit-competition/audit-comp-spectra-finance",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Spectra+Finance"
+      "url": "https://immunefi.com/audit-competition/audit-comp-spectra-finance/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Spectra+Finance&slug=audit-comp-spectra-finance"
     }
   },
   "__N_SSG": true

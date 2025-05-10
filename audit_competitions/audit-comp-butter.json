@@ -433,8 +433,8 @@
     "metaData": {
       "title": "Audit Comp | Butter Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Butter and get paid up to $30,000.",
-      "url": "https://immunefi.com/audit-competition/audit-comp-butter",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Butter"
+      "url": "https://immunefi.com/audit-competition/audit-comp-butter/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Butter&slug=audit-comp-butter"
     }
   },
   "__N_SSG": true

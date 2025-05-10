@@ -393,8 +393,8 @@
     "metaData": {
       "title": "Audit Comp | Shardeum: Core Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Shardeum: Core and get paid up to $500,000.",
-      "url": "https://immunefi.com/audit-competition/shardeum-core-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Shardeum%3A+Core"
+      "url": "https://immunefi.com/audit-competition/shardeum-core-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Shardeum%3A+Core&slug=shardeum-core-boost"
     }
   },
   "__N_SSG": true

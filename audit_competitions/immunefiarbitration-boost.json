@@ -740,8 +740,8 @@
     "metaData": {
       "title": "Audit Comp | Immunefi Arbitration Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Immunefi Arbitration and get paid up to $30,000.",
-      "url": "https://immunefi.com/audit-competition/immunefiarbitration-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Immunefi+Arbitration"
+      "url": "https://immunefi.com/audit-competition/immunefiarbitration-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Immunefi+Arbitration&slug=immunefiarbitration-boost"
     }
   },
   "__N_SSG": true

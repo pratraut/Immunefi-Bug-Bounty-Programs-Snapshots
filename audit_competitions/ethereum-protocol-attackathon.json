@@ -1195,8 +1195,8 @@
     "metaData": {
       "title": "Attackathon | Ethereum Protocol Bug Bounties",
       "description": "Find bugs and vulnerabilities on Attackathon | Ethereum Protocol and get paid up to $1,500,000.",
-      "url": "https://immunefi.com/audit-competition/ethereum-protocol-attackathon",
-      "ogImg": "/api/bounty/og-image?project=Attackathon+%7C+Ethereum+Protocol"
+      "url": "https://immunefi.com/audit-competition/ethereum-protocol-attackathon/",
+      "ogImg": "/api/bounty/og-image/?project=Attackathon+%7C+Ethereum+Protocol&slug=ethereum-protocol-attackathon"
     }
   },
   "__N_SSG": true

@@ -633,8 +633,8 @@
     "metaData": {
       "title": "IOP | Fluid Protocol Bug Bounties",
       "description": "Find bugs and vulnerabilities on IOP | Fluid Protocol and get paid up to $80,000.",
-      "url": "https://immunefi.com/audit-competition/iop-fluid-protocol",
-      "ogImg": "/api/bounty/og-image?project=IOP+%7C+Fluid+Protocol"
+      "url": "https://immunefi.com/audit-competition/iop-fluid-protocol/",
+      "ogImg": "/api/bounty/og-image/?project=IOP+%7C+Fluid+Protocol&slug=iop-fluid-protocol"
     }
   },
   "__N_SSG": true

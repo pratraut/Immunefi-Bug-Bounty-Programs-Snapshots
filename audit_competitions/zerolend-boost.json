@@ -1343,8 +1343,8 @@
     "metaData": {
       "title": "Audit Comp | ZeroLend Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | ZeroLend and get paid up to $200,000.",
-      "url": "https://immunefi.com/audit-competition/zerolend-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+ZeroLend"
+      "url": "https://immunefi.com/audit-competition/zerolend-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+ZeroLend&slug=zerolend-boost"
     }
   },
   "__N_SSG": true

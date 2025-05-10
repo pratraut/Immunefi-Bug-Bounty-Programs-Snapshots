@@ -404,8 +404,8 @@
     "metaData": {
       "title": "Audit Comp | Anvil Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Anvil and get paid up to $50,000.",
-      "url": "https://immunefi.com/audit-competition/audit-comp-anvil",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Anvil"
+      "url": "https://immunefi.com/audit-competition/audit-comp-anvil/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Anvil&slug=audit-comp-anvil"
     }
   },
   "__N_SSG": true

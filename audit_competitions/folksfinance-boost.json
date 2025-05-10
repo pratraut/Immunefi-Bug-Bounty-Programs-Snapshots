@@ -936,8 +936,8 @@
     "metaData": {
       "title": "Audit Comp | Folks Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Folks Finance and get paid up to $100,000.",
-      "url": "https://immunefi.com/audit-competition/folksfinance-boost",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Folks+Finance"
+      "url": "https://immunefi.com/audit-competition/folksfinance-boost/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Folks+Finance&slug=folksfinance-boost"
     }
   },
   "__N_SSG": true

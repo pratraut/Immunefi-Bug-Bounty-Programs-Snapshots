@@ -565,8 +565,8 @@
     "metaData": {
       "title": "Mitigation Audit | Folks Finance Bug Bounties",
       "description": "Find bugs and vulnerabilities on Mitigation Audit | Folks Finance and get paid up to $25,000.",
-      "url": "https://immunefi.com/audit-competition/mitigation-audit-folksfinance",
-      "ogImg": "/api/bounty/og-image?project=Mitigation+Audit+%7C+Folks+Finance"
+      "url": "https://immunefi.com/audit-competition/mitigation-audit-folksfinance/",
+      "ogImg": "/api/bounty/og-image/?project=Mitigation+Audit+%7C+Folks+Finance&slug=mitigation-audit-folksfinance"
     }
   },
   "__N_SSG": true

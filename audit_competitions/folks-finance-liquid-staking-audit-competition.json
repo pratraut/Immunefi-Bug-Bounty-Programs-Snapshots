@@ -308,8 +308,8 @@
     "metaData": {
       "title": "Audit Comp | Folks: Liquid Staking Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Folks: Liquid Staking and get paid up to $30,000.",
-      "url": "https://immunefi.com/audit-competition/folks-finance-liquid-staking-audit-competition",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Folks%3A+Liquid+Staking"
+      "url": "https://immunefi.com/audit-competition/folks-finance-liquid-staking-audit-competition/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Folks%3A+Liquid+Staking&slug=folks-finance-liquid-staking-audit-competition"
     }
   },
   "__N_SSG": true

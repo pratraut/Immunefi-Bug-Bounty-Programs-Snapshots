@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1URwP89FgDG52nc6opXzeb/ce036e4b8d9434e0a30c490588047691/1CjIg_vq_400x400.png",
       "launchDate": "2025-04-09T13:50:00.000Z",
       "endDate": "2025-04-24T14:42:00.000Z",
-      "updatedDate": "2025-05-08T13:03:26.097Z",
+      "updatedDate": "2025-05-09T18:32:35.279Z",
       "kyc": true,
       "rewards": [
         {
@@ -306,8 +306,8 @@
     "metaData": {
       "title": "IOP | CircuitDAO Bug Bounties",
       "description": "Find bugs and vulnerabilities on IOP | CircuitDAO and get paid up to $10,000.",
-      "url": "https://immunefi.com/audit-competition/iop-circuitdao",
-      "ogImg": "/api/bounty/og-image?project=IOP+%7C+CircuitDAO"
+      "url": "https://immunefi.com/audit-competition/iop-circuitdao/",
+      "ogImg": "/api/bounty/og-image/?project=IOP+%7C+CircuitDAO&slug=iop-circuitdao"
     }
   },
   "__N_SSG": true

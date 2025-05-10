@@ -1207,8 +1207,8 @@
     "metaData": {
       "title": "Attackathon | Movement Labs Bug Bounties",
       "description": "Find bugs and vulnerabilities on Attackathon | Movement Labs and get paid up to $400,000.",
-      "url": "https://immunefi.com/audit-competition/movement-labs-attackathon",
-      "ogImg": "/api/bounty/og-image?project=Attackathon+%7C+Movement+Labs"
+      "url": "https://immunefi.com/audit-competition/movement-labs-attackathon/",
+      "ogImg": "/api/bounty/og-image/?project=Attackathon+%7C+Movement+Labs&slug=movement-labs-attackathon"
     }
   },
   "__N_SSG": true

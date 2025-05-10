@@ -1246,8 +1246,8 @@
     "metaData": {
       "title": "Attackathon | Fuel Network Bug Bounties",
       "description": "Find bugs and vulnerabilities on Attackathon | Fuel Network and get paid up to $1,000,000.",
-      "url": "https://immunefi.com/audit-competition/fuel-network-attackathon",
-      "ogImg": "/api/bounty/og-image?project=Attackathon+%7C+Fuel+Network"
+      "url": "https://immunefi.com/audit-competition/fuel-network-attackathon/",
+      "ogImg": "/api/bounty/og-image/?project=Attackathon+%7C+Fuel+Network&slug=fuel-network-attackathon"
     }
   },
   "__N_SSG": true

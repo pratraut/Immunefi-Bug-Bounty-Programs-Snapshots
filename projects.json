@@ -412,7 +412,7 @@
     "date": "2021-10-20T12:00:00.000Z",
     "launchDate": "2021-10-20T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-31T12:00:33.588Z",
+    "updatedDate": "2025-05-09T07:17:13.823Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -2160,54 +2160,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4S3wKY9duk9qogverDN2Bp",
-    "id": "hydration",
-    "project": "Hydration",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3lm40Mobfxo3pFJkKBXPuc/b12c4e4926c6c5185a9b2a0ce7ae106a/Hydration.png",
-    "date": "2023-02-20T20:00:00.000Z",
-    "launchDate": "2023-02-20T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-04T15:13:40.403Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "DEX",
-        "Staking"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polkadot"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "4ayFbs6wJjaoW7nAFF4UpU",
     "id": "bobanetwork",
     "project": "Boba Network",
@@ -3691,6 +3643,54 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4S3wKY9duk9qogverDN2Bp",
+    "id": "hydration",
+    "project": "Hydration",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3lm40Mobfxo3pFJkKBXPuc/b12c4e4926c6c5185a9b2a0ce7ae106a/Hydration.png",
+    "date": "2023-02-20T20:00:00.000Z",
+    "launchDate": "2023-02-20T20:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-05-09T09:03:47.059Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "AMM",
+        "DEX",
+        "Staking"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Defi"
+      ],
+      "ecosystem": [
+        "Polkadot"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Rust"
       ],
       "featured": [
         "Launched Recently"

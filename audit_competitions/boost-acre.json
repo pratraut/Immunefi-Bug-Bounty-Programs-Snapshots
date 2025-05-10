@@ -351,8 +351,8 @@
     "metaData": {
       "title": "Audit Comp | Acre Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Acre and get paid up to $50,000.",
-      "url": "https://immunefi.com/audit-competition/boost-acre",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Acre"
+      "url": "https://immunefi.com/audit-competition/boost-acre/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Acre&slug=boost-acre"
     }
   },
   "__N_SSG": true

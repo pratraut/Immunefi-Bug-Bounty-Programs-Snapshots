@@ -618,8 +618,8 @@
     "metaData": {
       "title": "Audit Comp | Lombard Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Lombard and get paid up to $100,000.",
-      "url": "https://immunefi.com/audit-competition/audit-comp-lombard",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Lombard"
+      "url": "https://immunefi.com/audit-competition/audit-comp-lombard/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Lombard&slug=audit-comp-lombard"
     }
   },
   "__N_SSG": true

@@ -668,8 +668,8 @@
     "metaData": {
       "title": "Audit Comp | DeGate Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | DeGate and get paid up to $400,000.",
-      "url": "https://immunefi.com/audit-competition/boosteddegatebugbounty",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+DeGate"
+      "url": "https://immunefi.com/audit-competition/boosteddegatebugbounty/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+DeGate&slug=boosteddegatebugbounty"
     }
   },
   "__N_SSG": true

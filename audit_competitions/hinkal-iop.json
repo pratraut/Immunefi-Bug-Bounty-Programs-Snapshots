@@ -231,8 +231,8 @@
     "metaData": {
       "title": "IOP | Hinkal Bug Bounties",
       "description": "Find bugs and vulnerabilities on IOP | Hinkal and get paid.",
-      "url": "https://immunefi.com/audit-competition/hinkal-iop",
-      "ogImg": "/api/bounty/og-image?project=IOP+%7C+Hinkal"
+      "url": "https://immunefi.com/audit-competition/hinkal-iop/",
+      "ogImg": "/api/bounty/og-image/?project=IOP+%7C+Hinkal&slug=hinkal-iop"
     }
   },
   "__N_SSG": true

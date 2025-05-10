@@ -348,8 +348,8 @@
     "metaData": {
       "title": "Audit Comp | Lido: Mellow Vault Bug Bounties",
       "description": "Find bugs and vulnerabilities on Audit Comp | Lido: Mellow Vault and get paid up to $100,000.",
-      "url": "https://immunefi.com/audit-competition/boost-lido",
-      "ogImg": "/api/bounty/og-image?project=Audit+Comp+%7C+Lido%3A+Mellow+Vault"
+      "url": "https://immunefi.com/audit-competition/boost-lido/",
+      "ogImg": "/api/bounty/og-image/?project=Audit+Comp+%7C+Lido%3A+Mellow+Vault&slug=boost-lido"
     }
   },
   "__N_SSG": true

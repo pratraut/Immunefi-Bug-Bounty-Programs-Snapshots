@@ -320,8 +320,8 @@
     "metaData": {
       "title": "IOP | Swaylend Bug Bounties",
       "description": "Find bugs and vulnerabilities on IOP | Swaylend and get paid up to $45,000.",
-      "url": "https://immunefi.com/audit-competition/iop-swaylend",
-      "ogImg": "/api/bounty/og-image?project=IOP+%7C+Swaylend"
+      "url": "https://immunefi.com/audit-competition/iop-swaylend/",
+      "ogImg": "/api/bounty/og-image/?project=IOP+%7C+Swaylend&slug=iop-swaylend"
     }
   },
   "__N_SSG": true
