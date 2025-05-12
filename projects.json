@@ -4591,7 +4591,7 @@
     "date": "2025-05-08T05:53:52.000Z",
     "launchDate": "2025-05-08T05:53:52.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-08T13:24:29.592Z",
+    "updatedDate": "2025-05-12T09:11:34.240Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5459,7 +5459,7 @@
     "date": "2022-03-31T19:30:00.000Z",
     "launchDate": "2022-03-31T19:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-01T06:02:57.546Z",
+    "updatedDate": "2025-05-12T09:06:54.908Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -9909,6 +9909,51 @@
         "Smart Contract"
       ],
       "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "uXpcEHhcTSiyub3rp9QZn",
+    "id": "kinesis-bridge-on-kadena",
+    "project": "Kinesis Bridge on Kadena",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3JbCmvAmy6mloa0cxuVBgw/f7f0dd0875dd7a275bf9393d73d3f6d1/Screenshot_2025-01-23_at_10.19.49.png",
+    "date": "2025-05-12T10:00:00.000Z",
+    "launchDate": "2025-05-12T10:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-05-12T14:30:36.058Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "L1",
+        "Bridge"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Kadena"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Go",
+        "Rust"
+      ],
       "featured": [
         "Launched Recently"
       ]

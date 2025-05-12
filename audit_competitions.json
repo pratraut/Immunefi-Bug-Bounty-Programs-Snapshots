@@ -8,18 +8,32 @@
     "date": "2025-05-12T10:00:00.000Z",
     "launchDate": "2025-05-12T10:00:00.000Z",
     "endDate": "2025-06-09T10:00:00.000Z",
-    "updatedDate": "2025-05-11T08:42:17.879Z",
+    "updatedDate": "2025-05-12T12:42:08.633Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi"
       ],
       "featured": [
         "Launched Recently"
@@ -58,6 +72,7 @@ For more information, please visit [Flare Network](https://flare.network/)",
 
 This is a **Mainnet Audit Competition** and the project may fix bugs mid-competition. The more bugs a project fixes the more rewards will be unlocked for a simultaneously running mitigation competition that is open for everyone to participate in. 
 
+- Read the Mainnet Audition Competition **Rules** [here](https://immunefisupport.zendesk.com/hc/en-us/articles/33256328266769-Mainnet-Audit-Competition-Rules) 
 
 If Flare Network doesn't make any public bug fix during their Mainnet Audit Competition, then within a maximum of 30 days after mainnet competition has ended their **Mitigation Audit** will launch. 
 
@@ -92,23 +107,7 @@ For more information, please visit [Flare Network](https://flare.network/)
       "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "194xuCBDnCLZE5ggR4PYDr",
