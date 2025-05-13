@@ -1173,51 +1173,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "s3PuVMKBl2fvORRkc9D0v",
-    "id": "lidoonpolygon",
-    "project": "Lido on Polygon",
-    "maximum_reward": 2000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/51D5leTvhTAzt8B5goyJwq/d530d33691ce32e0d4edbedcd3884dfa/Lido_for_Polygon.png",
-    "date": "2022-03-31T20:30:00.000Z",
-    "launchDate": "2022-03-31T20:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T12:34:16.174Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Liquid Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "K4h2snhwF8qxWvekCApVY",
     "id": "gnosischain",
     "project": "Gnosis Chain",
@@ -3193,7 +3148,7 @@
     "date": "2024-07-02T08:30:00.000Z",
     "launchDate": "2024-07-02T08:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:52:19.151Z",
+    "updatedDate": "2025-05-13T09:54:28.561Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -6817,7 +6772,7 @@
     "date": "2023-04-14T20:00:00.000Z",
     "launchDate": "2023-04-14T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-13T14:39:34.938Z",
+    "updatedDate": "2025-05-13T13:08:06.400Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -9301,49 +9256,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "ok4RISOJ0ZoykS5aUPpn7",
-    "id": "alpacafinance",
-    "project": "Alpaca Finance",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7A752GlV5SXytw8vQ3311P/adc8fc324f89144ab15badd1c0b3fe02/Alpaca_Finance.jpeg",
-    "date": "2021-06-14T09:00:00.000Z",
-    "launchDate": "2021-06-14T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-03T23:34:04.953Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "4b5GvqmtJAPXDBqsxwOgEs",
     "id": "mux",
     "project": "MUX",
@@ -10331,51 +10243,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "7BxAepwc4QAdCnRFliIRh1",
-    "id": "pikaprotocol",
-    "project": "Pika Protocol",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6qGj2olEAqEIesIb50OLL/02e1cd35cc532aad744722da6718a8fc/PikaLogo.png",
-    "date": "2023-12-27T09:00:00.000Z",
-    "launchDate": "2023-12-27T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T12:09:37.060Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "DEX",
-        "Perpetuals"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7qXySvnhtaaW0tbxW02ebl",
     "id": "skatefi",
     "project": "SkateFi",
@@ -11285,7 +11152,7 @@
     "date": "2021-05-19T05:00:00.000Z",
     "launchDate": "2021-05-19T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-05T10:52:41.134Z",
+    "updatedDate": "2025-05-13T10:55:40.836Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
