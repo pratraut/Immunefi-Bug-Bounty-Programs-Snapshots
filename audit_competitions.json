@@ -8,7 +8,7 @@
     "date": "2025-05-12T10:00:00.000Z",
     "launchDate": "2025-05-12T10:00:00.000Z",
     "endDate": "2025-06-09T10:00:00.000Z",
-    "updatedDate": "2025-05-12T12:42:08.633Z",
+    "updatedDate": "2025-05-14T08:19:08.903Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -190,79 +190,6 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "premiumTriaging": true
   },
   {
-    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
-    "id": "movement-labs-attackathon",
-    "project": "Attackathon | Movement Labs",
-    "maximum_reward": 400000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
-    "date": "2025-03-07T18:00:00.000Z",
-    "launchDate": "2025-03-07T18:00:00.000Z",
-    "endDate": "2025-04-04T18:00:00.000Z",
-    "updatedDate": "2025-05-06T07:38:13.126Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Move",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-05-14T18:00:00.000Z",
-    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
-
-March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
-
-Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 400000,
-    "sourceLinesOfCode": 48884,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": "2025-03-06T16:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
     "id": "ethereum-protocol-attackathon",
     "project": "Attackathon | Ethereum Protocol",
@@ -347,6 +274,79 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
       "Vault"
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
+    "id": "movement-labs-attackathon",
+    "project": "Attackathon | Movement Labs",
+    "maximum_reward": 400000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
+    "date": "2025-03-07T18:00:00.000Z",
+    "launchDate": "2025-03-07T18:00:00.000Z",
+    "endDate": "2025-04-04T18:00:00.000Z",
+    "updatedDate": "2025-05-06T07:38:13.126Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Move",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-05-14T18:00:00.000Z",
+    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
+
+March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
+
+Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 400000,
+    "sourceLinesOfCode": 48884,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2025-03-06T16:00:00.000Z",
     "premiumTriaging": true
   },
   {

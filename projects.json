@@ -6895,6 +6895,48 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "129B9nIn3SCk2M7prTEk2M",
+    "id": "stakelink",
+    "project": "stake.link",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2DFddPat9vGtsloyhopG4W/fc67e2d19d40c48e337757925278ca96/stake.link.png",
+    "date": "2025-05-14T14:28:00.000Z",
+    "launchDate": "2025-05-14T14:28:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-05-14T14:28:19.239Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Liquid Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "7s0Drruc5AExzGn84CMEX3",
     "id": "haven1",
     "project": "Haven1",
