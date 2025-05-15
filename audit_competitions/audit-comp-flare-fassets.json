@@ -21,31 +21,31 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Ht5ANaRgVQI77zZ9AsJDm/18581691b5f8dd8c0e52fc9eb9364029/F_light_bg.png",
       "launchDate": "2025-05-12T10:00:00.000Z",
       "endDate": "2025-06-09T10:00:00.000Z",
-      "updatedDate": "2025-05-14T08:19:08.903Z",
+      "updatedDate": "2025-05-15T14:13:17.049Z",
       "kyc": false,
       "rewards": [
         {
           "assetType": "smart_contract",
           "level": "critical",
-          "payout": "Portion of the Reward Pool",
+          "payout": "Portion of Reward Pool",
           "pocRequired": true
         },
         {
           "assetType": "smart_contract",
           "level": "high",
-          "payout": "Portion of the Reward Pool",
+          "payout": "Portion of Reward Pool",
           "pocRequired": true
         },
         {
           "assetType": "smart_contract",
           "level": "medium",
-          "payout": "Portion of the Reward Pool",
+          "payout": "Portion of Reward Pool",
           "pocRequired": true
         },
         {
           "assetType": "smart_contract",
           "level": "low",
-          "payout": "Portion of the Reward Pool",
+          "payout": "Portion of Reward Pool",
           "pocRequired": true
         }
       ],
@@ -59,13 +59,1390 @@
       ],
       "assets": [
         {
-          "id": "70iv1uE9MbAeQkeZ6b7lHi",
+          "id": "6zFytSn2rU4R99iFGDjSGH",
           "type": "smart_contract",
-          "url": "https://github.com/flare-foundation/fassets/blob/main/docs/ImmunefiScope.md",
-          "description": "FAssets Contracts - nSloc : 13957",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AgentAlwaysAllowedMintersFacet.sol",
+          "description": "AgentAlwaysAllowedMintersFacet.sol",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-05-12T10:00:00.000Z"
+          "addedAt": "2025-05-15T10:05:13.671Z"
+        },
+        {
+          "id": "7D0SVcBRLvR19gcf5BxiB2",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AgentCollateralFacet.sol",
+          "description": "AgentCollateralFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:05:44.126Z"
+        },
+        {
+          "id": "3157zDcyzjUfvJuPIl5qpW",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AgentInfoFacet.sol",
+          "description": "AgentInfoFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:06:18.875Z"
+        },
+        {
+          "id": "UDFY3KYfY0nLZztkYY8lr",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AgentPingFacet.sol",
+          "description": "AgentPingFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:20:36.072Z"
+        },
+        {
+          "id": "63mNxEhON5osHEAznaYO8t",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AgentSettingsFacet.sol",
+          "description": "AgentSettingsFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:21:03.850Z"
+        },
+        {
+          "id": "6ByjJP9zOqhvmnraAvwu22",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AgentVaultAndPoolSupportFacet.sol",
+          "description": "AgentVaultAndPoolSupportFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:21:32.056Z"
+        },
+        {
+          "id": "3BZxBOGppAou5grTr9rJLr",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AgentVaultManagementFacet.sol",
+          "description": "AgentVaultManagementFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:21:56.582Z"
+        },
+        {
+          "id": "3LUxw7sd3re2UCRlqeEu4M",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AssetManagerBase.sol",
+          "description": "AssetManagerBase.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:22:19.469Z"
+        },
+        {
+          "id": "2iSrtx1ztuZD4POo9dZoxQ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AssetManagerDiamondCutFacet.sol",
+          "description": "AssetManagerDiamondCutFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:22:44.667Z"
+        },
+        {
+          "id": "3JFO0f1z6cOcFg0UA36zHn",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AssetManagerInit.sol",
+          "description": "AssetManagerInit.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:23:07.330Z"
+        },
+        {
+          "id": "01KVLNYkpLhix7MjBWCPly",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/AvailableAgentsFacet.sol",
+          "description": "AvailableAgentsFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:23:30.828Z"
+        },
+        {
+          "id": "1utsb1CIHuwfIYlndjDHQQ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/ChallengesFacet.sol",
+          "description": "ChallengesFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:23:55.873Z"
+        },
+        {
+          "id": "3dovQ9lCOzXgP4AuhZHD7W",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/CollateralReservationsFacet.sol",
+          "description": "CollateralReservationsFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:24:18.246Z"
+        },
+        {
+          "id": "2jROD84yd8aIQj6wk6t7Ky",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/CollateralTypesFacet.sol",
+          "description": "CollateralTypesFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:27:37.041Z"
+        },
+        {
+          "id": "4sbcnXbP6Pr3uZV0WQI22H",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/CoreVaultFacet.sol",
+          "description": "CoreVaultFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:31:06.682Z"
+        },
+        {
+          "id": "56u6tnpIhjWS5M8G8jArHM",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/CoreVaultSettingsFacet.sol",
+          "description": "CoreVaultSettingsFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:31:40.704Z"
+        },
+        {
+          "id": "1G8Tz5r8KKIYvR060J4a9j",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/EmergencyPauseFacet.sol",
+          "description": "EmergencyPauseFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:32:01.410Z"
+        },
+        {
+          "id": "5bzSoBb6dCkBw60gaDKRlG",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/EmergencyPauseTransfersFacet.sol",
+          "description": "EmergencyPauseTransfersFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:33:01.930Z"
+        },
+        {
+          "id": "3HP8h0vVfJqQb71jhPLjX7",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/LiquidationFacet.sol",
+          "description": "LiquidationFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T10:33:35.006Z"
+        },
+        {
+          "id": "4OAmr5JwqfUFzAqEHvt1NY",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/MintingFacet.sol",
+          "description": "MintingFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:41.765Z"
+        },
+        {
+          "id": "1n6Oy34cnzTqROF20rtsGQ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/RedemptionConfirmationsFacet.sol",
+          "description": "RedemptionConfirmationsFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:42.417Z"
+        },
+        {
+          "id": "79Vzm54W3VbEVS25Ib1IJA",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/RedemptionDefaultsFacet.sol",
+          "description": "RedemptionDefaultsFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:42.921Z"
+        },
+        {
+          "id": "4fcwFlrUFERdSCozYuhI79",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/RedemptionRequestsFacet.sol",
+          "description": "RedemptionRequestsFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:43.426Z"
+        },
+        {
+          "id": "5iQ84ylFPLNIYP1oFczcUY",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/RedemptionTimeExtensionFacet.sol",
+          "description": "RedemptionTimeExtensionFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:43.950Z"
+        },
+        {
+          "id": "3LCIxQUtgVWC1NbFFVvl6t",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/SettingsManagementFacet.sol",
+          "description": "SettingsManagementFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:44.417Z"
+        },
+        {
+          "id": "4nKeTPvYf7gHkjrAIyaN2q",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/SettingsReaderFacet.sol",
+          "description": "SettingsReaderFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:44.925Z"
+        },
+        {
+          "id": "26iKqlbd94urZ8OeYKdDrv",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/SystemInfoFacet.sol",
+          "description": "SystemInfoFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:45.417Z"
+        },
+        {
+          "id": "6WwLAOArIjT35Vthisg6Rh",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/SystemStateManagementFacet.sol",
+          "description": "SystemStateManagementFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:45.919Z"
+        },
+        {
+          "id": "5bKAVbbpQDlGDNr4uiBx1Z",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/TransferFeeFacet.sol",
+          "description": "TransferFeeFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:46.412Z"
+        },
+        {
+          "id": "5pG2arxfjQ1bqwzinY3FhA",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/UnderlyingBalanceFacet.sol",
+          "description": "UnderlyingBalanceFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:46.915Z"
+        },
+        {
+          "id": "4CTgIRLdISWOIiVtuXcZv8",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/facets/UnderlyingTimekeepingFacet.sol",
+          "description": "UnderlyingTimekeepingFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:47.419Z"
+        },
+        {
+          "id": "5392DIJIoy6pHFCSZJn02w",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/AgentOwnerRegistry.sol",
+          "description": "AgentOwnerRegistry.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:47.911Z"
+        },
+        {
+          "id": "6ho5pDsR0DV56skVuY21mJ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/AgentVault.sol",
+          "description": "AgentVault.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:48.407Z"
+        },
+        {
+          "id": "5FtRkKppT2rDueF9WokeaQ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/AgentVaultFactory.sol",
+          "description": "AgentVaultFactory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:48.920Z"
+        },
+        {
+          "id": "4o8DksIsWkDlDFY0niv7dD",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/AssetManager.sol",
+          "description": "AssetManager.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:49.446Z"
+        },
+        {
+          "id": "6aRECegL1wIBNSCKdzKdIB",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/AssetManagerController.sol",
+          "description": "AssetManagerController.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:50.037Z"
+        },
+        {
+          "id": "2DbetIJAZ3P9asSWg7rpJW",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/AssetManagerControllerProxy.sol",
+          "description": "AssetManagerControllerProxy.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:50.528Z"
+        },
+        {
+          "id": "5QoscoKOY84Re8wiLvHzdr",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/CollateralPool.sol",
+          "description": "CollateralPool.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:51.033Z"
+        },
+        {
+          "id": "4qooc4eG79cN6lw4NbqqGm",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/CollateralPoolFactory.sol",
+          "description": "CollateralPoolFactory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:51.551Z"
+        },
+        {
+          "id": "1WeflHaquHLPQuiOSwo936",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/CollateralPoolToken.sol",
+          "description": "CollateralPoolToken.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:52.039Z"
+        },
+        {
+          "id": "31I4fLc2Qo3iyPZsyohlJO",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/CollateralPoolTokenFactory.sol",
+          "description": "CollateralPoolTokenFactory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:52.551Z"
+        },
+        {
+          "id": "27N82ODtVWsmTxoPSXLIyl",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/CoreVaultManager.sol",
+          "description": "CoreVaultManager.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:53.092Z"
+        },
+        {
+          "id": "4PvaPgs1KL0m7d7ismNBU6",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/CoreVaultManagerProxy.sol",
+          "description": "CoreVaultManagerProxy.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:53.599Z"
+        },
+        {
+          "id": "4i4KPOu4homxwT6vgEYroB",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/FtsoV1PriceReader.sol",
+          "description": "FtsoV1PriceReader.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:54.137Z"
+        },
+        {
+          "id": "3q9eEXMsk8OPNfKhtyz6P5",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/FtsoV2PriceStore.sol",
+          "description": "FtsoV2PriceStore.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:54.618Z"
+        },
+        {
+          "id": "7kl8kDN2yztAnhWBNqMpse",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/implementation/Whitelist.sol",
+          "description": "Whitelist.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:55.114Z"
+        },
+        {
+          "id": "6XGpY4XrNhBkspqCSKo0bP",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IAgentVaultFactory.sol",
+          "description": "IAgentVaultFactory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:55.591Z"
+        },
+        {
+          "id": "5w2Gbk8PXjRLwQCovTy6uQ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/ICollateralPoolFactory.sol",
+          "description": "ICollateralPoolFactory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:56.111Z"
+        },
+        {
+          "id": "38JkzzluZvpMTZIRTrOSJ9",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/ICollateralPoolTokenFactory.sol",
+          "description": "ICollateralPoolTokenFactory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:56.622Z"
+        },
+        {
+          "id": "3lRNnDU0T89mSQe5RyXtgd",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IIAgentVault.sol",
+          "description": "IIAgentVault.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:57.108Z"
+        },
+        {
+          "id": "1po09UYVEbsblWJO4iNzEJ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IIAssetManager.sol",
+          "description": "IIAssetManager.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:57.566Z"
+        },
+        {
+          "id": "2dj09eKyxSI9md62bq9LbC",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IIAssetManagerController.sol",
+          "description": "IIAssetManagerController.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:58.032Z"
+        },
+        {
+          "id": "1XjpYJoqmq4GvPGarDrk8a",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IICollateralPool.sol",
+          "description": "IICollateralPool.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:58.512Z"
+        },
+        {
+          "id": "6lxnJJxEm2MjK2QdEiAyBI",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IICollateralPoolToken.sol",
+          "description": "IICollateralPoolToken.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:59.029Z"
+        },
+        {
+          "id": "6RQRwmFF2HzjaHr4adGVeu",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IICoreVaultManager.sol",
+          "description": "IICoreVaultManager.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:59.464Z"
+        },
+        {
+          "id": "3dAAZmj4G7rOSZ029NFrg8",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IISettingsManagement.sol",
+          "description": "IISettingsManagement.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:55:59.947Z"
+        },
+        {
+          "id": "JrNwfm2CkRjM4BhgO1BYg",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IPriceChangeEmitter.sol",
+          "description": "IPriceChangeEmitter.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:00.436Z"
+        },
+        {
+          "id": "DAtAIH0hVrhjTjE1biBib",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IPricePublisher.sol",
+          "description": "IPricePublisher.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:00.905Z"
+        },
+        {
+          "id": "6LYUXSc6vl5OmwKC0TXVRy",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IPriceReader.sol",
+          "description": "IPriceReader.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:01.391Z"
+        },
+        {
+          "id": "6rAqniPlMPb02oXAMo0wSG",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IUpgradableContractFactory.sol",
+          "description": "IUpgradableContractFactory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:01.897Z"
+        },
+        {
+          "id": "7qu5zRVE9zPrk4CcWUOXZ2",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/interfaces/IWNat.sol",
+          "description": "IWNat.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:02.382Z"
+        },
+        {
+          "id": "6EnsiXJv7RPIkizll8kCd5",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/AgentCollateral.sol",
+          "description": "AgentCollateral.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:02.906Z"
+        },
+        {
+          "id": "2bhxbJqkZepxGJhqMrs5wf",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/AgentSettingsUpdater.sol",
+          "description": "AgentSettingsUpdater.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:03.350Z"
+        },
+        {
+          "id": "VvWqZETKxwyG5oRQa2wYR",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/Agents.sol",
+          "description": "Agents.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:03.820Z"
+        },
+        {
+          "id": "5bihRkj8L93oUcLd4s8nAH",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/AgentsCreateDestroy.sol",
+          "description": "AgentsCreateDestroy.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:04.388Z"
+        },
+        {
+          "id": "1GwK6zX32t6stvlwBCWJX1",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/AgentsExternal.sol",
+          "description": "AgentsExternal.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:04.856Z"
+        },
+        {
+          "id": "4L71EJ6AjbGjKcTHQPfn3i",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/AvailableAgents.sol",
+          "description": "AvailableAgents.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:05.344Z"
+        },
+        {
+          "id": "5BaefG3UJX6X4Aw0p4btpe",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/Challenges.sol",
+          "description": "Challenges.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:05.872Z"
+        },
+        {
+          "id": "73KXnEDfuPOc4aUSCH34JP",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/CollateralReservations.sol",
+          "description": "CollateralReservations.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:06.354Z"
+        },
+        {
+          "id": "6agF2PDH8Hni5QpkFFiOPD",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/CollateralTypes.sol",
+          "description": "CollateralTypes.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:06.857Z"
+        },
+        {
+          "id": "5KGCpHbjkfcGYOoA4X3yKV",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/Conversion.sol",
+          "description": "Conversion.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:07.345Z"
+        },
+        {
+          "id": "6MSWq5jSuCUNIvEyvlCtdZ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/CoreVault.sol",
+          "description": "CoreVault.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:07.777Z"
+        },
+        {
+          "id": "rNYkblGK2AFeGWcRu4N9G",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/FullAgentInfo.sol",
+          "description": "FullAgentInfo.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:08.273Z"
+        },
+        {
+          "id": "1Efpm2uCzwjA8I9WyHT2xS",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/Globals.sol",
+          "description": "Globals.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:08.743Z"
+        },
+        {
+          "id": "3vtuur8JwxyQdYjMep9Obq",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/Liquidation.sol",
+          "description": "Liquidation.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:09.281Z"
+        },
+        {
+          "id": "2KiYsoRxVG6qaUDmFLPbLz",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/LiquidationPaymentStrategy.sol",
+          "description": "LiquidationPaymentStrategy.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:09.718Z"
+        },
+        {
+          "id": "3dKLGCQTx4XBR7KDS7aF21",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/MerkleTree.sol",
+          "description": "MerkleTree.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:10.222Z"
+        },
+        {
+          "id": "53fHrLJqecP3cK7iqGMfmi",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/Minting.sol",
+          "description": "Minting.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:10.760Z"
+        },
+        {
+          "id": "5m0jV1A9knQA8kS0DrxNmN",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/RedemptionConfirmations.sol",
+          "description": "RedemptionConfirmations.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:11.271Z"
+        },
+        {
+          "id": "3YJC3gbLEMF4B6gFD25AHt",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/RedemptionFailures.sol",
+          "description": "RedemptionFailures.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:11.783Z"
+        },
+        {
+          "id": "4E2ipDyZwYj1ASHiQuX0eD",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/RedemptionQueueInfo.sol",
+          "description": "RedemptionQueueInfo.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:12.274Z"
+        },
+        {
+          "id": "3MrfUTKW4GI2zzi2dFp9Sv",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/RedemptionRequests.sol",
+          "description": "RedemptionRequests.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:12.799Z"
+        },
+        {
+          "id": "2xQsGMHhPIvXYybZT3g7ou",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/Redemptions.sol",
+          "description": "Redemptions.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:13.298Z"
+        },
+        {
+          "id": "7hXqemOyzAReKVzwLNHxqE",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/SettingsInitializer.sol",
+          "description": "SettingsInitializer.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:13.802Z"
+        },
+        {
+          "id": "4OVUQK4EVRjLy6hN8qiYma",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/SettingsUpdater.sol",
+          "description": "SettingsUpdater.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:14.297Z"
+        },
+        {
+          "id": "65mOg27mpqUArmHyU5RV8L",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/SettingsValidators.sol",
+          "description": "SettingsValidators.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:14.804Z"
+        },
+        {
+          "id": "5iCYZPYLUYItbpyIwNF3EI",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/StateUpdater.sol",
+          "description": "StateUpdater.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:15.474Z"
+        },
+        {
+          "id": "6fvnKNcyXSJHdDgzBAAwBq",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/TransactionAttestation.sol",
+          "description": "TransactionAttestation.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:15.974Z"
+        },
+        {
+          "id": "SPRGgMNmBV6AP36ARCmYW",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/TransferFees.sol",
+          "description": "TransferFees.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:16.487Z"
+        },
+        {
+          "id": "1Tx2nXClSVOoXjV66eKIuo",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/UnderlyingBalance.sol",
+          "description": "UnderlyingBalance.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:16.967Z"
+        },
+        {
+          "id": "3n3zLV8TEsCnK8bcJ6PADW",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/UnderlyingWithdrawalAnnouncements.sol",
+          "description": "UnderlyingWithdrawalAnnouncements.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:17.436Z"
+        },
+        {
+          "id": "1CtgJ75dbXJJfN5dVKPPoy",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/Agent.sol",
+          "description": "Agent.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:17.927Z"
+        },
+        {
+          "id": "3T5pLiPBcGXw7F4gGO3jVT",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/AssetManagerState.sol",
+          "description": "AssetManagerState.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:18.381Z"
+        },
+        {
+          "id": "7wyA3PeAf6XP0ACcK5nIpT",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/Collateral.sol",
+          "description": "Collateral.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:18.949Z"
+        },
+        {
+          "id": "1Jo1Mg3Z4jwZuA8VxaIOm0",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/CollateralReservation.sol",
+          "description": "CollateralReservation.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:19.416Z"
+        },
+        {
+          "id": "7FdpCh2A7rzFaxCXYLqq2f",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/CollateralTypeInt.sol",
+          "description": "CollateralTypeInt.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:19.898Z"
+        },
+        {
+          "id": "CSaowdVQwcPANWeTrTP5l",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/PaymentConfirmations.sol",
+          "description": "PaymentConfirmations.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:20.408Z"
+        },
+        {
+          "id": "3R44veVpLTXET6FKsl87YY",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/PaymentReference.sol",
+          "description": "PaymentReference.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:20.920Z"
+        },
+        {
+          "id": "1vbn9RyGUvmyj3BsqWak9z",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/Redemption.sol",
+          "description": "Redemption.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:21.360Z"
+        },
+        {
+          "id": "zFWB0pW8r8QlP0mW6w2lJ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/RedemptionQueue.sol",
+          "description": "RedemptionQueue.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:21.881Z"
+        },
+        {
+          "id": "7vwXxG46cdLa8n2qvxXvdn",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/RedemptionTimeExtension.sol",
+          "description": "RedemptionTimeExtension.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:22.396Z"
+        },
+        {
+          "id": "7CcrehVtR3kNwpVF0JPny4",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/TransferFeeTracking.sol",
+          "description": "TransferFeeTracking.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:22.855Z"
+        },
+        {
+          "id": "5P2x8sG19s6dzrfZCOdNnk",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/assetManager/library/data/UnderlyingAddressOwnership.sol",
+          "description": "UnderlyingAddressOwnership.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:23.367Z"
+        },
+        {
+          "id": "3V5nDjX2ySxcJZ0tCY6M6E",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/diamond/facets/DiamondLoupeFacet.sol",
+          "description": "DiamondLoupeFacet.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:23.851Z"
+        },
+        {
+          "id": "4Qu2gDRo6olxJ37BOfdSHY",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/diamond/implementation/Diamond.sol",
+          "description": "Diamond.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:24.267Z"
+        },
+        {
+          "id": "RYon9FTDKiO3mzclJp73S",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/diamond/interfaces/IDiamond.sol",
+          "description": "IDiamond.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:24.854Z"
+        },
+        {
+          "id": "54CcgTlqBx79DuxJudqcvf",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/diamond/interfaces/IDiamondCut.sol",
+          "description": "IDiamondCut.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:25.336Z"
+        },
+        {
+          "id": "52AnqIBJG4xBsvdsnqsA0R",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/diamond/interfaces/IDiamondLoupe.sol",
+          "description": "IDiamondLoupe.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:25.828Z"
+        },
+        {
+          "id": "E1ltgVTmyqMkLFXxntO7S",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/diamond/library/LibDiamond.sol",
+          "description": "LibDiamond.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:26.348Z"
+        },
+        {
+          "id": "25rj49yerhDiqhOVkqlsy7",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/fassetToken/implementation/CheckPointable.sol",
+          "description": "CheckPointable.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:26.890Z"
+        },
+        {
+          "id": "6MKdsSYET7XYE4AWQuqXqo",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/fassetToken/implementation/FAsset.sol",
+          "description": "FAsset.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:27.336Z"
+        },
+        {
+          "id": "66sddJ0EK7OHCFQ7kFWzcO",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/fassetToken/implementation/FAssetProxy.sol",
+          "description": "FAssetProxy.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:27.814Z"
+        },
+        {
+          "id": "2ENNhmbkFPsX2IBEipYbAh",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/fassetToken/interfaces/ICheckPointable.sol",
+          "description": "ICheckPointable.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:28.310Z"
+        },
+        {
+          "id": "3Xozq8rnLhL4XPsPKgCHHP",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/fassetToken/interfaces/IIFAsset.sol",
+          "description": "IIFAsset.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:28.747Z"
+        },
+        {
+          "id": "3WNIhubswKe8LZeelMuHtM",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/fassetToken/library/CheckPointHistory.sol",
+          "description": "CheckPointHistory.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:29.234Z"
+        },
+        {
+          "id": "3n4H8iAe24g1v5dsn5u4Jy",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/fassetToken/library/CheckPointsByAddress.sol",
+          "description": "CheckPointsByAddress.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:29.720Z"
+        },
+        {
+          "id": "2kKGxnK8kpDsIzh1zu10Ew",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/governance/implementation/AddressUpdatable.sol",
+          "description": "AddressUpdatable.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:30.214Z"
+        },
+        {
+          "id": "2QitUbNBqVYTIm5mpT1Bgr",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/governance/implementation/Governed.sol",
+          "description": "Governed.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:30.694Z"
+        },
+        {
+          "id": "7HHkBeLhxRd6ljb1HNfRIv",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/governance/implementation/GovernedBase.sol",
+          "description": "GovernedBase.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:31.195Z"
+        },
+        {
+          "id": "34NCqXsSVtzBoi1wGh3P6T",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/governance/implementation/GovernedProxyImplementation.sol",
+          "description": "GovernedProxyImplementation.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:31.695Z"
+        },
+        {
+          "id": "6CMouq6HqMM3kQiUIORdos",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/governance/interfaces/IGoverned.sol",
+          "description": "IGoverned.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:32.268Z"
+        },
+        {
+          "id": "35NjnvLZa0h46VVzPwIelZ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/openzeppelin/library/Reentrancy.sol",
+          "description": "Reentrancy.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:32.782Z"
+        },
+        {
+          "id": "2mPEvnlvZ1drtYCOR0T5Ka",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/openzeppelin/security/ReentrancyGuard.sol",
+          "description": "ReentrancyGuard.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:33.313Z"
+        },
+        {
+          "id": "4m8owYJ0o5YdLXouPvwo5N",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/openzeppelin/token/ERC20Permit.sol",
+          "description": "ERC20Permit.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:33.834Z"
+        },
+        {
+          "id": "1A7TdjxVXFgLbbz30rn7lY",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/openzeppelin/utils/EIP712.sol",
+          "description": "EIP712.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:34.352Z"
+        },
+        {
+          "id": "7N0EsdfRGRN2vNEk5bgVVa",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IAgentAlwaysAllowedMinters.sol",
+          "description": "IAgentAlwaysAllowedMinters.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:34.887Z"
+        },
+        {
+          "id": "3HmNVp5lUclisfzEMGZLjc",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IAgentOwnerRegistry.sol",
+          "description": "IAgentOwnerRegistry.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:35.386Z"
+        },
+        {
+          "id": "53JbwN4lbeosFxR2ZssdEy",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IAgentPing.sol",
+          "description": "IAgentPing.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:35.896Z"
+        },
+        {
+          "id": "6blxeQ3Ko2SwCSOi2ocQvM",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IAgentVault.sol",
+          "description": "IAgentVault.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:36.427Z"
+        },
+        {
+          "id": "3gKX1yFpglPlBD53E6NKD",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IAssetManager.sol",
+          "description": "IAssetManager.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:36.936Z"
+        },
+        {
+          "id": "1w664cj8LqEpjOJ0UWG9e3",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IAssetManagerEvents.sol",
+          "description": "IAssetManagerEvents.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:37.550Z"
+        },
+        {
+          "id": "3Pm3x43BnkttmOKMyNqIX4",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/ICollateralPool.sol",
+          "description": "ICollateralPool.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:38.023Z"
+        },
+        {
+          "id": "4l33uQlXeYK7TpOYZrDMn7",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/ICollateralPoolToken.sol",
+          "description": "ICollateralPoolToken.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:38.527Z"
+        },
+        {
+          "id": "6cLFtFf7Pfjp7sMhk6g5Cp",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/ICoreVault.sol",
+          "description": "ICoreVault.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:38.996Z"
+        },
+        {
+          "id": "2V3ZxNCWciYTmrnnzozNPG",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/ICoreVaultManager.sol",
+          "description": "ICoreVaultManager.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:39.499Z"
+        },
+        {
+          "id": "2KZZuBVyvQiM9ttFeWmPTO",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/ICoreVaultSettings.sol",
+          "description": "ICoreVaultSettings.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:39.989Z"
+        },
+        {
+          "id": "45EOmxZkvbiypCSkFMBbg4",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IFAsset.sol",
+          "description": "IFAsset.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:40.457Z"
+        },
+        {
+          "id": "18BdXjfRfeHKizVWLXVTYm",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IRedemptionTimeExtension.sol",
+          "description": "IRedemptionTimeExtension.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:40.960Z"
+        },
+        {
+          "id": "1yjkNlk3rKqXA5vbA0yuio",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/ITransferFees.sol",
+          "description": "ITransferFees.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:41.444Z"
+        },
+        {
+          "id": "5Io7FdC3dnHtgnBqycVQU",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/IWhitelist.sol",
+          "description": "IWhitelist.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:41.936Z"
+        },
+        {
+          "id": "6RebMdvquPpMdNLLiVb8KW",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/AgentInfo.sol",
+          "description": "AgentInfo.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:42.461Z"
+        },
+        {
+          "id": "Kqvo3yT6SlyGfSY0glOFz",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/AgentSettings.sol",
+          "description": "AgentSettings.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:42.982Z"
+        },
+        {
+          "id": "1AAtKNLcI8uE2eZunUvC64",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/AssetManagerSettings.sol",
+          "description": "AssetManagerSettings.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:43.489Z"
+        },
+        {
+          "id": "3wZaEIWIQDiYHI14FlwsaS",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/AvailableAgentInfo.sol",
+          "description": "AvailableAgentInfo.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:44.059Z"
+        },
+        {
+          "id": "41Q4GfOAkrFjVyv3rLhx8E",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/CollateralReservationInfo.sol",
+          "description": "CollateralReservationInfo.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:44.559Z"
+        },
+        {
+          "id": "5niSotOYgIogIDLcz98FQ2",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/CollateralType.sol",
+          "description": "CollateralType.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:45.002Z"
+        },
+        {
+          "id": "2LZ2Hlju2ODB5Xe2sJcdKa",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/RedemptionRequestInfo.sol",
+          "description": "RedemptionRequestInfo.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:45.421Z"
+        },
+        {
+          "id": "5xvZ02jOVi4IOXuxFabyV",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/userInterfaces/data/RedemptionTicketInfo.sol",
+          "description": "RedemptionTicketInfo.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:45.886Z"
+        },
+        {
+          "id": "29HZcGUDDKbDwOvFKEv0kn",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/utils/interfaces/IUpgradableProxy.sol",
+          "description": "IUpgradableProxy.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:46.422Z"
+        },
+        {
+          "id": "3Wu5xTkpPaVeVPoDTYw6Sc",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/utils/lib/MathUtils.sol",
+          "description": "MathUtils.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:46.913Z"
+        },
+        {
+          "id": "6plajFxJhqxN16fmIYxqTZ",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/utils/lib/SafeMath64.sol",
+          "description": "SafeMath64.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:47.438Z"
+        },
+        {
+          "id": "3MM3vgfCi0vaIWyHoNzMq1",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/utils/lib/SafePct.sol",
+          "description": "SafePct.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:47.954Z"
+        },
+        {
+          "id": "33jxaRsCu3jF83oD9O6D5u",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/utils/lib/TimeCumulative.sol",
+          "description": "TimeCumulative.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:48.563Z"
+        },
+        {
+          "id": "ub97PZfRV5PTjqgIIO91x",
+          "type": "smart_contract",
+          "url": "https://github.com/flare-foundation/fassets/blob/main/contracts/utils/lib/Transfers.sol",
+          "description": "Transfers.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-05-15T13:56:49.057Z"
         }
       ],
       "impacts": [
@@ -187,19 +1564,19 @@
         "smartcontract_rewards": [
           {
             "level": "Critical",
-            "payout": "Portion of the Reward Pool"
+            "payout": "Portion of Reward Pool"
           },
           {
             "level": "High",
-            "payout": "Portion of the Reward Pool"
+            "payout": "Portion of Reward Pool"
           },
           {
             "level": "Medium",
-            "payout": "Portion of the Reward Pool"
+            "payout": "Portion of Reward Pool"
           },
           {
             "level": "Low",
-            "payout": "Portion of the Reward Pool"
+            "payout": "Portion of Reward Pool"
           }
         ],
         "web_rewards": []
@@ -289,6 +1666,12 @@
           "title": "Example of Technical Details",
           "description": "As an example, you can explore the Redemption function implementation in RedemptionRequestsFacet.sol",
           "url": "https://github.com/flare-labs-ltd/fassets/blob/main/contracts/assetManager/facets/RedemptionRequestsFacet.sol#L33"
+        },
+        {
+          "id": 246,
+          "title": "Technical Walkthrough",
+          "description": "Join us as Kristaps and Nejc from the Flare Network's team takes us through a technical walkthrough of their FAssets codebase.",
+          "url": "https://www.youtube.com/watch?v=MsBU8B8AI-o"
         }
       ],
       "primacy": "primacy_of_rules",

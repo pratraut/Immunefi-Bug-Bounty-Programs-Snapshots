@@ -8,7 +8,7 @@
     "date": "2025-05-12T10:00:00.000Z",
     "launchDate": "2025-05-12T10:00:00.000Z",
     "endDate": "2025-06-09T10:00:00.000Z",
-    "updatedDate": "2025-05-14T08:19:08.903Z",
+    "updatedDate": "2025-05-15T14:13:17.049Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -118,7 +118,7 @@ For more information, please visit [Flare Network](https://flare.network/)
     "date": "2025-04-03T14:00:00.000Z",
     "launchDate": "2025-04-03T14:00:00.000Z",
     "endDate": "2025-04-17T14:00:00.000Z",
-    "updatedDate": "2025-04-03T14:12:48.100Z",
+    "updatedDate": "2025-05-14T22:01:38.474Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -149,7 +149,7 @@ For more information, please visit [Flare Network](https://flare.network/)
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-05-17T14:00:00.000Z",
+    "evaluationEndDate": "2025-05-23T14:00:00.000Z",
     "boostedIntroStartingIn": "**$40,000 USD** in rewards is available for finding bugs on Spectra Finance contract. 
 
 For more information, please visit  about [Spectra Finance](https://www.spectra.finance/)
@@ -187,6 +187,155 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
       "Vault"
     ],
     "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
+    "id": "movement-labs-attackathon",
+    "project": "Attackathon | Movement Labs",
+    "maximum_reward": 400000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
+    "date": "2025-03-07T18:00:00.000Z",
+    "launchDate": "2025-03-07T18:00:00.000Z",
+    "endDate": "2025-04-04T18:00:00.000Z",
+    "updatedDate": "2025-05-14T20:21:59.846Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Move",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-05-23T18:00:00.000Z",
+    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
+
+March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
+
+Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 400000,
+    "sourceLinesOfCode": 48884,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2025-03-06T16:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2guoEIPOYw11nTADTMem4K",
+    "id": "stacks-attackathon-2",
+    "project": "Attackathon | Stacks II",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7k7Y3ozFznu7BV69YN9Bpz/e0a8ac082886c5c1be6fb64e19325fa1/Stacks_Logo.png",
+    "date": "2025-02-24T08:00:00.000Z",
+    "launchDate": "2025-02-24T08:00:00.000Z",
+    "endDate": "2025-03-27T08:00:00.000Z",
+    "updatedDate": "2025-05-14T21:50:24.731Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [],
+      "ecosystem": [
+        "Bitcoin",
+        "Stacks"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Rust",
+        "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-05-23T08:00:00.000Z",
+    "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
+
+On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
+
+The scope is the complete sBTC upgrade, including new features, new code and bug fixes added since Stack's 1st Attackathon.
+
+[Sign up for Stacks' 2nd Attackathon](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
+    "boostedIntroLive": "A flat **$250,000 USD** is in rewards for finding bugs on the Stacks sBTC upgrade.
+
+**On top of the above rewards**, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
+
+You can ask technical questions to the Stacks team directly in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "STX",
+    "rewardsPool": 250000,
+    "sourceLinesOfCode": 38000,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Vault",
+      "Managed Triage: Time Saver"
+    ],
+    "academyStartDate": "2025-02-12T11:00:00.000Z",
     "premiumTriaging": true
   },
   {
@@ -274,155 +423,6 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
       "Vault"
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
-    "id": "movement-labs-attackathon",
-    "project": "Attackathon | Movement Labs",
-    "maximum_reward": 400000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
-    "date": "2025-03-07T18:00:00.000Z",
-    "launchDate": "2025-03-07T18:00:00.000Z",
-    "endDate": "2025-04-04T18:00:00.000Z",
-    "updatedDate": "2025-05-06T07:38:13.126Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Move",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-05-14T18:00:00.000Z",
-    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
-
-March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
-
-Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 400000,
-    "sourceLinesOfCode": 48884,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": "2025-03-06T16:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "2guoEIPOYw11nTADTMem4K",
-    "id": "stacks-attackathon-2",
-    "project": "Attackathon | Stacks II",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7k7Y3ozFznu7BV69YN9Bpz/e0a8ac082886c5c1be6fb64e19325fa1/Stacks_Logo.png",
-    "date": "2025-02-24T08:00:00.000Z",
-    "launchDate": "2025-02-24T08:00:00.000Z",
-    "endDate": "2025-03-27T08:00:00.000Z",
-    "updatedDate": "2025-05-08T11:37:35.165Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [],
-      "ecosystem": [
-        "Bitcoin",
-        "Stacks"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust",
-        "Clarity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-05-13T08:00:00.000Z",
-    "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
-
-On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
-
-The scope is the complete sBTC upgrade, including new features, new code and bug fixes added since Stack's 1st Attackathon.
-
-[Sign up for Stacks' 2nd Attackathon](https://docs.google.com/forms/d/e/1FAIpQLSepIL-1khl05n7IpWBgXKdKQ1HT9A1G4IUuaPeKzkbURxY7rw/viewform?usp=sf_link).",
-    "boostedIntroLive": "A flat **$250,000 USD** is in rewards for finding bugs on the Stacks sBTC upgrade.
-
-**On top of the above rewards**, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
-
-You can ask technical questions to the Stacks team directly in the #stacks-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "STX",
-    "rewardsPool": 250000,
-    "sourceLinesOfCode": 38000,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Vault",
-      "Managed Triage: Time Saver"
-    ],
-    "academyStartDate": "2025-02-12T11:00:00.000Z",
     "premiumTriaging": true
   },
   {
