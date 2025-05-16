@@ -238,19 +238,125 @@
         "smartcontract_rewards": [],
         "web_rewards": []
       },
-      "evaluationEndDate": null,
-      "boostedIntroStartingIn": "",
+      "evaluationEndDate": "2025-04-17T13:20:40.592Z",
+      "boostedIntroStartingIn": "A total of $250,000 USD in rewards is available for discovering bugs in Shardeum Core III. The scope includes four components: the Shardus Core Protocol, Shardeum Validator Nodes, networking libraries, and crypto-utils.\n\nFor more information about Shardeum, please visit https://shardeum.org/\n\nNo KYC is required.\n\nAny technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-iii-audit-competition\" channel.\n\nNote:\nWhitehats, to join the testnet that Shardeum will be running, please ping the project team here in the Discord channel to get your EVM address whitelisted. Alternatively, you can DM the Shardeum Team for assistance.\n\nWhen the Audit Competition has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\nShardeum will record a technical walkthrough, which will then be shared in the Immunefi Discord.\n\nJoin our Discord for more updates.",
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1ThQUQMcM6Khxkp7tCKzoVsavmae4cO-c)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/shardeum-core-iii)\n\n\n\n\n\n\n\n(https://reports.immunefi.com/shardeum-core-iiI)",
       "rewardsToken": "USDC",
-      "rewardsPool": 0,
-      "sourceLinesOfCode": 0,
-      "boostedSummaryReport": null,
+      "rewardsPool": 250000,
+      "primaryPool": 250000,
+      "allStarsPool": 0,
+      "podiumPool": 0,
+      "sourceLinesOfCode": 73990,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1VrAHi9k1DaWxxWLpf-BapmsIMHaLA08p/",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
-      "features": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "Blockian",
+          "critical": 10,
+          "earnings": 94767,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 11
+        },
+        {
+          "high": 0,
+          "name": "throwing5tone7",
+          "critical": 3,
+          "earnings": 34483,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "ZhouWu",
+          "critical": 4,
+          "earnings": 32346,
+          "insights": 3,
+          "mediumLow": 0,
+          "totalValidBugs": 4
+        },
+        {
+          "high": 1,
+          "name": "bountyhunter2048",
+          "critical": 2,
+          "earnings": 32014,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "periniondon630",
+          "critical": 2,
+          "earnings": 17111,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "fomohacker",
+          "critical": 1,
+          "earnings": 13766,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "riproprip",
+          "critical": 2,
+          "earnings": 12820,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "neploxaudit",
+          "critical": 2,
+          "earnings": 10297,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "gladiator111",
+          "critical": 0,
+          "earnings": 1147,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Pig46940",
+          "critical": 0,
+          "earnings": 625,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "XDZIBECX",
+          "critical": 0,
+          "earnings": 625,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
       "academyStartDate": null,
       "websiteUrl": "https://shardeum.org/",
       "description": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent boosts. This boost, called Core III, will cover the Web3 aspects of the project. This will cover four components: Shardus Core Protocol, Shardeum Validator Nodes, networking libs, and Crypto-utils. For more information about Shardeum, please visit [https://shardeum.org/](https://shardeum.org/)\n",
