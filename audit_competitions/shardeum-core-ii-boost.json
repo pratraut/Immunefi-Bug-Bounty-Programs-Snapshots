@@ -206,90 +206,22 @@
         "smartcontract_rewards": [],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-11-27T10:00:00.000Z",
-      "boostedIntroStartingIn": "$150,000 USD in rewards is available for finding bugs on Shardeum Core II. This Boost is a successor of Shardeum's Core Boost and will cover two components: Shardus Core Protocol and Shardeum Validator Nodes.\n\nNo KYC is required.\n\nAny technical questions can be asked directly to the Shardeum technical team on [Immunefi’s Discord](https://discord.com/invite/immunefi) in the \"shardeum-core-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nIn a few days after the launch, Shardeum will give a live technical walkthrough, hosted in the Immunefi Discord. \n\nJoin our Discord for more updates.",
-      "boostedIntroLive": "$150,000 USD is available in rewards for finding bugs in Shardeum's codebase of about 75000 nSLOC. There is no KYC required.\n\nAny technical questions and support requests can be asked directly to Shardeum or Immunefi in the [Shardeum Audit Competition Discord channel](https://discord.com/invite/immunefi).\n\nIn this contest bug fixes may be applied mid-contest. Further details are in the 'Assets In Scope' section.\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.",
+      "evaluationEndDate": null,
+      "boostedIntroStartingIn": "",
+      "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1pNu7kiBqxRl_H7Ouqcy4qXF8MG8o5M6Y)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/shardeum-core-ii)",
+      "boostedIntroFinished": "",
       "rewardsToken": "USDC",
-      "rewardsPool": 150000,
-      "primaryPool": 150000,
-      "allStarsPool": 0,
-      "podiumPool": 0,
-      "sourceLinesOfCode": 75000,
-      "boostedSummaryReport": "https://drive.google.com/file/d/10Pk2wYk1AUEq69RnmhBTeikYtHTHoSZo/view?usp=sharing",
+      "rewardsPool": 0,
+      "primaryPool": null,
+      "allStarsPool": null,
+      "podiumPool": null,
+      "sourceLinesOfCode": 0,
+      "boostedSummaryReport": null,
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [
-        {
-          "high": 0,
-          "name": "Merkle_Bonsai",
-          "critical": 3,
-          "earnings": 59735,
-          "insights": 3,
-          "mediumLow": 0,
-          "totalValidBugs": 3
-        },
-        {
-          "high": 0,
-          "name": "periniondon630",
-          "critical": 3,
-          "earnings": 51401,
-          "insights": 0,
-          "mediumLow": 0,
-          "totalValidBugs": 3
-        },
-        {
-          "high": 0,
-          "name": "throwing5tone7",
-          "critical": 2,
-          "earnings": 32197,
-          "insights": 0,
-          "mediumLow": 0,
-          "totalValidBugs": 2
-        },
-        {
-          "high": 0,
-          "name": "gln",
-          "critical": 0,
-          "earnings": 1667,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "Ouabala",
-          "critical": 0,
-          "earnings": 1667,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "gladiator111",
-          "critical": 0,
-          "earnings": 1667,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "dldLambda",
-          "critical": 0,
-          "earnings": 1667,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        }
-      ],
-      "features": [
-        "Boost",
-        "Managed Triage: Time Saver",
-        "Vault"
-      ],
+      "boostedLeaderboard": [],
+      "features": [],
       "academyStartDate": null,
       "websiteUrl": null,
       "description": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and solid security.",

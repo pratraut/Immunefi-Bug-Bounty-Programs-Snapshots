@@ -599,117 +599,22 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": "2024-05-03T08:00:00.000Z",
-      "boostedIntroStartingIn": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. \n\nKYC is required.\n\nImmunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions can be asked directly to the Immunefi technical team on Immunefi's [Discord](https://discord.gg/rpkPDR7pVV?utm_source=immunefi) in the \"immunefiarb-boost\" channel.\n\nWhen the Boost has ended, Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nOn launch day, Tuesday March 12th, Immunefi will give a live technical walkthrough, hosted in the Immunefi Discord. Sign up below to be notified with more details.\n\n\n[Sign up for updates](https://docs.google.com/forms/d/e/1FAIpQLSdBLJGLkTNEJLTnPPak-5b5bwV2I6GVGRBKia_FHO9KB4UbFQ/viewform?usp=sf_link)",
-      "boostedIntroLive": "$30,000 USD in rewards is available for finding bugs for the Immunefi Arbitration Boost. \n\nKYC is required.\n\nThe rewards pool is partly distributed with the following formula, and partly at Immunefi’s discretion. The portion at Immunefi’s discretion is to reward high-quality whitehat contributions, such as exceptionally well-written reports, the best report among duplicates, and valuable but technically invalid bug reports. For more details read our [Boost Reward Distribution Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/23262277256849-Immunefi-Arbitration-Boost-Reward-Terms)\n\nImmunefi will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to Immunefi within the “immunefiarb-boost” channel on [Immunefi’s Discord](https://discord.com/invite/immunefi).\n\nWhen the Boost has ended Immunefi will publish a whitehat leaderboard and findings from the event.",
+      "evaluationEndDate": null,
+      "boostedIntroStartingIn": "",
+      "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1V992rR-DhkUr4y8Kz0jpicdMw4cjWxst?usp=sharing).\n\nAll paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/Immunefi%20Arbitration).",
+      "boostedIntroFinished": "",
       "rewardsToken": "USDC",
-      "rewardsPool": 30000,
-      "primaryPool": 30000,
-      "allStarsPool": 0,
-      "podiumPool": 0,
-      "sourceLinesOfCode": 1922,
-      "boostedSummaryReport": "https://drive.google.com/file/d/1dES_h4V-8XISqI0gFTgsh1ZbcopqSYPO/view?usp=sharing",
+      "rewardsPool": 0,
+      "primaryPool": null,
+      "allStarsPool": null,
+      "podiumPool": null,
+      "sourceLinesOfCode": 0,
+      "boostedSummaryReport": null,
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [
-        {
-          "high": 0,
-          "name": "marchev",
-          "critical": 0,
-          "earnings": 13730,
-          "insights": 2,
-          "mediumLow": 2,
-          "totalValidBugs": 2
-        },
-        {
-          "high": 0,
-          "name": "OxSCSamurai",
-          "critical": 0,
-          "earnings": 7500,
-          "insights": 2,
-          "mediumLow": 1,
-          "totalValidBugs": 1
-        },
-        {
-          "high": 0,
-          "name": "seinsidler",
-          "critical": 0,
-          "earnings": 1269,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "Dudex_2004",
-          "critical": 0,
-          "earnings": 1269,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "caglankaan",
-          "critical": 0,
-          "earnings": 1269,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "greed",
-          "critical": 0,
-          "earnings": 1269,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "OxRizwan",
-          "critical": 0,
-          "earnings": 1269,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "Sadhunter",
-          "critical": 0,
-          "earnings": 807,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "En3cyptedDegenExt",
-          "critical": 0,
-          "earnings": 807,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        },
-        {
-          "high": 0,
-          "name": "shanb1605",
-          "critical": 0,
-          "earnings": 807,
-          "insights": 1,
-          "mediumLow": 0,
-          "totalValidBugs": 0
-        }
-      ],
-      "features": [
-        "Managed Triage: Time Saver",
-        "Vault",
-        "Boost"
-      ],
+      "boostedLeaderboard": [],
+      "features": [],
       "academyStartDate": null,
       "websiteUrl": null,
       "description": "The smart contract Arbitration Protocol is a set of on-chain workflows designed to resolve disputes between Projects and Security Researchers over bug report validity and appropriate reward. The expected output is a final binding decision on a report, followed by enforcement (as required) of the bounty reward from the Project to the Security Researcher.",
