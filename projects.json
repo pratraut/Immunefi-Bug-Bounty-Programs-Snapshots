@@ -987,7 +987,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-09T17:48:23.813Z",
+    "updatedDate": "2025-05-19T18:26:04.982Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -1796,7 +1796,7 @@
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T10:44:20.730Z",
+    "updatedDate": "2025-05-19T14:10:16.257Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6773,7 +6773,7 @@
     "date": "2023-04-14T20:00:00.000Z",
     "launchDate": "2023-04-14T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-13T13:08:06.400Z",
+    "updatedDate": "2025-05-19T08:40:02.167Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -13451,52 +13451,6 @@
       ]
     },
     "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2Wym9ufqPTkgooceu8k30g",
-    "id": "synfutures",
-    "project": "SynFutures",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7wD3JybK66MoaLgQMktFQi/72ddc481655af90da53d34d97fcdbf03/synfutures_logo.png",
-    "date": "2024-05-09T03:49:00.000Z",
-    "launchDate": "2024-05-09T03:49:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-17T14:41:51.227Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Triaged by Immunefi",
-        "Arbitration"
-      ],
-      "productType": [
-        "DEX",
-        "Perpetuals"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Blast"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
   },
   {
     "contentfulId": "5XH0txDLDFK7z08L3FnyyK",
