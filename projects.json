@@ -558,7 +558,7 @@
     "date": "2024-04-04T16:46:29.000Z",
     "launchDate": "2024-04-04T16:46:29.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-04T06:04:44.442Z",
+    "updatedDate": "2025-05-20T06:39:16.014Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5415,7 +5415,7 @@
     "date": "2022-03-31T19:30:00.000Z",
     "launchDate": "2022-03-31T19:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-12T09:06:54.908Z",
+    "updatedDate": "2025-05-20T11:18:59.878Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -12183,55 +12183,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "6wnQoEaNXYnz9rUAZ1x3FZ",
-    "id": "cyan",
-    "project": "Cyan",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4uyviutRR8XHXZToD0GsnE/64f639ebd703bc4214c034d85b1837f5/4cf02ac-cyan_logo_Small.png",
-    "date": "2023-07-12T14:00:00.000Z",
-    "launchDate": "2023-07-12T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-17T09:22:30.000Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Lending",
-        "NFT Marketplace",
-        "Staking",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "59gqgtc3k7oMLw4DhM4Oyb",
     "id": "sectorfinance",
     "project": "Sector Finance",
@@ -13312,6 +13263,43 @@
       "projectType": [
         "Defi"
       ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4QCvlSFgjnNIZ91Sc9TAhk",
+    "id": "foil",
+    "project": "FOIL",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/oRE6rxG0ViPx7XVeUQqpy/45ea4203860d0c2643b4cdf7221b4c58/FOIL.png",
+    "date": "2025-04-23T11:11:00.000Z",
+    "launchDate": "2025-04-23T11:11:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-05-20T17:22:25.584Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
       "ecosystem": [],
       "programType": [
         "Smart Contract",
