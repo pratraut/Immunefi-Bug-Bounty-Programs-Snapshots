@@ -668,7 +668,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6itRuATvu87slB9sHlEDxS/680a257b5c3950fea7a3e835ca522fb4/eth-diamond-purple.7929ed26__1_.png",
       "launchDate": "2024-11-25T14:00:00.000Z",
       "endDate": "2025-01-25T14:00:00.000Z",
-      "updatedDate": "2025-03-26T07:46:00.080Z",
+      "updatedDate": "2025-05-22T15:57:48.375Z",
       "kyc": true,
       "rewards": [
         {
@@ -1140,7 +1140,7 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": null,
+      "evaluationEndDate": "2025-05-22T12:56:05.879Z",
       "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.\n\nWhen the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.\n\n**October 28th onward:**\n\nThe Ethereum Protocol Education Period is live. To help you learn the Ethereum Protocol quickly and deeply, we'll be providing the Ethereum Protocol Academy, a learning page designed for security researchers to help you upskill on the Ethereum protocol as well as the Ethereum clients. We’ll also host a series of technical walkthroughs, and both the Ethereum Protocol and Ethereum client teams will provide direct technical support. \n\nYou can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.\n\n**November 25th 2024 2pm UTC to January 20th 2025 2pm UTC:**\n\nEthereum Protocol’s Attackathon is live. Find bugs and earn rewards. \n\nDuring the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. \n\n[Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
       "boostedIntroLive": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.\n\nYou can ask the Ethereum Protocol team any questions directly in the [Ethereum Attackathon Discord channel](https://discord.gg/immunefi?utm_source=immunefi) on Immunefi's Discord. During the Attackathon, Ethereum Protocol commits to responding within 48 hours on weekdays to all bug reports.\n\nAfter the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
       "boostedIntroEvaluating": "",
@@ -1151,10 +1151,146 @@
       "allStarsPool": 0,
       "podiumPool": 0,
       "sourceLinesOfCode": 0,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/15lCy1jza9MsnDooWmponwdaTq_EjV2-m/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "anatomist",
+          "critical": 0,
+          "earnings": 148677,
+          "insights": 3,
+          "mediumLow": 9,
+          "totalValidBugs": 9
+        },
+        {
+          "high": 0,
+          "name": "gln",
+          "critical": 0,
+          "earnings": 146250,
+          "insights": 0,
+          "mediumLow": 7,
+          "totalValidBugs": 7
+        },
+        {
+          "high": 0,
+          "name": "CertiK",
+          "critical": 0,
+          "earnings": 90801,
+          "insights": 14,
+          "mediumLow": 6,
+          "totalValidBugs": 6
+        },
+        {
+          "high": 0,
+          "name": "Franfran",
+          "critical": 0,
+          "earnings": 33750,
+          "insights": 0,
+          "mediumLow": 3,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "Blobism",
+          "critical": 0,
+          "earnings": 33750,
+          "insights": 0,
+          "mediumLow": 3,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "Omik",
+          "critical": 0,
+          "earnings": 16590,
+          "insights": 3,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "troy_ar",
+          "critical": 0,
+          "earnings": 15134,
+          "insights": 2,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "br0nz3p1ck4x3",
+          "critical": 0,
+          "earnings": 4369,
+          "insights": 3,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Pig46940",
+          "critical": 0,
+          "earnings": 2913,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "cheems",
+          "critical": 0,
+          "earnings": 2427,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "csludo",
+          "critical": 0,
+          "earnings": 2427,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "impermanentW",
+          "critical": 0,
+          "earnings": 1456,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "a3yip6",
+          "critical": 0,
+          "earnings": 1456,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "[redacted]",
+          "critical": 0,
+          "earnings": 0,
+          "insights": 3,
+          "mediumLow": 3,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "[redacted]",
+          "critical": 0,
+          "earnings": 0,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
       "features": [
         "Attackathon",
         "Managed Triage: Time Saver",
@@ -1189,7 +1325,7 @@
       "programDocumentations": [],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/ethereum-protocol-or-attackathon",
       "premiumTriaging": true
     },
     "layoutProps": {

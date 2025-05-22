@@ -987,7 +987,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-19T18:26:04.982Z",
+    "updatedDate": "2025-05-22T16:12:01.418Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -7522,48 +7522,6 @@
       ],
       "language": [
         "Clarity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7AnCqSUsSEWIYStLwL7q4B",
-    "id": "econia",
-    "project": "Econia",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/36AfO1anvucweo4MCCseL7/8529432f760093f91cba7d78baed39ee/Black-Econia-Logo-Mark_copy.png",
-    "date": "2024-01-10T14:00:00.000Z",
-    "launchDate": "2024-01-10T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T19:45:09.581Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Move"
       ],
       "featured": [
         "Launched Recently"
