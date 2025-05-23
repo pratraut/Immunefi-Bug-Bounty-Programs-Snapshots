@@ -987,7 +987,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-22T16:12:01.418Z",
+    "updatedDate": "2025-05-23T12:36:51.390Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -4560,7 +4560,8 @@
         "PoC Required",
         "PoC Not Required",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
@@ -8229,47 +8230,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "1MWWSwdzGu5YiAtxpeWGL3",
-    "id": "tinymanv2",
-    "project": "Tinyman AMM v2.0 Protocol",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/qMW04QKijrELS1608QEq1/8ba39eaead6b38dd9c445c7a72a627c4/Tinyman_v2_Logo_Small.png",
-    "date": "2022-11-28T17:00:00.000Z",
-    "launchDate": "2022-11-28T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-20T11:43:14.176Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Algorand"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "5t33AwVreFPLkeicjfvghE",
     "id": "icon",
     "project": "ICON",
@@ -8595,50 +8555,6 @@
       "language": [
         "Solidity"
       ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "4OEh7mwbNlQ7KeMOnBoV7I",
-    "id": "pact",
-    "project": "Pact",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2JgkHUhqobp6GttXTa487O/b73e48617f0c866e6265b49eda24ca88/Pact_Logo.jpeg",
-    "date": "2022-04-06T02:30:00.000Z",
-    "launchDate": "2022-04-06T02:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-12T13:20:13.118Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "DEX",
-        "AMM"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Algorand"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -10078,7 +9994,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-16T06:40:03.025Z",
+    "updatedDate": "2025-05-23T09:42:37.591Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",

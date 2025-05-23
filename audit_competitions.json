@@ -20,7 +20,8 @@
         "KYC Not Required",
         "PoC Not Required",
         "Step-by-step PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [
@@ -108,6 +109,73 @@ For more information, please visit [Flare Network](https://flare.network/)
       "Boost",
       "Vault",
       "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2aJYhhRlpyYq24bQ5IE3aw",
+    "id": "iop-paradex",
+    "project": "IOP | Paradex",
+    "maximum_reward": 45000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/AyHdHspTrq5VthxkOf3PG/5e9dbdc7cb7a4e1339be70fac1099e52/P_Dark_1080x1080_Transparent_440x500.png",
+    "date": "2025-05-23T07:00:00.000Z",
+    "launchDate": "2025-05-23T07:00:00.000Z",
+    "endDate": "2025-06-13T07:00:00.000Z",
+    "updatedDate": "2025-05-23T07:05:41.888Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-07-04T10:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "$45,000 USD in rewards is available for finding bugs on Paradex contracts.
+
+For more information, please visit about Paradex website [https://www.paradex.trade/](https://www.paradex.trade/)
+
+This is an invite-only Program Competition, open to Security Researchers who have been invited.
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 45000,
+    "primaryPool": 45000,
+    "allStarsPool": 0,
+    "podiumPool": 0,
+    "sourceLinesOfCode": 7700,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": false,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Signal Booster",
+      "Vault"
     ],
     "academyStartDate": null,
     "premiumTriaging": true
@@ -280,7 +348,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "date": "2025-02-24T08:00:00.000Z",
     "launchDate": "2025-02-24T08:00:00.000Z",
     "endDate": "2025-03-27T08:00:00.000Z",
-    "updatedDate": "2025-05-14T21:50:24.731Z",
+    "updatedDate": "2025-05-23T07:06:27.954Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -315,7 +383,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-05-23T08:00:00.000Z",
+    "evaluationEndDate": "2025-06-02T08:00:00.000Z",
     "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
 
 On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
