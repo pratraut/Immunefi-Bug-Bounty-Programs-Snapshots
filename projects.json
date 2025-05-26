@@ -11876,6 +11876,40 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "49juEmuC0l3c5l3c7jNiel",
+    "id": "openzeppelin-stellar",
+    "project": "OpenZeppelin on Stellar",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5dlUG1E6sheSJXTj8T3pbh/810c198bb74efdb222d701da00d91957/oz.png",
+    "date": "2025-05-08T02:51:06.000Z",
+    "launchDate": "2025-05-08T02:51:06.000Z",
+    "endDate": null,
+    "updatedDate": "2025-05-26T13:40:14.441Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Not Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "2H7D5VvkbK3Bs98lHKs0QF",
     "id": "hydro",
     "project": "Hydro",
