@@ -762,7 +762,7 @@
     "date": "2021-08-04T17:00:00.000Z",
     "launchDate": "2021-08-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-28T19:22:30.720Z",
+    "updatedDate": "2025-05-28T14:26:43.672Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5371,7 +5371,7 @@
     "date": "2022-03-31T19:30:00.000Z",
     "launchDate": "2022-03-31T19:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-20T11:18:59.878Z",
+    "updatedDate": "2025-05-28T16:17:30.490Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5949,50 +5949,6 @@
       ],
       "ecosystem": [
         "BSC"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7T8JLglyuv6pDmVPNz7D8",
-    "id": "toucan",
-    "project": "Toucan",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7AcBUADA7IW95jTvkwxxF5/1b175e555e12b85bf5f6fb4c0ef3104c/tc_symbol_OnDark_color.jpg",
-    "date": "2022-11-03T18:00:00.000Z",
-    "launchDate": "2022-11-03T18:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-11T08:59:59.289Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Services",
-        "Token"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polygon"
       ],
       "programType": [
         "Smart Contract"
@@ -7181,10 +7137,9 @@
     "date": "2024-09-30T19:44:15.000Z",
     "launchDate": "2024-09-30T19:44:15.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-03T07:44:06.870Z",
+    "updatedDate": "2025-05-28T09:36:11.135Z",
     "kyc": true,
     "technologies": [
-      "Smart Contract",
       "Websites and Applications"
     ],
     "immunefiStandard": true,
@@ -7204,7 +7159,6 @@
       ],
       "ecosystem": [],
       "programType": [
-        "Smart Contract",
         "Websites and Applications"
       ],
       "language": [],
