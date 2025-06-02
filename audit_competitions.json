@@ -1,5 +1,80 @@
 [
   {
+    "contentfulId": "7Hr93q3nkV7OuONthvzB9h",
+    "id": "iop-term-structure",
+    "project": "IOP | Term Structure Institutional",
+    "maximum_reward": 6000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1Ahp32eNjGwFPnX0YvGqOY/42ece9029a8d2f8f0742bf603c591166/Term_Structure_logo-round-white.png",
+    "date": "2025-06-02T10:00:21.000Z",
+    "launchDate": "2025-06-02T10:00:21.000Z",
+    "endDate": "2025-06-09T10:00:00.000Z",
+    "updatedDate": "2025-05-30T10:09:59.406Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "**$6,000 USD** in rewards is available for finding bugs on Term Structure Institutional (TSI)
+
+This is an **Invite-Only Program** Competition, and its **only open to Security Researchers who have been invited**.",
+    "boostedIntroLive": "$6,000 USD in rewards is available for finding bugs on Term Structure Institutional (TSI)
+
+For more information about Term Structure Institutional, please visit, [https://docs.institutional.ts.finance/](https://docs.institutional.ts.finance/)
+
+This is an **Invite-Only Program Competition, and its only open to Security Researchers who have been invited.**
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)
+
+Term Structure Institutional rewards are denominated in USD and distributed in USDC on Ethereum.
+
+KYC is required.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 6000,
+    "primaryPool": 6000,
+    "allStarsPool": 0,
+    "podiumPool": 0,
+    "sourceLinesOfCode": 578,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Signal Booster",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "31KZR5ZJ9ub35gxMfk8f9l",
     "id": "audit-comp-flare-fassets",
     "project": "Audit Comp | Flare | FAssets",
@@ -181,85 +256,6 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "premiumTriaging": true
   },
   {
-    "contentfulId": "7Hr93q3nkV7OuONthvzB9h",
-    "id": "iop-term-structure",
-    "project": "IOP | Term Structure Institutional",
-    "maximum_reward": 6000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1Ahp32eNjGwFPnX0YvGqOY/42ece9029a8d2f8f0742bf603c591166/Term_Structure_logo-round-white.png",
-    "date": "2025-06-02T10:00:21.000Z",
-    "launchDate": "2025-06-02T10:00:21.000Z",
-    "endDate": "2025-06-09T10:00:00.000Z",
-    "updatedDate": "2025-05-30T10:09:59.406Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "language": [
-        "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": null,
-    "boostedIntroStartingIn": "**$6,000 USD** in rewards is available for finding bugs on Term Structure Institutional (TSI)
-
-This is an **Invite-Only Program** Competition, and its **only open to Security Researchers who have been invited**.",
-    "boostedIntroLive": "$6,000 USD in rewards is available for finding bugs on Term Structure Institutional (TSI)
-
-For more information about Term Structure Institutional, please visit, [https://docs.institutional.ts.finance/](https://docs.institutional.ts.finance/)
-
-This is an **Invite-Only Program Competition, and its only open to Security Researchers who have been invited.**
-
-Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)
-
-Term Structure Institutional rewards are denominated in USD and distributed in USDC on Ethereum.
-
-KYC is required.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 6000,
-    "primaryPool": 6000,
-    "allStarsPool": 0,
-    "podiumPool": 0,
-    "sourceLinesOfCode": 578,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Signal Booster",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
-  },
-  {
     "contentfulId": "194xuCBDnCLZE5ggR4PYDr",
     "id": "audit-comp-spectra-finance",
     "project": "Audit Comp | Spectra Finance",
@@ -268,7 +264,7 @@ KYC is required.",
     "date": "2025-04-03T14:00:00.000Z",
     "launchDate": "2025-04-03T14:00:00.000Z",
     "endDate": "2025-04-17T14:00:00.000Z",
-    "updatedDate": "2025-05-22T17:23:27.261Z",
+    "updatedDate": "2025-06-02T13:49:58.216Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -299,7 +295,7 @@ KYC is required.",
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-06-02T14:00:00.000Z",
+    "evaluationEndDate": null,
     "boostedIntroStartingIn": "**$40,000 USD** in rewards is available for finding bugs on Spectra Finance contract. 
 
 For more information, please visit  about [Spectra Finance](https://www.spectra.finance/)
@@ -351,7 +347,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "date": "2025-03-07T18:00:00.000Z",
     "launchDate": "2025-03-07T18:00:00.000Z",
     "endDate": "2025-04-04T18:00:00.000Z",
-    "updatedDate": "2025-05-22T17:18:41.073Z",
+    "updatedDate": "2025-06-02T15:56:22.309Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -383,7 +379,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-06-02T18:00:00.000Z",
+    "evaluationEndDate": null,
     "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
 
 On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
