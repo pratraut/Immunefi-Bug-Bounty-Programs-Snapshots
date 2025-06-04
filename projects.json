@@ -190,7 +190,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-03T15:41:22.972Z",
+    "updatedDate": "2025-06-03T23:40:23.444Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -762,7 +762,7 @@
     "date": "2021-08-04T17:00:00.000Z",
     "launchDate": "2021-08-04T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-02T03:45:49.710Z",
+    "updatedDate": "2025-06-04T17:42:59.691Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -8268,52 +8268,6 @@
       ],
       "language": [
         "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "RqyNBp7mrTiEWzK9xTHb4",
-    "id": "silofinance",
-    "project": "Silo Finance",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/24De5VCsfH9jV4NpjRiQ6W/244ff375931983ac032a372d5e399906/Screenshot_2024-11-15_at_12.54.01___AM.png",
-    "date": "2022-08-30T17:30:00.000Z",
-    "launchDate": "2022-08-30T17:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T19:56:05.867Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Asset Management",
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
         "Solidity"
       ],
       "featured": [
