@@ -1,5 +1,149 @@
 [
   {
+    "contentfulId": "2aJYhhRlpyYq24bQ5IE3aw",
+    "id": "iop-paradex",
+    "project": "IOP | Paradex",
+    "maximum_reward": 45000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/AyHdHspTrq5VthxkOf3PG/5e9dbdc7cb7a4e1339be70fac1099e52/P_Dark_1080x1080_Transparent_440x500.png",
+    "date": "2025-05-23T07:00:00.000Z",
+    "launchDate": "2025-05-23T07:00:00.000Z",
+    "endDate": "2025-06-13T07:00:00.000Z",
+    "updatedDate": "2025-05-28T11:42:49.625Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-07-04T10:00:00.000Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "$45,000 USD in rewards is available for finding bugs on Paradex contracts.
+
+For more information, please visit about Paradex website [https://www.paradex.trade/](https://www.paradex.trade/)
+
+This is an invite-only Program Competition, open to Security Researchers who have been invited.
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 45000,
+    "primaryPool": 45000,
+    "allStarsPool": 0,
+    "podiumPool": 0,
+    "sourceLinesOfCode": 7700,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Signal Booster",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "7Hr93q3nkV7OuONthvzB9h",
+    "id": "iop-term-structure",
+    "project": "IOP | Term Structure Institutional",
+    "maximum_reward": 6000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1Ahp32eNjGwFPnX0YvGqOY/42ece9029a8d2f8f0742bf603c591166/Term_Structure_logo-round-white.png",
+    "date": "2025-06-02T10:00:21.000Z",
+    "launchDate": "2025-06-02T10:00:21.000Z",
+    "endDate": "2025-06-16T10:00:00.000Z",
+    "updatedDate": "2025-06-09T09:53:07.287Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": null,
+    "boostedIntroStartingIn": "**$6,000 USD** in rewards is available for finding bugs on Term Structure Institutional (TSI)
+
+This is an **Invite-Only Program** Competition, and its **only open to Security Researchers who have been invited**.",
+    "boostedIntroLive": "$6,000 USD in rewards is available for finding bugs on Term Structure Institutional (TSI)
+
+For more information about Term Structure Institutional, please visit, [https://docs.institutional.ts.finance/](https://docs.institutional.ts.finance/)
+
+This is an **Invite-Only Program Competition, and its only open to Security Researchers who have been invited.**
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)
+
+Term Structure Institutional rewards are denominated in USD and distributed in USDC on Ethereum.
+
+KYC is required.",
+    "boostedIntroEvaluating": "**Thank You to All Participating Security Researchers!**
+
+The Invite-Only Program has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 6000,
+    "primaryPool": 6000,
+    "allStarsPool": 0,
+    "podiumPool": 0,
+    "sourceLinesOfCode": 578,
+    "boostedSummaryReport": null,
+    "inviteOnly": true,
+    "hideAssetsInScope": true,
+    "boostedLeaderboard": [],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Signal Booster",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "31KZR5ZJ9ub35gxMfk8f9l",
     "id": "audit-comp-flare-fassets",
     "project": "Audit Comp | Flare | FAssets",
@@ -111,150 +255,6 @@ The audit competition has now concluded and is currently in the evaluation phase
       "Boost",
       "Vault",
       "Managed Triage: Signal Booster"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "7Hr93q3nkV7OuONthvzB9h",
-    "id": "iop-term-structure",
-    "project": "IOP | Term Structure Institutional",
-    "maximum_reward": 6000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1Ahp32eNjGwFPnX0YvGqOY/42ece9029a8d2f8f0742bf603c591166/Term_Structure_logo-round-white.png",
-    "date": "2025-06-02T10:00:21.000Z",
-    "launchDate": "2025-06-02T10:00:21.000Z",
-    "endDate": "2025-06-09T10:00:00.000Z",
-    "updatedDate": "2025-06-05T10:39:16.224Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": null,
-    "boostedIntroStartingIn": "**$6,000 USD** in rewards is available for finding bugs on Term Structure Institutional (TSI)
-
-This is an **Invite-Only Program** Competition, and its **only open to Security Researchers who have been invited**.",
-    "boostedIntroLive": "$6,000 USD in rewards is available for finding bugs on Term Structure Institutional (TSI)
-
-For more information about Term Structure Institutional, please visit, [https://docs.institutional.ts.finance/](https://docs.institutional.ts.finance/)
-
-This is an **Invite-Only Program Competition, and its only open to Security Researchers who have been invited.**
-
-Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)
-
-Term Structure Institutional rewards are denominated in USD and distributed in USDC on Ethereum.
-
-KYC is required.",
-    "boostedIntroEvaluating": "**Thank You to All Participating Security Researchers!**
-
-The Invite-Only Program has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 6000,
-    "primaryPool": 6000,
-    "allStarsPool": 0,
-    "podiumPool": 0,
-    "sourceLinesOfCode": 578,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Signal Booster",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "2aJYhhRlpyYq24bQ5IE3aw",
-    "id": "iop-paradex",
-    "project": "IOP | Paradex",
-    "maximum_reward": 45000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/AyHdHspTrq5VthxkOf3PG/5e9dbdc7cb7a4e1339be70fac1099e52/P_Dark_1080x1080_Transparent_440x500.png",
-    "date": "2025-05-23T07:00:00.000Z",
-    "launchDate": "2025-05-23T07:00:00.000Z",
-    "endDate": "2025-06-13T07:00:00.000Z",
-    "updatedDate": "2025-05-28T11:42:49.625Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-07-04T10:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "$45,000 USD in rewards is available for finding bugs on Paradex contracts.
-
-For more information, please visit about Paradex website [https://www.paradex.trade/](https://www.paradex.trade/)
-
-This is an invite-only Program Competition, open to Security Researchers who have been invited.
-
-Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 45000,
-    "primaryPool": 45000,
-    "allStarsPool": 0,
-    "podiumPool": 0,
-    "sourceLinesOfCode": 7700,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Signal Booster",
-      "Vault"
     ],
     "academyStartDate": null,
     "premiumTriaging": true
