@@ -661,7 +661,7 @@
     "date": "2024-06-27T13:00:00.000Z",
     "launchDate": "2024-06-27T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-11T10:05:35.460Z",
+    "updatedDate": "2025-06-12T12:46:27.368Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1453,6 +1453,41 @@
         "Solidity",
         "Typescript"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2rkn6CpGKoFUTBCQp9lS5T",
+    "id": "immutable",
+    "project": "Immutable",
+    "maximum_reward": 1000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4jyESr3DuPBvV84CVG2sL1/4a66b3f802b2aa1117a34981a098921b/immutable.png",
+    "date": "2025-06-10T05:44:56.000Z",
+    "launchDate": "2025-06-10T05:44:56.000Z",
+    "endDate": null,
+    "updatedDate": "2025-06-12T07:28:10.936Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -4238,6 +4273,50 @@
       "programType": [
         "Smart Contract",
         "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "RqyNBp7mrTiEWzK9xTHb4",
+    "id": "silofinance-v2",
+    "project": "Silo Finance V2",
+    "maximum_reward": 350000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/24De5VCsfH9jV4NpjRiQ6W/244ff375931983ac032a372d5e399906/Screenshot_2024-11-15_at_12.54.01___AM.png",
+    "date": "2022-08-30T17:30:00.000Z",
+    "launchDate": "2022-08-30T17:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-06-12T13:24:48.637Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Asset Management",
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
       ],
       "language": [
         "Solidity"
