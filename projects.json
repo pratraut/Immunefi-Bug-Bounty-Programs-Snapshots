@@ -329,7 +329,7 @@
     "date": "2022-02-11T15:00:00.000Z",
     "launchDate": "2022-02-11T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-02T07:47:09.529Z",
+    "updatedDate": "2025-06-13T15:05:21.503Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1468,7 +1468,7 @@
     "date": "2025-06-10T05:44:56.000Z",
     "launchDate": "2025-06-10T05:44:56.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-12T07:28:10.936Z",
+    "updatedDate": "2025-06-13T05:44:36.760Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1479,7 +1479,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Triaged by Immunefi"
       ],
       "productType": [],
       "projectType": [],
@@ -1492,7 +1493,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "5MzXAkML8HKYi5YIqDO3vs",
