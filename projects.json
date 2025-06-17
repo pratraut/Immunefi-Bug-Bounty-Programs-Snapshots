@@ -931,7 +931,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-06T08:18:21.558Z",
+    "updatedDate": "2025-06-16T08:01:05.955Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -2813,7 +2813,7 @@
     "date": "2025-03-31T03:00:08.000Z",
     "launchDate": "2025-03-31T03:00:08.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-27T10:33:03.867Z",
+    "updatedDate": "2025-06-16T10:58:16.357Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5014,49 +5014,6 @@
       ],
       "language": [
         "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3s2l2c81wvd200jVZSQETh",
-    "id": "timelessandbunni",
-    "project": "Timeless and Bunni",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/q0cBU7rvzPXeEeFz43EFZ/f81c373a9299b1fd7e0e1b079bb7b2a6/Timeless_logo.jpeg",
-    "date": "2023-07-05T12:00:00.000Z",
-    "launchDate": "2023-07-05T12:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T16:05:40.642Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Derivatives"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
         "Solidity"
       ],
       "featured": [
@@ -8207,51 +8164,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5t33AwVreFPLkeicjfvghE",
-    "id": "icon",
-    "project": "ICON",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/Ig6atE81zuZbq3VTA7GAx/31395c33216e2050beef7269a608cfb4/ICON_logo.jpeg",
-    "date": "2022-10-21T02:30:00.000Z",
-    "launchDate": "2022-10-21T02:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-04T10:14:02.573Z",
-    "kyc": true,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Bridge",
-        "Crosschain Liquidity",
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Icon"
-      ],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Go"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "5Uooia3IGvzM3DAkTACqMD",
     "id": "resonate",
     "project": "Resonate",
@@ -8260,7 +8172,7 @@
     "date": "2022-10-20T18:00:00.000Z",
     "launchDate": "2022-10-20T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-14T20:32:44.128Z",
+    "updatedDate": "2025-06-17T12:31:57.680Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9216,52 +9128,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5UkYDdC7Wr9AxgNzUnbZy1",
-    "id": "vesper",
-    "project": "Vesper",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7dITyStGvxKujlwtjOQEKo/9fdf4fd4b601246ac60030eee6ad4321/Copy_of_vesper.jpeg",
-    "date": "2021-05-06T00:00-05:00",
-    "launchDate": "2021-05-06T05:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2023-12-14T09:57:12.242Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "74dp0HUuezNRm2X3rU56ZT",
     "id": "synthetix",
     "project": "Synthetix",
@@ -9973,7 +9839,7 @@
     "date": "2024-04-09T06:39:35.000Z",
     "launchDate": "2024-04-09T06:39:35.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-09T04:35:06.656Z",
+    "updatedDate": "2025-06-16T10:36:09.358Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10992,16 +10858,16 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "3RQk4Lv0SHZa53SKCnJMpW",
-    "id": "foundation",
-    "project": "Foundation",
+    "contentfulId": "5UkYDdC7Wr9AxgNzUnbZy1",
+    "id": "vesper",
+    "project": "Vesper",
     "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/74yETFj2nb4JRzxTG8n6fj/8c2e580ac82c0f240095903858c94833/Foundation.jpeg",
-    "date": "2021-05-19T05:00:00.000Z",
-    "launchDate": "2021-05-19T05:00:00.000Z",
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7dITyStGvxKujlwtjOQEKo/9fdf4fd4b601246ac60030eee6ad4321/Copy_of_vesper.jpeg",
+    "date": "2021-05-06T05:00:00.000Z",
+    "launchDate": "2021-05-06T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-13T10:55:40.836Z",
-    "kyc": true,
+    "updatedDate": "2025-06-16T12:43:27.928Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -11010,15 +10876,15 @@
     "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Required",
+        "KYC Not Required",
         "PoC Required",
         "PoC Not Required"
       ],
       "productType": [
-        "Services"
+        "Yield Aggregator"
       ],
       "projectType": [
-        "NFT"
+        "Defi"
       ],
       "ecosystem": [
         "ETH"
@@ -13034,7 +12900,7 @@
     "date": "2025-05-25T09:23:00.000Z",
     "launchDate": "2025-05-25T09:23:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-02T09:36:03.696Z",
+    "updatedDate": "2025-06-16T12:41:10.612Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
