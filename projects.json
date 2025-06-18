@@ -4293,7 +4293,7 @@
     "date": "2022-08-30T17:30:00.000Z",
     "launchDate": "2022-08-30T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-12T13:24:48.637Z",
+    "updatedDate": "2025-06-18T16:13:01.718Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7557,7 +7557,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-31T04:37:48.551Z",
+    "updatedDate": "2025-06-18T10:04:58.958Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9595,7 +9595,7 @@
     "date": "2025-04-21T12:58:00.000Z",
     "launchDate": "2025-04-21T12:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-21T12:58:13.723Z",
+    "updatedDate": "2025-06-18T12:53:39.161Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10998,7 +10998,7 @@
     "date": "2020-12-02T05:00:00.000Z",
     "launchDate": "2020-12-02T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-11T17:22:34.827Z",
+    "updatedDate": "2025-06-18T13:12:35.328Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -11671,6 +11671,42 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "5QLJXy3mbgLpfAKWrozV4W",
+    "id": "farcaster",
+    "project": "Farcaster",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1zKAeSF82onOI6O9kgRTXQ/b63b1c51d20124370cc686a5e1bbcefc/Farcaster.png",
+    "date": "2025-06-18T16:00:00.000Z",
+    "launchDate": "2025-06-18T16:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-06-18T17:42:25.118Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "49juEmuC0l3c5l3c7jNiel",
@@ -12885,6 +12921,45 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "38DxzJYXuWf9s7rgJJ1Vkc",
+    "id": "ofza-1",
+    "project": "OFZA",
+    "maximum_reward": 10000,
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/76788-rfS129jaGhIhJO4Vjg2OK-6jUzFcBg2j4m7Cbupk4fazB1mQ1RvS.png",
+    "date": "2025-06-18T05:11:00.000Z",
+    "launchDate": "2025-06-18T05:11:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-06-18T09:14:16.838Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "CEX"
+      ],
+      "projectType": [
+        "Exchange"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
