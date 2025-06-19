@@ -13,14 +13,24 @@
     "technologies": [
       "Websites and Applications"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications"
+      ],
       "language": [
         "NextJS",
         "Typescript"
-      ],
-      "general": [
-        "Triaged by Immunefi"
       ],
       "featured": [
         "Launched Recently"
@@ -63,23 +73,7 @@ The Invite-Only Program has now concluded and is currently in the evaluation pha
       "Vault"
     ],
     "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "7Hr93q3nkV7OuONthvzB9h",
@@ -425,83 +419,6 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "premiumTriaging": true
   },
   {
-    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
-    "id": "movement-labs-attackathon",
-    "project": "Attackathon | Movement Labs",
-    "maximum_reward": 400000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
-    "date": "2025-03-07T18:00:00.000Z",
-    "launchDate": "2025-03-07T18:00:00.000Z",
-    "endDate": "2025-04-04T18:00:00.000Z",
-    "updatedDate": "2025-06-02T15:56:22.309Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Move",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": null,
-    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
-
-March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
-
-On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
-
-Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 400000,
-    "primaryPool": 400000,
-    "allStarsPool": 0,
-    "podiumPool": 0,
-    "sourceLinesOfCode": 48884,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": "2025-03-06T16:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "2guoEIPOYw11nTADTMem4K",
     "id": "stacks-attackathon-2",
     "project": "Attackathon | Stacks II",
@@ -510,7 +427,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
     "date": "2025-02-24T08:00:00.000Z",
     "launchDate": "2025-02-24T08:00:00.000Z",
     "endDate": "2025-03-27T08:00:00.000Z",
-    "updatedDate": "2025-05-23T07:06:27.954Z",
+    "updatedDate": "2025-06-19T16:20:43.048Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -545,7 +462,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-06-02T08:00:00.000Z",
+    "evaluationEndDate": "2025-06-19T16:20:47.578Z",
     "boostedIntroStartingIn": "A flat $250,000 USD is in rewards for finding bugs on the Stacks sBTC upgrade.
 
 On top of the above rewards, the yield generated from 1 Million STX over 3 months will be distributed either among exceptional bug reports or equally among all SRs who submit a valid report, at Stacks’ discretion. Estimated to be worth about $50,000 USD as of December 1st, 2024.
@@ -568,16 +485,455 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
     "allStarsPool": 0,
     "podiumPool": 0,
     "sourceLinesOfCode": 38000,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1_tFfdUIH17_3kpKZZfh4H_-W7zDLLEMe/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 1,
+        "name": "Blobism",
+        "critical": 0,
+        "earnings": 64263,
+        "insights": 1,
+        "mediumLow": 2,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 1,
+        "name": "f4lc0n",
+        "critical": 0,
+        "earnings": 54933,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 1,
+        "name": "vini_btc",
+        "critical": 0,
+        "earnings": 44297,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "leadwiz",
+        "critical": 0,
+        "earnings": 43047,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "christ0s",
+        "critical": 0,
+        "earnings": 16432,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Pig46940",
+        "critical": 0,
+        "earnings": 14349,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "ZoA",
+        "critical": 0,
+        "earnings": 5811,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Cartel",
+        "critical": 0,
+        "earnings": 4783,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "XDZIBECX",
+        "critical": 0,
+        "earnings": 2083,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
     "features": [
       "Attackathon",
       "Vault",
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": "2025-02-12T11:00:00.000Z",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3ZlPHI1BhHWB6cSrFg2kfD",
+    "id": "movement-labs-attackathon",
+    "project": "Attackathon | Movement Labs",
+    "maximum_reward": 400000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DjMVTpQlNLAmfCQBtATm3/216ffcea3d1b3fa3570ab58429e6b35e/movement-mark-reverse-rgb-2000px_72ppi__1_.png",
+    "date": "2025-03-07T18:00:00.000Z",
+    "launchDate": "2025-03-07T18:00:00.000Z",
+    "endDate": "2025-04-04T18:00:00.000Z",
+    "updatedDate": "2025-06-19T15:15:39.123Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Move",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-06-19T15:16:18.008Z",
+    "boostedIntroStartingIn": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs push public fixes of found vulnerabilities during the Attackathon.
+
+March 7th the **Movement Labs Attackathon Education Period** begins — launching the ‘Movement Labs Academy’, and opening direct access to the Movement Labs’ team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “movement-labs-attackathon\" channel.
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroLive": "A flat $400,000 USD is in rewards for finding bugs on Movement Labs code.
+
+On top of the above rewards, a separate Mitigation Audit with up to $100,000 USD will be launched in case if Movement Labs pushes public fixes of found vulnerabilities during the Attackathon.
+
+Any technical questions and support requests can be asked directly to Movement Labs or Immunefi in the #movement-labs-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "",
+    "rewardsToken": "USDC",
+    "rewardsPool": 400000,
+    "primaryPool": 400000,
+    "allStarsPool": 0,
+    "podiumPool": 0,
+    "sourceLinesOfCode": 48884,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1IAto_Q53lXfv4AeqF1MyQtUFP6oT6jcz/view?usp=drive_link",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 1,
+        "name": "usmannk",
+        "critical": 7,
+        "earnings": 95112,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 8
+      },
+      {
+        "high": 2,
+        "name": "perseverance",
+        "critical": 4,
+        "earnings": 37972,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 7
+      },
+      {
+        "high": 6,
+        "name": "Capybara",
+        "critical": 1,
+        "earnings": 33781,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 7
+      },
+      {
+        "high": 4,
+        "name": "KlosMitSoss",
+        "critical": 2,
+        "earnings": 30241,
+        "insights": 4,
+        "mediumLow": 1,
+        "totalValidBugs": 7
+      },
+      {
+        "high": 1,
+        "name": "jovi",
+        "critical": 2,
+        "earnings": 24819,
+        "insights": 4,
+        "mediumLow": 1,
+        "totalValidBugs": 4
+      },
+      {
+        "high": 2,
+        "name": "okmxuse",
+        "critical": 2,
+        "earnings": 23002,
+        "insights": 4,
+        "mediumLow": 1,
+        "totalValidBugs": 5
+      },
+      {
+        "high": 1,
+        "name": "dustincha",
+        "critical": 1,
+        "earnings": 20715,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "hulkvision",
+        "critical": 2,
+        "earnings": 18529,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 4,
+        "name": "Blockian",
+        "critical": 1,
+        "earnings": 16675,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 5
+      },
+      {
+        "high": 0,
+        "name": "br0nz3p1ck4x3",
+        "critical": 2,
+        "earnings": 13713,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 4,
+        "name": "HollaDieWaldfee",
+        "critical": 1,
+        "earnings": 11878,
+        "insights": 2,
+        "mediumLow": 3,
+        "totalValidBugs": 8
+      },
+      {
+        "high": 0,
+        "name": "savi0ur",
+        "critical": 1,
+        "earnings": 11042,
+        "insights": 2,
+        "mediumLow": 2,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 2,
+        "name": "niroh",
+        "critical": 1,
+        "earnings": 7439,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 4
+      },
+      {
+        "high": 0,
+        "name": "yemresaritoprak",
+        "critical": 1,
+        "earnings": 6712,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "a090325",
+        "critical": 1,
+        "earnings": 6712,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 3,
+        "name": "zhaojie",
+        "critical": 0,
+        "earnings": 5886,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 1,
+        "name": "Rhaydden",
+        "critical": 0,
+        "earnings": 5844,
+        "insights": 8,
+        "mediumLow": 2,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 1,
+        "name": "ZeroTrust",
+        "critical": 0,
+        "earnings": 4826,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 1,
+        "name": "keizo",
+        "critical": 0,
+        "earnings": 4143,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "fnmain",
+        "critical": 0,
+        "earnings": 4143,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "Berserk",
+        "critical": 1,
+        "earnings": 3498,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 1,
+        "name": "Cartel",
+        "critical": 1,
+        "earnings": 2718,
+        "insights": 0,
+        "mediumLow": 0,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "Nirix0x",
+        "critical": 1,
+        "earnings": 2441,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "avoloder",
+        "critical": 0,
+        "earnings": 2438,
+        "insights": 2,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Minato7namikazi",
+        "critical": 0,
+        "earnings": 1381,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "p_laksmana",
+        "critical": 0,
+        "earnings": 1381,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 1,
+        "name": "XDZIBECX",
+        "critical": 0,
+        "earnings": 973,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Franfran",
+        "critical": 0,
+        "earnings": 654,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "p4rsely",
+        "critical": 0,
+        "earnings": 559,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Cryptor",
+        "critical": 0,
+        "earnings": 484,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "p4y4b13",
+        "critical": 0,
+        "earnings": 290,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      }
+    ],
+    "features": [
+      "Attackathon",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": "2025-03-06T16:00:00.000Z",
     "premiumTriaging": true
   },
   {
