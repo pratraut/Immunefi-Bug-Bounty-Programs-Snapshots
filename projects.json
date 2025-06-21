@@ -754,62 +754,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "7ETJbpaHlzmQmeeWzFUkqX",
-    "id": "thegraph",
-    "project": "The Graph",
-    "maximum_reward": 2500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2L62ScwrnMTV5zczetmm3N/3441bc33007755cf6d8865db69d0d50e/the-graph-grt-logo_copy.png",
-    "date": "2021-08-04T17:00:00.000Z",
-    "launchDate": "2021-08-04T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-06-20T13:15:31.368Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [
-        "Services",
-        "Staking"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Go",
-        "Julia",
-        "Rust",
-        "Solidity",
-        "Typescript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "7wv5tzP2imO90TO80ARNoa",
     "id": "zksync",
     "project": "ZKsync Lite",
