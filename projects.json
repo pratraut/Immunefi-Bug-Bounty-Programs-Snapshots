@@ -1321,7 +1321,7 @@
     "date": "2024-12-04T16:58:00.000Z",
     "launchDate": "2024-12-04T16:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T08:23:03.681Z",
+    "updatedDate": "2025-06-25T07:35:57.624Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1420,7 +1420,7 @@
     "date": "2022-10-11T19:00:00.000Z",
     "launchDate": "2022-10-11T19:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T05:54:21.567Z",
+    "updatedDate": "2025-06-25T07:30:28.404Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -5032,7 +5032,7 @@
     "date": "2023-04-27T10:00:00.000Z",
     "launchDate": "2023-04-27T10:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T14:02:50.474Z",
+    "updatedDate": "2025-06-25T11:42:12.425Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -5049,7 +5049,8 @@
       "productType": [
         "Asset Management",
         "Liquid Staking",
-        "Staking"
+        "Staking",
+        "L2"
       ],
       "projectType": [
         "Defi"
@@ -12345,6 +12346,53 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "1dEOTkEoAGVKbbDyDxczIy",
+    "id": "daimo-pay",
+    "project": "Daimo Pay",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4avYmi8dfgxGrc8eQ8iidH/6661fe97bd9cb7951c4bfabe04d63173/of0jlgPc_400x400__1_.png",
+    "date": "2025-06-06T07:00:00.000Z",
+    "launchDate": "2025-06-06T07:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-06-25T12:01:52.913Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Arbitrum",
+        "Base",
+        "Polygon",
+        "Linea",
+        "Optimism"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "4ACfVI3ujmDLtvdqxkcPY1",
