@@ -142,7 +142,7 @@
     "date": "2023-04-27T09:00:00.000Z",
     "launchDate": "2023-04-27T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-21T08:54:50.011Z",
+    "updatedDate": "2025-06-26T13:32:24.962Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -153,8 +153,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required",
-        "Triaged by Immunefi"
+        "PoC Not Required"
       ],
       "productType": [
         "Stablecoin",
@@ -179,7 +178,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": true
+    "premiumTriaging": false
   },
   {
     "contentfulId": "4MSwmyXBE9T6RRVOHPX6fj",
@@ -752,6 +751,62 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "7ETJbpaHlzmQmeeWzFUkqX",
+    "id": "thegraph",
+    "project": "The Graph",
+    "maximum_reward": 2500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2L62ScwrnMTV5zczetmm3N/3441bc33007755cf6d8865db69d0d50e/the-graph-grt-logo_copy.png",
+    "date": "2021-08-04T17:00:00.000Z",
+    "launchDate": "2021-08-04T17:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-06-26T18:02:00.530Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [
+        "Services",
+        "Staking"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "ETH"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Go",
+        "Julia",
+        "Rust",
+        "Solidity",
+        "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "7wv5tzP2imO90TO80ARNoa",
@@ -5852,11 +5907,11 @@
     "id": "superform",
     "project": "Superform",
     "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6UWbmMwr5z3HtSFtq01Sa9/ffa00ddc2411ebd72228843b433579a7/superform_logo_white_black2.png",
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/38120-8qWBhvsIKte6cYjAywRZX-JxQt6ZkjE7Xv2YcSTIBJ5RsgdAR3n9.png",
     "date": "2024-01-25T20:00:00.000Z",
     "launchDate": "2024-01-25T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-22T10:55:06.907Z",
+    "updatedDate": "2025-06-26T13:33:43.939Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -13878,10 +13933,10 @@
     "project": "Mars Ecosystem",
     "maximum_reward": 10000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7KJxasjqM6UtmFBkXCD2Mj/4fc1b19a942ac6be1e3f1ba945ad5491/Mars_Ecosystem.jpeg",
-    "date": "2021-09-08T06:00-05:00",
-    "launchDate": "2021-09-08T06:00:00.000Z",
+    "date": "2021-09-08T11:00:00.000Z",
+    "launchDate": "2021-09-08T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2023-11-26T18:39:08.784Z",
+    "updatedDate": "2025-06-26T15:38:41.855Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
