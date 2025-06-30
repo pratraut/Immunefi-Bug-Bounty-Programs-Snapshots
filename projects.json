@@ -1271,7 +1271,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-24T16:47:40.752Z",
+    "updatedDate": "2025-06-30T11:59:48.298Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7221,52 +7221,6 @@
       ],
       "productType": [
         "Stablecoin"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Clarity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "56powSA6iD9VrESduXTQii",
-    "id": "zestprotocol",
-    "project": "Zest Protocol",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5DWINS6LzXToU397gx35lQ/ed2d456b4cb4cd95fa0799e8b1fe5c4b/Zest_logo_copy.png",
-    "date": "2024-03-11T01:01:00.000Z",
-    "launchDate": "2024-03-11T01:01:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-06T14:45:31.365Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact",
-        "Arbitration",
-        "Vaults"
-      ],
-      "productType": [
-        "Lending"
       ],
       "projectType": [
         "Defi"
