@@ -229,7 +229,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "date": "2025-05-12T10:00:00.000Z",
     "launchDate": "2025-05-12T10:00:00.000Z",
     "endDate": "2025-06-09T10:00:00.000Z",
-    "updatedDate": "2025-06-05T10:40:36.948Z",
+    "updatedDate": "2025-07-01T12:58:00.587Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -261,7 +261,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-07-07T10:00:00.000Z",
+    "evaluationEndDate": "2025-07-25T10:00:00.000Z",
     "boostedIntroStartingIn": "**$125,000 USD** in rewards available for finding bugs on the Flare Network's FAssets smart contracts. 
 
 
@@ -357,8 +357,7 @@ The audit competition has now concluded and is currently in the evaluation phase
         "KYC Not Required",
         "PoC Not Required",
         "Step-by-step PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [],
       "projectType": [
