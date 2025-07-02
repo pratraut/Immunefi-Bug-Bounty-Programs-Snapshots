@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/66EpjCkt0P3hOk8Bd6zd6Y/7fa614a2ce84e59b551dd90458cf47b5/Spectra-Finance_Logo_Black.png",
       "launchDate": "2025-04-03T14:00:00.000Z",
       "endDate": "2025-04-17T14:00:00.000Z",
-      "updatedDate": "2025-06-02T13:49:58.216Z",
+      "updatedDate": "2025-07-02T13:12:16.153Z",
       "kyc": false,
       "rewards": [
         {
@@ -408,7 +408,7 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": null,
+      "evaluationEndDate": "2025-07-02T13:13:49.420Z",
       "boostedIntroStartingIn": "**$40,000 USD** in rewards is available for finding bugs on Spectra Finance contract. \n\nFor more information, please visit  about [Spectra Finance](https://www.spectra.finance/)\n\nAny technical questions can be asked directly to the Spectra Finance technical team on Immunefi's [Immunefi’s Discord](https://discord.com/channels/787092485969150012/1355219052267831459) in the \"spectra-audit-comp\" channel.\n\nRunnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Audit-Competition-Proof-of-Concept-Rules)\n\nInsight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/13333032674961-Severity-Classification-System)",
       "boostedIntroLive": "**$40,000 USD** in rewards is available for finding bugs on Spectra contracts. \n\nFor more information, please visit about [Spectra Finance](https://www.spectra.finance/)\n\nAny technical questions and support requests can be asked directly to Spectra Finance or Immunefi in the [Spectra Finance Audit Competition Discord channel](https://discord.com/channels/787092485969150012/1355219052267831459).\n\nWhen the Audit Competition has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nA few days after the launch, Immunefi will publish Spectra Finance's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).\n\nRunnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Audit-Competition-Proof-of-Concept-Rules)\n\nInsight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
       "boostedIntroEvaluating": "",
@@ -419,10 +419,227 @@
       "allStarsPool": 0,
       "podiumPool": 0,
       "sourceLinesOfCode": 2395,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/19m3o6a9NUUaHNaa4ZL1t8CxYBnBtDIY9/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "io10",
+          "critical": 0,
+          "earnings": 19873,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Rhaydden",
+          "critical": 0,
+          "earnings": 16260,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "MrMorningstar",
+          "critical": 0,
+          "earnings": 785,
+          "insights": 2,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "PotEater",
+          "critical": 0,
+          "earnings": 598,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "blackgrease",
+          "critical": 0,
+          "earnings": 598,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "holydevoti0n",
+          "critical": 0,
+          "earnings": 412,
+          "insights": 1,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Kyosi",
+          "critical": 0,
+          "earnings": 373,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Glitch_Hunter",
+          "critical": 0,
+          "earnings": 187,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "DSbeX",
+          "critical": 0,
+          "earnings": 154,
+          "insights": 0,
+          "mediumLow": 4,
+          "totalValidBugs": 4
+        },
+        {
+          "high": 0,
+          "name": "Coyote25049",
+          "critical": 0,
+          "earnings": 145,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "ZestfulHedgehog609",
+          "critical": 0,
+          "earnings": 77,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "din",
+          "critical": 0,
+          "earnings": 77,
+          "insights": 0,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "Paludo0x",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Shahen",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "EFCCWEB3",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "kaysoft",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Vanshika",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Allen_George08",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "TECHFUND_inc",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "adrianx",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "hgrano",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Oxblackadam",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "roccomania",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Osuolale",
+          "critical": 0,
+          "earnings": 38,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        }
+      ],
       "features": [
         "Boost",
         "Managed Triage: Signal Booster",
@@ -473,7 +690,7 @@
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/spectra-finance",
       "premiumTriaging": true
     },
     "layoutProps": {

@@ -345,7 +345,7 @@ The audit competition has now concluded and is currently in the evaluation phase
     "date": "2025-04-03T14:00:00.000Z",
     "launchDate": "2025-04-03T14:00:00.000Z",
     "endDate": "2025-04-17T14:00:00.000Z",
-    "updatedDate": "2025-06-02T13:49:58.216Z",
+    "updatedDate": "2025-07-02T13:12:16.153Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -376,7 +376,7 @@ The audit competition has now concluded and is currently in the evaluation phase
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": null,
+    "evaluationEndDate": "2025-07-02T13:13:49.420Z",
     "boostedIntroStartingIn": "**$40,000 USD** in rewards is available for finding bugs on Spectra Finance contract. 
 
 For more information, please visit  about [Spectra Finance](https://www.spectra.finance/)
@@ -407,10 +407,227 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "allStarsPool": 0,
     "podiumPool": 0,
     "sourceLinesOfCode": 2395,
-    "boostedSummaryReport": null,
+    "boostedSummaryReport": "https://drive.google.com/file/d/19m3o6a9NUUaHNaa4ZL1t8CxYBnBtDIY9/view?usp=sharing",
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "io10",
+        "critical": 0,
+        "earnings": 19873,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Rhaydden",
+        "critical": 0,
+        "earnings": 16260,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "MrMorningstar",
+        "critical": 0,
+        "earnings": 785,
+        "insights": 2,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "PotEater",
+        "critical": 0,
+        "earnings": 598,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "blackgrease",
+        "critical": 0,
+        "earnings": 598,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "holydevoti0n",
+        "critical": 0,
+        "earnings": 412,
+        "insights": 1,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Kyosi",
+        "critical": 0,
+        "earnings": 373,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "Glitch_Hunter",
+        "critical": 0,
+        "earnings": 187,
+        "insights": 1,
+        "mediumLow": 0,
+        "totalValidBugs": 0
+      },
+      {
+        "high": 0,
+        "name": "DSbeX",
+        "critical": 0,
+        "earnings": 154,
+        "insights": 0,
+        "mediumLow": 4,
+        "totalValidBugs": 4
+      },
+      {
+        "high": 0,
+        "name": "Coyote25049",
+        "critical": 0,
+        "earnings": 145,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "ZestfulHedgehog609",
+        "critical": 0,
+        "earnings": 77,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "din",
+        "critical": 0,
+        "earnings": 77,
+        "insights": 0,
+        "mediumLow": 2,
+        "totalValidBugs": 2
+      },
+      {
+        "high": 0,
+        "name": "Paludo0x",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Shahen",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "EFCCWEB3",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "kaysoft",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Vanshika",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Allen_George08",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "TECHFUND_inc",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "adrianx",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "hgrano",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Oxblackadam",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "roccomania",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 0,
+        "name": "Osuolale",
+        "critical": 0,
+        "earnings": 38,
+        "insights": 0,
+        "mediumLow": 1,
+        "totalValidBugs": 1
+      }
+    ],
     "features": [
       "Boost",
       "Managed Triage: Signal Booster",
