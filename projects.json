@@ -8029,52 +8029,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "33Mt8nedD3h9tfjq49u5rn",
-    "id": "metronome",
-    "project": "Metronome",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7tYcCLOmtIXMMh3MgHf4S0/d632ed42420c48826660786e643b3f87/met2-signet-option1.png",
-    "date": "2023-02-21T21:00:00.000Z",
-    "launchDate": "2023-02-21T21:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T16:09:52.194Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Synthetic Assets",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Optimism"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3zYz48JQsjmBUjntgytNFt",
     "id": "exactly",
     "project": "Exactly",
@@ -10189,6 +10143,53 @@
       "language": [
         "JavaScript",
         "Python"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "33Mt8nedD3h9tfjq49u5rn",
+    "id": "metronome",
+    "project": "Metronome",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7tYcCLOmtIXMMh3MgHf4S0/d632ed42420c48826660786e643b3f87/met2-signet-option1.png",
+    "date": "2023-02-21T21:00:00.000Z",
+    "launchDate": "2023-02-21T21:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-03T16:29:48.231Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Synthetic Assets",
+        "Yield Aggregator"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Optimism"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
       ],
       "featured": [
         "Launched Recently"
