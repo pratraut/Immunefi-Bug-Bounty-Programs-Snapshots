@@ -4293,7 +4293,7 @@
     "date": "2022-08-30T17:30:00.000Z",
     "launchDate": "2022-08-30T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-18T16:13:01.718Z",
+    "updatedDate": "2025-07-04T16:03:01.654Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7240,6 +7240,52 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "56powSA6iD9VrESduXTQii",
+    "id": "zestprotocol",
+    "project": "Zest Protocol",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5DWINS6LzXToU397gx35lQ/ed2d456b4cb4cd95fa0799e8b1fe5c4b/Zest_logo_copy.png",
+    "date": "2024-03-11T01:01:00.000Z",
+    "launchDate": "2024-03-11T01:01:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-04T14:45:19.010Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact",
+        "Arbitration",
+        "Vaults"
+      ],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Clarity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "1IwKcX1tYQygFRWe503Hrc",
     "id": "orderlynetwork",
     "project": "Orderly Network",
@@ -9450,6 +9496,43 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "4zm3XSyEDNA4nIJ1K7lrf4",
+    "id": "baanx",
+    "project": "Baanx",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6fm8DZ0HNzCN0Ss4icDeEu/258076f96c08147d504ce11bebc5b2c2/pl8hkO4f_400x400.png",
+    "date": "2025-06-30T06:26:00.000Z",
+    "launchDate": "2025-06-30T06:26:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-04T14:58:37.051Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications",
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "uXpcEHhcTSiyub3rp9QZn",
     "id": "kinesis-bridge-on-kadena",
     "project": "Kinesis Bridge on Kadena",
@@ -9503,7 +9586,7 @@
     "date": "2025-04-21T12:58:00.000Z",
     "launchDate": "2025-04-21T12:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-18T12:53:39.161Z",
+    "updatedDate": "2025-07-04T09:25:35.122Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
