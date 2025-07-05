@@ -9,11 +9,11 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6fm8DZ0HNzCN0Ss4icDeEu/258076f96c08147d504ce11bebc5b2c2/pl8hkO4f_400x400.png",
       "launchDate": "2025-06-30T06:26:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-07-04T14:58:37.051Z",
+      "updatedDate": "2025-07-05T16:32:13.458Z",
       "kyc": true,
       "rewards": [
         {
-          "id": 31915,
+          "id": 31925,
           "assetType": "smart_contract",
           "severity": "critical",
           "rewardModel": "range",
@@ -22,7 +22,7 @@
           "rewardCalculationPercentage": 10
         },
         {
-          "id": 31916,
+          "id": 31926,
           "assetType": "smart_contract",
           "severity": "high",
           "rewardModel": "range",
@@ -30,21 +30,21 @@
           "minReward": 5000
         },
         {
-          "id": 31917,
+          "id": 31927,
           "assetType": "smart_contract",
           "severity": "medium",
           "rewardModel": "fixed",
           "fixedReward": 2500
         },
         {
-          "id": 31918,
+          "id": 31928,
           "assetType": "smart_contract",
           "severity": "low",
           "rewardModel": "fixed",
           "fixedReward": 1000
         },
         {
-          "id": 31919,
+          "id": 31929,
           "assetType": "websites_and_applications",
           "severity": "critical",
           "rewardModel": "range",
@@ -53,14 +53,14 @@
           "otherImpactMaxReward": 0
         },
         {
-          "id": 31920,
+          "id": 31930,
           "assetType": "websites_and_applications",
           "severity": "high",
           "rewardModel": "fixed",
           "fixedReward": 2500
         },
         {
-          "id": 31921,
+          "id": 31931,
           "assetType": "websites_and_applications",
           "severity": "medium",
           "rewardModel": "fixed",
@@ -359,11 +359,13 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
-      "premiumTriaging": false
+      "premiumTriaging": true
     },
     "project": {
-      "features": [],
-      "premiumTriaging": false,
+      "features": [
+        "Managed Triage: Time Saver"
+      ],
+      "premiumTriaging": true,
       "isSafeHarborActive": false
     },
     "metaData": {
