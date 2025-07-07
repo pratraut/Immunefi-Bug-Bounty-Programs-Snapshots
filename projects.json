@@ -8023,58 +8023,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "2VsaBV0AWoSV71kLKq8oAC",
-    "id": "polygonzkevm",
-    "project": "Polygon zkEVM",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4HtvkOERB7FEW5uUNz22lB/2ba376a451814502754906d247e472e5/Polygon_zkEVM_logo_dark_copy.png",
-    "date": "2023-03-24T04:00:00.000Z",
-    "launchDate": "2023-03-24T04:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-05-02T10:06:29.344Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Bridge",
-        "L1",
-        "L2",
-        "Zero-Knowledge Proofs",
-        "Circuits"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "C/C++",
-        "Go",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3zYz48JQsjmBUjntgytNFt",
     "id": "exactly",
     "project": "Exactly",
@@ -13054,7 +13002,7 @@
     "date": "2025-05-05T13:00:00.000Z",
     "launchDate": "2025-05-05T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-05T16:58:04.633Z",
+    "updatedDate": "2025-07-07T08:17:19.539Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -13066,7 +13014,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Primacy of Impact"
       ],
       "productType": [
         "Yield Aggregator",
