@@ -2813,7 +2813,7 @@
     "date": "2025-03-31T03:00:08.000Z",
     "launchDate": "2025-03-31T03:00:08.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-16T10:58:16.357Z",
+    "updatedDate": "2025-07-08T14:17:20.380Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2828,8 +2828,12 @@
         "PoC Not Required",
         "Triaged by Immunefi"
       ],
-      "productType": [],
-      "projectType": [],
+      "productType": [
+        "Stablecoin"
+      ],
+      "projectType": [
+        "Defi"
+      ],
       "ecosystem": [],
       "programType": [
         "Websites and Applications",
@@ -11768,50 +11772,6 @@
       "language": [
         "Go",
         "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "4ZlMtE7LUXjyPqHmg2q3Gv",
-    "id": "arkham",
-    "project": "Arkham",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/66wi5varUtl1fWz4yULD9R/3fea70f8fa5b6da6bbee99fef3f41ddf/27565.png",
-    "date": "2023-11-14T14:00:00.000Z",
-    "launchDate": "2023-11-14T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-10T16:08:32.246Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "NextJS"
       ],
       "featured": [
         "Launched Recently"

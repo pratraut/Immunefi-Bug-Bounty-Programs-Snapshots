@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4BMAH2vYshpTpBYfpMLSiu/f00ffe094a0f237c7b8f1cd60b0d6508/zano-icon.png",
       "launchDate": "2025-06-19T10:00:00.000Z",
       "endDate": "2025-07-03T10:00:00.000Z",
-      "updatedDate": "2025-07-03T10:13:47.523Z",
+      "updatedDate": "2025-07-08T12:09:58.767Z",
       "kyc": false,
       "rewards": [
         {
@@ -341,21 +341,49 @@
           }
         ]
       },
-      "evaluationEndDate": "2025-07-31T12:00:00.000Z",
+      "evaluationEndDate": "2025-07-08T12:09:53.349Z",
       "boostedIntroStartingIn": "**$20,000 USD** in rewards is available for finding bugs on Zano Trade\n\nThis is an **Invite-Only Program** Competition, and its **ONLY OPEN to Security Researchers who have been invited**.",
       "boostedIntroLive": "$20,000 USD in rewards is available for finding bugs on Zano\n\nFor more information about Zano Trade, please visit https://zano.org/ and Zano Trade https://trade.zano.org/dex\n\nThis is an **Invite-Only Program Competition, and its only open to Security Researchers who have been invited.**\n\nRunnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)\n\nInsight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)\n\nZano rewards are denominated in USD and distributed in USDC on Ethereum.\n\nKYC is NOT required.",
       "boostedIntroEvaluating": "**Thank You to All Participating Security Researchers!**\n\nThe Invite-Only Program has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
-      "boostedIntroFinished": "",
+      "boostedIntroFinished": "### Thank You to All Participating Security Researchers!\n\nYour valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the Zano Trade platform for all users.",
       "rewardsToken": "USDC",
       "rewardsPool": 20000,
       "primaryPool": 20000,
       "allStarsPool": 0,
       "podiumPool": 0,
       "sourceLinesOfCode": 1815,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1t9buEqmZANTEWK46TJ2FsAnVDJzvnYFY/view?usp=sharing",
       "inviteOnly": true,
-      "hideAssetsInScope": false,
-      "boostedLeaderboard": [],
+      "hideAssetsInScope": null,
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "adhd",
+          "critical": 1,
+          "earnings": 7194,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "Opzteam",
+          "critical": 1,
+          "earnings": 3971,
+          "insights": 3,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "cdl",
+          "critical": 1,
+          "earnings": 2835,
+          "insights": 0,
+          "mediumLow": 0,
+          "totalValidBugs": 1
+        }
+      ],
       "features": [
         "IOP (Invite Only Program)",
         "Managed Triage: Signal Booster",
@@ -404,7 +432,7 @@
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/zano-trade-iop",
       "premiumTriaging": true
     },
     "layoutProps": {
