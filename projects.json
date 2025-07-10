@@ -660,7 +660,7 @@
     "date": "2024-06-27T13:00:00.000Z",
     "launchDate": "2024-06-27T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-12T12:46:27.368Z",
+    "updatedDate": "2025-07-09T13:38:35.057Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5859,7 +5859,7 @@
     "date": "2024-01-25T20:00:00.000Z",
     "launchDate": "2024-01-25T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-26T13:33:43.939Z",
+    "updatedDate": "2025-07-09T08:03:56.752Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6524,7 +6524,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-05T08:11:45.168Z",
+    "updatedDate": "2025-07-10T16:21:06.872Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7162,7 +7162,7 @@
     "date": "2024-07-10T14:00:00.000Z",
     "launchDate": "2024-07-10T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-01T10:20:57.458Z",
+    "updatedDate": "2025-07-09T15:54:45.658Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7190,7 +7190,6 @@
         "Smart Contract"
       ],
       "language": [
-        "Solidity",
         "Cairo"
       ],
       "featured": [
@@ -7427,7 +7426,7 @@
     "date": "2024-02-04T20:00:00.000Z",
     "launchDate": "2024-02-04T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-21T09:42:59.963Z",
+    "updatedDate": "2025-07-10T16:19:13.584Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9578,7 +9577,7 @@
     "date": "2025-04-01T08:39:36.000Z",
     "launchDate": "2025-04-01T08:39:36.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-06T10:30:25.441Z",
+    "updatedDate": "2025-07-10T15:21:50.585Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -11627,7 +11626,7 @@
     "date": "2025-06-18T16:00:00.000Z",
     "launchDate": "2025-06-18T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-24T13:15:14.809Z",
+    "updatedDate": "2025-07-10T17:25:48.995Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"
@@ -11772,6 +11771,50 @@
       "language": [
         "Go",
         "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4ZlMtE7LUXjyPqHmg2q3Gv",
+    "id": "arkham",
+    "project": "Arkham",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/66wi5varUtl1fWz4yULD9R/3fea70f8fa5b6da6bbee99fef3f41ddf/27565.png",
+    "date": "2023-11-14T14:00:00.000Z",
+    "launchDate": "2023-11-14T14:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-10T17:07:16.816Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "Services"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "NextJS"
       ],
       "featured": [
         "Launched Recently"
@@ -14041,6 +14084,43 @@
       ]
     },
     "premiumTriaging": null
+  },
+  {
+    "contentfulId": "6zMYJcwN7SGcn2cNSKjrwh",
+    "id": "alpen-labs",
+    "project": "Alpen Labs",
+    "maximum_reward": 5000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/ArQuLN0dlVMUaykA8FvXG/13f11c2ef20e3a0cc2fdd7f15f53c126/Alpen_Labs.png",
+    "date": "2025-07-09T15:00:00.000Z",
+    "launchDate": "2025-07-09T15:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-09T16:58:06.273Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
   },
   {
     "contentfulId": "4pspSoJaelRH5xBmQ4QDrf",

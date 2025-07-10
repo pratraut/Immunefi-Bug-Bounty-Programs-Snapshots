@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3dSmZSceT3gQBxUK58GG4y/e40e55bfc2c284e8c2ea1a11c89b837f/Folks-logo-icon-white__1_.png",
       "launchDate": "2025-07-07T10:00:00.000Z",
       "endDate": "2025-07-21T10:00:00.000Z",
-      "updatedDate": "2025-07-07T10:09:21.111Z",
+      "updatedDate": "2025-07-09T10:59:16.792Z",
       "kyc": false,
       "rewards": [
         {
@@ -277,6 +277,12 @@
           "title": "Algorand Python",
           "description": "Coding language information",
           "url": "https://algorandfoundation.github.io/puya/language-guide.html"
+        },
+        {
+          "id": 265,
+          "title": "Technical Walkthrough",
+          "description": "Deep dive into the Folks Finance Smart Contract Library, led by Gidon from the Folks Finance team",
+          "url": "https://www.youtube.com/watch?v=LsDVSV2W_bU"
         }
       ],
       "primacy": "primacy_of_rules",

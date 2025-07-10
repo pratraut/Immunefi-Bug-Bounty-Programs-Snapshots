@@ -8,7 +8,7 @@
     "date": "2025-07-07T10:00:00.000Z",
     "launchDate": "2025-07-07T10:00:00.000Z",
     "endDate": "2025-07-21T10:00:00.000Z",
-    "updatedDate": "2025-07-07T10:09:21.111Z",
+    "updatedDate": "2025-07-09T10:59:16.792Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -150,73 +150,6 @@ July 8th the **Plume Network Attackathon Education Period** begins — launching
     "rewardsBody": ""
   },
   {
-    "contentfulId": "2aJYhhRlpyYq24bQ5IE3aw",
-    "id": "iop-paradex",
-    "project": "IOP | Paradex",
-    "maximum_reward": 45000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/AyHdHspTrq5VthxkOf3PG/5e9dbdc7cb7a4e1339be70fac1099e52/P_Dark_1080x1080_Transparent_440x500.png",
-    "date": "2025-05-23T07:00:00.000Z",
-    "launchDate": "2025-05-23T07:00:00.000Z",
-    "endDate": "2025-06-13T07:00:00.000Z",
-    "updatedDate": "2025-07-03T10:34:22.300Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-07-11T10:00:00.000Z",
-    "boostedIntroStartingIn": "",
-    "boostedIntroLive": "$45,000 USD in rewards is available for finding bugs on Paradex contracts.
-
-For more information, please visit about Paradex website [https://www.paradex.trade/](https://www.paradex.trade/)
-
-This is an invite-only Program Competition, open to Security Researchers who have been invited.
-
-Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 45000,
-    "primaryPool": 45000,
-    "allStarsPool": 0,
-    "podiumPool": 0,
-    "sourceLinesOfCode": 7700,
-    "boostedSummaryReport": null,
-    "inviteOnly": true,
-    "hideAssetsInScope": true,
-    "boostedLeaderboard": [],
-    "features": [
-      "IOP (Invite Only Program)",
-      "Managed Triage: Signal Booster",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "31KZR5ZJ9ub35gxMfk8f9l",
     "id": "audit-comp-flare-fassets",
     "project": "Audit Comp | Flare | FAssets",
@@ -328,6 +261,112 @@ The audit competition has now concluded and is currently in the evaluation phase
       "Boost",
       "Vault",
       "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2aJYhhRlpyYq24bQ5IE3aw",
+    "id": "iop-paradex",
+    "project": "IOP | Paradex",
+    "maximum_reward": 45000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/AyHdHspTrq5VthxkOf3PG/5e9dbdc7cb7a4e1339be70fac1099e52/P_Dark_1080x1080_Transparent_440x500.png",
+    "date": "2025-05-23T07:00:00.000Z",
+    "launchDate": "2025-05-23T07:00:00.000Z",
+    "endDate": "2025-06-13T07:00:00.000Z",
+    "updatedDate": "2025-07-10T12:10:47.163Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-07-10T12:10:39.457Z",
+    "boostedIntroStartingIn": "",
+    "boostedIntroLive": "$45,000 USD in rewards is available for finding bugs on Paradex contracts.
+
+For more information, please visit about Paradex website [https://www.paradex.trade/](https://www.paradex.trade/)
+
+This is an invite-only Program Competition, open to Security Researchers who have been invited.
+
+Runnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
+    "boostedIntroEvaluating": "",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the Paradex platform for all users.",
+    "rewardsToken": "USDC",
+    "rewardsPool": 45000,
+    "primaryPool": 45000,
+    "allStarsPool": 0,
+    "podiumPool": 0,
+    "sourceLinesOfCode": 7700,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1iizXoQeXiOiqUW25lt0vUFOp9hnZaAHI/view?usp=sharing",
+    "inviteOnly": true,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "shaflow1",
+        "critical": 2,
+        "earnings": 17842,
+        "insights": 5,
+        "mediumLow": 5,
+        "totalValidBugs": 7
+      },
+      {
+        "high": 0,
+        "name": "Catchme",
+        "critical": 1,
+        "earnings": 8421,
+        "insights": 8,
+        "mediumLow": 0,
+        "totalValidBugs": 1
+      },
+      {
+        "high": 2,
+        "name": "gln",
+        "critical": 0,
+        "earnings": 4401,
+        "insights": 3,
+        "mediumLow": 1,
+        "totalValidBugs": 3
+      },
+      {
+        "high": 0,
+        "name": "Kalogerone",
+        "critical": 0,
+        "earnings": 2336,
+        "insights": 1,
+        "mediumLow": 6,
+        "totalValidBugs": 6
+      }
+    ],
+    "features": [
+      "IOP (Invite Only Program)",
+      "Managed Triage: Signal Booster",
+      "Vault"
     ],
     "academyStartDate": null,
     "premiumTriaging": true
