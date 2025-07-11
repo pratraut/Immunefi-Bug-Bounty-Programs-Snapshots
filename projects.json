@@ -7074,46 +7074,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "6VSug7qxArymsz9N0MRihp",
-    "id": "zerolend",
-    "project": "ZeroLend",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3krwpy8yy3IaOV7zKhDMMt/a6c889f6174da2c0762e542ae8899475/zerolend.png",
-    "date": "2024-12-05T13:19:17.000Z",
-    "launchDate": "2024-12-05T13:19:17.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-17T14:33:04.798Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Arbitration",
-        "Vaults"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "Hhs3WaasggkNCR2kVtjOT",
     "id": "omron",
     "project": "Omron",
@@ -9455,7 +9415,7 @@
     "date": "2025-06-30T06:26:00.000Z",
     "launchDate": "2025-06-30T06:26:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-05T16:32:13.458Z",
+    "updatedDate": "2025-07-11T17:50:12.518Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
