@@ -5764,7 +5764,7 @@
     "date": "2024-05-22T02:29:00.000Z",
     "launchDate": "2024-05-22T02:29:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:43:43.722Z",
+    "updatedDate": "2025-07-14T08:41:40.388Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -12244,6 +12244,47 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4oe92kXpZc5rWBCWcXfpd7",
+    "id": "zano",
+    "project": "Zano",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/56nkDjrefTYbi6qvtdq0UL/4443f936ab5d2b9f7833967cd7de2e04/Zano.png",
+    "date": "2025-07-14T13:00:00.000Z",
+    "launchDate": "2025-07-14T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-14T14:58:48.198Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain",
+        "Infrastructure"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
