@@ -8,7 +8,7 @@
     "date": "2025-07-07T10:00:00.000Z",
     "launchDate": "2025-07-07T10:00:00.000Z",
     "endDate": "2025-07-21T10:00:00.000Z",
-    "updatedDate": "2025-07-09T10:59:16.792Z",
+    "updatedDate": "2025-07-15T12:16:45.088Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -91,7 +91,7 @@ The audit competition has now concluded and is currently in the evaluation phase
     "date": "2025-07-16T10:00:00.000Z",
     "launchDate": "2025-07-16T10:00:00.000Z",
     "endDate": "2025-08-13T10:00:00.000Z",
-    "updatedDate": "2025-07-12T16:23:57.184Z",
+    "updatedDate": "2025-07-15T12:20:42.810Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -112,7 +112,11 @@ The audit competition has now concluded and is currently in the evaluation phase
     "boostedIntroStartingIn": "A conditional $200,000 USD pot is in rewards for finding bugs on Plume Network code.
 
 July 8th the **Plume Network Attackathon Education Period** begins — launching the ‘Plume Network Academy’, and opening direct access to the Plume Network’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “plume-network-attackathon\" channel.",
-    "boostedIntroLive": "",
+    "boostedIntroLive": "A conditional **$200,000 USD** is in rewards for finding bugs on Plume Network's code.
+
+You can ask technical questions to the Stacks team directly in the #plume-network-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the Plume Network Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "USDC",
@@ -298,7 +302,8 @@ The audit competition has now concluded and is currently in the evaluation phase
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-07-10T12:10:39.457Z",
@@ -405,7 +410,8 @@ Your valuable contributions played a crucial role in identifying and resolving c
         "Typescript"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-07-08T12:09:53.349Z",
@@ -512,7 +518,8 @@ Your valuable contributions played a crucial role in identifying and resolving c
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-07-07T16:26:20.458Z",
@@ -610,7 +617,8 @@ The Invite-Only Program has now concluded and is currently in the evaluation pha
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-07-02T13:13:49.420Z",
@@ -914,7 +922,8 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
         "Clarity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-06-19T16:20:47.578Z",
@@ -1073,7 +1082,8 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-06-19T15:16:18.008Z",
@@ -1650,7 +1660,8 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-05-09T18:03:18.249Z",
@@ -2362,7 +2373,8 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-05-08T12:56:25.331Z",
