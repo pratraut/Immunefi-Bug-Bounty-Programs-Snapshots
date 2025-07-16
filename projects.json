@@ -237,7 +237,7 @@
     "date": "2025-01-30T14:58:00.000Z",
     "launchDate": "2025-01-30T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-30T14:58:14.648Z",
+    "updatedDate": "2025-07-16T12:55:44.453Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1514,7 +1514,7 @@
     "date": "2024-12-11T16:28:00.000Z",
     "launchDate": "2024-12-11T16:28:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-26T00:54:32.767Z",
+    "updatedDate": "2025-07-16T16:23:39.680Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5807,7 +5807,7 @@
     "date": "2024-05-22T02:29:00.000Z",
     "launchDate": "2024-05-22T02:29:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-14T08:41:40.388Z",
+    "updatedDate": "2025-07-16T12:19:10.537Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7438,7 +7438,7 @@
     "date": "2024-02-04T20:00:00.000Z",
     "launchDate": "2024-02-04T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-10T16:19:13.584Z",
+    "updatedDate": "2025-07-16T12:17:01.393Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7718,11 +7718,10 @@
     "date": "2023-08-30T10:00:00.000Z",
     "launchDate": "2023-08-30T10:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-09T23:17:10.856Z",
+    "updatedDate": "2025-07-16T14:30:02.078Z",
     "kyc": true,
     "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
+      "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -7743,8 +7742,7 @@
         "ETH"
       ],
       "programType": [
-        "Smart Contract",
-        "Websites and Applications"
+        "Smart Contract"
       ],
       "language": [
         "Solidity",
@@ -9477,7 +9475,7 @@
     "date": "2025-06-30T06:26:00.000Z",
     "launchDate": "2025-06-30T06:26:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-11T17:50:12.518Z",
+    "updatedDate": "2025-07-16T12:56:13.850Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -9501,7 +9499,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -9657,8 +9656,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -12340,7 +12338,7 @@
     "date": "2025-07-14T13:00:00.000Z",
     "launchDate": "2025-07-14T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-14T14:58:48.198Z",
+    "updatedDate": "2025-07-16T12:54:46.609Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications",
@@ -12355,7 +12353,9 @@
         "PoC Not Required",
         "Vaults"
       ],
-      "productType": [],
+      "productType": [
+        "L1"
+      ],
       "projectType": [
         "Blockchain",
         "Infrastructure"
@@ -12365,9 +12365,12 @@
         "Blockchain/DLT",
         "Websites and Applications"
       ],
-      "language": [],
+      "language": [
+        "C/C++"
+      ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
