@@ -88,21 +88,30 @@ The audit competition has now concluded and is currently in the evaluation phase
     "project": "Attackathon | Plume Network",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6GhS39Mt2KXgB4VxBjDHmx/e513dd84210b34afbb72b65835187c95/Logomark-BG-Black_cropped.png",
-    "date": "2025-07-17T19:00:00.000Z",
-    "launchDate": "2025-07-17T19:00:00.000Z",
+    "date": "2025-07-17T18:00:00.000Z",
+    "launchDate": "2025-07-17T18:00:00.000Z",
     "endDate": "2025-08-14T19:00:00.000Z",
-    "updatedDate": "2025-07-16T05:59:18.071Z",
+    "updatedDate": "2025-07-17T18:23:52.453Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
     ],
     "immunefiStandard": null,
     "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
       "language": [
         "Solidity"
-      ],
-      "general": [
-        "Triaged by Immunefi"
       ],
       "featured": [
         "Launched Recently"
@@ -124,7 +133,7 @@ When the Plume Network Attackathon ends, Immunefi will publish a leaderboard and
     "primaryPool": 140000,
     "allStarsPool": 40000,
     "podiumPool": 20000,
-    "sourceLinesOfCode": 5000,
+    "sourceLinesOfCode": 5708,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
@@ -135,23 +144,7 @@ When the Plume Network Attackathon ends, Immunefi will publish a leaderboard and
       "Vault"
     ],
     "academyStartDate": "2025-07-08T15:00:00.000Z",
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "31KZR5ZJ9ub35gxMfk8f9l",

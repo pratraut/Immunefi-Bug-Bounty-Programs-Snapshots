@@ -927,58 +927,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "2oF5ZRoWcAvJCzrEn5ZCWx",
-    "id": "babylon-labs",
-    "project": "Babylon Labs",
-    "maximum_reward": 2000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZuVO0D8rx9fzSoB5UVsx4/e5f38f1b93be6cb32b6255c21f6db81c/NEW_Babylon_Labs.png",
-    "date": "2024-09-16T15:00:00.000Z",
-    "launchDate": "2024-09-16T15:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-06-16T08:01:05.955Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Arbitration"
-      ],
-      "productType": [
-        "Staking"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Bitcoin"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Go",
-        "Typescript",
-        "JavaScript",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "173zrA4gMhyL4sDF5ME325",
     "id": "rhinofi",
     "project": "Rhino.fi",
@@ -3100,6 +3048,58 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "2oF5ZRoWcAvJCzrEn5ZCWx",
+    "id": "babylon-labs",
+    "project": "Babylon Labs",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZuVO0D8rx9fzSoB5UVsx4/e5f38f1b93be6cb32b6255c21f6db81c/NEW_Babylon_Labs.png",
+    "date": "2024-09-16T15:00:00.000Z",
+    "launchDate": "2024-09-16T15:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-17T09:13:03.629Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact",
+        "Triaged by Immunefi",
+        "Arbitration"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Bitcoin"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Go",
+        "Typescript",
+        "JavaScript",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "70CdcXCx3z6QsnkPuPiFMd",
     "id": "avail",
     "project": "Avail",
@@ -3573,7 +3573,7 @@
     "date": "2023-04-28T09:00:00.000Z",
     "launchDate": "2023-04-28T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-27T10:51:05.979Z",
+    "updatedDate": "2025-07-17T08:27:50.067Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3602,7 +3602,10 @@
         "ETH",
         "Optimism",
         "Polygon",
-        "Solana"
+        "Solana",
+        "Base",
+        "Starknet",
+        "SUI"
       ],
       "programType": [
         "Smart Contract",
@@ -6521,7 +6524,7 @@
     "date": "2021-06-22T15:30:00.000Z",
     "launchDate": "2021-06-22T15:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T11:28:24.173Z",
+    "updatedDate": "2025-07-17T18:13:12.976Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6805,7 +6808,7 @@
     "date": "2022-07-01T16:30:00.000Z",
     "launchDate": "2022-07-01T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-07T17:16:59.774Z",
+    "updatedDate": "2025-07-17T16:56:54.599Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -13138,7 +13141,7 @@
     "date": "2025-04-23T11:11:00.000Z",
     "launchDate": "2025-04-23T11:11:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-21T16:50:19.081Z",
+    "updatedDate": "2025-07-17T17:07:07.079Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -13684,12 +13687,11 @@
     "date": "2022-06-28T16:30:00.000Z",
     "launchDate": "2022-06-28T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T12:30:13.674Z",
+    "updatedDate": "2025-07-17T15:34:26.931Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
+      "Websites and Applications"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -13712,7 +13714,6 @@
         "Polygon"
       ],
       "programType": [
-        "Blockchain/DLT",
         "Smart Contract",
         "Websites and Applications"
       ],
