@@ -91,7 +91,7 @@ The audit competition has now concluded and is currently in the evaluation phase
     "date": "2025-07-17T18:00:00.000Z",
     "launchDate": "2025-07-17T18:00:00.000Z",
     "endDate": "2025-08-14T19:00:00.000Z",
-    "updatedDate": "2025-07-17T18:23:52.453Z",
+    "updatedDate": "2025-07-18T11:26:07.515Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -123,11 +123,15 @@ The audit competition has now concluded and is currently in the evaluation phase
 July 8th the **Plume Network Attackathon Education Period** begins — launching the ‘Plume Network Academy’, and opening direct access to the Plume Network’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “plume-network-attackathon\" channel.",
     "boostedIntroLive": "A conditional **$200,000 USD** is in rewards for finding bugs on Plume Network's code.
 
-You can ask technical questions to the Stacks team directly in the #plume-network-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+You can ask technical questions to the Plume Network Team directly in the #plume-network-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
 
 When the Plume Network Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroEvaluating": "### **Thank You to All Participating Security Researchers!**
+
+The Attackathon has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
     "rewardsToken": "USDC",
     "rewardsPool": 200000,
     "primaryPool": 140000,
