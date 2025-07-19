@@ -9296,50 +9296,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "55EgTrgg8dy3yNfXxlb5Nd",
-    "id": "horizen",
-    "project": "Horizen",
-    "maximum_reward": 75000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2rnWAKLVaJaIUw2o5BluPY/8f8432f986a560f6e1a20e5d7d99ce7f/Horizen-icon-dark-21e75d19af5bdad4b2faeebdcfef90bf.png",
-    "date": "2023-04-20T13:00:00.000Z",
-    "launchDate": "2023-04-20T13:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-17T11:58:55.093Z",
-    "kyc": true,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "C/C++",
-        "Java"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "48Rwv25MZmZ5IjivLIPSqc",
     "id": "bondprotocol",
     "project": "Bond Protocol",
@@ -10160,6 +10116,53 @@
       "language": [
         "JavaScript",
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "55EgTrgg8dy3yNfXxlb5Nd",
+    "id": "horizen",
+    "project": "Horizen",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2rnWAKLVaJaIUw2o5BluPY/8f8432f986a560f6e1a20e5d7d99ce7f/Horizen-icon-dark-21e75d19af5bdad4b2faeebdcfef90bf.png",
+    "date": "2023-04-20T13:00:00.000Z",
+    "launchDate": "2023-04-20T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-18T19:16:21.696Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "C/C++",
+        "Java"
       ],
       "featured": [
         "Launched Recently",
