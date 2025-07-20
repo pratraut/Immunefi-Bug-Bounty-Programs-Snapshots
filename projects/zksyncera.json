@@ -142,7 +142,7 @@
         {
           "id": "5I4H5pPAvGbY7eRtrYzlwj",
           "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x8d231e4097c3cb200ed62134b466aa615ce60336",
+          "url": "https://etherscan.io/address/0x2dd3329a2ae9de60da02828a34f0cb6d6aff9142#code",
           "description": "L1ERC20Bridge.sol",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
@@ -196,7 +196,7 @@
         {
           "id": "69TKLf0VwwxB9bsgzARJup",
           "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x5D8ba173Dc6C3c90C8f7C04C9288BeF5FDbAd06E#code",
+          "url": "https://etherscan.io/address/0x8c0bfc04ada21fd496c55b8c50331f904306f564",
           "description": "ValidatorTimelock",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
@@ -655,7 +655,7 @@
         {
           "id": "5LKEQx6NVceqcI51pjNltL",
           "type": "smart_contract",
-          "url": "https://explorer.zksync.io/address/0x36a2608a1202a499ecc6063513f51754d718ac4f#contract",
+          "url": "https://explorer.zksync.io/address/0xcc87d9e8525bc40afc11e79f637e1570d7e5ba46#contract",
           "description": "L2SharedBridge.sol",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
@@ -692,7 +692,7 @@
           "id": "7gMVOBDAFmZTYukYAeyz7e",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xc2eE6b6af7d616f6e27ce7F4A451Aedc2b0F5f5C#code",
-          "description": "StateTransitionManager proxy TransparentUpgradeableProxy.sol",
+          "description": "ChainTypeManagerr proxy TransparentUpgradeableProxy.sol",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-01-22T13:38:31.804Z"
@@ -700,8 +700,8 @@
         {
           "id": "3vJLZJSuEk4fTLAgsIEuFe",
           "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xb39b175a5e0945f2fb6a7f31764c0e31d9cf5b75#code",
-          "description": "StateTransitionManager.sol",
+          "url": "https://etherscan.io/address/0x345314c7e4af84b763d98d23f772622e23afb5ce#code",
+          "description": "ChainTypeManager.sol",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-01-22T13:39:12.595Z"
