@@ -328,7 +328,7 @@
     "date": "2022-02-11T15:00:00.000Z",
     "launchDate": "2022-02-11T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-13T15:05:21.503Z",
+    "updatedDate": "2025-07-21T07:21:20.279Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -349,42 +349,7 @@
         "Blockchain",
         "Infrastructure"
       ],
-      "ecosystem": [
-        "Algorand",
-        "Aptos",
-        "Arbitrum",
-        "Aurora",
-        "Avalanche",
-        "BSC",
-        "Base",
-        "Celestia",
-        "Celo",
-        "Dymension",
-        "ETH",
-        "Evmos",
-        "Fantom",
-        "Gnosis",
-        "Injective",
-        "Klaytn",
-        "Kujira",
-        "Mantle",
-        "Moonbeam",
-        "Near",
-        "Neon",
-        "Neutron",
-        "Oasis",
-        "Optimism",
-        "Osmosis",
-        "Polygon",
-        "Pythnet",
-        "Rootstock",
-        "Scroll",
-        "Seda",
-        "Sei",
-        "Solana",
-        "Stargaze",
-        "Terra"
-      ],
+      "ecosystem": [],
       "programType": [
         "Blockchain/DLT",
         "Smart Contract"
@@ -2773,6 +2738,46 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "6sTf1npDxgPTFXbyTKDF7p",
+    "id": "injective",
+    "project": "Injective",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/YMAl62N6W7pJGRcRDyIYw/8a855775c397fed4fb89ddfee5cd84b8/injective.png",
+    "date": "2025-07-21T07:50:00.000Z",
+    "launchDate": "2025-07-21T07:50:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-22T12:32:42.983Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "CcB9X3ihXIqZOX2TkhC9Q",
     "id": "resolv",
     "project": "Resolv",
@@ -2781,7 +2786,7 @@
     "date": "2025-03-31T03:00:08.000Z",
     "launchDate": "2025-03-31T03:00:08.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-08T14:17:20.380Z",
+    "updatedDate": "2025-07-21T08:06:44.968Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4046,7 +4051,7 @@
     "date": "2021-10-12T15:00:00.000Z",
     "launchDate": "2021-10-12T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-14T20:16:54.013Z",
+    "updatedDate": "2025-07-22T17:19:13.131Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4125,53 +4130,6 @@
         "Websites and Applications"
       ],
       "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "496ujkJo91BuYMOeW2qI35",
-    "id": "goldfinch",
-    "project": "Goldfinch",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/arpDmjFKDdzJz5O1pgtwQ/37743b282dbdc711c4e1ce060fa16af0/Goldfinch.png",
-    "date": "2021-09-10T18:00:00.000Z",
-    "launchDate": "2021-09-10T18:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T16:02:11.563Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Lending",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "NextJS",
         "Solidity"
       ],
       "featured": [
@@ -7765,7 +7723,7 @@
     "date": "2023-08-04T12:00:00.000Z",
     "launchDate": "2023-08-04T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-28T18:05:16.435Z",
+    "updatedDate": "2025-07-21T11:37:14.282Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -9098,7 +9056,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -10132,12 +10091,11 @@
     "date": "2023-04-20T13:00:00.000Z",
     "launchDate": "2023-04-20T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-18T19:16:21.696Z",
+    "updatedDate": "2025-07-22T16:55:48.483Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
+      "Websites and Applications"
     ],
     "immunefiStandard": true,
     "tags": {
@@ -10155,7 +10113,6 @@
       ],
       "ecosystem": [],
       "programType": [
-        "Blockchain/DLT",
         "Smart Contract",
         "Websites and Applications"
       ],
