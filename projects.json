@@ -237,7 +237,7 @@
     "date": "2025-01-30T14:58:00.000Z",
     "launchDate": "2025-01-30T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-16T12:55:44.453Z",
+    "updatedDate": "2025-07-23T09:11:43.552Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -848,7 +848,7 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-30T07:46:57.156Z",
+    "updatedDate": "2025-07-23T07:26:25.001Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -861,6 +861,7 @@
         "KYC Required",
         "PoC Required",
         "PoC Not Required",
+        "Primacy of Impact",
         "Triaged by Immunefi"
       ],
       "productType": [
@@ -2421,7 +2422,7 @@
     "date": "2021-09-13T13:00:00.000Z",
     "launchDate": "2021-09-13T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-20T11:13:17.242Z",
+    "updatedDate": "2025-07-23T15:02:04.973Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2433,8 +2434,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
+        "PoC Not Required"
       ],
       "productType": [
         "L2"
@@ -7574,8 +7574,7 @@
         "Typescript"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7937,56 +7936,6 @@
       "ecosystem": [
         "Arbitrum",
         "Avalanche",
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "5cmeFZOHY2NVzdzgbh1i4p",
-    "id": "ipor",
-    "project": "IPOR",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1PWUkjxOSqZ6A6oiZIr4hc/c02ae0b18f6f29eb5e977088ba93db88/tVLWWz2T_400x400.jpg",
-    "date": "2023-04-11T18:00:00.000Z",
-    "launchDate": "2023-04-11T18:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-06-05T11:51:19.936Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "AMM",
-        "Asset Management",
-        "DEX",
-        "Derivatives",
-        "L2",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
         "ETH"
       ],
       "programType": [
@@ -12690,6 +12639,56 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "5cmeFZOHY2NVzdzgbh1i4p",
+    "id": "ipor",
+    "project": "IPOR",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1PWUkjxOSqZ6A6oiZIr4hc/c02ae0b18f6f29eb5e977088ba93db88/tVLWWz2T_400x400.jpg",
+    "date": "2023-04-11T18:00:00.000Z",
+    "launchDate": "2023-04-11T18:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-23T08:32:18.569Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "AMM",
+        "Asset Management",
+        "DEX",
+        "Derivatives",
+        "L2",
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "3OOAiyrBGqwJUBMkNX95VT",
     "id": "paribus",
     "project": "Paribus",
@@ -12749,7 +12748,6 @@
     "updatedDate": "2024-12-02T18:49:49.010Z",
     "kyc": false,
     "technologies": [
-      "Websites and Applications",
       "Blockchain/DLT"
     ],
     "immunefiStandard": true,
