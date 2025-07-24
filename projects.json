@@ -1563,7 +1563,7 @@
     "date": "2024-07-30T16:00:00.000Z",
     "launchDate": "2024-07-30T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:45:22.394Z",
+    "updatedDate": "2025-07-24T14:53:20.559Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2746,7 +2746,7 @@
     "date": "2025-07-21T07:50:00.000Z",
     "launchDate": "2025-07-21T07:50:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-22T12:32:42.983Z",
+    "updatedDate": "2025-07-24T14:33:34.030Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -7669,51 +7669,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "2n37W9oO1QpI6LSKaXKDOy",
-    "id": "mountainprotocol",
-    "project": "Mountain Protocol",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3GYtNnEVxtN0vEVd3Zf1yH/badeb983eff7a2b09e6f9dbdafed3bba/2p5yqaoJ_400x400.png",
-    "date": "2023-08-30T10:00:00.000Z",
-    "launchDate": "2023-08-30T10:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-07-16T14:30:02.078Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Stablecoin"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity",
-        "JavaScript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "2qHc1S4pIk1pW9ZB9Eg0ht",
     "id": "sns",
     "project": "SNS",
@@ -12249,7 +12204,7 @@
     "date": "2025-07-14T13:00:00.000Z",
     "launchDate": "2025-07-14T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-16T12:54:46.609Z",
+    "updatedDate": "2025-07-24T07:28:06.617Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications",
@@ -12268,8 +12223,7 @@
         "L1"
       ],
       "projectType": [
-        "Blockchain",
-        "Infrastructure"
+        "Blockchain"
       ],
       "ecosystem": [],
       "programType": [
