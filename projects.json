@@ -237,7 +237,7 @@
     "date": "2025-01-30T14:58:00.000Z",
     "launchDate": "2025-01-30T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-23T09:11:43.552Z",
+    "updatedDate": "2025-07-28T11:25:17.315Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -766,7 +766,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -2746,7 +2747,7 @@
     "date": "2025-07-21T07:50:00.000Z",
     "launchDate": "2025-07-21T07:50:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-24T14:33:34.030Z",
+    "updatedDate": "2025-07-28T07:41:11.444Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3812,6 +3813,53 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3m6pHeo9hfM7OXuP3d0Cxy",
+    "id": "bifrostfinance",
+    "project": "Bifrost",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1tNOIPGrvNlWWhK1FBWj8w/c7bc0dad9e9b986ff06d577092790508/Bifrost_logo.jpeg",
+    "date": "2022-06-29T03:00:00.000Z",
+    "launchDate": "2022-06-29T03:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-07-28T07:42:18.414Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Crosschain Liquidity",
+        "Lending",
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Polkadot"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7535,7 +7583,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-02T11:28:47.076Z",
+    "updatedDate": "2025-07-28T07:41:50.357Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -12683,52 +12731,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3m6pHeo9hfM7OXuP3d0Cxy",
-    "id": "bifrostfinance",
-    "project": "Bifrost Finance",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1tNOIPGrvNlWWhK1FBWj8w/c7bc0dad9e9b986ff06d577092790508/Bifrost_logo.jpeg",
-    "date": "2022-06-29T03:00:00.000Z",
-    "launchDate": "2022-06-29T03:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-02T18:49:49.010Z",
-    "kyc": false,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Crosschain Liquidity",
-        "Lending",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polkadot"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Rust"
       ],
       "featured": [
         "Launched Recently"

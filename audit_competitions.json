@@ -68,6 +68,112 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "premiumTriaging": true
   },
   {
+    "contentfulId": "6PehC4tquMSIqcOptLc4hv",
+    "id": "lido-bug-bounty-competition",
+    "project": "Bug Bounty Comp | Lido: Dual Governance",
+    "maximum_reward": 2000000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/R7v4MafpH4UpThowXGucN/16cd9089adc39cf245c7aba510a877b7/Lido_Sign.png",
+    "date": "2025-07-29T12:00:00.000Z",
+    "launchDate": "2025-07-29T12:00:00.000Z",
+    "endDate": "2025-08-12T12:00:00.000Z",
+    "updatedDate": "2025-07-28T17:14:43.103Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "language": [],
+      "general": [
+        "Triaged by Immunefi"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-09-12T14:00:00.000Z",
+    "boostedIntroStartingIn": "## $2,000,000 USD in Max Bounty + $100,000 Bonus Rewards Pool 
+available for finding bugs on the Lido Dual Governance codebase. 
+
+In addition to the regular [Lido Bug Bounty Program](https://immunefi.com/bug-bounty/lido/information/), this competition offers a $100,000 bonus rewards pool for valid, non-duplicate reports on the assets in scope. This $100,000 bonus pool will be distributed among researchers based on the severity of their valid, unique submissions, as determined at the end of the competition.
+
+- Rewards are denominated in USD and distributed in USDC on Ethereum.
+
+- KYC is not required.
+
+- Proof of Concept (PoC) Requirements: A PoC, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules).
+
+- **Insights are out of scope** for this Bug Bounty Competition.
+
+- **Duplicate submissions** of bugs are **not valid**. 
+
+
+For more information about Lido, please visit https://lido.fi/",
+    "boostedIntroLive": "## $2,000,000 USD in Max Bounty + $100,000 Bonus Rewards Pool 
+available for finding bugs on the Lido Dual Governance codebase. 
+
+In addition to the regular [Lido Bug Bounty Program](https://immunefi.com/bug-bounty/lido/information/), this competition offers a $100,000 bonus rewards pool for valid, non-duplicate reports on the assets in scope. This $100,000 bonus pool will be distributed among researchers based on the severity of their valid, unique submissions, as determined at the end of the competition.
+
+- Rewards are denominated in USD and distributed in USDC on Ethereum.
+
+- KYC is not required.
+
+- Proof of Concept (PoC) Requirements: A PoC, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules).
+
+- **Insights are out of scope** for this Bug Bounty Competition.
+
+- **Duplicate submissions** of bugs are **not valid**. 
+
+
+For more information about Lido, please visit https://lido.fi/
+
+
+### What is a Bug Bounty Competition?
+A Bug Bounty Competition is a unique blend between a traditional bug bounty program and an audit competition, offering the best of both worlds.
+
+Let’s break it down: In the case of Lido’s Dual Governance program, security researchers are invited to hunt for vulnerabilities in specific assets. Just like a regular Bug Bounty Program (BBP), valid submissions are eligible for core BBP rewards. But here’s the exciting part, there’s also a bonus reward pool of $100,000 up for grabs, on top of the usual BBP payouts. This bonus is only available during the limited competition period.",
+    "boostedIntroEvaluating": "## Thank You to All Participating Security Researchers!
+
+The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the Paradex platform for all users.
+
+Leaderboard     |     Findings    |     Summary Report",
+    "rewardsToken": "USDC",
+    "rewardsPool": 0,
+    "primaryPool": 0,
+    "allStarsPool": 0,
+    "podiumPool": 0,
+    "sourceLinesOfCode": 3262,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Vault",
+      "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": null,
+    "assets": null,
+    "assetsBodyV2": null,
+    "audits": null,
+    "impacts": null,
+    "impactsBody": null,
+    "legacy": {
+      "blockchain_rewards": [],
+      "smartcontract_rewards": [],
+      "technologies": [],
+      "web_rewards": []
+    },
+    "outOfScopeAndRules": "",
+    "premiumTriaging": true,
+    "prioritizedVulnerabilities": "",
+    "programOverview": "",
+    "rewards": null,
+    "rewardsBody": ""
+  },
+  {
     "contentfulId": "6ggCg3klXKErudNSLMhug3",
     "id": "folks-sc-library",
     "project": "Audit Comp | Folks Smart Contract Library",
@@ -275,7 +381,7 @@ The audit competition has now concluded and is currently in the evaluation phase
     "date": "2025-05-23T07:00:00.000Z",
     "launchDate": "2025-05-23T07:00:00.000Z",
     "endDate": "2025-06-13T07:00:00.000Z",
-    "updatedDate": "2025-07-24T09:17:19.007Z",
+    "updatedDate": "2025-07-28T17:12:56.282Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -317,7 +423,9 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
 
-Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the Paradex platform for all users.",
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the Paradex platform for all users.
+
+[Leaderboard](https://immunefi.com/audit-competition/iop-paradex/leaderboard/#top)     |     [Findings](https://reports.immunefi.com/iop-paradex)     |     [Summary Report](https://drive.google.com/file/d/1iizXoQeXiOiqUW25lt0vUFOp9hnZaAHI/view)",
     "rewardsToken": "USDC",
     "rewardsPool": 45000,
     "primaryPool": 45000,

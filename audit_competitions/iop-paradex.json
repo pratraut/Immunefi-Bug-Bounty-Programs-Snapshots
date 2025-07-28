@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/AyHdHspTrq5VthxkOf3PG/5e9dbdc7cb7a4e1339be70fac1099e52/P_Dark_1080x1080_Transparent_440x500.png",
       "launchDate": "2025-05-23T07:00:00.000Z",
       "endDate": "2025-06-13T07:00:00.000Z",
-      "updatedDate": "2025-07-24T09:17:19.007Z",
+      "updatedDate": "2025-07-28T17:12:56.282Z",
       "kyc": true,
       "rewards": [
         {
@@ -249,7 +249,7 @@
       "boostedIntroStartingIn": "",
       "boostedIntroLive": "$45,000 USD in rewards is available for finding bugs on Paradex contracts.\n\nFor more information, please visit about Paradex website [https://www.paradex.trade/](https://www.paradex.trade/)\n\nThis is an invite-only Program Competition, open to Security Researchers who have been invited.\n\nRunnable POCs are not required. Read our [New Audit Competition Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/33260632501777-Proof-of-Concept-Rules-for-Audit-Competitions)\n\nInsight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "### Thank You to All Participating Security Researchers!\n\nYour valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the Paradex platform for all users.",
+      "boostedIntroFinished": "### Thank You to All Participating Security Researchers!\n\nYour valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the Paradex platform for all users.\n\n[Leaderboard](https://immunefi.com/audit-competition/iop-paradex/leaderboard/#top)     |     [Findings](https://reports.immunefi.com/iop-paradex)     |     [Summary Report](https://drive.google.com/file/d/1iizXoQeXiOiqUW25lt0vUFOp9hnZaAHI/view)",
       "rewardsToken": "USDC",
       "rewardsPool": 45000,
       "primaryPool": 45000,
