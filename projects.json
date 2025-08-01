@@ -628,7 +628,7 @@
     "date": "2024-06-27T13:00:00.000Z",
     "launchDate": "2024-06-27T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-30T11:04:18.295Z",
+    "updatedDate": "2025-08-01T11:27:40.198Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1195,7 +1195,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-29T12:20:26.056Z",
+    "updatedDate": "2025-07-31T04:00:36.945Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -2603,7 +2603,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -7270,7 +7271,7 @@
     "date": "2024-03-11T01:01:00.000Z",
     "launchDate": "2024-03-11T01:01:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-04T14:45:19.010Z",
+    "updatedDate": "2025-07-31T15:50:39.576Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9496,41 +9497,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "6VAelWeBFYd3GJAJ4vzYvx",
-    "id": "metastreet-yield-pass",
-    "project": "Metastreet Yield Pass",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6Z2NqsvWb26ZGv8TB8iTrl/f2925f48fe12587a258e8c512914f095/metastreet.png",
-    "date": "2025-03-07T04:50:17.000Z",
-    "launchDate": "2025-03-07T04:50:17.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-07T16:08:27.158Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7l25N5ypZniqrhTRbjxPCN",
     "id": "hourglass",
     "project": "Hourglass",
@@ -10039,11 +10005,11 @@
     "id": "horizen",
     "project": "Horizen",
     "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2rnWAKLVaJaIUw2o5BluPY/8f8432f986a560f6e1a20e5d7d99ce7f/Horizen-icon-dark-21e75d19af5bdad4b2faeebdcfef90bf.png",
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/43562-DuC7v0DHS6PQwf4rZxZqc-AXDcBf217UD2Oh7CFoF8xcDZirbcQp.png",
     "date": "2023-04-20T13:00:00.000Z",
     "launchDate": "2023-04-20T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-22T16:55:48.483Z",
+    "updatedDate": "2025-08-01T14:20:08.453Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -10063,14 +10029,16 @@
       "projectType": [
         "Blockchain"
       ],
-      "ecosystem": [],
+      "ecosystem": [
+        "Base"
+      ],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
-        "C/C++",
-        "Java"
+        "Java",
+        "Rust"
       ],
       "featured": [
         "Launched Recently",
@@ -11597,7 +11565,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
