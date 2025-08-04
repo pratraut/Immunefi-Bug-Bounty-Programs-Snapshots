@@ -2830,7 +2830,7 @@
     "date": "2025-02-21T02:38:44.000Z",
     "launchDate": "2025-02-21T02:38:44.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-24T04:41:10.039Z",
+    "updatedDate": "2025-08-04T07:27:41.138Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3307,7 +3307,7 @@
     "date": "2023-11-30T09:00:00.000Z",
     "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-05T14:32:22.067Z",
+    "updatedDate": "2025-08-04T09:32:01.563Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -3993,8 +3993,7 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5716,6 +5715,43 @@
       "language": [
         "Rust"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "76pXP9gLittpDigxddfx1q",
+    "id": "virtuals-protocol",
+    "project": "Virtuals Protocol",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3xy6jIF7cnKtR7ErGeZ42O/8e2e833274a4a22e1151d8fddccaf5b4/CnL8ESNz_400x400.png",
+    "date": "2025-07-31T11:37:03.000Z",
+    "launchDate": "2025-07-31T11:37:03.000Z",
+    "endDate": null,
+    "updatedDate": "2025-08-04T07:34:06.135Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -7583,7 +7619,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-28T07:41:50.357Z",
+    "updatedDate": "2025-08-04T06:59:54.015Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9990,53 +10026,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "55EgTrgg8dy3yNfXxlb5Nd",
-    "id": "horizen",
-    "project": "Horizen",
-    "maximum_reward": 50000,
-    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/43562-DuC7v0DHS6PQwf4rZxZqc-AXDcBf217UD2Oh7CFoF8xcDZirbcQp.png",
-    "date": "2023-04-20T13:00:00.000Z",
-    "launchDate": "2023-04-20T13:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-08-01T14:20:08.453Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Base"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Java",
-        "Rust"
       ],
       "featured": [
         "Launched Recently",
@@ -12604,6 +12593,53 @@
       ],
       "featured": [
         "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "55EgTrgg8dy3yNfXxlb5Nd",
+    "id": "horizen",
+    "project": "Horizen",
+    "maximum_reward": 20000,
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/43562-DuC7v0DHS6PQwf4rZxZqc-AXDcBf217UD2Oh7CFoF8xcDZirbcQp.png",
+    "date": "2023-04-20T13:00:00.000Z",
+    "launchDate": "2023-04-20T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-08-04T07:05:11.312Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Base"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Java",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
