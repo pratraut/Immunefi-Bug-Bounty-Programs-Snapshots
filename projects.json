@@ -3016,7 +3016,7 @@
     "date": "2024-09-18T13:00:00.000Z",
     "launchDate": "2024-09-18T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-14T13:47:24.314Z",
+    "updatedDate": "2025-08-05T10:38:26.540Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -5730,7 +5730,7 @@
     "date": "2025-07-31T11:37:03.000Z",
     "launchDate": "2025-07-31T11:37:03.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-04T07:34:06.135Z",
+    "updatedDate": "2025-08-05T04:31:43.804Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5742,7 +5742,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Triaged by Immunefi"
       ],
       "productType": [],
       "projectType": [],
@@ -5756,7 +5757,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "3HcLGA72RdvS84isleY3ib",
@@ -6936,7 +6937,7 @@
     "date": "2025-05-14T14:28:00.000Z",
     "launchDate": "2025-05-14T14:28:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-14T14:28:19.239Z",
+    "updatedDate": "2025-08-05T14:08:33.515Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -7290,8 +7291,7 @@
         "Clarity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7619,7 +7619,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-04T06:59:54.015Z",
+    "updatedDate": "2025-08-05T04:46:18.387Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -11529,7 +11529,7 @@
     "date": "2025-06-18T16:00:00.000Z",
     "launchDate": "2025-06-18T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-15T11:00:40.862Z",
+    "updatedDate": "2025-08-05T07:27:16.898Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"
