@@ -1194,7 +1194,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-31T04:00:36.945Z",
+    "updatedDate": "2025-08-06T11:07:10.178Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -2747,7 +2747,7 @@
     "date": "2025-07-21T07:50:00.000Z",
     "launchDate": "2025-07-21T07:50:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-28T07:41:11.444Z",
+    "updatedDate": "2025-08-06T15:30:19.949Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3307,7 +3307,7 @@
     "date": "2023-11-30T09:00:00.000Z",
     "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-04T09:32:01.563Z",
+    "updatedDate": "2025-08-06T09:01:01.428Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -7656,49 +7656,6 @@
       "language": [
         "Solidity",
         "Typescript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1SeRGfLahb1BidiUZXTG5R",
-    "id": "nayms",
-    "project": "Nayms",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/707hmsddE43A2tZgQBimyD/54bd7ceb01e5193164cbf464c51d4957/nayms-logo.png",
-    "date": "2023-09-18T09:00:00.000Z",
-    "launchDate": "2023-09-18T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-06T08:19:10.695Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Insurance"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
@@ -12209,7 +12166,7 @@
     "date": "2025-07-14T13:00:00.000Z",
     "launchDate": "2025-07-14T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-25T12:22:36.926Z",
+    "updatedDate": "2025-08-06T13:58:55.348Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications",
