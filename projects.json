@@ -1194,7 +1194,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-06T11:07:10.178Z",
+    "updatedDate": "2025-08-07T07:47:03.451Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1565,7 +1565,7 @@
     "date": "2024-07-30T16:00:00.000Z",
     "launchDate": "2024-07-30T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-24T14:53:20.559Z",
+    "updatedDate": "2025-08-07T07:49:02.211Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1590,9 +1590,19 @@
       ],
       "ecosystem": [
         "Polygon",
-        "Harmony",
-        "Polkadot",
-        "Avalanche"
+        "Avalanche",
+        "Arbitrum",
+        "Base",
+        "Blast",
+        "BSC",
+        "ETH",
+        "Linea",
+        "Mantle",
+        "Mode",
+        "Optimism",
+        "Scroll",
+        "Solana",
+        "xDAI / Gnosis Chain"
       ],
       "programType": [
         "Smart Contract",
@@ -1803,7 +1813,7 @@
     "date": "2023-09-11T16:00:00.000Z",
     "launchDate": "2023-09-11T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-27T12:19:09.067Z",
+    "updatedDate": "2025-08-07T08:23:43.896Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1816,6 +1826,7 @@
         "PoC Required",
         "PoC Not Required",
         "Primacy of Impact",
+        "Triaged by Immunefi",
         "Vaults"
       ],
       "productType": [
@@ -1837,7 +1848,7 @@
         "Launched Recently"
       ]
     },
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "1yeJWIj507g32vWsitUFL9",
@@ -3307,7 +3318,7 @@
     "date": "2023-11-30T09:00:00.000Z",
     "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-06T09:01:01.428Z",
+    "updatedDate": "2025-08-07T13:53:37.499Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -7383,7 +7394,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
