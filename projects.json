@@ -2758,7 +2758,7 @@
     "date": "2025-07-21T07:50:00.000Z",
     "launchDate": "2025-07-21T07:50:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-06T15:30:19.949Z",
+    "updatedDate": "2025-08-08T15:41:55.708Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -6330,7 +6330,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -13565,56 +13566,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4ZholnwuM5LTAXnwAefMEj",
-    "id": "forta",
-    "project": "Forta Network",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7AbtICUyrsiNIzIHam91pr/3b36623100ca7d2a8307bbc0d4b6f040/Forta_logo.jpeg",
-    "date": "2022-06-28T16:30:00.000Z",
-    "launchDate": "2022-06-28T16:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-07-17T15:34:26.931Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Services",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Go",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "4NBZHxk6LlCf3DUrSuGcKt",
     "id": "unstoppablewallet",
     "project": "Unstoppable Wallet",
@@ -13985,6 +13936,56 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "4ZholnwuM5LTAXnwAefMEj",
+    "id": "forta",
+    "project": "Forta Network",
+    "maximum_reward": 8000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7AbtICUyrsiNIzIHam91pr/3b36623100ca7d2a8307bbc0d4b6f040/Forta_logo.jpeg",
+    "date": "2022-06-28T16:30:00.000Z",
+    "launchDate": "2022-06-28T16:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-08-08T14:10:55.619Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Services",
+        "Staking"
+      ],
+      "projectType": [
+        "Defi",
+        "NFT"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Go",
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "5k8qP9LfYs1qVciE2xqNHw",
     "id": "superbots",
     "project": "SuperBots",
@@ -14100,7 +14101,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
