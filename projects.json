@@ -567,7 +567,7 @@
     "date": "2021-05-11T05:00:00.000Z",
     "launchDate": "2021-05-11T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-02T07:23:16.885Z",
+    "updatedDate": "2025-08-12T09:06:25.889Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2236,7 +2236,7 @@
     "date": "2022-05-12T16:00:00.000Z",
     "launchDate": "2022-05-12T16:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-15T08:15:45.127Z",
+    "updatedDate": "2025-08-12T07:02:02.876Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -2525,7 +2525,7 @@
     "date": "2021-03-28T07:00:00.000Z",
     "launchDate": "2021-03-28T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-02T08:13:45.152Z",
+    "updatedDate": "2025-08-12T07:00:19.271Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -2555,7 +2555,6 @@
         "Websites and Applications"
       ],
       "language": [
-        "Move",
         "Solidity"
       ],
       "featured": [
@@ -3870,7 +3869,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -3884,7 +3884,7 @@
     "date": "2022-05-19T17:30:00.000Z",
     "launchDate": "2022-05-19T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-13T11:59:46.800Z",
+    "updatedDate": "2025-08-12T07:01:25.023Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -4581,7 +4581,7 @@
     "date": "2025-05-08T05:53:52.000Z",
     "launchDate": "2025-05-08T05:53:52.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-12T09:11:34.240Z",
+    "updatedDate": "2025-08-12T07:17:36.269Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5741,7 +5741,7 @@
     "date": "2025-07-31T11:37:03.000Z",
     "launchDate": "2025-07-31T11:37:03.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-05T04:31:43.804Z",
+    "updatedDate": "2025-08-12T10:45:22.734Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -11039,51 +11039,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4Lj7kGriOYMaAbB6LFstNW",
-    "id": "voltz",
-    "project": "Voltz",
-    "maximum_reward": 40000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6ur2pVPTI6EXP1OdsxiJ3K/96d5167c2d44f625035340836b8e47cc/voltz-ico-grey_3x.png",
-    "date": "2022-04-07T20:00:00.000Z",
-    "launchDate": "2022-04-07T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-04T18:58:43.524Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "Derivatives"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7CsSPOKR5wRWuy0ARN7FkB",
     "id": "hashflow",
     "project": "Hashflow",
@@ -11663,7 +11618,7 @@
     "date": "2023-11-14T14:00:00.000Z",
     "launchDate": "2023-11-14T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-10T17:07:16.816Z",
+    "updatedDate": "2025-08-12T09:19:13.965Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -12801,8 +12756,7 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
