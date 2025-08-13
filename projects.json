@@ -2618,50 +2618,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "32ntnlyoxY9wp63kB5Gv1L",
-    "id": "carbonbancor",
-    "project": "Carbon DeFi by Bancor",
-    "maximum_reward": 900000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1nqF3UKYXUVR0FZzbX8zcf/3e9ef81cd45a182e816adbfad9ba4fc3/Bancor-logo.png",
-    "date": "2021-04-07T07:00:00.000Z",
-    "launchDate": "2021-04-07T07:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-10T13:25:28.103Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Not Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "2YQKV3m73SSfWr6a2on7ll",
     "id": "fluxfinance",
     "project": "Flux Finance",
@@ -3389,6 +3345,55 @@
         "Defi"
       ],
       "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "5ZctiuVmVDYDNiAvbWUpJQ",
+    "id": "aera",
+    "project": "Aera",
+    "maximum_reward": 500000,
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/68079-n9d0rNJbDR1UhZrk5PB-8-drmxDRKWuwD1uXuimpkrn5Bgau0swQ.png",
+    "date": "2023-11-20T12:00:00.000Z",
+    "launchDate": "2023-11-20T12:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-08-13T14:01:57.298Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Perpetuals",
+        "Lending",
+        "Restaking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Arbitrum",
+        "Base",
+        "Polygon",
+        "Optimism"
+      ],
       "programType": [
         "Smart Contract"
       ],
@@ -6721,49 +6726,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5ZctiuVmVDYDNiAvbWUpJQ",
-    "id": "aera",
-    "project": "Aera",
-    "maximum_reward": 180000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7hifnzGwAruruZmx5bipNS/60b066ddd7ba77d14fa095ccce48bd26/Aera_Logo_Black.png",
-    "date": "2023-11-20T12:00:00.000Z",
-    "launchDate": "2023-11-20T12:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-03T18:56:56.463Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Asset Management"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "30UQU3vtyWykpfH4ITqhdE",
     "id": "granite-protocol",
     "project": "Granite Protocol",
@@ -8900,8 +8862,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9157,54 +9118,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "6q0DpnpBpGr9hw7gzhR66W",
-    "id": "ambire",
-    "project": "Ambire",
-    "maximum_reward": 80000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4a5seFcJe2gN0TkXgSBrlX/972767e0ccae9a3e66350203e85c4934/Ambire_logo.jpeg",
-    "date": "2021-12-17T14:00:00.000Z",
-    "launchDate": "2021-12-17T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-07T10:24:27.168Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Wallet"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Avalanche",
-        "BSC",
-        "ETH",
-        "Fantom",
-        "Moonbeam",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9594,7 +9507,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-23T08:02:36.296Z",
+    "updatedDate": "2025-08-13T14:20:10.256Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -11977,55 +11890,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7KKfjNy5LDy85pV9A6b5OA",
-    "id": "router",
-    "project": "Router",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/76RFX4B9jmLtRSPhSGVsUQ/51bf95cc0fa626c08870f825e41c486d/Router.jpeg",
-    "date": "2021-08-06T15:00:00.000Z",
-    "launchDate": "2021-08-06T15:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T12:15:57.872Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Bridge",
-        "Crosschain Liquidity"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": false
