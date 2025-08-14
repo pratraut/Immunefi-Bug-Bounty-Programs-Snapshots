@@ -985,7 +985,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -2713,7 +2714,7 @@
     "date": "2025-07-21T07:50:00.000Z",
     "launchDate": "2025-07-21T07:50:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-08T15:41:55.708Z",
+    "updatedDate": "2025-08-14T13:51:48.415Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -7677,8 +7678,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9507,7 +9507,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-13T14:20:10.256Z",
+    "updatedDate": "2025-08-14T12:36:42.844Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -13896,8 +13896,8 @@
     "date": "2025-07-09T15:00:00.000Z",
     "launchDate": "2025-07-09T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-09T16:58:06.273Z",
-    "kyc": true,
+    "updatedDate": "2025-08-14T06:52:18.878Z",
+    "kyc": false,
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -13906,7 +13906,7 @@
     "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Required",
+        "KYC Not Required",
         "PoC Required",
         "PoC Not Required"
       ],
