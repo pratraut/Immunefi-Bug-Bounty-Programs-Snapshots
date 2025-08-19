@@ -2480,7 +2480,7 @@
     "date": "2021-06-15T17:00:00.000Z",
     "launchDate": "2021-06-15T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-20T09:27:05.373Z",
+    "updatedDate": "2025-08-19T16:06:40.858Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7593,7 +7593,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-05T04:46:18.387Z",
+    "updatedDate": "2025-08-19T14:44:02.128Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8519,7 +8519,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
