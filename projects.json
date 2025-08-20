@@ -2828,53 +2828,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "2liVOSizh3GN4HAvg3GgSb",
-    "id": "omni-network",
-    "project": "Omni Network",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6UezFvf3vSbzbQ9pomlLa7/f6e23a39129f6b419e16e52c12d32121/omni.png",
-    "date": "2025-01-21T01:10:18.000Z",
-    "launchDate": "2025-01-21T01:10:18.000Z",
-    "endDate": null,
-    "updatedDate": "2025-04-17T10:07:04.579Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Triaged by Immunefi",
-        "Arbitration",
-        "Vaults"
-      ],
-      "productType": [
-        "Crosschain Liquidity",
-        "Services",
-        "L1"
-      ],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "3fva8pijQvzI0sAlLhWYwA",
     "id": "nucleus",
     "project": "Nucleus",
@@ -3366,7 +3319,7 @@
     "date": "2023-11-20T12:00:00.000Z",
     "launchDate": "2023-11-20T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-13T14:01:57.298Z",
+    "updatedDate": "2025-08-20T08:54:22.515Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -9414,6 +9367,53 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "2liVOSizh3GN4HAvg3GgSb",
+    "id": "omni-network",
+    "project": "Omni Network",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6UezFvf3vSbzbQ9pomlLa7/f6e23a39129f6b419e16e52c12d32121/omni.png",
+    "date": "2025-01-21T01:10:18.000Z",
+    "launchDate": "2025-01-21T01:10:18.000Z",
+    "endDate": null,
+    "updatedDate": "2025-08-20T08:52:03.711Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi",
+        "Arbitration",
+        "Vaults"
+      ],
+      "productType": [
+        "Crosschain Liquidity",
+        "Services",
+        "L1"
+      ],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "7l25N5ypZniqrhTRbjxPCN",
     "id": "hourglass",
     "project": "Hourglass",
@@ -10777,7 +10777,7 @@
     "date": "2020-12-01T07:00:00.000Z",
     "launchDate": "2020-12-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-28T12:51:23.127Z",
+    "updatedDate": "2025-08-19T22:08:48.039Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -11039,7 +11039,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
