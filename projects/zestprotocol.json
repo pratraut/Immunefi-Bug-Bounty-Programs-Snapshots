@@ -466,15 +466,7 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": {
-      "features": [
-        "Vault",
-        "Subscription Plan: Essential",
-        "Arbitration"
-      ],
-      "premiumTriaging": false,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Zest Protocol Bug Bounties",
       "description": "Find bugs and vulnerabilities on Zest Protocol and get paid up to $100,000.",

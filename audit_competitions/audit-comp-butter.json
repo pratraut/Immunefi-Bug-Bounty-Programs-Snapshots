@@ -3,14 +3,7 @@
     "isAttackathon": false,
     "academyContent": null,
     "ethereumAttackathonSponsors": null,
-    "project": {
-      "features": [
-        "Boost",
-        "Managed Triage: Time Saver"
-      ],
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "bounty": {
       "contentfulId": "4mRo81Up34VFQZKJHeBip5",
       "id": "audit-comp-butter",
@@ -428,7 +421,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
       "findingsUrl": "https://reports.immunefi.com/butter",
-      "premiumTriaging": true
+      "premiumTriaging": false
     },
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"

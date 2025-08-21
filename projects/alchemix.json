@@ -223,16 +223,9 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
-      "premiumTriaging": true
+      "premiumTriaging": false
     },
-    "project": {
-      "features": [
-        "Arbitration",
-        "Managed Triage: Expert Assessment"
-      ],
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "metaData": {
       "title": "Alchemix Bug Bounties",
       "description": "Find bugs and vulnerabilities on Alchemix and get paid up to $300,000.",

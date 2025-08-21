@@ -650,15 +650,7 @@
         }
       ]
     },
-    "project": {
-      "features": [
-        "Attackathon",
-        "Managed Triage: Time Saver",
-        "Vault"
-      ],
-      "premiumTriaging": true,
-      "isSafeHarborActive": false
-    },
+    "project": null,
     "bounty": {
       "contentfulId": "2v6xPiTqjqBo2MR2S3dye3",
       "id": "ethereum-protocol-attackathon",
@@ -1326,7 +1318,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
       "findingsUrl": "https://reports.immunefi.com/ethereum-protocol-or-attackathon",
-      "premiumTriaging": true
+      "premiumTriaging": false
     },
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"
