@@ -539,7 +539,8 @@
         "PoC Not Required",
         "Primacy of Impact",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Stablecoin"
@@ -1257,7 +1258,8 @@
         "KYC Not Required",
         "PoC Required",
         "PoC Not Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "Stablecoin"
@@ -1640,7 +1642,8 @@
         "PoC Not Required",
         "Primacy of Impact",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Asset Management",
@@ -1772,7 +1775,8 @@
         "KYC Required",
         "PoC Required",
         "PoC Not Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "Bridge",
@@ -1822,7 +1826,8 @@
         "PoC Required",
         "PoC Not Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "Staking"
@@ -2392,7 +2397,8 @@
         "PoC Not Required",
         "Primacy of Impact",
         "Arbitration",
-        "Safe Harbor"
+        "Safe Harbor",
+        "Vaults"
       ],
       "productType": [
         "Stablecoin"
@@ -3136,7 +3142,8 @@
         "KYC Required",
         "PoC Required",
         "PoC Not Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "DAO"
@@ -4447,7 +4454,8 @@
         "PoC Required",
         "PoC Not Required",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "DAO",
@@ -4544,7 +4552,8 @@
         "PoC Required",
         "PoC Not Required",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
@@ -4681,7 +4690,8 @@
         "PoC Required",
         "PoC Not Required",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Bug bounty"
@@ -4908,7 +4918,8 @@
         "KYC Not Required",
         "PoC Required",
         "PoC Not Required",
-        "Primacy of Impact"
+        "Primacy of Impact",
+        "Vaults"
       ],
       "productType": [
         "Services"
@@ -5281,7 +5292,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Vaults"
       ],
       "productType": [
         "AMM",
@@ -5439,7 +5451,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -6687,7 +6700,8 @@
         "PoC Required",
         "PoC Not Required",
         "Primacy of Impact",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [
         "Lending"
@@ -7232,7 +7246,8 @@
         "PoC Required",
         "PoC Not Required",
         "Primacy of Impact",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Lending"
@@ -7409,7 +7424,8 @@
         "PoC Required",
         "PoC Not Required",
         "Primacy of Impact",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "DEX",
@@ -7543,7 +7559,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Vaults"
       ],
       "productType": [
         "DAO",
@@ -9374,7 +9391,8 @@
         "PoC Required",
         "PoC Not Required",
         "Triaged by Immunefi",
-        "Arbitration"
+        "Arbitration",
+        "Vaults"
       ],
       "productType": [
         "Crosschain Liquidity",
@@ -10723,7 +10741,8 @@
         "Primacy of Impact",
         "Triaged by Immunefi",
         "Arbitration",
-        "Safe Harbor"
+        "Safe Harbor",
+        "Vaults"
       ],
       "productType": [
         "Bug bounty"
@@ -11093,7 +11112,8 @@
         "KYC Required",
         "PoC Required",
         "PoC Not Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
@@ -11943,7 +11963,8 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Vaults"
       ],
       "productType": [
         "L1"
@@ -12708,7 +12729,8 @@
         "KYC Required",
         "PoC Required",
         "PoC Not Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
@@ -12734,7 +12756,7 @@
     "date": "2025-05-05T13:00:00.000Z",
     "launchDate": "2025-05-05T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-07T08:17:19.539Z",
+    "updatedDate": "2025-08-22T00:16:40.083Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -12746,8 +12768,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
+        "PoC Not Required"
       ],
       "productType": [
         "Yield Aggregator",

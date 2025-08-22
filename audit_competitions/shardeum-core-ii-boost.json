@@ -3,7 +3,15 @@
     "isAttackathon": false,
     "academyContent": null,
     "ethereumAttackathonSponsors": null,
-    "project": null,
+    "project": {
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver",
+        "Vault"
+      ],
+      "premiumTriaging": true,
+      "isSafeHarborActive": false
+    },
     "bounty": {
       "contentfulId": "3ONlvASRd4Xbfx0ZfQ9fBp",
       "id": "shardeum-core-ii-boost",
@@ -307,7 +315,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
       "findingsUrl": null,
-      "premiumTriaging": false
+      "premiumTriaging": true
     },
     "layoutProps": {
       "headerMarginBottom": "mb-12 lg:mb-16"
