@@ -835,7 +835,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -2703,6 +2704,43 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "1s01dAPzSEbRgxbdM2oATf",
+    "id": "paradex",
+    "project": "Paradex",
+    "maximum_reward": 500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2jxO6gDlNVXPLn4MT1JLtQ/fd3d05358610c2b50b679fa2812fe9f6/EnotVJl3_400x400.png",
+    "date": "2025-08-22T01:34:00.000Z",
+    "launchDate": "2025-08-22T01:34:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-08-25T08:51:35.494Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications",
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "6sTf1npDxgPTFXbyTKDF7p",
@@ -9324,8 +9362,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10357,8 +10394,7 @@
         "C/C++"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
