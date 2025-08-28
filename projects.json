@@ -238,7 +238,7 @@
     "date": "2025-01-30T14:58:00.000Z",
     "launchDate": "2025-01-30T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-28T11:25:17.315Z",
+    "updatedDate": "2025-08-28T07:56:43.117Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -715,8 +715,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2275,57 +2274,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5ZuiJ8tRQpsJY2j4cDljap",
-    "id": "hakkafinance",
-    "project": "Hakka Finance",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3NYcVrpN5R4C8oIPUmEisj/c514d484f64f4d7c0478178edca9de08/Hakka_Finance_logo.png",
-    "date": "2022-03-28T17:30:00.000Z",
-    "launchDate": "2022-03-28T17:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T14:04:29.766Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "DEX",
-        "Insurance",
-        "Stablecoin"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "BSC",
-        "ETH",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6bP3JCxA6d1gWkfSrclfT",
     "id": "flamingofinance",
     "project": "Flamingo Finance",
@@ -2973,7 +2921,7 @@
     "date": "2024-09-18T13:00:00.000Z",
     "launchDate": "2024-09-18T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-05T10:38:26.540Z",
+    "updatedDate": "2025-08-28T13:41:36.014Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -3264,7 +3212,7 @@
     "date": "2023-11-30T09:00:00.000Z",
     "launchDate": "2023-11-30T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-07T13:53:37.499Z",
+    "updatedDate": "2025-08-28T08:46:04.748Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -3292,8 +3240,7 @@
         "Sei"
       ],
       "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
+        "Blockchain/DLT"
       ],
       "language": [
         "Go",
@@ -3816,8 +3763,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6848,7 +6794,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
