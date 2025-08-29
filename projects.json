@@ -3573,7 +3573,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -3763,7 +3764,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -6507,7 +6509,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -6953,50 +6956,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "2n7XanQodOKo93sehEDzqv",
-    "id": "anvil",
-    "project": "Anvil",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3rM0Q0y2iUiGIQhIqEiCQT/921b1575733e5216ce69733bc8ce9716/Anvil.png",
-    "date": "2025-01-17T17:20:00.000Z",
-    "launchDate": "2025-01-17T17:20:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-27T06:35:14.879Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -8763,7 +8722,7 @@
     "date": "2021-06-09T07:00:00.000Z",
     "launchDate": "2021-06-09T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-31T04:22:39.829Z",
+    "updatedDate": "2025-08-28T23:21:16.264Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8963,7 +8922,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
