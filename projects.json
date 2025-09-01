@@ -8,7 +8,7 @@
     "date": "2023-05-17T17:00:00.000Z",
     "launchDate": "2023-05-17T17:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-12T08:52:13.115Z",
+    "updatedDate": "2025-09-01T12:49:10.998Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -1998,7 +1998,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-05T08:53:41.334Z",
+    "updatedDate": "2025-09-01T13:13:01.608Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5399,50 +5399,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "7rsKJOZbyj2NAHuY0ktp1a",
-    "id": "keep3rnetwork",
-    "project": "Keep3r Network",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/10L9tJ5tgrPqXmkhFF6ThR/50746e69a4c7fd48e18fd2ecdd2c180f/Keep3r.png",
-    "date": "2022-01-19T00:00:00.000Z",
-    "launchDate": "2022-01-19T00:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T12:04:54.656Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Liquid Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6YA16SAQ42bjTZiqI9CmHH",
     "id": "kadena",
     "project": "Kadena",
@@ -7431,8 +7387,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -9730,7 +9685,7 @@
     "date": "2023-08-16T17:30:00.000Z",
     "launchDate": "2023-08-16T17:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-02T18:25:13.469Z",
+    "updatedDate": "2025-09-01T11:10:57.743Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -10858,7 +10813,7 @@
     "date": "2023-09-27T14:00:00.000Z",
     "launchDate": "2023-09-27T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-05T13:29:44.803Z",
+    "updatedDate": "2025-09-01T13:29:27.772Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -13938,7 +13893,7 @@
     "date": "2021-02-04T07:00:00.000Z",
     "launchDate": "2021-02-04T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:33:22.141Z",
+    "updatedDate": "2025-09-01T13:07:29.115Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
