@@ -5859,7 +5859,7 @@
     "date": "2024-01-25T20:00:00.000Z",
     "launchDate": "2024-01-25T20:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-09T08:03:56.752Z",
+    "updatedDate": "2025-09-03T17:31:18.920Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6232,50 +6232,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "5Ofmg07XDu5W3IF6CgWT3k",
-    "id": "superfluid",
-    "project": "Superfluid",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2OOJdM7H7ZWI54ZO8sv9NX/fc52c455ed577f0aa83b99ba45beef22/Superfluid_Logo.png",
-    "date": "2022-02-10T16:00:00.000Z",
-    "launchDate": "2022-02-10T16:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-28T19:18:32.235Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7117,7 +7073,8 @@
         "Clarity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -7908,7 +7865,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -11367,8 +11325,7 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
