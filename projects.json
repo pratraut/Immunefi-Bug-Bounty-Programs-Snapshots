@@ -5632,6 +5632,49 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "6bz2AE34uFgp2SofHdfNn8",
+    "id": "enzyme-onyx",
+    "project": "Enzyme Onyx",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3iP5zSqWcE9ivBa4KHRO7o/f6b068029c43b748115d87919d8387fc/S5wC58QC_400x400.png",
+    "date": "2025-09-04T10:00:00.000Z",
+    "launchDate": "2025-09-04T10:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-04T15:32:37.205Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Not Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Asset Management"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "76pXP9gLittpDigxddfx1q",
     "id": "virtuals-protocol",
     "project": "Virtuals Protocol",
@@ -7028,8 +7071,7 @@
         "Cairo"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
