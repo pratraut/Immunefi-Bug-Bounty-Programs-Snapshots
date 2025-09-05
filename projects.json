@@ -1713,7 +1713,7 @@
     "date": "2023-10-18T09:00:00.000Z",
     "launchDate": "2023-10-18T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-19T14:10:16.257Z",
+    "updatedDate": "2025-09-05T07:13:43.461Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6629,7 +6629,7 @@
     "date": "2025-02-26T15:58:00.000Z",
     "launchDate": "2025-02-26T15:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-29T06:26:25.489Z",
+    "updatedDate": "2025-09-05T07:24:13.864Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -9099,6 +9099,50 @@
         "Smart Contract"
       ],
       "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2sJ6oBtvvQdcvAKZnY2D0c",
+    "id": "zkverify",
+    "project": "zkVerify",
+    "maximum_reward": 50000,
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/43562-XsQidDmPxFzfkmVAQWyt_-QWtGz8DGV5zcFHPyca9xbsMLyiimNP.png",
+    "date": "2025-09-05T12:00:00.000Z",
+    "launchDate": "2025-09-05T12:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-05T17:44:25.962Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Not Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [
+        "Polkadot"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Rust"
+      ],
       "featured": [
         "Launched Recently"
       ]
