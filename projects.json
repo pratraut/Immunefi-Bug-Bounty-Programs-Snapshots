@@ -849,7 +849,7 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-23T07:26:25.001Z",
+    "updatedDate": "2025-09-08T18:49:55.650Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -953,8 +953,8 @@
     "date": "2023-06-14T21:00:00.000Z",
     "launchDate": "2023-06-14T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-29T13:25:56.559Z",
-    "kyc": false,
+    "updatedDate": "2025-09-09T06:20:08.287Z",
+    "kyc": true,
     "technologies": [
       "Smart Contract",
       "Websites and Applications"
@@ -963,7 +963,7 @@
     "tags": {
       "general": [
         "Immunefi Standard",
-        "KYC Not Required",
+        "KYC Required",
         "PoC Required",
         "PoC Not Required"
       ],
@@ -1032,7 +1032,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -3195,8 +3196,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3943,52 +3943,6 @@
       ],
       "language": [
         "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1c0MVJ0Kmpb0lYrgdkSGVu",
-    "id": "angleprotocol",
-    "project": "Angle Protocol",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/59aXkhYrZRUpce1eJfn9Eu/202ead0a74d522b3515398d049f5b142/NEW_Angle_Logo.svg",
-    "date": "2021-11-04T17:00:00.000Z",
-    "launchDate": "2021-11-04T17:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-03T23:35:20.064Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "DAO",
-        "Lending",
-        "Stablecoin",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"
@@ -6518,13 +6472,13 @@
   {
     "contentfulId": "1FqF5pcYnLlSE3I2zvaXUA",
     "id": "enzymefinance",
-    "project": "Enzyme Finance",
+    "project": "Enzyme Blue",
     "maximum_reward": 200000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4a7y72EOvOMZWlUx3h2ZNi/7877774da8145f9d7cbd85f902d7198a/Enzymefinance-logo.jpg",
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-10T16:21:06.872Z",
+    "updatedDate": "2025-09-09T07:41:19.890Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6791,6 +6745,44 @@
         "Smart Contract"
       ],
       "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "UVpZeRlqnOjlEp07uF3j8",
+    "id": "monero-oxide",
+    "project": "monero-oxide",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/OBgJTywLzana1ALxCFcc3/85ca6f5463dc82a51c99ffa0cde96553/MoneroOxide.png",
+    "date": "2025-09-09T14:58:00.000Z",
+    "launchDate": "2025-09-09T14:58:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-09T17:46:16.343Z",
+    "kyc": false,
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Rust"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -7443,7 +7435,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-19T14:44:02.128Z",
+    "updatedDate": "2025-09-09T07:18:24.709Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9113,7 +9105,7 @@
     "date": "2025-09-05T12:00:00.000Z",
     "launchDate": "2025-09-05T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-05T17:44:25.962Z",
+    "updatedDate": "2025-09-08T23:45:00.622Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -9123,7 +9115,7 @@
     "tags": {
       "general": [
         "KYC Required",
-        "PoC Not Required",
+        "PoC Required",
         "PoC Not Required"
       ],
       "productType": [
@@ -11121,7 +11113,7 @@
     "date": "2023-08-04T11:00:00.000Z",
     "launchDate": "2023-08-04T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-15T10:49:18.805Z",
+    "updatedDate": "2025-09-09T11:29:18.947Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -11298,6 +11290,41 @@
       ]
     },
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3Ryva5OFMrjvIIQwROZiV1",
+    "id": "impossible-cloud-network",
+    "project": "Impossible Cloud Network",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2fNcM2b76UqW8raeG7M9CB/555e39a32a36ac34d77775c2b572d068/deLN0OMT_400x400_Small.png",
+    "date": "2025-09-09T09:35:00.000Z",
+    "launchDate": "2025-09-09T09:35:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-09T13:59:34.866Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Not Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
   },
   {
     "contentfulId": "5QLJXy3mbgLpfAKWrozV4W",
