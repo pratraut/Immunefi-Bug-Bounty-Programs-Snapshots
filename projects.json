@@ -6509,8 +6509,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -6784,7 +6783,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -7580,7 +7580,7 @@
     "date": "2023-07-11T14:00:00.000Z",
     "launchDate": "2023-07-11T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-05T05:28:08.339Z",
+    "updatedDate": "2025-09-10T15:39:25.951Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7591,8 +7591,7 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
+        "PoC Not Required"
       ],
       "productType": [
         "L2"
@@ -10658,7 +10657,7 @@
     "date": "2020-12-02T05:00:00.000Z",
     "launchDate": "2020-12-02T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-02T14:49:28.938Z",
+    "updatedDate": "2025-09-10T13:53:44.524Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
