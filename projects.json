@@ -10295,49 +10295,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "3qxh8jLPomUShG6xtV748q",
-    "id": "lossless",
-    "project": "Lossless",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5mUNIQTq3xLW2nbi8dZYXM/03c9e04b12aa719ee3f8456609d92d05/Lossless_logo.jpeg",
-    "date": "2021-11-29T16:00:00.000Z",
-    "launchDate": "2021-11-29T16:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-15T22:51:03.734Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3yZ7RmVJMHwtskD3xOxe75",
     "id": "dhedge",
     "project": "dHEDGE",
