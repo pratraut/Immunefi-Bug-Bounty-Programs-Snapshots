@@ -190,7 +190,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-03T23:40:23.444Z",
+    "updatedDate": "2025-09-15T15:45:47.862Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -238,7 +238,7 @@
     "date": "2025-01-30T14:58:00.000Z",
     "launchDate": "2025-01-30T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-28T07:56:43.117Z",
+    "updatedDate": "2025-09-15T08:48:43.197Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -2130,7 +2130,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -6759,7 +6760,7 @@
     "date": "2025-09-09T14:58:00.000Z",
     "launchDate": "2025-09-09T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-11T08:44:17.802Z",
+    "updatedDate": "2025-09-15T08:49:14.846Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -6826,7 +6827,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -9440,7 +9442,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-18T09:54:42.592Z",
+    "updatedDate": "2025-09-15T08:35:34.181Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9521,8 +9523,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11763,8 +11764,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
