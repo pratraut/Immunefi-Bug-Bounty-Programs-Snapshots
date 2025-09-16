@@ -190,7 +190,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-15T15:45:47.862Z",
+    "updatedDate": "2025-09-16T05:44:48.149Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1998,7 +1998,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-01T13:13:01.608Z",
+    "updatedDate": "2025-09-15T22:03:17.351Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5311,7 +5311,7 @@
     "date": "2022-03-31T19:30:00.000Z",
     "launchDate": "2022-03-31T19:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-28T16:17:30.490Z",
+    "updatedDate": "2025-09-16T16:51:10.083Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -8706,7 +8706,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -10290,7 +10291,8 @@
         "C/C++"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
