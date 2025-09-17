@@ -315,7 +315,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -414,7 +415,8 @@
         "Typescript"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -4844,7 +4846,7 @@
     "date": "2024-05-10T03:11:00.000Z",
     "launchDate": "2024-05-10T03:11:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-18T12:53:04.950Z",
+    "updatedDate": "2025-09-17T05:29:49.856Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -10041,7 +10043,7 @@
     "date": "2022-08-31T03:00:00.000Z",
     "launchDate": "2022-08-31T03:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T10:17:19.916Z",
+    "updatedDate": "2025-09-16T22:35:10.430Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -11859,6 +11861,40 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3ovTyh3McQ2eLlidjMnTMP",
+    "id": "xoxno",
+    "project": "XOXNO",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jY3HNj6JkKgJG8eVfrILY/bd62c19d04421265d5be2ad5ad4684f9/bTA7cvxE_400x400.png",
+    "date": "2025-09-16T08:00:31.000Z",
+    "launchDate": "2025-09-16T08:00:31.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-17T14:58:56.059Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]

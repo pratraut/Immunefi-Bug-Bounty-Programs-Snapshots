@@ -1,14 +1,14 @@
 [
   {
     "contentfulId": "2eA3UdE0ZgCM4oe8en8ZZI",
-    "id": "flare-fassets-mitigation-audit",
+    "id": "flare-fassets--mitigation-audit",
     "project": "Flare FAssets | Mitigation Audit",
     "maximum_reward": 25000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1JzpONYtkc9rdKHoU36rbo/04803c1136f97e969cf93c7a77b20ee6/Flare.png",
     "date": "2025-09-18T10:00:00.000Z",
     "launchDate": "2025-09-18T10:00:00.000Z",
     "endDate": "2025-09-25T10:00:00.000Z",
-    "updatedDate": "2025-09-16T12:39:03.612Z",
+    "updatedDate": "2025-09-17T09:32:15.223Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -18,7 +18,9 @@
       "language": [
         "Solidity"
       ],
-      "general": [],
+      "general": [
+        "Triaged by Immunefi"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -88,7 +90,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "web_rewards": []
     },
     "outOfScopeAndRules": "",
-    "premiumTriaging": null,
+    "premiumTriaging": true,
     "prioritizedVulnerabilities": "",
     "programOverview": "",
     "rewards": null,
