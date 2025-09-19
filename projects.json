@@ -4197,18 +4197,17 @@
     "date": "2021-04-20T07:00:00.000Z",
     "launchDate": "2021-04-20T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T13:19:39.604Z",
+    "updatedDate": "2025-09-19T13:28:17.902Z",
     "kyc": false,
     "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
+      "Smart Contract"
     ],
     "immunefiStandard": true,
     "tags": {
       "general": [
         "Immunefi Standard",
         "KYC Not Required",
-        "PoC Required",
+        "PoC Not Required",
         "PoC Not Required"
       ],
       "productType": [
@@ -4227,8 +4226,7 @@
         "ETH"
       ],
       "programType": [
-        "Smart Contract",
-        "Websites and Applications"
+        "Smart Contract"
       ],
       "language": [
         "Solidity"
@@ -6585,7 +6583,7 @@
     "date": "2025-02-26T15:58:00.000Z",
     "launchDate": "2025-02-26T15:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-05T07:24:13.864Z",
+    "updatedDate": "2025-09-19T14:00:55.896Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7204,8 +7202,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11261,7 +11258,7 @@
     "date": "2025-09-09T09:35:00.000Z",
     "launchDate": "2025-09-09T09:35:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-09T13:59:34.866Z",
+    "updatedDate": "2025-09-19T13:53:15.039Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -11877,7 +11874,7 @@
     "date": "2025-09-16T08:00:31.000Z",
     "launchDate": "2025-09-16T08:00:31.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-17T14:58:56.059Z",
+    "updatedDate": "2025-09-19T13:59:28.525Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -11889,13 +11886,23 @@
         "PoC Required",
         "PoC Not Required"
       ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
+      "productType": [
+        "Lending",
+        "Liquid Staking",
+        "NFT Marketplace"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "MultiversX"
+      ],
       "programType": [
         "Smart Contract"
       ],
-      "language": [],
+      "language": [
+        "Rust"
+      ],
       "featured": [
         "Launched Recently"
       ]
