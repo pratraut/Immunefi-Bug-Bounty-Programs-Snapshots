@@ -190,7 +190,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-16T05:44:48.149Z",
+    "updatedDate": "2025-09-22T15:21:36.227Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -4931,13 +4931,13 @@
   {
     "contentfulId": "3CBHhTCNYh5zdjIkRceCEt",
     "id": "elixirprotocol",
-    "project": "Elixir Protocol",
+    "project": "Elixir Network",
     "maximum_reward": 250000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ptXSinuDLyNs0ElTrYI1k/8a20af1c14e32d38d71940c16d78624f/Elixir.png",
     "date": "2023-11-02T09:00:00.000Z",
     "launchDate": "2023-11-02T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T16:16:49.523Z",
+    "updatedDate": "2025-09-22T15:50:45.553Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6761,7 +6761,7 @@
     "date": "2025-09-09T14:58:00.000Z",
     "launchDate": "2025-09-09T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-15T08:49:14.846Z",
+    "updatedDate": "2025-09-22T09:39:18.533Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -7437,7 +7437,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-09T07:18:24.709Z",
+    "updatedDate": "2025-09-22T09:38:45.275Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9091,6 +9091,50 @@
         "Smart Contract"
       ],
       "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "3ovTyh3McQ2eLlidjMnTMP",
+    "id": "xoxno",
+    "project": "XOXNO",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jY3HNj6JkKgJG8eVfrILY/bd62c19d04421265d5be2ad5ad4684f9/bTA7cvxE_400x400.png",
+    "date": "2025-09-16T08:00:31.000Z",
+    "launchDate": "2025-09-16T08:00:31.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-22T09:39:53.581Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Lending",
+        "Liquid Staking",
+        "NFT Marketplace"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "MultiversX"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Rust"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -11103,7 +11147,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -11858,50 +11903,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3ovTyh3McQ2eLlidjMnTMP",
-    "id": "xoxno",
-    "project": "XOXNO",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5jY3HNj6JkKgJG8eVfrILY/bd62c19d04421265d5be2ad5ad4684f9/bTA7cvxE_400x400.png",
-    "date": "2025-09-16T08:00:31.000Z",
-    "launchDate": "2025-09-16T08:00:31.000Z",
-    "endDate": null,
-    "updatedDate": "2025-09-19T13:59:28.525Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Lending",
-        "Liquid Staking",
-        "NFT Marketplace"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "MultiversX"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust"
       ],
       "featured": [
         "Launched Recently"
