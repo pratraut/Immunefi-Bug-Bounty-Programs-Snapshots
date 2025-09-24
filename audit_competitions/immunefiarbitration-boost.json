@@ -58,7 +58,8 @@
           "description": "RewardTimelock - 124",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "34XNQJprrGcNaoN1S3cu6K",
@@ -67,7 +68,8 @@
           "description": "ScopeGuard - 92",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "49s2Vc7zBB2kxbUnZVpRnx",
@@ -76,7 +78,8 @@
           "description": "ImmunefiGuard - 39",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6MX9JThbU5udIMXBucMcBT",
@@ -85,7 +88,8 @@
           "description": "RewardSystemBase - 47",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "47btjrjANpbcpTPLYUoOIP",
@@ -94,7 +98,8 @@
           "description": "RewardTimelockBase - 171",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "60yS59AOpzwY0Oiyd4EMaP",
@@ -103,7 +108,8 @@
           "description": "ArbitrationBase - 105",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2RWjvF4bQaS1mbj10Bk5L2",
@@ -112,7 +118,8 @@
           "description": "AccessControlBaseModule - 53",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "46SZHJ3uxyRUkEoLMxAIIO",
@@ -121,7 +128,8 @@
           "description": "WithdrawalSystemBase - 42",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2fFwVAf16Ro8vzsWtpWNm5",
@@ -130,7 +138,8 @@
           "description": "AccessControlGuardable - 19",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "BRRvaO0rdfPb4OzJMCPO3",
@@ -139,7 +148,8 @@
           "description": "TimelockBase - 192",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6okJu0CjhIjQjCGctL5WI5",
@@ -148,7 +158,8 @@
           "description": "VaultSetup - 28",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2hO3aUm7QMZtO4YbyuYLMq",
@@ -157,7 +168,8 @@
           "description": "IWithdrawalSystemEvents - 8",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3K1Ros1myQeKp8iCGLXg7l",
@@ -166,7 +178,8 @@
           "description": "IRewardTimelockEvents - 22",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6BLTPQZc3L1u7Y3p9qn0LW",
@@ -175,7 +188,8 @@
           "description": "IEmergencySystemEvents - 5",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "21wrnzZ1PFN75GrobzGIfy",
@@ -184,7 +198,8 @@
           "description": "IImmunefiGuardEvents - 5",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "PVk6inqQzVkTuxyvW20oO",
@@ -193,7 +208,8 @@
           "description": "IArbitrationEvents - 13",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "SBSmNiRWlD3MEODgfd1i6",
@@ -202,7 +218,8 @@
           "description": "ITimelockEvents - 31",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7cz6iMawe8IwpdcmavMF1t",
@@ -211,7 +228,8 @@
           "description": "IRewardSystemEvents - 20",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4hNgc5YuA782O6LUcXIFo4",
@@ -220,7 +238,8 @@
           "description": "IScopeGuardEvents - 10",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1g3X4KFdin0pFcZdubOFYc",
@@ -229,7 +248,8 @@
           "description": "IVaultFreezerEvents - 6",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3xSKRHNg94IZc0TE06SGAx",
@@ -238,7 +258,8 @@
           "description": "WithdrawalSystem - 43",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1Ktf0SkTYtod9XsIXuZN6j",
@@ -247,7 +268,8 @@
           "description": "RewardSystem - 48",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6sgPWJgt2VgNYAVwXEV08A",
@@ -256,7 +278,8 @@
           "description": "VaultFreezer - 26",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4aIwi5Nx5prJuJzsu8TWyS",
@@ -265,7 +288,8 @@
           "description": "RewardTimelockOperationEncoder - 20",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2HaG99NZELfpKqXFP9IOmt",
@@ -274,7 +298,8 @@
           "description": "TimelockOperationEncoder - 22",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "78liMjjZ2dqfxpXvYVcbgR",
@@ -283,7 +308,8 @@
           "description": "BaseEncoder - 18",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5ItZJxNaKo2X6hW4kVkbTH",
@@ -292,7 +318,8 @@
           "description": "ArbitrationOperationEncoder - 14",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "65yqSNXExdURwy9Jct8t0O",
@@ -301,7 +328,8 @@
           "description": "EmergencySystem - 17",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6WGQrvn6OpxefHNZ4hnVd1",
@@ -310,7 +338,8 @@
           "description": "VaultDelegate - 110",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6UfPRlppGOLZg8flMpwWlU",
@@ -319,7 +348,8 @@
           "description": "Rewards - 7",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3GGC1wv1ieBBEuApZJh5e",
@@ -328,7 +358,8 @@
           "description": "VaultFees - 50",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1dxsWfqp5uVIHhJBon3DXO",
@@ -337,7 +368,8 @@
           "description": "ImmunefiModule - 23",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5aKIOupzEuPSiy6X28cA57",
@@ -346,7 +378,8 @@
           "description": "Timelock - 78",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2UO39kjJprvAsas3asV5eW",
@@ -355,7 +388,8 @@
           "description": "Arbitration - 182",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1FIt5fqV1Pkz17jlG0ECcs",
@@ -364,7 +398,8 @@
           "description": "IPriceConsumerEvents - 5",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5to94QttWtbkRX1SxhWNUg",
@@ -373,7 +408,8 @@
           "description": "IPriceFeed - 3",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7st3rDwZjFoOTuYoceV7BL",
@@ -382,7 +418,8 @@
           "description": "Denominations - 23",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5e7dcb5VGrrpZWaNmdzPW7",
@@ -391,7 +428,8 @@
           "description": "AggregatorInterface - 3",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6kcvOTJzuj2SyUgOJdWqP6",
@@ -400,7 +438,8 @@
           "description": "AggregatorV3Interface - 3",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5GgPD7D8oEi3V3PJxna13X",
@@ -409,7 +448,8 @@
           "description": "AggregatorV2V3Interface - 5",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2nGSJo2ADj2YPqc8IMqkFp",
@@ -418,7 +458,8 @@
           "description": "FeedRegistryInterface - 25",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4p8XXILQhZ5NIUpQTYTjdM",
@@ -427,7 +468,8 @@
           "description": "FeedRegistryL2 - 52",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "53YMTY1HeRHkbt45OkbUi8",
@@ -436,7 +478,8 @@
           "description": "IFeedRegistryMinimal - 3",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5YAClSWJZah9V9IMCrIqki",
@@ -445,7 +488,8 @@
           "description": "PriceConsumer - 95",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1OtISNS0xXyUF5VNCYm8pu",
@@ -454,7 +498,8 @@
           "description": "ProxyAdminOwnable2Step - 15",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-03-12T08:00:00.000Z"
+          "addedAt": "2024-03-12T08:00:00.000Z",
+          "fund": null
         }
       ],
       "impacts": [

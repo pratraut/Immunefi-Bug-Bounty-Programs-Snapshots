@@ -57,7 +57,8 @@
           "description": "RevenueHandler.sol - 183",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "4pgstjtPOHyedaQUogaMRe",
@@ -66,7 +67,8 @@
           "description": "RewardsDistributor.sol - 286",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "6qzgJKNogm9FZgzPOnO3Q7",
@@ -75,7 +77,8 @@
           "description": "VotingEscrow.sol - 887",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "3MN84EGqHK45qgzYdbQkva",
@@ -84,7 +87,8 @@
           "description": "Minter.sol - 124",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "601bgkSEISfaaxyfGVdY3X",
@@ -93,7 +97,8 @@
           "description": "BaseGauge.sol - 49",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "7KZmxCjDyPKqsjJA7AJmBb",
@@ -102,7 +107,8 @@
           "description": "Voter.sol - 335",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "2L7JQtBUJybSuX8KWYKPmq",
@@ -111,7 +117,8 @@
           "description": "RewardPoolManager.sol - 102",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "7rtabTcBEIkFw7ncCgKb1n",
@@ -120,7 +127,8 @@
           "description": "FluxToken.sol - 152",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "5ucoTsJsBnj5Wt6SsmtGiW",
@@ -129,7 +137,8 @@
           "description": "CurveMetaPoolAdapter.sol - 30",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "7GRZjQhL88GOsqatgfVQUL",
@@ -138,7 +147,8 @@
           "description": "CurveEthPoolAdapter.sol - 34",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "2iZ1gyKklEDmD53GY4FIKv",
@@ -147,7 +157,8 @@
           "description": "Bribe.sol - 256",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "1n1Ual2DiwumFXsZTbDIL4",
@@ -156,7 +167,8 @@
           "description": "AlchemixGovernor.sol - 55",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-04-30T10:30:00.000Z"
+          "addedAt": "2024-04-30T10:30:00.000Z",
+          "fund": null
         },
         {
           "id": "2y8Z97DneWJ8Nj8iUTC14K",
@@ -165,7 +177,8 @@
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
           "isSafeHarbor": null,
-          "addedAt": "2024-05-06T07:26:37.160Z"
+          "addedAt": "2024-05-06T07:26:37.160Z",
+          "fund": null
         }
       ],
       "impacts": [

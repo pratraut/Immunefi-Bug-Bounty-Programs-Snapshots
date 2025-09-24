@@ -16,12 +16,12 @@
       "contentfulId": "2eA3UdE0ZgCM4oe8en8ZZI",
       "id": "flare-fassets--mitigation-audit",
       "slug": "flare-fassets--mitigation-audit",
-      "project": "Flare FAssets | Mitigation Audit",
+      "project": "Mitigation Audit | Flare | FAssets",
       "maxBounty": 25000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1JzpONYtkc9rdKHoU36rbo/04803c1136f97e969cf93c7a77b20ee6/Flare.png",
       "launchDate": "2025-09-18T10:00:00.000Z",
       "endDate": "2025-09-25T10:00:00.000Z",
-      "updatedDate": "2025-09-23T10:35:30.770Z",
+      "updatedDate": "2025-09-24T10:36:16.731Z",
       "kyc": false,
       "rewards": [
         {
@@ -71,7 +71,8 @@
           "description": "Fix of Report - 45439",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7LBgYGXPY1kzYtiL1vbHlE",
@@ -80,7 +81,8 @@
           "description": "Fix of Report - 45478",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6jtjACTIFW4wz8P00O8tw4",
@@ -89,7 +91,8 @@
           "description": "Fix of Report - 45533",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4qgCuj27NYYUdx256TQGC0",
@@ -98,7 +101,8 @@
           "description": "Fix of Report - 45893",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7DwOhGihEk2D9RG11V2txD",
@@ -107,7 +111,8 @@
           "description": "Fix of Report - 45897",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "70nxgTeBC03Eu7bXSADrHq",
@@ -116,7 +121,8 @@
           "description": "Fix of Report - 45904",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "22GdQOkEXrUpNXVSXMLimh",
@@ -125,7 +131,8 @@
           "description": "Fix of Report - 45514",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "aqhqDUgfU7ql8f3viPbqx",
@@ -134,7 +141,8 @@
           "description": "Fix of Report - 46265",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6ntq9fZvD1worIw8qTIFQn",
@@ -143,7 +151,8 @@
           "description": "Fix of Report - 46520",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-09-18T10:00:00.000Z"
+          "addedAt": "2025-09-18T10:00:00.000Z",
+          "fund": null
         }
       ],
       "impacts": [
@@ -389,10 +398,10 @@
       "headerMarginBottom": "mb-12 lg:mb-16"
     },
     "metaData": {
-      "title": "Flare FAssets | Mitigation Audit Bug Bounties",
-      "description": "Find bugs and vulnerabilities on Flare FAssets | Mitigation Audit and get paid up to $25,000.",
+      "title": "Mitigation Audit | Flare | FAssets Bug Bounties",
+      "description": "Find bugs and vulnerabilities on Mitigation Audit | Flare | FAssets and get paid up to $25,000.",
       "url": "https://immunefi.com/audit-competition/flare-fassets--mitigation-audit/",
-      "ogImg": "/api/bounty/og-image/?project=Flare+FAssets+%7C+Mitigation+Audit&slug=flare-fassets--mitigation-audit"
+      "ogImg": "/api/bounty/og-image/?project=Mitigation+Audit+%7C+Flare+%7C+FAssets&slug=flare-fassets--mitigation-audit"
     }
   },
   "__N_SSG": true

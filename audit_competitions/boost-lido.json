@@ -51,7 +51,8 @@
           "description": "Vault.sol - 454",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "q3lLyVMYaonqKePHxKlhP",
@@ -60,7 +61,8 @@
           "description": "VaultConfigurator.sol - 365",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5OCdP4dMWEr1mqVPCcapd5",
@@ -69,7 +71,8 @@
           "description": "ERC20TvlModule.sol - 15",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "BIY6YMMGAAzjoFPQ4fPnq",
@@ -78,7 +81,8 @@
           "description": "StakingModule.sol - 77",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5cWwPylbzrgXVmsazNCDTA",
@@ -87,7 +91,8 @@
           "description": "ChainlinkOracle.sol - 65",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5mwU9clLROwJxWxdGvfysD",
@@ -96,7 +101,8 @@
           "description": "ConstantAggregatorV3.sol - 12",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3OXR7bqfEvos1ve2MQb379",
@@ -105,7 +111,8 @@
           "description": "ManagedRatiosOracle.sol - 30",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5H9PQ136eiMdCwjQNYiKTF",
@@ -114,7 +121,8 @@
           "description": "WStethRatiosAggregatorV3.sol - 16",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "ASYY3XVs6xLUY9YowUaG6",
@@ -123,7 +131,8 @@
           "description": "DefaultProxyImplementation.sol - 12",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3eS1XVprwR30Ycb1h5ho1W",
@@ -132,7 +141,8 @@
           "description": "Initializer.sol - 25",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5Fxt66y8e5O71Kf4KPnubP",
@@ -141,7 +151,8 @@
           "description": "SimpleDVTStakingStrategy.sol - 57",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         },
         {
           "id": "12VlLYmWIdBgnvqA69I3ko",
@@ -150,7 +161,8 @@
           "description": "ManagedValidator.sol - 96",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-15T12:00:00.000Z"
+          "addedAt": "2024-08-15T12:00:00.000Z",
+          "fund": null
         }
       ],
       "impacts": [

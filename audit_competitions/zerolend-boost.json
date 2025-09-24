@@ -52,7 +52,8 @@
           "description": "Governance smart contracts",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "63hznlYDkzaWZ7sOaMe51k",
@@ -61,7 +62,8 @@
           "description": "AaveOracle (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6GZhWRCl0ZEeQ0RD0ciFn4",
@@ -70,7 +72,8 @@
           "description": "ACLManager (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2g6Xq5gnh2EI7Hs3a0qpwm",
@@ -79,7 +82,8 @@
           "description": "AToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1CMdqNdX7SsecG9TxePEuQ",
@@ -88,7 +92,8 @@
           "description": "DelegationAwareAToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5Ja12JShdtJGDSjPDgyCeb",
@@ -97,7 +102,8 @@
           "description": "EmissionManager (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5J0Zbx82Z0IqE5eOQxelGf",
@@ -106,7 +112,8 @@
           "description": "IncentivesProxy (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1gPWUMTtkl3HNttsxsJcjU",
@@ -115,7 +122,8 @@
           "description": "IncentivesV2-Implementation (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7CnrXaJEwcLazXsZQPkeoI",
@@ -124,7 +132,8 @@
           "description": "Pool-Implementation (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1vq7TrgNabVcPMBxEFlybM",
@@ -133,7 +142,8 @@
           "description": "Pool-Proxy (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "64hear1whzOeQpj4jx1NBh",
@@ -142,7 +152,8 @@
           "description": "PoolAddressesProvider (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5YQ12OcmKnQUKiqLfcDKCg",
@@ -151,7 +162,8 @@
           "description": "PoolAddressesProviderRegistry (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6HGz4HWL7R1SaFSE2E4QIt",
@@ -160,7 +172,8 @@
           "description": "PoolConfigurator-Implementation (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5LvPxZlPFst9UA31HFRlGA",
@@ -169,7 +182,8 @@
           "description": "PoolConfigurator-Proxy (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "RR1CS9IWrbzWnN7nXZR3n",
@@ -178,7 +192,8 @@
           "description": "PoolDataProvider (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5l3EJavqMr4GSVjIZzWojT",
@@ -187,7 +202,8 @@
           "description": "ReservesSetupHelper (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2PiNFkIekXBWukluqCfEMH",
@@ -196,7 +212,8 @@
           "description": "ReserveStrategy-rateStrategyStableOne (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "40nMGyq5bpPUNSVWacOEbR",
@@ -205,7 +222,8 @@
           "description": "ReserveStrategy-rateStrategyStableTwo (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2SdQxugW9CwIQuFpEx93LH",
@@ -214,7 +232,8 @@
           "description": "ReserveStrategy-rateStrategyVolatileOne (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2ZTS0POXD0TG4iiazdo9Wn",
@@ -223,7 +242,8 @@
           "description": "StableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "27r2ejRUdnFhcCoyWtAakg",
@@ -232,7 +252,8 @@
           "description": "Treasury-Controller (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6paYc1nuiWlk5BfwwnilI4",
@@ -241,7 +262,8 @@
           "description": "Treasury-Implementation (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2GoSr3oUyXqMSqYNyxz20V",
@@ -250,7 +272,8 @@
           "description": "TreasuryProxy (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1ajd4dOiIVqZv1BLH9X5O3",
@@ -259,7 +282,8 @@
           "description": "UiIncentiveDataProviderV3 (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4KKwjDmFSZpQwpVFroz32f",
@@ -268,7 +292,8 @@
           "description": "UiPoolDataProviderV3 (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3PNmJZFnnMEg2wi8SVwD88",
@@ -277,7 +302,8 @@
           "description": "VariableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "23gAxxePnqzznw6ej3VOxy",
@@ -286,7 +312,8 @@
           "description": "WalletBalanceProvider (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4AzSsxx0OYDlUo37TMggZg",
@@ -295,7 +322,8 @@
           "description": "WrappedTokenGatewayV3 (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "IDbrMeI7cKV5VdjGBLDLQ",
@@ -304,7 +332,8 @@
           "description": "[Library] BridgeLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6fX4pfsOGWZtbrQcuswPa7",
@@ -313,7 +342,8 @@
           "description": "[Library] ConfiguratorLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3HmpnZVbDvuUOftgGLtJHS",
@@ -322,7 +352,8 @@
           "description": "[Library] PoolLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5iBqqTQCR6QCCYeX8D8mtd",
@@ -331,7 +362,8 @@
           "description": "[Library] EModeLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2eKusmk77htc1UwR6H4cP8",
@@ -340,7 +372,8 @@
           "description": "[Library] LiquidationLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2e3UfzImMEhHVcJxXRc2AO",
@@ -349,7 +382,8 @@
           "description": "[Library] SupplyLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4XluvrOSTqOL26KR9Cas5L",
@@ -358,7 +392,8 @@
           "description": "[Library] FlashLoanLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2yGh9e2y2W4RuzNusNNXJS",
@@ -367,7 +402,8 @@
           "description": "[Library] BorrowLogic (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4PKatwadtERrcz0lykAYkH",
@@ -376,7 +412,8 @@
           "description": "WETH-AToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "oTAFrcLppwX83OHKPhcMC",
@@ -385,7 +422,8 @@
           "description": "WETH-StableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7mljm8UzZ09paNlSJJTGnD",
@@ -394,7 +432,8 @@
           "description": "WETH-VariableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1nBBD26lNuI0jCVR1P0UKz",
@@ -403,7 +442,8 @@
           "description": "USDC-AToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6Q9LyLvn6Ens2MetO5EQ4U",
@@ -412,7 +452,8 @@
           "description": "USDC-StableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7n1tngqllPbID5t2mXNVU5",
@@ -421,7 +462,8 @@
           "description": "USDC-VariableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "26LNrkl5V9LBhjAtdXjhKV",
@@ -430,7 +472,8 @@
           "description": "USDT-AToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7l0um9KNSTQBTFKPRlmpZD",
@@ -439,7 +482,8 @@
           "description": "USDT-StableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1n9YqyY4Mbpl8fT4YkiqmZ",
@@ -448,7 +492,8 @@
           "description": "USDT-VariableDebtToken (zkSync)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5U8LmB3FKXyAfGPOb2BUMd",
@@ -457,7 +502,8 @@
           "description": "AaveOracle (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3jNVyQBhnr73RMtLiggDxL",
@@ -466,7 +512,8 @@
           "description": "ACLManager (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1kooLpCNRPgUfLvdl85jfz",
@@ -475,7 +522,8 @@
           "description": "AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1xq6Vnewj63fNffYiAh7GJ",
@@ -484,7 +532,8 @@
           "description": "DelegationAwareAToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1z0dhWECHhk591zrh6vb18",
@@ -493,7 +542,8 @@
           "description": "EmissionManager (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3x2MaUta3UwQLstz9B2sFo",
@@ -502,7 +552,8 @@
           "description": "IncentivesProxy (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7CsPwmQ0wHOA9AWdVtxI9h",
@@ -511,7 +562,8 @@
           "description": "IncentivesV2-Implementation (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1FlKjkL0F01JFT3jFjxBYC",
@@ -520,7 +572,8 @@
           "description": "Pool-Implementation (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5chr07goFWtXIcz3eCO8vn",
@@ -529,7 +582,8 @@
           "description": "Pool-Proxy (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6akmRObBNMVo3JpevGa8GU",
@@ -538,7 +592,8 @@
           "description": "PoolAddressesProvider (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3IPriIdG7MV46ph6MfXmCt",
@@ -547,7 +602,8 @@
           "description": "PoolAddressesProviderRegistry (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6EUvbyPxndejbbFhSbNijf",
@@ -556,7 +612,8 @@
           "description": "PoolConfigurator-Implementation (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7hgsZZhXMhdsk7WqhsDvAX",
@@ -565,7 +622,8 @@
           "description": "PoolConfigurator-Proxy (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4tvnDSHU88GTFDwktwmUd8",
@@ -574,7 +632,8 @@
           "description": "PoolDataProvider (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7E6ytsi1CoCnca27ahwGTs",
@@ -583,7 +642,8 @@
           "description": "PullRewardsTransferStrategy (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6d3nu2ZR5m1hNkYfXnoDOS",
@@ -592,7 +652,8 @@
           "description": "ReservesSetupHelper (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2QC6c7WABcFt2qBDzzxzy3",
@@ -601,7 +662,8 @@
           "description": "ReserveStrategy-rateStrategyStableOne (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1OpOWbvtOyVEvnml6Ihbnw",
@@ -610,7 +672,8 @@
           "description": "ReserveStrategy-rateStrategyStableTwo (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3yeNsfxMJI60HGhd1v6WcK",
@@ -619,7 +682,8 @@
           "description": "ReserveStrategy-rateStrategyVolatileOne (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6P0aUANdYMYsK7l8wN6jz4",
@@ -628,7 +692,8 @@
           "description": "StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5zc98Y9kWswtCmSqWBGRSn",
@@ -637,7 +702,8 @@
           "description": "Treasury-Controller (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "30wBrkIUHm0fXYUUuqalDB",
@@ -646,7 +712,8 @@
           "description": "Treasury-Implementation (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6ZwSx5asUXIyeba6370BCs",
@@ -655,7 +722,8 @@
           "description": "TreasuryProxy (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5JE3oeaqfwbgClIYhAMjdv",
@@ -664,7 +732,8 @@
           "description": "UiIncentiveDataProviderV3 (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1GSocddHvxSyffxDjlnvcM",
@@ -673,7 +742,8 @@
           "description": "UiPoolDataProviderV3 (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2ttf7GQKKN2ZCkxk5hrhok",
@@ -682,7 +752,8 @@
           "description": "VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "53r2II51dC51I2eNmoDR35",
@@ -691,7 +762,8 @@
           "description": "WalletBalanceProvider (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3cE9LcLTpJIehFrEPoruV5",
@@ -700,7 +772,8 @@
           "description": "WrappedTokenGatewayV3 (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2PkgaEtgVFmtKZ0Q7oIiP7",
@@ -709,7 +782,8 @@
           "description": "[Library] BorrowLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7MQOFO96iRXsTKGBCQHgW0",
@@ -718,7 +792,8 @@
           "description": "[Library] BridgeLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7sGdcND9SgmDE9BzvzTDAI",
@@ -727,7 +802,8 @@
           "description": "[Library] ConfiguratorLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3PrcTFTpIp3Wpl9mNhhWPF",
@@ -736,7 +812,8 @@
           "description": "[Library] EModeLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "q9srDm2BR6ESLFYAPDFAX",
@@ -745,7 +822,8 @@
           "description": "[Library] FlashLoanLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "66W7Bz5iEms94prXc7JOvT",
@@ -754,7 +832,8 @@
           "description": "[Library] LiquidationLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2w7GQrDe59JkSWpHaENw4W",
@@ -763,7 +842,8 @@
           "description": "[Library] PoolLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "14of7dlVzK3YSbbYyzjTPY",
@@ -772,7 +852,8 @@
           "description": "[Library] SupplyLogic (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1EfqyfzBK23u2KfVBpCo1J",
@@ -781,7 +862,8 @@
           "description": "MATIC-AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1qAZjjRF4mRlKVemQBz1Ix",
@@ -790,7 +872,8 @@
           "description": "MATIC-StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "HcfmcTyIUPOy5BWMol3j5",
@@ -799,7 +882,8 @@
           "description": "MATIC-VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5qURcUhuTV0BPlsUlJI7iW",
@@ -808,7 +892,8 @@
           "description": "TIA-AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2WDKtxnIJHCTe7yILAWt3P",
@@ -817,7 +902,8 @@
           "description": "TIA-StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "OIgZkldJACT27qA89lIHx",
@@ -826,7 +912,8 @@
           "description": "TIA-VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4yYODBNesiu5ifk9BrjwzK",
@@ -835,7 +922,8 @@
           "description": "USDC-AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1tu0qBYQUyRHi6FCeegYt3",
@@ -844,7 +932,8 @@
           "description": "USDC-StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "59kX8K7I4iv2XVNHhk5QCP",
@@ -853,7 +942,8 @@
           "description": "USDC-VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1apGiEMlyCTs8ADcFwLSmU",
@@ -862,7 +952,8 @@
           "description": "USDT-AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3abIvO6VPpmxTL4pQuGtF1",
@@ -871,7 +962,8 @@
           "description": "USDT-StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1UoK5RFRWI6exJIf6Makig",
@@ -880,7 +972,8 @@
           "description": "USDT-VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6yWN1g052iHfIoHmDo4Kpv",
@@ -889,7 +982,8 @@
           "description": "WBTC-AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "525tuugV5NY8ce3hyGIzSw",
@@ -898,7 +992,8 @@
           "description": "WBTC-StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "17xZi94jDNYdXmT3R3BU51",
@@ -907,7 +1002,8 @@
           "description": "WBTC-VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "25uf1LEDfvf0Dq49JykQnm",
@@ -916,7 +1012,8 @@
           "description": "WETH-AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2IkMiaYj2kKT25qi7tJUqo",
@@ -925,7 +1022,8 @@
           "description": "WETH-StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "1bMNwzdbFtK2ApN9tREgrF",
@@ -934,7 +1032,8 @@
           "description": "WETH-VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "4Dw8nHXuyrZxd9xeSyeU6V",
@@ -943,7 +1042,8 @@
           "description": "wstETH-AToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "28cFOpB3sO7LEi1eprT40P",
@@ -952,7 +1052,8 @@
           "description": "wstETH-StableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2IjRXNbCh4kRTHlblzSHba",
@@ -961,7 +1062,8 @@
           "description": "wstETH-VariableDebtToken (Manta)",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "2HFfNh6dYmjxCxTfkGIBwN",
@@ -970,7 +1072,8 @@
           "description": null,
           "isPrimacyOfImpact": true,
           "isSafeHarbor": null,
-          "addedAt": "2024-02-29T08:00:00.000Z"
+          "addedAt": "2024-02-29T08:00:00.000Z",
+          "fund": null
         }
       ],
       "impacts": [

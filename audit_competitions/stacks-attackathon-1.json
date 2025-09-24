@@ -380,7 +380,8 @@
           "description": "sBTC Signer - a signer entity separate from the Stacks Nakamoto signer which signs sBTC operations, communicates with sBTC contracts, and manages sBTC UTXOs. - 19760",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-12-02T08:00:00.000Z"
+          "addedAt": "2024-12-02T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "62GqEM1obidH4Fk7jo7DDT",
@@ -389,7 +390,8 @@
           "description": "Emily - An API that helps facilitate and supervise the sBTC Bridge - 6000",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-12-02T08:00:00.000Z"
+          "addedAt": "2024-12-02T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "9VUhMac5zrLarJu9eoIvW",
@@ -398,7 +400,8 @@
           "description": "Protobuffs - Platform-neutral extensible mechanisms for serializing structured data. - 292",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-12-02T08:00:00.000Z"
+          "addedAt": "2024-12-02T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "lg0NutDDOz4o2YIvvztBD",
@@ -407,7 +410,8 @@
           "description": "lib-sbtc - A library for creating BTC deposit transactions that can be handled by the sBTC signers. - 1186",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-12-02T08:00:00.000Z"
+          "addedAt": "2024-12-02T08:00:00.000Z",
+          "fund": null
         },
         {
           "id": "RzovoaWgIExBQbYPMzKLS",
@@ -416,7 +420,8 @@
           "description": "Smart Contract - sBTC contracts - The Clarity contracts for the sBTC protocol. - 645",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-12-02T08:00:00.000Z"
+          "addedAt": "2024-12-02T08:00:00.000Z",
+          "fund": null
         }
       ],
       "impacts": [

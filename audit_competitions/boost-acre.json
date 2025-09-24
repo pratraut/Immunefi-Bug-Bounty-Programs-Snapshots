@@ -57,7 +57,8 @@
           "description": "stBTC - 552",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-20T08:00:25.000Z"
+          "addedAt": "2024-08-20T08:00:25.000Z",
+          "fund": null
         },
         {
           "id": "3fMKyFzodJw6f6Ypl6x4zv",
@@ -66,7 +67,8 @@
           "description": "MezoAllocator - 253",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-20T08:00:25.000Z"
+          "addedAt": "2024-08-20T08:00:25.000Z",
+          "fund": null
         },
         {
           "id": "4GQrMkoUmuCeZiMzZSQ5Ha",
@@ -75,7 +77,8 @@
           "description": "BitcoinDepositor - 355",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-20T08:00:25.000Z"
+          "addedAt": "2024-08-20T08:00:25.000Z",
+          "fund": null
         },
         {
           "id": "2smMScLVlUldQJnmkCk0jB",
@@ -84,7 +87,8 @@
           "description": "BitcoinRedeemer - 180",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-20T08:00:25.000Z"
+          "addedAt": "2024-08-20T08:00:25.000Z",
+          "fund": null
         },
         {
           "id": "6SYykUU8W0LlcgaCe8BvzW",
@@ -93,7 +97,8 @@
           "description": "Primacy of Impact",
           "isPrimacyOfImpact": true,
           "isSafeHarbor": null,
-          "addedAt": "2024-08-20T08:00:25.000Z"
+          "addedAt": "2024-08-20T08:00:25.000Z",
+          "fund": null
         }
       ],
       "impacts": [

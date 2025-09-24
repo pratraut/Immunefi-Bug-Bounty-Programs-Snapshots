@@ -58,7 +58,8 @@
           "description": "Auth Controller",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3C5YV1HHgOj56xGqvcrRNH",
@@ -67,7 +68,8 @@
           "description": "dex controller",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5eteSXGClwGv9ke6pbtu1A",
@@ -76,7 +78,8 @@
           "description": "orders controller",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7LEfc84TPKR1WZChz6iHA1",
@@ -85,7 +88,8 @@
           "description": "transactions controller",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5ysu1vHD5mHyTH8KTUy3te",
@@ -94,7 +98,8 @@
           "description": "user controller",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3Hiw23fOTW8MdqjVmY4PQ2",
@@ -103,7 +108,8 @@
           "description": "middleware",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6ZiIIGMpRMdSlLUvtr59Nq",
@@ -112,7 +118,8 @@
           "description": "pages dex",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "6Ki1gcIZA3F9FimhO2R0sO",
@@ -121,7 +128,8 @@
           "description": "dex trading",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "3Y7h8Pb5USTQVaTF2Z8057",
@@ -130,7 +138,8 @@
           "description": "dex orders",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "jbdgBSHu8aUZTMKJ8Z0WZ",
@@ -139,7 +148,8 @@
           "description": "auth router",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7oYYJfpNfhpP9KxtleUOpP",
@@ -148,7 +158,8 @@
           "description": "dex router",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "b2ZGOfk993enMBO0R9QfA",
@@ -157,7 +168,8 @@
           "description": "orders router",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "lbVFZZRgixc8ESgU0qD0E",
@@ -166,7 +178,8 @@
           "description": "transactions router",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         },
         {
           "id": "611yv6DeiAWkDLjDyEm7vU",
@@ -175,7 +188,8 @@
           "description": "user router",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-06-19T10:00:00.000Z"
+          "addedAt": "2025-06-19T10:00:00.000Z",
+          "fund": null
         }
       ],
       "impacts": [

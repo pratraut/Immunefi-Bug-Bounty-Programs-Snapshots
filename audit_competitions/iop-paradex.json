@@ -65,7 +65,8 @@
           "description": "Paraclear - Manages all positions and balance accounting",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-05-23T07:00:00.000Z"
+          "addedAt": "2025-05-23T07:00:00.000Z",
+          "fund": null
         },
         {
           "id": "IhXlyB5qkLZCSUW52BEEp",
@@ -74,7 +75,8 @@
           "description": "Vault - Pool users’ assets for the Vault feature",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-05-23T07:00:00.000Z"
+          "addedAt": "2025-05-23T07:00:00.000Z",
+          "fund": null
         },
         {
           "id": "23MNn2eU52hBDcECiw5g6k",
@@ -83,7 +85,8 @@
           "description": "Factory - Initializing new vaults and their configs",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-05-23T07:00:00.000Z"
+          "addedAt": "2025-05-23T07:00:00.000Z",
+          "fund": null
         },
         {
           "id": "01AGHQ7YOvMX8uO6SmSezt",
@@ -92,7 +95,8 @@
           "description": "Registry - Maintains a record of roles on the platform",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-05-23T07:00:00.000Z"
+          "addedAt": "2025-05-23T07:00:00.000Z",
+          "fund": null
         },
         {
           "id": "7bsxdyaHkyQo4ExwOmMtBQ",
@@ -101,7 +105,8 @@
           "description": "Oracle - Provides up-to-date pricing for all markets",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-05-23T07:00:00.000Z"
+          "addedAt": "2025-05-23T07:00:00.000Z",
+          "fund": null
         },
         {
           "id": "5RDZOzN27mf7PF6qnpi8Du",
@@ -110,7 +115,8 @@
           "description": "L1 Bridge - Fork with minor adjustments to Starknet Bridge",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-05-23T07:00:00.000Z"
+          "addedAt": "2025-05-23T07:00:00.000Z",
+          "fund": null
         }
       ],
       "impacts": [
