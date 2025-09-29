@@ -731,7 +731,7 @@
     "date": "2022-03-15T21:00:00.000Z",
     "launchDate": "2022-03-15T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-23T10:54:34.725Z",
+    "updatedDate": "2025-09-29T10:07:05.996Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -764,7 +764,8 @@
         "Websites and Applications"
       ],
       "language": [
-        "Rust"
+        "Rust",
+        "Solidity"
       ],
       "featured": [
         "Launched Recently",
@@ -1196,7 +1197,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-07T07:47:03.451Z",
+    "updatedDate": "2025-09-29T10:11:57.437Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3054,8 +3055,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -5300,8 +5300,7 @@
         "Clarity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -5547,7 +5546,7 @@
     "date": "2025-09-04T10:00:00.000Z",
     "launchDate": "2025-09-04T10:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-11T16:06:17.474Z",
+    "updatedDate": "2025-09-29T10:07:55.207Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -5556,7 +5555,7 @@
     "tags": {
       "general": [
         "KYC Not Required",
-        "PoC Not Required",
+        "PoC Required",
         "PoC Not Required",
         "Triaged by Immunefi"
       ],
@@ -8517,59 +8516,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5yPup3ImfAMdLxu6TkwZAT",
-    "id": "dforce",
-    "project": "dForce",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jU4POGW5IUH9Ozzuj7SV/33abc1e464fd2ee2978fd8dabd8afa47/dforce_newest_logo.jpeg",
-    "date": "2021-07-29T06:00:00.000Z",
-    "launchDate": "2021-07-29T06:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-20T11:20:39.578Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Arbitration"
-      ],
-      "productType": [
-        "AMM",
-        "DEX",
-        "Lending",
-        "Stablecoin",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Avalanche",
-        "BSC",
-        "ETH",
-        "Optimism",
-        "Polygon"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "3aOSwSnRfzWFQbI4AgUYXI",
     "id": "bprotocol",
     "project": "BProtocol",
@@ -10415,6 +10361,59 @@
       ],
       "ecosystem": [
         "Optimism"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "5yPup3ImfAMdLxu6TkwZAT",
+    "id": "dforce",
+    "project": "dForce",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jU4POGW5IUH9Ozzuj7SV/33abc1e464fd2ee2978fd8dabd8afa47/dforce_newest_logo.jpeg",
+    "date": "2021-07-29T06:00:00.000Z",
+    "launchDate": "2021-07-29T06:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-29T10:08:48.461Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Arbitration"
+      ],
+      "productType": [
+        "AMM",
+        "DEX",
+        "Lending",
+        "Stablecoin",
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "Avalanche",
+        "BSC",
+        "ETH",
+        "Optimism",
+        "Polygon"
       ],
       "programType": [
         "Smart Contract"
