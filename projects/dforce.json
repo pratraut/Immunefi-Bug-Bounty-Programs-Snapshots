@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7jU4POGW5IUH9Ozzuj7SV/33abc1e464fd2ee2978fd8dabd8afa47/dforce_newest_logo.jpeg",
       "launchDate": "2021-07-29T06:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-09-29T10:08:48.461Z",
+      "updatedDate": "2025-09-29T20:46:58.381Z",
       "kyc": false,
       "rewards": [
         {
@@ -238,24 +238,18 @@
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [
         {
-          "id": 188,
-          "title": "dForce Smart Contracts",
-          "description": "Lending & Synthetic Assets",
-          "url": "https://github.com/dforce-network/LendingContractsV2"
-        },
-        {
-          "id": 189,
-          "title": "dForce Smart Contracts",
-          "description": "Farming",
-          "url": "https://github.com/dforce-network/StakingV2"
+          "id": 397,
+          "title": "Codebase",
+          "description": "Codebase of dForce DeFi Protocols",
+          "url": "https://github.com/dforce-network"
         }
       ],
       "programDocumentations": [
         {
-          "id": 108,
-          "title": "dForce Documentation",
-          "description": "Further Resources",
-          "url": "https://dforce.network/"
+          "id": 300,
+          "title": "Documentation",
+          "description": "Docs of dForce Protocol",
+          "url": "https://docs.dforce.network/"
         }
       ],
       "primacy": "primacy_of_rules",

@@ -630,7 +630,7 @@
     "date": "2024-06-27T13:00:00.000Z",
     "launchDate": "2024-06-27T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-26T12:42:07.738Z",
+    "updatedDate": "2025-09-30T10:40:34.156Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -3673,7 +3673,8 @@
         "Vyper"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -4418,6 +4419,40 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "1nwkON4L0Lnnk0zqIDtoc2",
+    "id": "thala-protocol",
+    "project": "Thala Protocol",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7DeWYseMobv9RvO5GesJdx/382022e42f3fa2d4223c946d597cda50/irrbOSBA_400x400.png",
+    "date": "2025-09-30T04:00:00.000Z",
+    "launchDate": "2025-09-30T04:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-30T15:00:33.574Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Not Required",
+        "PoC Not Required"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -7533,7 +7568,7 @@
     "date": "2023-07-11T14:00:00.000Z",
     "launchDate": "2023-07-11T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-24T06:30:16.250Z",
+    "updatedDate": "2025-09-29T20:49:04.474Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7603,54 +7638,6 @@
       ],
       "ecosystem": [
         "Optimism"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2fQtFXxowjhf1UViEOASS1",
-    "id": "pushprotocol",
-    "project": "Push Protocol",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4oEKDaXV0fcVaIbKKVllob/23d26db5de8b4405e0876b3b0a9c8c65/Push_protocol_logo.png",
-    "date": "2023-06-21T14:00:00.000Z",
-    "launchDate": "2023-06-21T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T13:23:18.927Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "DAO",
-        "Services"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "BSC",
-        "ETH",
-        "Polygon"
       ],
       "programType": [
         "Smart Contract"
@@ -10383,7 +10370,7 @@
     "date": "2021-07-29T06:00:00.000Z",
     "launchDate": "2021-07-29T06:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-29T10:08:48.461Z",
+    "updatedDate": "2025-09-29T20:46:58.381Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -12204,6 +12191,52 @@
         "Smart Contract"
       ],
       "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2fQtFXxowjhf1UViEOASS1",
+    "id": "pushprotocol",
+    "project": "Push Protocol",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4oEKDaXV0fcVaIbKKVllob/23d26db5de8b4405e0876b3b0a9c8c65/Push_protocol_logo.png",
+    "date": "2023-06-21T14:00:00.000Z",
+    "launchDate": "2023-06-21T14:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-09-30T08:48:01.458Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Staking"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "BSC",
+        "ETH",
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
       "featured": [
         "Launched Recently"
       ]
