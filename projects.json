@@ -2527,7 +2527,6 @@
     "updatedDate": "2025-06-09T20:33:56.150Z",
     "kyc": false,
     "technologies": [
-      "Smart Contract",
       "Websites and Applications",
       "Blockchain/DLT"
     ],
@@ -3151,8 +3150,7 @@
         "Go"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -4434,16 +4432,17 @@
     "date": "2025-09-30T04:00:00.000Z",
     "launchDate": "2025-09-30T04:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-30T15:00:33.574Z",
+    "updatedDate": "2025-10-01T09:59:21.342Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
       "general": [
+        "Immunefi Standard",
         "KYC Required",
-        "PoC Not Required",
+        "PoC Required",
         "PoC Not Required"
       ],
       "productType": [],
@@ -7568,7 +7567,7 @@
     "date": "2023-07-11T14:00:00.000Z",
     "launchDate": "2023-07-11T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-29T20:49:04.474Z",
+    "updatedDate": "2025-10-01T15:00:59.433Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -7579,7 +7578,8 @@
         "Immunefi Standard",
         "KYC Required",
         "PoC Required",
-        "PoC Not Required"
+        "PoC Not Required",
+        "Primacy of Impact"
       ],
       "productType": [
         "L2"
@@ -7598,8 +7598,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8029,50 +8028,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "7vBVv3z3MGMmUcNozzs0Kr",
-    "id": "opyngamma",
-    "project": "Opyn: Gamma",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2g2aLF0RTreK3GM2K9aYlb/18b15b8d669aa0108c7f6a23cf0ef6ea/opyn_gamma_new_logo_Small.png",
-    "date": "2022-02-07T18:30:00.000Z",
-    "launchDate": "2022-02-07T18:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T20:24:51.550Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Derivatives",
-        "Options"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11262,7 +11217,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -13366,51 +13322,6 @@
       ],
       "language": [
         "C#"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3YLtvi3A3r58xRolyJmyZs",
-    "id": "gysr",
-    "project": "GYSR",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7x1YithjFPAnhTAvlawAme/02e1a575b01a34b9ab64da1e0b013755/GYSR_logo.png",
-    "date": "2022-01-07T02:00:00.000Z",
-    "launchDate": "2022-01-07T02:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-12T18:23:13.779Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Staking",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
       ],
       "featured": [
         "Launched Recently"

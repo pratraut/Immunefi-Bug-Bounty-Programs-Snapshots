@@ -8,18 +8,29 @@
     "date": "2025-10-01T15:00:00.000Z",
     "launchDate": "2025-10-01T15:00:00.000Z",
     "endDate": "2025-10-26T13:00:00.000Z",
-    "updatedDate": "2025-09-30T17:39:47.056Z",
+    "updatedDate": "2025-10-01T15:02:38.928Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
       "Blockchain/DLT"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
-      "language": [],
       "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
         "Triaged by Immunefi"
       ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -72,23 +83,7 @@
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": "2025-09-29T13:00:00.000Z",
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "2eA3UdE0ZgCM4oe8en8ZZI",
