@@ -190,7 +190,7 @@
     "date": "2022-02-10T07:00:00.000Z",
     "launchDate": "2022-02-10T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-22T15:21:36.227Z",
+    "updatedDate": "2025-10-03T09:34:21.079Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1955,7 +1955,6 @@
     "updatedDate": "2025-06-02T23:45:08.061Z",
     "kyc": false,
     "technologies": [
-      "Smart Contract",
       "Websites and Applications"
     ],
     "immunefiStandard": true,
@@ -2524,7 +2523,7 @@
     "date": "2021-03-03T07:00:00.000Z",
     "launchDate": "2021-03-03T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-09T20:33:56.150Z",
+    "updatedDate": "2025-10-02T23:27:02.258Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications",
@@ -2553,12 +2552,13 @@
         "RSK"
       ],
       "programType": [
-        "Smart Contract",
         "Websites and Applications",
         "Blockchain/DLT"
       ],
       "language": [
-        "Solidity"
+        "Solidity",
+        "Typescript",
+        "Python"
       ],
       "featured": [
         "Launched Recently",
@@ -3058,55 +3058,6 @@
       ]
     },
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "2sJodat8OBv9B9gFeeCnNI",
-    "id": "neutron",
-    "project": "Neutron",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6s6q2dCluzikNzgkxSk7Zk/51597fa7af11044282aa1d70d80cfd57/Neutron.png",
-    "date": "2024-07-02T08:30:00.000Z",
-    "launchDate": "2024-07-02T08:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-06-09T07:24:45.483Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact",
-        "Arbitration"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Cosmos"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract"
-      ],
-      "language": [
-        "Go",
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "XROwrT6tWvOPznjsl9vhu",
@@ -4424,6 +4375,70 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "MqRxk6UNYl8Pw06NWxyON",
+    "id": "parallel",
+    "project": "Parallel",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2cR3OuUeSXBHqSGDcezrsX/90bffee28924be018f95fac32470840b/Parallel_Protocol.png",
+    "date": "2025-10-02T12:10:00.000Z",
+    "launchDate": "2025-10-02T12:10:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-10-02T22:02:58.295Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Stablecoin",
+        "CDP",
+        "DAO"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Polygon",
+        "Arbitrum",
+        "Avalanche",
+        "Base",
+        "Gnosis",
+        "LayerZero",
+        "Optimism",
+        "Scroll",
+        "Sei",
+        "BSC",
+        "xDAI / Gnosis Chain"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "JavaScript",
+        "NextJS",
+        "ReactJS",
+        "Solidity",
+        "Typescript",
+        "Go"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "1nwkON4L0Lnnk0zqIDtoc2",
     "id": "thala-protocol",
     "project": "Thala Protocol",
@@ -5385,7 +5400,8 @@
         "Pact"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -5731,52 +5747,6 @@
         "Websites and Applications"
       ],
       "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "79hqJlFGEpIi7y64Y6Hh8b",
-    "id": "yieldnest",
-    "project": "YieldNest",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5THhXbvg5r0Y0AroHykN26/e9f6ca536390eb07d8113b04f04cf00c/B3hF3KTP_400x400_copy.png",
-    "date": "2024-05-22T02:29:00.000Z",
-    "launchDate": "2024-05-22T02:29:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-07-16T12:19:10.537Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact",
-        "Triaged by Immunefi",
-        "Arbitration"
-      ],
-      "productType": [
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
       "featured": [
         "Launched Recently"
       ]
@@ -6368,7 +6338,7 @@
     "date": "2021-07-01T07:00:00.000Z",
     "launchDate": "2021-07-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-17T12:38:13.901Z",
+    "updatedDate": "2025-10-03T11:36:19.745Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6379,8 +6349,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Not Required",
-        "PoC Not Required",
-        "Triaged by Immunefi"
+        "PoC Not Required"
       ],
       "productType": [
         "Lending",
@@ -6407,7 +6376,7 @@
         "Paid Recently"
       ]
     },
-    "premiumTriaging": true
+    "premiumTriaging": false
   },
   {
     "contentfulId": "JppSOY676PExwZtWrsXOm",
@@ -6738,6 +6707,41 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "ynkqmsVGoWMLeWUobs462",
+    "id": "felix",
+    "project": "Felix",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4BS96MKj8tAsSeXuOSQJ7f/99b997f0a0e0b8e3aecbd046b330a152/mx8MTMca_400x400_Small_Small.png",
+    "date": "2025-10-02T05:00:00.000Z",
+    "launchDate": "2025-10-02T05:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-10-02T17:53:43.996Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Not Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "UVpZeRlqnOjlEp07uF3j8",
     "id": "monero-oxide",
     "project": "monero-oxide",
@@ -7054,6 +7058,55 @@
       ]
     },
     "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2sJodat8OBv9B9gFeeCnNI",
+    "id": "neutron",
+    "project": "Neutron",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6s6q2dCluzikNzgkxSk7Zk/51597fa7af11044282aa1d70d80cfd57/Neutron.png",
+    "date": "2024-07-02T08:30:00.000Z",
+    "launchDate": "2024-07-02T08:30:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-10-02T23:34:53.851Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact",
+        "Arbitration"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Cosmos"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract"
+      ],
+      "language": [
+        "Go",
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "premiumTriaging": false
   },
   {
     "contentfulId": "2UM6ZJsDWnsUZ9RnbXCnBZ",
@@ -9329,7 +9382,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-15T08:35:34.181Z",
+    "updatedDate": "2025-10-03T09:29:44.954Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -11858,7 +11911,7 @@
     "date": "2025-06-06T07:00:00.000Z",
     "launchDate": "2025-06-06T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-25T12:01:52.913Z",
+    "updatedDate": "2025-10-02T09:30:10.628Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -12729,8 +12782,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
