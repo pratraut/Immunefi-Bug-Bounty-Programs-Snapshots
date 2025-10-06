@@ -1239,6 +1239,50 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "4hPwcpZj2PKfWZpubYO7VP",
+    "id": "kamino",
+    "project": "Kamino",
+    "maximum_reward": 1500000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ihJVSKL2zDj7D7tTDzXBA/b293116bce7222a8cdbe0d2b03295a09/8bUg0jRH_400x400.png",
+    "date": "2025-10-06T12:39:00.000Z",
+    "launchDate": "2025-10-06T12:39:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-10-06T13:53:18.990Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "7aG6gVhCTGHgv1jcLUTyvz",
     "id": "pinto",
     "project": "Pinto",
@@ -1952,7 +1996,7 @@
     "date": "2023-06-15T14:00:00.000Z",
     "launchDate": "2023-06-15T14:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-02T23:45:08.061Z",
+    "updatedDate": "2025-10-06T13:10:37.954Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications"
@@ -1963,8 +2007,7 @@
         "Immunefi Standard",
         "KYC Not Required",
         "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
+        "PoC Not Required"
       ],
       "productType": [
         "Lending",
@@ -1978,7 +2021,6 @@
         "RSK"
       ],
       "programType": [
-        "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
@@ -2384,7 +2426,7 @@
     "date": "2021-09-13T13:00:00.000Z",
     "launchDate": "2021-09-13T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-29T16:10:16.829Z",
+    "updatedDate": "2025-10-06T08:24:17.864Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2700,7 +2742,7 @@
     "date": "2025-07-21T07:50:00.000Z",
     "launchDate": "2025-07-21T07:50:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-14T13:51:48.415Z",
+    "updatedDate": "2025-10-06T13:27:59.121Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2769,8 +2811,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -5348,7 +5389,8 @@
         "Clarity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -9831,8 +9873,7 @@
         "Python"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -11249,7 +11290,7 @@
     "date": "2025-09-09T09:35:00.000Z",
     "launchDate": "2025-09-09T09:35:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-19T13:53:15.039Z",
+    "updatedDate": "2025-10-06T09:55:29.333Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
