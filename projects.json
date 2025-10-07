@@ -852,10 +852,11 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-08T18:49:55.650Z",
+    "updatedDate": "2025-10-07T06:19:17.638Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
+      "Websites and Applications",
       "Blockchain/DLT"
     ],
     "immunefiStandard": true,
@@ -882,7 +883,8 @@
       ],
       "programType": [
         "Blockchain/DLT",
-        "Smart Contract"
+        "Smart Contract",
+        "Websites and Applications"
       ],
       "language": [
         "C/C++",
@@ -5247,8 +5249,7 @@
         "Typescript"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6520,7 +6521,7 @@
     "date": "2021-03-26T07:00:00.000Z",
     "launchDate": "2021-03-26T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T13:20:39.010Z",
+    "updatedDate": "2025-10-07T15:47:12.794Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7010,7 +7011,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -8986,7 +8988,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
