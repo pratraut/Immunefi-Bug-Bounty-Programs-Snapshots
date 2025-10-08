@@ -1185,7 +1185,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -1747,8 +1748,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -4510,7 +4510,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -6285,7 +6286,7 @@
     "date": "2022-01-21T13:00:00.000Z",
     "launchDate": "2022-01-21T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-04T18:47:10.939Z",
+    "updatedDate": "2025-10-08T17:38:21.185Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6521,7 +6522,7 @@
     "date": "2021-03-26T07:00:00.000Z",
     "launchDate": "2021-03-26T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-07T15:47:12.794Z",
+    "updatedDate": "2025-10-08T17:22:25.903Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7518,7 +7519,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-22T09:38:45.275Z",
+    "updatedDate": "2025-10-08T06:40:09.177Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -10737,8 +10738,7 @@
         "JavaScript"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
