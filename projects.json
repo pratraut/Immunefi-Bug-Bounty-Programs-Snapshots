@@ -3047,8 +3047,7 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": true
@@ -11144,51 +11143,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "1O998bgQpglVJ3FnUpdrI2",
-    "id": "ceres",
-    "project": "Ceres",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7Cac9SXWPWlgKlHZEhjAM2/c4d868435e841de0a7054157282c74bf/Ceres_Logo.svg",
-    "date": "2022-08-09T18:30:00.000Z",
-    "launchDate": "2022-08-09T18:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-04T15:14:41.776Z",
-    "kyc": false,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Crosschain Liquidity",
-        "DAO",
-        "Staking"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "SORA"
-      ],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "1dKipg7nQ7N7X8kAWLinsA",
     "id": "sora",
     "project": "SORA",
@@ -11773,7 +11727,7 @@
     "date": "2021-11-15T15:00:00.000Z",
     "launchDate": "2021-11-15T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-28T16:29:48.628Z",
+    "updatedDate": "2025-10-09T11:43:20.420Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
