@@ -91,20 +91,30 @@
     "project": "Audit Comp | Alchemix V3",
     "maximum_reward": 100000,
     "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1n32B4eQNgsTaCpybMEudK/57f8ae5777af97e0e7a91f4b2ec17517/alchemix.png",
-    "date": "2025-10-14T14:00:00.000Z",
-    "launchDate": "2025-10-14T14:00:00.000Z",
+    "date": "2025-10-14T15:00:00.000Z",
+    "launchDate": "2025-10-14T15:00:00.000Z",
     "endDate": "2025-11-04T14:00:00.000Z",
-    "updatedDate": "2025-10-10T05:15:46.295Z",
+    "updatedDate": "2025-10-14T17:29:46.359Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
     ],
-    "immunefiStandard": null,
+    "immunefiStandard": true,
     "tags": {
-      "language": [],
       "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
         "Triaged by Immunefi"
       ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -158,23 +168,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Vault"
     ],
     "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
+    "premiumTriaging": true
   },
   {
     "contentfulId": "3B96IuKt0dLMBusm5AXiKe",

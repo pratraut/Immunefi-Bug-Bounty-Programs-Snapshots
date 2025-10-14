@@ -1200,7 +1200,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-29T10:11:57.437Z",
+    "updatedDate": "2025-10-14T10:51:30.127Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3521,7 +3521,7 @@
     "date": "2023-04-28T09:00:00.000Z",
     "launchDate": "2023-04-28T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-17T08:27:50.067Z",
+    "updatedDate": "2025-10-14T16:53:44.676Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -4488,7 +4488,7 @@
     "date": "2025-09-30T04:00:00.000Z",
     "launchDate": "2025-09-30T04:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-01T09:59:21.342Z",
+    "updatedDate": "2025-10-14T10:39:24.841Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -5681,7 +5681,7 @@
     "date": "2025-07-31T11:37:03.000Z",
     "launchDate": "2025-07-31T11:37:03.000Z",
     "endDate": null,
-    "updatedDate": "2025-08-12T10:45:22.734Z",
+    "updatedDate": "2025-10-14T10:42:55.984Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -6476,7 +6476,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-09T07:41:19.890Z",
+    "updatedDate": "2025-10-14T17:02:36.966Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -10607,7 +10607,7 @@
     "date": "2021-02-23T07:00:00.000Z",
     "launchDate": "2021-02-23T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-11T14:34:46.313Z",
+    "updatedDate": "2025-10-14T07:32:28.981Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -13095,50 +13095,6 @@
       ]
     },
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "EKIiouzPOBlw9bgCEkqjO",
-    "id": "yamatoprotocol",
-    "project": "Yamato Protocol",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1pOZIVlpMqzkXQ1qs26iPV/5071baa33fb6e404b7391ab606c71294/yamato_logo.png",
-    "date": "2023-09-04T09:00:00.000Z",
-    "launchDate": "2023-09-04T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T13:22:24.919Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Stablecoin"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "3kGQMeZE6a5JQIT4Msb0Ur",
