@@ -5757,7 +5757,7 @@
     "date": "2025-01-16T07:17:33.000Z",
     "launchDate": "2025-01-16T07:17:33.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-21T12:07:37.825Z",
+    "updatedDate": "2025-10-15T07:49:10.111Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -6507,7 +6507,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true

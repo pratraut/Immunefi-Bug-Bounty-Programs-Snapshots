@@ -8,7 +8,7 @@
     "date": "2025-10-01T13:00:00.000Z",
     "launchDate": "2025-10-01T13:00:00.000Z",
     "endDate": "2025-10-26T14:00:00.000Z",
-    "updatedDate": "2025-10-13T14:54:24.894Z",
+    "updatedDate": "2025-10-15T09:13:14.058Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -94,7 +94,7 @@
     "date": "2025-10-14T15:00:00.000Z",
     "launchDate": "2025-10-14T15:00:00.000Z",
     "endDate": "2025-11-04T14:00:00.000Z",
-    "updatedDate": "2025-10-14T17:29:46.359Z",
+    "updatedDate": "2025-10-15T10:32:19.658Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -185,7 +185,9 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "immunefiStandard": null,
     "tags": {
       "language": [],
-      "general": [],
+      "general": [
+        "Triaged by Immunefi"
+      ],
       "featured": [
         "Launched Recently"
       ]
@@ -204,7 +206,19 @@ A few days after the launch, Immunefi will publish Folks Finance's technical wal
 **A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
 
 Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroLive": "",
+    "boostedIntroLive": "### **$100,000 USD** in rewards is available for finding bugs on Folks Finance's Wormhole NTT contracts. 
+
+For more information about the project, please visit about [Folks Finance](https://folks.finance)
+
+- KYC is not required.
+
+- Flat Reward Pool
+
+**Proof of Concept (PoC) Requirements**
+
+- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
+
+- Any technical questions and support requests can be asked directly to Folks Finance team or Immunefi in the [#folks-finance-wormhole-NTT-audit-competition](https://discord.com/channels/787092485969150012/1427261722120421376) discord channel.",
     "boostedIntroEvaluating": "",
     "boostedIntroFinished": "",
     "rewardsToken": "USDC",
@@ -218,7 +232,9 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
     "hideAssetsInScope": null,
     "boostedLeaderboard": [],
     "features": [
-      "Boost"
+      "Boost",
+      "Managed Triage: Signal Booster",
+      "Vault"
     ],
     "academyStartDate": null,
     "assets": null,
@@ -233,7 +249,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
       "web_rewards": []
     },
     "outOfScopeAndRules": "",
-    "premiumTriaging": false,
+    "premiumTriaging": true,
     "prioritizedVulnerabilities": "",
     "programOverview": "",
     "rewards": null,
