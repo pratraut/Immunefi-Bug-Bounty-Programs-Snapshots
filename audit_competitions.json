@@ -86,6 +86,97 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "3B96IuKt0dLMBusm5AXiKe",
+    "id": "audit-comp--folks-finance-wormhole-ntt-on-algorand",
+    "project": "Audit Comp | Folks Finance: Wormhole NTT on Algorand",
+    "maximum_reward": 30000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5mX1G6Exm4R5kKfzK9oqcp/5e96776a0c3a91f9e51f2e543fff76e5/folks_finance.png",
+    "date": "2025-10-16T10:00:00.000Z",
+    "launchDate": "2025-10-16T10:00:00.000Z",
+    "endDate": "2025-10-27T10:00:00.000Z",
+    "updatedDate": "2025-10-16T10:46:03.487Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Algorand"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Python"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-11-28T14:00:00.000Z",
+    "boostedIntroStartingIn": "### **$30,000 USD** in rewards is available for finding bugs on Folks Finance's Wormhole's NTT on Algorand Implementation contracts. 
+
+For more information about the project, please visit about [Folks Finance](https://folks.finance)
+
+Any technical questions and support requests can be asked directly to Folks Finance team or Immunefi in the [#folks-finance-wormhole-NTT-audit-competition](https://discord.com/channels/787092485969150012/1427261722120421376) discord channel. 
+
+When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Folks Finance's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
+
+**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
+    "boostedIntroLive": "### **$30,000 USD** in rewards is available for finding bugs on Folks Finance's Wormhole NTT contracts. 
+
+For more information about the project, please visit about [Folks Finance](https://folks.finance)
+
+- KYC is not required.
+
+- Flat Reward Pool
+
+**Proof of Concept (PoC) Requirements**
+
+- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
+
+- Any technical questions and support requests can be asked directly to Folks Finance team or Immunefi in the [#folks-finance-wormhole-NTT-audit-competition](https://discord.com/channels/787092485969150012/1427261722120421376) discord channel.",
+    "boostedIntroEvaluating": "### Thank You to All Participating Security Researchers!
+
+The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
+    "rewardsToken": "USDC",
+    "rewardsPool": 30000,
+    "primaryPool": 21000,
+    "allStarsPool": 6000,
+    "podiumPool": 3000,
+    "sourceLinesOfCode": 1093,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Signal Booster",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "2gU2XBxUefsNjVWgkGKaFs",
     "id": "alchemix-v3-audit-competition",
     "project": "Audit Comp | Alchemix V3",
@@ -94,7 +185,7 @@
     "date": "2025-10-14T15:00:00.000Z",
     "launchDate": "2025-10-14T15:00:00.000Z",
     "endDate": "2025-11-04T14:00:00.000Z",
-    "updatedDate": "2025-10-15T10:32:19.658Z",
+    "updatedDate": "2025-10-16T11:07:20.459Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -169,91 +260,6 @@ Your valuable contributions played a crucial role in identifying and resolving c
     ],
     "academyStartDate": null,
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3B96IuKt0dLMBusm5AXiKe",
-    "id": "audit-comp--folks-finance-wormhole-ntt-on-algorand",
-    "project": "Audit Comp | Folks Finance: Wormhole NTT on Algorand",
-    "maximum_reward": 30000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5mX1G6Exm4R5kKfzK9oqcp/5e96776a0c3a91f9e51f2e543fff76e5/folks_finance.png",
-    "date": "2025-10-16T10:00:00.000Z",
-    "launchDate": "2025-10-16T10:00:00.000Z",
-    "endDate": "2025-10-27T10:00:00.000Z",
-    "updatedDate": "2025-10-13T13:17:53.179Z",
-    "kyc": false,
-    "technologies": [],
-    "immunefiStandard": null,
-    "tags": {
-      "language": [],
-      "general": [
-        "Triaged by Immunefi"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": null,
-    "boostedIntroStartingIn": "### **$30,000 USD** in rewards is available for finding bugs on Folks Finance's Wormhole's NTT on Algorand Implementation contracts. 
-
-For more information about the project, please visit about [Folks Finance](https://folks.finance)
-
-Any technical questions and support requests can be asked directly to Folks Finance team or Immunefi in the [#folks-finance-wormhole-NTT-audit-competition](https://discord.com/channels/787092485969150012/1427261722120421376) discord channel. 
-
-When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Folks Finance's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
-
-**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroLive": "### **$100,000 USD** in rewards is available for finding bugs on Folks Finance's Wormhole NTT contracts. 
-
-For more information about the project, please visit about [Folks Finance](https://folks.finance)
-
-- KYC is not required.
-
-- Flat Reward Pool
-
-**Proof of Concept (PoC) Requirements**
-
-- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
-
-- Any technical questions and support requests can be asked directly to Folks Finance team or Immunefi in the [#folks-finance-wormhole-NTT-audit-competition](https://discord.com/channels/787092485969150012/1427261722120421376) discord channel.",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
-    "rewardsToken": "USDC",
-    "rewardsPool": 30000,
-    "primaryPool": 21000,
-    "allStarsPool": 6000,
-    "podiumPool": 3000,
-    "sourceLinesOfCode": 1093,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Signal Booster",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "assets": null,
-    "assetsBodyV2": null,
-    "audits": null,
-    "impacts": null,
-    "impactsBody": null,
-    "legacy": {
-      "blockchain_rewards": [],
-      "smartcontract_rewards": [],
-      "technologies": [],
-      "web_rewards": []
-    },
-    "outOfScopeAndRules": "",
-    "premiumTriaging": true,
-    "prioritizedVulnerabilities": "",
-    "programOverview": "",
-    "rewards": null,
-    "rewardsBody": ""
   },
   {
     "contentfulId": "3oUNZcKXyGUxfFBOiEEgYd",

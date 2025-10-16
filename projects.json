@@ -1250,7 +1250,7 @@
     "date": "2025-10-06T12:39:00.000Z",
     "launchDate": "2025-10-06T12:39:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-06T13:53:18.990Z",
+    "updatedDate": "2025-10-16T11:44:05.009Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -5405,7 +5405,7 @@
     "date": "2022-01-08T22:00:00.000Z",
     "launchDate": "2022-01-08T22:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-10-25T09:28:07.273Z",
+    "updatedDate": "2025-10-16T06:12:32.090Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -6566,7 +6566,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -9175,7 +9176,7 @@
     "date": "2025-05-12T10:00:00.000Z",
     "launchDate": "2025-05-12T10:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-05-12T14:30:36.058Z",
+    "updatedDate": "2025-10-16T06:13:08.100Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -9698,53 +9699,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5uocLZV8kf69JNXJ8Xo52L",
-    "id": "alephzero",
-    "project": "Aleph Zero",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/ijqPWUm6i7qSGMKP6FJvR/312102e9caea0fea40c3573ffff31189/Aleph_Zero_logo.jpeg",
-    "date": "2023-08-16T17:30:00.000Z",
-    "launchDate": "2023-08-16T17:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-09-01T11:10:57.743Z",
-    "kyc": false,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Bridge",
-        "L1",
-        "Zero-Knowledge Proofs"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Polkadot"
-      ],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7jzEBK7I4iTtry1V8KLxcS",
     "id": "metastreet",
     "project": "MetaStreet",
@@ -9798,7 +9752,7 @@
     "date": "2023-05-23T13:00:00.000Z",
     "launchDate": "2023-05-23T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-12-07T18:39:40.069Z",
+    "updatedDate": "2025-10-16T10:47:23.877Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -12902,57 +12856,6 @@
         "Websites and Applications"
       ],
       "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "URNJJmrxai3qnxczcJGwQ",
-    "id": "ringdao",
-    "project": "RingDAO",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4odSRrEtuYUtugMpUtCKi2/3a2281419783498681a40aec2bc0e504/RingDAO-B.png",
-    "date": "2024-02-06T20:00:00.000Z",
-    "launchDate": "2024-02-06T20:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-02T14:32:47.841Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Bridge",
-        "L1",
-        "L2"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "ETH",
-        "Kusama",
-        "Optimism",
-        "Polkadot"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust",
-        "Solidity"
-      ],
       "featured": [
         "Launched Recently"
       ]
