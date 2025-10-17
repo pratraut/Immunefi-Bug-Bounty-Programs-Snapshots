@@ -6522,7 +6522,7 @@
     "date": "2021-03-26T07:00:00.000Z",
     "launchDate": "2021-03-26T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-08T17:22:25.903Z",
+    "updatedDate": "2025-10-16T22:38:56.122Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -11004,7 +11004,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
