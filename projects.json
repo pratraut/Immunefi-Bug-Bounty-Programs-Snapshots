@@ -3010,7 +3010,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-07-17T09:13:03.629Z",
+    "updatedDate": "2025-10-20T06:07:52.802Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -3521,7 +3521,7 @@
     "date": "2023-04-28T09:00:00.000Z",
     "launchDate": "2023-04-28T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-14T16:53:44.676Z",
+    "updatedDate": "2025-10-20T06:10:23.603Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7162,7 +7162,7 @@
     "date": "2024-06-03T02:44:00.000Z",
     "launchDate": "2024-06-03T02:44:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-17T14:37:25.889Z",
+    "updatedDate": "2025-10-20T05:58:05.337Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8720,7 +8720,7 @@
     "date": "2021-03-05T07:00:00.000Z",
     "launchDate": "2021-03-05T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-11T08:41:29.278Z",
+    "updatedDate": "2025-10-20T06:09:49.844Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8738,22 +8738,21 @@
         "DAO",
         "DEX",
         "Perpetuals",
-        "Staking",
-        "Synthetic Assets"
+        "Staking"
       ],
       "projectType": [
         "Defi"
       ],
       "ecosystem": [
-        "ETH",
-        "Optimism"
+        "ETH"
       ],
       "programType": [
         "Smart Contract",
         "Websites and Applications"
       ],
       "language": [
-        "Solidity"
+        "Solidity",
+        "JavaScript"
       ],
       "featured": [
         "Launched Recently"
@@ -8868,7 +8867,7 @@
     "date": "2024-07-08T10:30:00.000Z",
     "launchDate": "2024-07-08T10:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-26T04:46:57.669Z",
+    "updatedDate": "2025-10-20T06:09:16.677Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -13239,7 +13238,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
