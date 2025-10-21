@@ -609,7 +609,11 @@
       "findingsUrl": null,
       "premiumTriaging": false
     },
-    "project": null,
+    "project": {
+      "features": [],
+      "premiumTriaging": false,
+      "isSafeHarborActive": false
+    },
     "metaData": {
       "title": "MagpieXYZ Bug Bounties",
       "description": "Find bugs and vulnerabilities on MagpieXYZ and get paid up to $200,000.",
