@@ -1444,7 +1444,7 @@
     "date": "2025-06-10T05:44:56.000Z",
     "launchDate": "2025-06-10T05:44:56.000Z",
     "endDate": null,
-    "updatedDate": "2025-06-13T05:44:36.760Z",
+    "updatedDate": "2025-10-22T08:24:58.707Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -3466,7 +3466,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -4480,6 +4481,51 @@
     "premiumTriaging": true
   },
   {
+    "contentfulId": "45dMmlLm6rlsaZsC1bBUOV",
+    "id": "fassets",
+    "project": "Flare FAssets",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6RvAn0eXVoZdyCg9bNkFXK/f86c8ae6a66353298cff60617734a793/Flare.png",
+    "date": "2025-10-01T02:00:00.000Z",
+    "launchDate": "2025-10-01T02:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-10-22T06:58:09.956Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "Bridge"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract",
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Solidity",
+        "Typescript"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "1nwkON4L0Lnnk0zqIDtoc2",
     "id": "thala-protocol",
     "project": "Thala Protocol",
@@ -5388,58 +5434,6 @@
         "Rust",
         "Bitcoin Script",
         "Clarity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "6YA16SAQ42bjTZiqI9CmHH",
-    "id": "kadena",
-    "project": "Kadena",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/22KYw7t13OwNlN78HQZOT2/e72741e9f86336a41e287fe67c9b8e53/2024_Kadena_Logo_Social.png",
-    "date": "2022-01-08T22:00:00.000Z",
-    "launchDate": "2022-01-08T22:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-10-16T06:12:32.090Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "Kadena"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Haskell",
-        "JavaScript",
-        "Pact"
       ],
       "featured": [
         "Launched Recently",
@@ -6750,6 +6744,49 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "5a3QsKhA9xRkFZd6iph3oF",
+    "id": "jito-bam-client",
+    "project": "Jito -  BAM Client",
+    "maximum_reward": 100000,
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/81827-vKpjBBtGoFUAUeVn-lzqM-cmXlNzskiEIoCFDy7wqeGD4jI3DmwU.png",
+    "date": "2025-10-22T05:09:00.000Z",
+    "launchDate": "2025-10-22T05:09:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-10-22T16:28:45.707Z",
+    "kyc": true,
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Arbitration"
+      ],
+      "productType": [
+        "Validator"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "ynkqmsVGoWMLeWUobs462",
     "id": "felix",
     "project": "Felix",
@@ -7419,8 +7456,7 @@
         "Clarity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -7975,53 +8011,6 @@
       ],
       "language": [
         "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1Mn0ISO0U8ZuI4K8YhGXfQ",
-    "id": "nomad",
-    "project": "Nomad",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5GGzStgSIgJuXnWmv61KFy/848a9da6e4a34c32435685eda8801c2e/Nomad_Logo.png",
-    "date": "2022-06-09T16:30:00.000Z",
-    "launchDate": "2022-06-09T16:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-12T09:29:53.114Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Bridge",
-        "DAO"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Avalanche",
-        "ETH",
-        "Gnosis",
-        "Moonbeam"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
         "Solidity"
       ],
       "featured": [
