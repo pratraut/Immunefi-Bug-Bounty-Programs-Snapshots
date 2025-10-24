@@ -3522,7 +3522,7 @@
     "date": "2023-04-28T09:00:00.000Z",
     "launchDate": "2023-04-28T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-20T06:10:23.603Z",
+    "updatedDate": "2025-10-24T08:52:20.388Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6830,7 +6830,7 @@
     "date": "2025-09-09T14:58:00.000Z",
     "launchDate": "2025-09-09T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-21T07:01:46.373Z",
+    "updatedDate": "2025-10-24T08:51:40.938Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -8708,7 +8708,7 @@
     "date": "2021-03-05T07:00:00.000Z",
     "launchDate": "2021-03-05T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-20T06:09:49.844Z",
+    "updatedDate": "2025-10-24T08:52:47.735Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -9354,7 +9354,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
