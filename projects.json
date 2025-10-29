@@ -1999,7 +1999,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-15T22:03:17.351Z",
+    "updatedDate": "2025-10-29T09:48:59.444Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -2082,8 +2082,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -2560,8 +2559,7 @@
         "Python"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -3144,7 +3142,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -3319,54 +3318,6 @@
         "Defi"
       ],
       "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "m6xQa3KZIaAJJxWwrqXPC",
-    "id": "smardex",
-    "project": "SmarDex",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6st2ki00OgMQtlOLs12gqs/569512ed71af09cc498f1ee6f83bcb2f/8AgKkjTU_400x400.png",
-    "date": "2023-09-25T13:00:00.000Z",
-    "launchDate": "2023-09-25T13:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-10-28T12:43:51.983Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "Bridge",
-        "DEX",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "BSC",
         "ETH"
       ],
       "programType": [
@@ -5021,7 +4972,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -6329,7 +6281,7 @@
     "date": "2021-07-01T07:00:00.000Z",
     "launchDate": "2021-07-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-28T08:23:59.165Z",
+    "updatedDate": "2025-10-29T09:47:33.764Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -12479,52 +12431,6 @@
         "Smart Contract"
       ],
       "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "c5y5o2hK6ODIKo3IYXDBj",
-    "id": "integriteenetwork",
-    "project": "Integritee Network",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7wdCOkQcjt9zW6srbOQzIS/1445121a3c95adf2c484adb7f7edab76/Integritee.png",
-    "date": "2024-06-10T00:08:00.000Z",
-    "launchDate": "2024-06-10T00:08:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-17T14:55:19.473Z",
-    "kyc": false,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Arbitration"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [
-        "Polkadot"
-      ],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Rust",
-        "C/C++",
-        "Python"
-      ],
       "featured": [
         "Launched Recently"
       ]
