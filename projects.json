@@ -807,7 +807,7 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-30T08:11:35.280Z",
+    "updatedDate": "2025-11-04T06:39:30.089Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1190,7 +1190,8 @@
         "Vyper"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -2330,7 +2331,7 @@
     "date": "2021-11-22T07:15:00.000Z",
     "launchDate": "2021-11-22T07:15:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-04-11T14:50:58.288Z",
+    "updatedDate": "2025-11-04T15:00:34.336Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6674,7 +6675,8 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": true
@@ -7257,7 +7259,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -8970,7 +8973,7 @@
     "date": "2025-09-05T12:00:00.000Z",
     "launchDate": "2025-09-05T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-08T23:45:00.622Z",
+    "updatedDate": "2025-11-04T06:41:01.571Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
