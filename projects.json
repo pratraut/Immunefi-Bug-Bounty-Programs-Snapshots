@@ -283,7 +283,7 @@
     "date": "2023-11-01T15:00:00.000Z",
     "launchDate": "2023-11-01T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-03T06:27:00.569Z",
+    "updatedDate": "2025-11-05T07:08:35.917Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -6690,7 +6690,7 @@
     "date": "2025-10-22T05:09:00.000Z",
     "launchDate": "2025-10-22T05:09:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-28T13:08:40.587Z",
+    "updatedDate": "2025-11-05T07:30:42.563Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -9220,7 +9220,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-03T09:29:44.954Z",
+    "updatedDate": "2025-11-05T07:09:36.193Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -13129,56 +13129,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "5k8qP9LfYs1qVciE2xqNHw",
-    "id": "superbots",
-    "project": "SuperBots",
-    "maximum_reward": 8000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4m8GABeADoUekpv7DPLvgq/f59325a352b7e10b75ab096fbb376bbe/SuperBots_Logo.jpg",
-    "date": "2022-04-07T17:30:00.000Z",
-    "launchDate": "2022-04-07T17:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-12-03T18:46:24.400Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Asset Management",
-        "DEX",
-        "Staking",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi",
-        "NFT"
-      ],
-      "ecosystem": [
-        "BSC"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": false
