@@ -4331,7 +4331,7 @@
     "date": "2025-10-02T12:10:00.000Z",
     "launchDate": "2025-10-02T12:10:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-30T08:14:58.420Z",
+    "updatedDate": "2025-11-06T09:59:47.380Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4344,6 +4344,7 @@
         "KYC Required",
         "PoC Required",
         "PoC Not Required",
+        "Primacy of Impact",
         "Triaged by Immunefi"
       ],
       "productType": [
@@ -6126,8 +6127,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -6281,7 +6281,7 @@
     "date": "2021-07-01T07:00:00.000Z",
     "launchDate": "2021-07-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-03T09:02:25.199Z",
+    "updatedDate": "2025-11-06T10:56:09.025Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6719,7 +6719,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -8795,7 +8796,7 @@
     "date": "2024-07-08T10:30:00.000Z",
     "launchDate": "2024-07-08T10:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-20T06:09:16.677Z",
+    "updatedDate": "2025-11-06T07:38:48.441Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -13199,8 +13200,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
