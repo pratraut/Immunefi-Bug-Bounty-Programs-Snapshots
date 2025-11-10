@@ -99,7 +99,7 @@
     "date": "2024-09-24T18:00:00.000Z",
     "launchDate": "2024-09-24T18:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-01-24T15:47:17.942Z",
+    "updatedDate": "2025-11-10T16:00:49.789Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -111,6 +111,7 @@
         "KYC Required",
         "PoC Required",
         "PoC Not Required",
+        "Primacy of Impact",
         "Triaged by Immunefi",
         "Arbitration"
       ],
@@ -1155,7 +1156,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-14T10:51:30.127Z",
+    "updatedDate": "2025-11-10T11:44:58.966Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3667,8 +3668,7 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -8828,8 +8828,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
