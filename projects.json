@@ -7458,7 +7458,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-28T08:43:13.215Z",
+    "updatedDate": "2025-11-12T07:22:55.359Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7975,54 +7975,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "5pRDHETjFjggqjQgfp3Zwc",
-    "id": "summerfi",
-    "project": "Summer.fi",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3NCsCwSoRVLbQkk7lOjRMo/db25709d916d7f5fc53c8f8c3ef0e671/logo_text_color_Small.png",
-    "date": "2022-04-01T17:30:00.000Z",
-    "launchDate": "2022-04-01T17:30:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-14T20:30:59.259Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Lending",
-        "Perpetuals"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "6ugfZVqo25IhkO8BYORGeC",
     "id": "wepiggy",
     "project": "WePiggy",
@@ -8162,45 +8114,6 @@
       "language": [
         "Solidity"
       ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "4iwtrk3T43jRtpPZPniOp8",
-    "id": "connext",
-    "project": "Connext",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1bzzh4XoaNOkOzFZTqff24/6a60319ea667ba1d02a52e0fe386fce6/Connext_logo.png",
-    "date": "2021-12-21T09:00-06:00",
-    "launchDate": "2021-12-21T15:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2023-08-23T13:49:43.540Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Not Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
       "featured": [
         "Launched Recently"
       ]
@@ -9948,6 +9861,62 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "4iwtrk3T43jRtpPZPniOp8",
+    "id": "connext",
+    "project": "Connext",
+    "maximum_reward": 50000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1bzzh4XoaNOkOzFZTqff24/6a60319ea667ba1d02a52e0fe386fce6/Connext_logo.png",
+    "date": "2021-12-21T15:00:00.000Z",
+    "launchDate": "2021-12-21T15:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-11T23:11:20.953Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Bridge",
+        "DEX",
+        "L2",
+        "Liquid Staking"
+      ],
+      "projectType": [
+        "Defi",
+        "Exchange"
+      ],
+      "ecosystem": [
+        "Arbitrum",
+        "BSC",
+        "Base",
+        "ETH",
+        "Gnosis",
+        "Linea",
+        "Metis",
+        "Mode",
+        "Optimism",
+        "Polygon"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "3yZ7RmVJMHwtskD3xOxe75",
     "id": "dhedge",
     "project": "dHEDGE",
@@ -11246,50 +11215,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "4MYHr5mByrB0GFwubDCE0a",
-    "id": "stafi",
-    "project": "StaFi: rDEX",
-    "maximum_reward": 25000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4iwCFY9NJa80yHYy9nedrS/edfbc02a73e35bec237f79fd341cbd47/StaFi_Logo.png",
-    "date": "2022-02-11T21:00-07:00",
-    "launchDate": "2022-02-11T21:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2023-07-10T00:56:29.584Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Not Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "AMM",
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": false
