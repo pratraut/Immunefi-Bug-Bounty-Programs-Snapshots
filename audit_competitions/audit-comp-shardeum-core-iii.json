@@ -116,7 +116,74 @@
           "fund": null
         }
       ],
-      "impacts": [],
+      "impacts": [
+        {
+          "id": 1,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Network not being able to confirm new transactions (total network shutdown)"
+        },
+        {
+          "id": 3,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Direct loss of funds"
+        },
+        {
+          "id": 4,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Permanent freezing of funds (fix requires hardfork)"
+        },
+        {
+          "id": 7,
+          "type": "blockchain_dlt",
+          "severity": "high",
+          "title": "Causing network processing nodes to process transactions from the mempool beyond set parameters"
+        },
+        {
+          "id": 9,
+          "type": "blockchain_dlt",
+          "severity": "medium",
+          "title": "Increasing network processing node resource consumption by at least 30% without brute force actions, compared to the preceding 24 hours"
+        },
+        {
+          "id": 10,
+          "type": "blockchain_dlt",
+          "severity": "medium",
+          "title": "Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network"
+        },
+        {
+          "id": 12,
+          "type": "blockchain_dlt",
+          "severity": "low",
+          "title": "Shutdown of greater than 10% or equal to but less than 30% of network processing nodes without brute force actions, but does not shut down the network"
+        },
+        {
+          "id": 13,
+          "type": "blockchain_dlt",
+          "severity": "low",
+          "title": "Modification of transaction fees outside of design parameters"
+        },
+        {
+          "id": 5281,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Bypassing Staking Requirements"
+        },
+        {
+          "id": 5282,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Bypassing Penalties"
+        },
+        {
+          "id": 5289,
+          "type": "blockchain_dlt",
+          "severity": "high",
+          "title": "Blocking specific wallet addresses from making transactions"
+        }
+      ],
       "programOverview": "This Audit Competition is running on testnet. The following conditions apply:\n\nShardeum team will freeze the codebase during the duration of the Audit Competition\n- Duplicates are rewarded\n- Shardeum provides rewards in USDC, denominated in USD.\n\nNote: \n\nWhitehats who need to run the network locally must submit their EVM address for whitelisting to receive test tokens from the project team in the Discord channel. Alternatively, you can DM the Shardeum Team for assistance.",
       "prioritizedVulnerabilities": "Only the impacts listed in this program are accepted within this AC program.  All other impacts are not considered as in-scope, even if they affect something in the assets in scope table",
       "rewardsBody": "The following reward terms are a summary, for the full details read our [Shardeum Core III Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/31793771662865-Shardeum-Core-III-Audit-Competition-Reward-Terms)\n\nThe reward pool size is determined by the greatest condition met. If multiple conditions are met only the largest reward pool applies.\n\nIf one or more Critical severity bugs are found, the reward pool will be **100% of the respective reward pool, $250,000 USD**\nIf one or more High severity bugs are found, the reward pool will be **75% of the respective reward pool, $187,500 USD**\nIf one or more Medium severity bugs are found, the reward pool will be **50% of the respective reward pool, $125,000 USD**\nOtherwise, the reward pool will be **25% of the respective reward pool, $62,500 USD**\n\nDuplicates and private known issues are valid for a reward.\n\n**Duplicates of Insight reports are not eligible for a reward.**\nRewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.3.](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/).\n\n**Reward Payment Terms**\nPayouts are handled by the Shardeum team directly and are denominated in USD. However, payments are done in USDC on Ethereum.\n\n**Insight Rewards Payment Terms**\nInsight Rewards: Portion of the Rewards Pool\nThe \"Insight\" severity was introduced on Audit Competition & Attackathon programs to recognize contributions that extend beyond identifying immediate vulnerabilities. Currently, it's not an option to select the Insight severity when submitting a report. However, our team or program will designate it accordingly if applicable. \"Insights\" underscores our commitment to valuing all types of contributions that contribute to a more secure environment and will always be rewarded. [View more information about Insights.](https://immunefisupport.zendesk.com/hc/en-us/articles/13333032674961-Severity-Classification-System?utm_source=immunefi)",
@@ -180,7 +247,7 @@
       "boostedIntroLive": "",
       "boostedIntroEvaluating": "",
       "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1ThQUQMcM6Khxkp7tCKzoVsavmae4cO-c)\n\nAll paid bug reports are available in original format [here](https://reports.immunefi.com/shardeum-core-iii)\n\n\n\n\n\n\n\n(https://reports.immunefi.com/shardeum-core-iiI)",
-      "rewardsToken": null,
+      "rewardsToken": "USDC",
       "rewardsPool": 250000,
       "primaryPool": 250000,
       "allStarsPool": 0,
@@ -295,30 +362,89 @@
         "Managed Triage: Time Saver"
       ],
       "academyStartDate": null,
-      "websiteUrl": null,
-      "description": null,
+      "websiteUrl": "https://shardeum.org/",
+      "description": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent boosts. This boost, called Core III, will cover the Web3 aspects of the project. This will cover four components: Shardus Core Protocol, Shardeum Validator Nodes, networking libs, and Crypto-utils. For more information about Shardeum, please visit [https://shardeum.org/](https://shardeum.org/)\n",
       "githubUrl": null,
       "feasibilityLimitations": null,
       "prohibitedActivites": null,
       "responsiblePublicationCategory": null,
-      "knownIssues": [],
+      "knownIssues": [
+        {
+          "id": 11,
+          "description": "Shardeum Core II Audit Competition",
+          "link": "https://reports.immunefi.com/shardeum-core-ii",
+          "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
+          "relatedImpactInScope": "blockchain_dlt"
+        },
+        {
+          "id": 10,
+          "description": "https://reports.immunefi.com/shardeum-core",
+          "link": "https://reports.immunefi.com/shardeum-core",
+          "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
+          "relatedImpactInScope": "blockchain_dlt"
+        },
+        {
+          "id": 6,
+          "description": "Known Issues before BB1",
+          "link": "https://drive.google.com/file/d/1H6o8IPtrlTDvr_cfTRhvgr1Vvh4EYwb8/view",
+          "lastUpdatedAt": "2024-12-17T00:00:00.000Z",
+          "relatedImpactInScope": "blockchain_dlt"
+        }
+      ],
       "knownIssueAssurance": false,
-      "defaultOutOfScopeBlockchain": null,
+      "defaultOutOfScopeBlockchain": "- Incorrect data supplied by third party oracles\n  - Not to exclude oracle manipulation/flash loan attacks\n- Impacts requiring basic economic and governance attacks (e.g. 51% attack)\n- Lack of liquidity impacts\n- Impacts from Sybil attacks\n- Impacts involving centralization risks",
       "defaultOutOfScopeSmartContract": null,
-      "defaultOutOfScopeGeneral": null,
+      "defaultOutOfScopeGeneral": "- Impacts requiring attacks that the reporter has already exploited themselves, leading to damage\n- Impacts caused by attacks requiring access to leaked keys/credentials\n- Impacts caused by attacks requiring access to privileged addresses (including, but not limited to: governance and strategist contracts) without additional modifications to the privileges attributed\n- Impacts relying on attacks involving the depegging of an external stablecoin where the attacker does not directly cause the depegging due to a bug in code\n- Mentions of secrets, access tokens, API keys, private keys, etc. in Github will be considered out of scope without proof that they are in-use in production\n- Best practice recommendations\n- Feature requests\n- Impacts on test files and configuration files unless stated otherwise in the bug bounty program\n- Impacts requiring phishing or other social engineering attacks against project's employees and/or customers",
       "defaultOutOfScopeWebAndApplications": null,
-      "defaultProhibitedActivities": null,
-      "defaultFeasibilityLimitations": null,
-      "customOutOfScopeInformation": null,
+      "defaultProhibitedActivities": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)",
+      "defaultFeasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\n\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)",
+      "customOutOfScopeInformation": "Bug reports covering previously-discovered bugs (listed below) are not eligible for a reward within this program. This includes known issues that the project is aware of but has consciously decided not to “fix”, necessary code changes, or any implemented operational mitigating procedures that can lessen potential risk. \n\nBugs from previous bounties are in scope unless explicitly said otherwise.\n\nReports 33428, 33655, 33963, 34508, 33576, 34053, 36024, 36025, 36025 are OOS.\n\n\nShardeum Core full list of [reports](https://app.gitbook.com/o/SXzCm0g2yGtKdYxV9Y1d/s/eYmXU5PPPCrUVU4AeKnd/shardeum-core) \nShardeum Core II full list of [reports](https://app.gitbook.com/o/SXzCm0g2yGtKdYxV9Y1d/s/eYmXU5PPPCrUVU4AeKnd/shardeum-core-ii)\n\n**Other Known issues**\n\n- AJV Validation error on archiver can cause missing receipts [https://github.com/shardeum/archiver/blob/bugbounty/src/Data/Collector.ts#L280](https://github.com/shardeum/archiver/blob/bugbounty/src/Data/Collector.ts#L280)\n\n- getTxTimestampBinary endpoint could be used as a memory overflow mechanism [https://github.com/shardeum/core/blob/9dae0abe5232ed532a9285da82118b41a04b3711/src/state-manager/TransactionConsensus.ts#L1796](https://github.com/shardeum/core/blob/9dae0abe5232ed532a9285da82118b41a04b3711/src/state-manager/TransactionConsensus.ts#L1796)\n\n- SQL injection in inputs at https://github.com/shardeum/shardeum/blob/dev/src/storage/sqlite3storage.ts#L257-L289\n\n- Tx data : ( ORIGINAL_TX_DATA) getting saved in originalTxData, processedData and transaction table without any verification [https://github.com/shardeum/archiver/blob/cbe1d515e91058d17fa483f84361992cd3d1cf9c/src/archivedCycle/StateMetaData.ts#L156](https://github.com/shardeum/archiver/blob/cbe1d515e91058d17fa483f84361992cd3d1cf9c/src/archivedCycle/StateMetaData.ts#L156)",
       "customProhibitedActivities": [],
-      "rewardsTokenNetwork": null,
-      "eligibilityCriteria": null,
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [],
-      "programDocumentations": [],
-      "primacy": null,
+      "programDocumentations": [
+        {
+          "id": 176,
+          "title": "Shardeum's codebase",
+          "description": "Shardeum’s up to date codebase can be found at",
+          "url": "https://github.com/shardeum/?utm_source=immunefi"
+        },
+        {
+          "id": 177,
+          "title": "Shardeum’s youtube page",
+          "description": "Shardeum’s youtube page can be found at",
+          "url": "https://www.youtube.com/@Shardeum"
+        },
+        {
+          "id": 178,
+          "title": "Tech walkthroughs",
+          "description": "Previous tech walkthroughs",
+          "url": "https://www.youtube.com/watch?v=U2ZHqQchBgA, https://www.youtube.com/watch?v=Lt-jI8FAQcQ"
+        },
+        {
+          "id": 179,
+          "title": "Whitepaper",
+          "description": "Whitepaper can be found at",
+          "url": " https://docs.shardeum.org/docs/whitepaper"
+        },
+        {
+          "id": 180,
+          "title": "Documentation",
+          "description": "Shardeum's up to date documentation",
+          "url": "https://docs.shardeum.org/"
+        },
+        {
+          "id": 181,
+          "title": "Script",
+          "description": "Script to clean up code to make review easier:",
+          "url": "https://github.com/shardeum/sec_im_cleanup "
+        }
+      ],
+      "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
-      "findingsUrl": null,
+      "findingsUrl": "https://reports.immunefi.com/shardeum-core-iii",
       "premiumTriaging": true
     },
     "layoutProps": {

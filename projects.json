@@ -587,7 +587,7 @@
     "date": "2024-06-27T13:00:00.000Z",
     "launchDate": "2024-06-27T13:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-30T08:12:50.030Z",
+    "updatedDate": "2025-11-13T08:49:05.859Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1945,52 +1945,6 @@
       ]
     },
     "premiumTriaging": true
-  },
-  {
-    "contentfulId": "2doWIyZYJgOmCTm2RSGmtz",
-    "id": "myntandzero",
-    "project": "Mynt and Zero",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Iz1gzlaRYZXVxirqyYifA/55ed60e3924de4b64003b286227bd47b/Screenshot_2024-11-15_at_1.42.12___AM.png",
-    "date": "2023-06-15T14:00:00.000Z",
-    "launchDate": "2023-06-15T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-10-06T13:10:37.954Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Lending",
-        "Stablecoin",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "RSK"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
   },
   {
     "contentfulId": "3WMzRBYHWXzf6d0Id9mCCi",
@@ -5205,7 +5159,8 @@
         "Typescript"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -6340,7 +6295,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-23T12:51:47.801Z",
+    "updatedDate": "2025-11-13T08:45:59.168Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -7458,7 +7413,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-12T07:22:55.359Z",
+    "updatedDate": "2025-11-13T08:44:52.705Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -8251,58 +8206,6 @@
         "Smart Contract"
       ],
       "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "497bLYOI0wz7qckvIBM9TX",
-    "id": "polkastarter",
-    "project": "Polkastarter",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/QhL5Cn1GfQrsM8DYKpHyO/c25573012e6228e53c98ead992ff93b8/Screenshot_2021-10-09_at_10.01.32_PM.png",
-    "date": "2021-10-12T11:00:00.000Z",
-    "launchDate": "2021-10-12T11:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-04T19:10:02.557Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Launchpad",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Avalanche",
-        "BSC",
-        "ETH",
-        "Polkadot",
-        "Polygon",
-        "Solana"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "NextJS",
         "Solidity"
       ],
       "featured": [
@@ -11401,51 +11304,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4oe92kXpZc5rWBCWcXfpd7",
-    "id": "zano",
-    "project": "Zano",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/56nkDjrefTYbi6qvtdq0UL/4443f936ab5d2b9f7833967cd7de2e04/Zano.png",
-    "date": "2025-07-14T13:00:00.000Z",
-    "launchDate": "2025-07-14T13:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-08-06T13:58:55.348Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Vaults"
-      ],
-      "productType": [
-        "L1"
-      ],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT",
-        "Websites and Applications"
-      ],
-      "language": [
-        "C/C++"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "1dEOTkEoAGVKbbDyDxczIy",
     "id": "daimo-pay",
     "project": "Daimo Pay",
@@ -12118,6 +11976,97 @@
       ],
       "featured": [
         "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "2doWIyZYJgOmCTm2RSGmtz",
+    "id": "myntandzero",
+    "project": "Mynt and Zero",
+    "maximum_reward": 15000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Iz1gzlaRYZXVxirqyYifA/55ed60e3924de4b64003b286227bd47b/Screenshot_2024-11-15_at_1.42.12___AM.png",
+    "date": "2023-06-15T14:00:00.000Z",
+    "launchDate": "2023-06-15T14:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-13T17:27:55.259Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Lending",
+        "Stablecoin",
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "RSK"
+      ],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [
+        "JavaScript",
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4oe92kXpZc5rWBCWcXfpd7",
+    "id": "zano",
+    "project": "Zano",
+    "maximum_reward": 10000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/56nkDjrefTYbi6qvtdq0UL/4443f936ab5d2b9f7833967cd7de2e04/Zano.png",
+    "date": "2025-07-14T13:00:00.000Z",
+    "launchDate": "2025-07-14T13:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-13T17:16:13.859Z",
+    "kyc": false,
+    "technologies": [
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Vaults"
+      ],
+      "productType": [
+        "L1"
+      ],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT",
+        "Websites and Applications"
+      ],
+      "language": [
+        "C/C++"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "premiumTriaging": false
@@ -13014,8 +12963,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -13333,6 +13281,58 @@
         "Smart Contract"
       ],
       "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "497bLYOI0wz7qckvIBM9TX",
+    "id": "polkastarter",
+    "project": "Polkastarter",
+    "maximum_reward": 1000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/QhL5Cn1GfQrsM8DYKpHyO/c25573012e6228e53c98ead992ff93b8/Screenshot_2021-10-09_at_10.01.32_PM.png",
+    "date": "2021-10-12T11:00:00.000Z",
+    "launchDate": "2021-10-12T11:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-13T17:30:49.746Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Launchpad",
+        "Staking"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Avalanche",
+        "BSC",
+        "ETH",
+        "Polkadot",
+        "Polygon",
+        "Solana"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "NextJS",
         "Solidity"
       ],
       "featured": [

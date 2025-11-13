@@ -1,7 +1,620 @@
 {
   "pageProps": {
-    "isAttackathon": false,
-    "academyContent": null,
+    "isAttackathon": true,
+    "academyContent": {
+      "slug": "ethereum-protocol-attackathon",
+      "programSlug": "ethereum-protocol-attackathon",
+      "meta": {
+        "title": "Ethereum protocol Attackathon Educational Resources",
+        "description": "Here you will find tailored educational resources to make your hunt on the Ethereum protocol Attackathon on Immunefi a success. From understanding Ether and Ethereum accounts, to in-depth explorations of the layers of Ethereum, you’ll get the insights you need to hunt with confidence.",
+        "ogImg": "/academy/og-academy-ethereum.jpg"
+      },
+      "og": {
+        "program": "Ethereum Protocol Attackathon",
+        "bg": "/academy/og-background-ethereum.jpg"
+      },
+      "hero": {
+        "img": "/academy/hero-bg-ethereum.jpg",
+        "title": "Ethereum Protocol Attackathon Academy",
+        "text": "Ethereum is a decentralized blockchain that exists whenever there are connected computers running software following the Ethereum protocol and adding to the Ethereum blockchain.",
+        "ctaText": "View Attackathon",
+        "ctaUrl": "/audit-competition/ethereum-protocol-attackathon/?utm_source=hero_academy"
+      },
+      "whatIs": {
+        "title": "What's an Attackathon?",
+        "text": "Attackathons are education-based bug hunting competitions where security researchers compete over a reward pool by submitting impactful bugs in the project's code. Here’s how they work:\n\n**Before the Attackathon**<br/> Immunefi works with the project to host a security-focused education period, providing top tier education and support to security researchers.\n\n**During the Attackathon**<br/> Security researchers experience the optimal hunting conditions, with direct project support, responsiveness, and duplicate rewards.\n\n**After the Attackathon**<br/> Immunefi spotlights the security accomplishments, with a custom leaderboard, Attackathon Findings Report, Bug Fix Reviews, and NFT awards.\n\nUltimately, Attackathons serve to secure projects, develop their security ecosystem, and create new opportunities for security researchers."
+      },
+      "resources": [
+        {
+          "id": 100,
+          "title": "Ethereum 101",
+          "items": [
+            {
+              "id": 101,
+              "title": "Introduction to Ethereum",
+              "description": "Learn about the basics of Ethereum, a decentralized platform that enables smart contracts and decentralized applications (dApps) to be built and run without any downtime, fraud, control, or interference.",
+              "url": "https://ethereum.org/en/developers/docs/intro-to-ethereum/",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 102,
+              "title": "Understanding Ether",
+              "description": "Explore what Ether (ETH) is, its role in the Ethereum network, and how it powers transactions and smart contracts within the ecosystem.",
+              "url": "https://ethereum.org/en/developers/docs/intro-to-ether/",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 103,
+              "title": "Exploring Ethereum Accounts",
+              "description": "Understand the different types of accounts in Ethereum, including externally owned accounts (EOAs) and contract accounts, and how they interact with the blockchain.",
+              "url": "https://ethereum.org/en/developers/docs/accounts/",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 104,
+              "title": "Understanding Transactions",
+              "description": "Delve into the mechanics of transactions on the Ethereum network, including how they are created, signed, and executed.",
+              "url": "https://ethereum.org/en/developers/docs/transactions/",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 105,
+              "title": "What Are Ethereum Blocks?",
+              "description": "Discover the structure and function of blocks in the Ethereum blockchain, including how they store transaction data and help maintain network security.",
+              "url": "https://ethereum.org/en/developers/docs/blocks/",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 106,
+              "title": "Components of a Node: Nodes and Clients",
+              "description": "Learn about the different components that make up an Ethereum node, the role of nodes and clients, and how they contribute to the network's operation.",
+              "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 107,
+              "title": "Introduction to Cryptography and Signatures",
+              "description": "Get an overview of the cryptographic techniques used in Ethereum, including digital signatures, which ensure the integrity and authenticity of transactions.",
+              "url": "https://medium.com/immunefi/intro-to-cryptography-and-signatures-in-ethereum-2025b6a4a33d",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 108,
+              "title": "Understanding Merkle-Patricia Trie",
+              "description": "Explore the data structure known as the Merkle-Patricia Trie, which is used by Ethereum to store key-value pairs in a secure and efficient manner.",
+              "url": "https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/",
+              "type": "General",
+              "level": "Intermediate"
+            },
+            {
+              "id": 109,
+              "title": "What is an Ethereum Improvement Proposal (EIP)?",
+              "description": "Learn about Ethereum Improvement Proposals (EIPs), the process by which changes and upgrades to the Ethereum network are proposed, discussed, and implemented.",
+              "url": "https://ethereum.org/en/eips/#introduction-to-ethereum-improvement-proposals",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 110,
+              "title": "Proof-of-Stake Consensus Mechanism",
+              "description": "Understand the Proof-of-Stake (PoS) consensus mechanism, how it differs from Proof-of-Work (PoW), and its benefits for the Ethereum network.",
+              "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/",
+              "type": "Consensus Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 111,
+              "title": "How Block Proposals Work in Proof-of-Stake",
+              "description": "Discover how blocks are proposed and validated in a Proof-of-Stake system, including the roles of validators and attestations.",
+              "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/block-proposal/",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 112,
+              "title": "An Introduction to the Beacon Chain",
+              "description": "Get to know the Beacon Chain, its role in Ethereum 2.0, and how it helps manage and coordinate the Proof-of-Stake network.",
+              "url": "https://kb.beaconcha.in/v2beta/introduction",
+              "type": "Consensus Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 113,
+              "title": "What is the Ethereum Virtual Machine (EVM)?",
+              "description": "Explore the Ethereum Virtual Machine (EVM), the runtime environment for smart contracts on Ethereum, and its importance in executing decentralized applications.",
+              "url": "https://ethereum.org/en/developers/docs/evm/",
+              "type": "Execution Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 114,
+              "title": "Ethereum Node Architecture Explained",
+              "description": "Learn about the architecture of an Ethereum node, including its components and how they work together to maintain the blockchain.",
+              "url": "https://geth.ethereum.org/docs/fundamentals/node-architecture",
+              "type": "Consensus + Execution Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 115,
+              "title": "Engine API: A Visual Guide",
+              "description": "A visual guide to the Engine API, which helps developers interact with and build on the Ethereum network more efficiently.",
+              "url": "https://hackmd.io/@danielrachi/engine_api#Engine-API-A-Visual-Guide",
+              "type": "Consensus + Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 116,
+              "title": "Understanding Ethereum's Networking Layer",
+              "description": "Delve into the networking layer of Ethereum, which ensures secure and reliable communication between nodes in the decentralized network.",
+              "url": "https://ethereum.org/en/developers/docs/networking-layer/",
+              "type": "Consensus + Execution Layer",
+              "level": "Intermediate"
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "title": "Cryptography",
+          "items": [
+            {
+              "id": 201,
+              "title": "Foundational Cryptography in Ethereum",
+              "description": "An in-depth look at the cryptographic principles and methods that underpin the security and functionality of the Ethereum blockchain.",
+              "url": "https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc",
+              "type": "General",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 300,
+          "title": "Consensus Layer",
+          "items": [
+            {
+              "id": 301,
+              "title": "In-Depth Look into the Beacon Chain",
+              "description": "A comprehensive examination of the Beacon Chain, detailing its structure, functionality, and significance in the Ethereum 2.0 upgrade.",
+              "url": "https://0xfoobar.substack.com/p/ethereum-proof-of-stake",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 302,
+              "title": "Overview of the Gasper Finality Mechanism",
+              "description": "Understand the Gasper finality mechanism used in Ethereum's Proof-of-Stake consensus, ensuring blocks are finalized and part of the canonical chain.",
+              "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/gasper/",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 303,
+              "title": "Understanding Weak Subjectivity in Proof-of-Stake",
+              "description": "Learn about weak subjectivity in the context of Proof-of-Stake, including its implications for network security and validator responsibilities.",
+              "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/weak-subjectivity/",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 304,
+              "title": "What Are Attestations in Ethereum?",
+              "description": "Discover the concept of attestations in Ethereum, how they are used in the consensus process, and their importance in maintaining network integrity.",
+              "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attestations/",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 305,
+              "title": "Rewards and Penalties in Proof-of-Stake",
+              "description": "Explore the system of rewards and penalties for validators in Ethereum's Proof-of-Stake mechanism, incentivizing honest behavior and network participation.",
+              "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/rewards-and-penalties/",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 306,
+              "title": "Proof-of-Stake: Attack and Defense Mechanisms",
+              "description": "Learn about the various attack vectors in a Proof-of-Stake system and the defensive measures in place to protect the network.",
+              "url": "https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attack-and-defense/",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 307,
+              "title": "Ethereum Consensus Specification",
+              "description": "An overview of the Ethereum consensus specification, detailing the rules and protocols that ensure the blockchain's consistency and security.",
+              "url": "https://github.com/ethereum/consensus-specs",
+              "type": "Consensus Layer",
+              "level": "Advanced"
+            },
+            {
+              "id": 308,
+              "title": "In-Depth Look at Casper Finality Mechanism",
+              "description": "A deep dive into the Casper finality mechanism, which helps achieve consensus in Ethereum's Proof-of-Stake network.",
+              "url": "https://arxiv.org/pdf/1710.09437",
+              "type": "Consensus Layer",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 400,
+          "title": "Execution Layer",
+          "items": [
+            {
+              "id": 401,
+              "title": "EVM Deep Dive Part 1",
+              "description": "The first part of an in-depth exploration of the Ethereum Virtual Machine (EVM), covering its architecture and functionality.",
+              "url": "https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r&ref=decipherclub.com",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 402,
+              "title": "EVM Deep Dive Part 2",
+              "description": "The second part of the exploration of the EVM, focusing on advanced topics and deeper technical details.",
+              "url": "https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc",
+              "type": "Execution Layer",
+              "level": "Advanced"
+            },
+            {
+              "id": 403,
+              "title": "Understanding Gas and Fees",
+              "description": "Learn about gas and fees in Ethereum, how they work, and their role in incentivizing miners and validators to process transactions.",
+              "url": "https://ethereum.org/en/developers/docs/gas/",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 404,
+              "title": "Exploring EVM Opcodes",
+              "description": "An in-depth look at EVM opcodes, the low-level instructions executed by the Ethereum Virtual Machine.",
+              "url": "https://ethereum.org/en/developers/docs/evm/opcodes/",
+              "type": "Execution Layer",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 500,
+          "title": "Dencun",
+          "items": [
+            {
+              "id": 501,
+              "title": "Introduction to Optimistic Rollups",
+              "description": "Understand optimistic rollups, a layer 2 scaling solution for Ethereum that aims to increase transaction throughput and reduce costs.",
+              "url": "https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/",
+              "type": "Data Availability Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 502,
+              "title": "Dencun Upgrade Part 1",
+              "description": "Start with an overview of the Dencun upgrade, outlining the changes and improvements in the upcoming Cancun-Deneb hard fork on Ethereum. This includes a detailed exploration of two Cancun-specific execution layer upgrades: EIP-6780 and EIP-5656.",
+              "url": "https://consensys.io/blog/ethereum-dencun-upgrade-explained-part-1",
+              "type": "Consensus + Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 503,
+              "title": "Dencun Upgrade Part 2",
+              "description": "Examine key upgrades focused on staking and validators, specifically EIP-7044 and EIP-7045.",
+              "url": "https://consensys.io/blog/ethereum-evolved-dencun-upgrade-part-2-eip-7044-eip-7045",
+              "type": "Consensus + Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 504,
+              "title": "Dencun Upgrade Part 3",
+              "description": "Explore EIP-4788, an upgrade aimed at reducing trust assumptions in staking pools and restaking arrangements.",
+              "url": "https://consensys.io/blog/ethereum-evolved-dencun-upgrade-part-3-eip-4788",
+              "type": "Consensus + Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 505,
+              "title": "Dencun Upgrade Part 4",
+              "description": "Understand EIP-7514, which will modify the validator churn limit, and EIP-1153, which introduces transient storage opcodes to the EVM execution layer.",
+              "url": "https://consensys.io/blog/ethereum-evolved-dencun-upgrade-part-4-eip-7514-and-eip-1153",
+              "type": "Consensus + Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 506,
+              "title": "Dencun Upgrade Part 5",
+              "description": "Discover EIP-4844, also known as “proto-danksharding,” which will significantly reduce the cost of posting L2 rollup data to the Ethereum mainnet using “blobs.”",
+              "url": "https://consensys.io/blog/ethereum-evolved-dencun-upgrade-part-5-eip-4844",
+              "type": "Consensus + Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 507,
+              "title": "Introduction to Dank Sharding",
+              "description": "An introduction to Dank Sharding, a proposed scaling solution for Ethereum that aims to increase the network's capacity and efficiency.",
+              "url": "https://ethereum.org/en/roadmap/danksharding/",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 508,
+              "title": "Dank Sharding FAQ",
+              "description": "Frequently asked questions about Dank Sharding, providing answers and clarifications about this scaling solution.",
+              "url": "https://notes.ethereum.org/@vbuterin/proto_danksharding_faq",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 509,
+              "title": "Understanding Verkle Trees",
+              "description": "Explore Verkle Trees, a new cryptographic data structure proposed for Ethereum to improve scalability and efficiency.",
+              "url": "https://verkle.info/",
+              "type": "General",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 600,
+          "title": "Solidity Compiler",
+          "items": [
+            {
+              "id": 601,
+              "title": "Solidity 101: Introduction to Smart Contracts",
+              "description": "A beginner's guide to Solidity, Ethereum's programming language for writing smart contracts, including basic concepts and examples.",
+              "url": "https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html",
+              "type": "Execution Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 602,
+              "title": "Analyzing Compilation Output in Solidity",
+              "description": "Learn how to analyze the compilation output of Solidity contracts, understanding the generated bytecode and its implications.",
+              "url": "https://docs.soliditylang.org/en/latest/analysing-compilation-output.html",
+              "type": "Execution Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 603,
+              "title": "Layout of State Variables in Storage",
+              "description": "Understand how state variables are laid out in Ethereum's storage, affecting gas costs and contract interactions.",
+              "url": "https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 604,
+              "title": "Layout of State Variables in Memory",
+              "description": "Discover how state variables are organized in memory during contract execution, impacting performance and efficiency.",
+              "url": "https://docs.soliditylang.org/en/latest/internals/layout_in_memory.html",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 605,
+              "title": "Layout of State Variables in Calldata",
+              "description": "Explore how state variables are managed in calldata, a data location used for function arguments in Solidity contracts.",
+              "url": "https://docs.soliditylang.org/en/latest/internals/layout_in_calldata.html",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 606,
+              "title": "Understanding the Solidity Optimizer",
+              "description": "Learn about the Solidity optimizer, a tool that improves the efficiency of compiled smart contract code, reducing gas costs.",
+              "url": "https://docs.soliditylang.org/en/latest/internals/optimizer.html",
+              "type": "Execution Layer",
+              "level": "Advanced"
+            },
+            {
+              "id": 607,
+              "title": "SMTChecker and Formal Verification",
+              "description": "An overview of SMTChecker and formal verification tools in Solidity, used to ensure the correctness and security of smart contracts.",
+              "url": "https://docs.soliditylang.org/en/latest/smtchecker.html",
+              "type": "Execution Layer",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 700,
+          "title": "Vyper Compiler",
+          "items": [
+            {
+              "id": 701,
+              "title": "Vyper Documentation",
+              "description": "Explore the official Vyper documentation, offering in-depth guides, syntax explanations, and best practices for writing secure and efficient Ethereum smart contracts using the Vyper language.",
+              "url": "https://docs.vyperlang.org/en/latest/index.html",
+              "type": "Execution Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 702,
+              "title": "How Vyper Compiles into Bytecode",
+              "description": "Learn about the process by which Vyper source code is transformed into Ethereum bytecode, enabling the deployment of smart contracts to the blockchain and providing insights into the bytecode structure.",
+              "url": "https://hackmd.io/@pcaversaccio/how-vyper-compiles-into-bytecode",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 703,
+              "title": "A Guide to Vyper Jump Tables",
+              "description": "Delve into jump tables in Vyper, an advanced technique used to optimize contract execution by improving the efficiency of conditional branching, leading to reduced gas costs and streamlined logic.",
+              "url": "https://hackmd.io/-P5_J7AUQoGg0Cdt8DQPmg",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 704,
+              "title": "Past Compiler Vulnerabilities",
+              "description": "Review notable vulnerabilities discovered in the Vyper compiler over time, and gain insights into how these issues have shaped the current security practices in Vyper development.",
+              "url": "https://github.com/vyperlang/vyper/security/advisories",
+              "type": "Execution Layer",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 800,
+          "title": "Running a Proof of Concept (PoC)",
+          "items": [
+            {
+              "id": 801,
+              "title": "Attacknet: Chaos Testing Blockchain Nodes",
+              "description": "An overview of Attacknet, a tool and testing methodology for subjecting blockchain devnets to simulated network and side channel attacks.",
+              "url": "https://blog.trailofbits.com/2024/03/18/releasing-the-attacknet-a-new-tool-for-finding-bugs-in-blockchain-nodes-using-chaos-testing/",
+              "type": "Consensus + Execution Layer",
+              "level": "Beginner"
+            },
+            {
+              "id": 802,
+              "title": "How to PoC execution layer bugs",
+              "description": "Documentation on the execution-spec-tests framework used to help uncover issues in the execution layer.",
+              "url": "https://ethereum.github.io/execution-spec-tests/v3.0.0/",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 803,
+              "title": "How to PoC consensus bugs",
+              "description": "Documentation on using PySpec to run tests for the Ethereum consensus layer.",
+              "url": "https://github.com/ethereum/consensus-specs/tree/dev/tests/core/pyspec",
+              "type": "Consensus Layer",
+              "level": "Advanced"
+            },
+            {
+              "id": 804,
+              "title": "Setting Up and Installing the Solidity Compiler",
+              "description": "A step-by-step guide on how to set up and install the Solidity compiler, including building from source.",
+              "url": "https://docs.soliditylang.org/en/latest/installing-solidity.html#building-from-source",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 805,
+              "title": "How to run Solidity Compiler Tests",
+              "description": "Instructions on how to run PoC tests for the Solidity compiler, helping to identify and fix potential issues.",
+              "url": "https://docs.soliditylang.org/en/latest/contributing.html#running-the-compiler-tests",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 806,
+              "title": "How to run Vyper Compiler Tests",
+              "description": "Instructions on how to run PoC tests for the Vyper compiler, helping to identify and fix potential issues.",
+              "url": "https://github.com/vyperlang/vyper?tab=readme-ov-file#testing-using-pytest",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 807,
+              "title": "How to run Client Tests",
+              "description": "A compilation of instructions on how to run PoC tests for individual client software.",
+              "url": "https://immunefi.slite.com/app/docs/JFep5UJMfd9fhi",
+              "type": "Consensus + Execution Layer",
+              "level": "Advanced"
+            }
+          ]
+        },
+        {
+          "id": 900,
+          "title": "Audits & Known Issues",
+          "items": [
+            {
+              "id": 901,
+              "title": "Consensus Layer Public Disclosures Part 1",
+              "description": "Public disclosures related to the consensus layer of Ethereum, detailing identified issues and their resolutions.",
+              "url": "https://github.com/ethereum/public-disclosures/blob/master/disclosures/CL-2021-12-01.md",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 902,
+              "title": "Consensus Layer Public Disclosures Part 2",
+              "description": "The second part of public disclosures for the consensus layer, providing updates on new findings and fixes.",
+              "url": "https://github.com/ethereum/public-disclosures/blob/master/disclosures/CL-2023-05-03.md",
+              "type": "Consensus Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 903,
+              "title": "Execution Layer Public Disclosures Part 1",
+              "description": "Public disclosures for the execution layer of Ethereum, covering known vulnerabilities and their mitigations.",
+              "url": "https://github.com/ethereum/public-disclosures/blob/master/disclosures/EL-2021-12-01.md",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 904,
+              "title": "Execution Layer Public Disclosures Part 2",
+              "description": "The second part of public disclosures for the execution layer, discussing additional vulnerabilities and fixes.",
+              "url": "https://github.com/ethereum/public-disclosures/blob/master/disclosures/EL-2023-05-03.md",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            },
+            {
+              "id": 905,
+              "title": "Further Known Issues",
+              "description": "A compiled list of known issues from client and language teams, providing insights into current limitations and bugs.",
+              "url": "https://immunefi.slite.com/app/docs/npGhR5rBwFfnTi",
+              "type": "Execution Layer",
+              "level": "Intermediate"
+            }
+          ]
+        },
+        {
+          "id": 1000,
+          "title": "Technical FAQ",
+          "items": [
+            {
+              "id": 1001,
+              "title": "Client Diversity",
+              "description": "An analysis of client diversity in the Ethereum network, examining the distribution of different clients and their impact on the network's security and decentralization.",
+              "url": "https://clientdiversity.org/",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 1002,
+              "title": "Ethereum Terminology Guide",
+              "description": "A comprehensive guide to the terminology used in the Ethereum ecosystem, helping newcomers understand key concepts and jargon.",
+              "url": "https://ethereum.org/en/developers/docs/intro-to-ethereum/#terminology",
+              "type": "General",
+              "level": "Beginner"
+            },
+            {
+              "id": 1003,
+              "title": "The Ethereum White Paper",
+              "description": "The Ethereum white paper which outlines the vision, principles, and technical foundation of Ethereum.",
+              "url": "https://ethereum.org/en/whitepaper/",
+              "type": "General",
+              "level": "Advanced"
+            },
+            {
+              "id": 1004,
+              "title": "The Ethereum Yellow Paper",
+              "description": "A detailed technical specification of Ethereum, known as the Yellow Paper, which provides an in-depth look at the protocol's mechanics and architecture.",
+              "url": "https://ethereum.github.io/yellowpaper/paper.pdf",
+              "type": "General",
+              "level": "Advanced"
+            },
+            {
+              "id": 1005,
+              "title": "Further Resources",
+              "description": "All further resources will be available via the following Slite page.",
+              "url": "https://immunefi.slite.page/p/fJaOCFZcD84Asc/Ethereum-protocol-Attackathon-Resources",
+              "type": "",
+              "level": ""
+            }
+          ]
+        }
+      ]
+    },
     "ethereumAttackathonSponsors": {
       "tier1SponsorsTitle": "Unicorn Sponsors",
       "tier1SponsorsLogos": [
@@ -545,23 +1158,163 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": null,
-      "boostedIntroStartingIn": "",
-      "boostedIntroLive": "",
+      "evaluationEndDate": "2025-05-22T12:56:05.879Z",
+      "boostedIntroStartingIn": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.\n\nWhen the $1.5 million Ethereum Protocol Attackathon has ended, Immunefi will publish a leaderboard, Attackathon findings report, whitehat spotlights, and bugfix reviews.\n\n**October 28th onward:**\n\nThe Ethereum Protocol Education Period is live. To help you learn the Ethereum Protocol quickly and deeply, we'll be providing the Ethereum Protocol Academy, a learning page designed for security researchers to help you upskill on the Ethereum protocol as well as the Ethereum clients. We’ll also host a series of technical walkthroughs, and both the Ethereum Protocol and Ethereum client teams will provide direct technical support. \n\nYou can ask the Ethereum Protocol or Ethereum client teams any questions directly in the [Ethereum Protocol Attackathon Discord channel](https://discord.com/invite/immunefi) on Immunefi's Discord. Just make sure to tag the appropriate Ethereum client team.\n\n**November 25th 2024 2pm UTC to January 20th 2025 2pm UTC:**\n\nEthereum Protocol’s Attackathon is live. Find bugs and earn rewards. \n\nDuring the Attackathon, the Ethereum Protocol and Ethereum client teams commit to responding within 48 hours on weekdays to all bug reports. \n\n[Sign up here for Ethereum Protocol Attackathon Updates](https://marketing.immunefi.com/eth-attackathon-signup).",
+      "boostedIntroLive": "Up to $1.5 million USD is available in Attackathon rewards during November 25th to January 20, 2025.\n\nYou can ask the Ethereum Protocol team any questions directly in the [Ethereum Attackathon Discord channel](https://discord.gg/immunefi?utm_source=immunefi) on Immunefi's Discord. During the Attackathon, Ethereum Protocol commits to responding within 48 hours on weekdays to all bug reports.\n\nAfter the Attackathon, Immunefi will publish a leaderboard and Attackathon findings report, as well as whitehat spotlights and bugfix reviews for top placements.",
       "boostedIntroEvaluating": "",
       "boostedIntroFinished": "",
       "rewardsToken": "ETH",
-      "rewardsPool": 0,
-      "primaryPool": null,
-      "allStarsPool": null,
-      "podiumPool": null,
+      "rewardsPool": 1500000,
+      "primaryPool": 1500000,
+      "allStarsPool": 0,
+      "podiumPool": 0,
       "sourceLinesOfCode": 0,
-      "boostedSummaryReport": null,
+      "boostedSummaryReport": "https://drive.google.com/file/d/15lCy1jza9MsnDooWmponwdaTq_EjV2-m/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
-      "features": [],
-      "academyStartDate": null,
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "anatomist",
+          "critical": 0,
+          "earnings": 148677,
+          "insights": 3,
+          "mediumLow": 9,
+          "totalValidBugs": 9
+        },
+        {
+          "high": 0,
+          "name": "gln",
+          "critical": 0,
+          "earnings": 146250,
+          "insights": 0,
+          "mediumLow": 7,
+          "totalValidBugs": 7
+        },
+        {
+          "high": 0,
+          "name": "CertiK",
+          "critical": 0,
+          "earnings": 90801,
+          "insights": 14,
+          "mediumLow": 6,
+          "totalValidBugs": 6
+        },
+        {
+          "high": 0,
+          "name": "Franfran",
+          "critical": 0,
+          "earnings": 33750,
+          "insights": 0,
+          "mediumLow": 3,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "Blobism",
+          "critical": 0,
+          "earnings": 33750,
+          "insights": 0,
+          "mediumLow": 3,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "Omik",
+          "critical": 0,
+          "earnings": 16590,
+          "insights": 3,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "troy_ar",
+          "critical": 0,
+          "earnings": 15134,
+          "insights": 2,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "br0nz3p1ck4x3",
+          "critical": 0,
+          "earnings": 4369,
+          "insights": 3,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Pig46940",
+          "critical": 0,
+          "earnings": 2913,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "cheems",
+          "critical": 0,
+          "earnings": 2427,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "csludo",
+          "critical": 0,
+          "earnings": 2427,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "impermanentW",
+          "critical": 0,
+          "earnings": 1456,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "a3yip6",
+          "critical": 0,
+          "earnings": 1456,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "[redacted]",
+          "critical": 0,
+          "earnings": 0,
+          "insights": 3,
+          "mediumLow": 3,
+          "totalValidBugs": 3
+        },
+        {
+          "high": 0,
+          "name": "[redacted]",
+          "critical": 0,
+          "earnings": 0,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
+      "features": [
+        "Attackathon",
+        "Managed Triage: Time Saver",
+        "Vault"
+      ],
+      "academyStartDate": "2024-10-28T08:00:00.000Z",
       "websiteUrl": null,
       "description": "Ethereum is a decentralized blockchain that exists whenver there are connected computers running software following the Ethereum protocol and adding to the Ethereum Blockchain. ",
       "githubUrl": null,
