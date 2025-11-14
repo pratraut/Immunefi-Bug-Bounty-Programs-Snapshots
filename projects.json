@@ -239,7 +239,7 @@
     "date": "2025-01-30T14:58:00.000Z",
     "launchDate": "2025-01-30T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-09-15T08:48:43.197Z",
+    "updatedDate": "2025-11-14T08:18:10.270Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -2919,7 +2919,7 @@
     "date": "2024-09-16T15:00:00.000Z",
     "launchDate": "2024-09-16T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-20T06:07:52.802Z",
+    "updatedDate": "2025-11-14T08:43:17.004Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications",
@@ -3709,52 +3709,6 @@
       "language": [
         "JavaScript",
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "663zsMRdw2B421Jhp9ryci",
-    "id": "acala",
-    "project": "Acala",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2yQpKoZm8AOR2wLqYzZa9j/fd4701886536ad5828e0ff05edd4771d/acala_logo.png",
-    "date": "2021-12-14T02:00:00.000Z",
-    "launchDate": "2021-12-14T02:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-02-10T09:46:26.507Z",
-    "kyc": false,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Stablecoin",
-        "Staking"
-      ],
-      "projectType": [
-        "Blockchain",
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Polkadot"
-      ],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Rust"
       ],
       "featured": [
         "Launched Recently"
@@ -6148,6 +6102,52 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "663zsMRdw2B421Jhp9ryci",
+    "id": "acala",
+    "project": "Acala",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2yQpKoZm8AOR2wLqYzZa9j/fd4701886536ad5828e0ff05edd4771d/acala_logo.png",
+    "date": "2021-12-14T02:00:00.000Z",
+    "launchDate": "2021-12-14T02:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-13T22:34:38.927Z",
+    "kyc": false,
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required"
+      ],
+      "productType": [
+        "Stablecoin",
+        "Staking"
+      ],
+      "projectType": [
+        "Blockchain",
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH",
+        "Polkadot"
+      ],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "65IUTLeEU19IHIUgCAATRX",
     "id": "reaperfarm",
     "project": "Reaper Farm",
@@ -6652,7 +6652,7 @@
     "date": "2025-10-02T05:00:00.000Z",
     "launchDate": "2025-10-02T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-02T17:53:43.996Z",
+    "updatedDate": "2025-11-14T12:01:47.195Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6909,46 +6909,6 @@
       "featured": [
         "Launched Recently",
         "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "Hhs3WaasggkNCR2kVtjOT",
-    "id": "omron",
-    "project": "Omron",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2pTpT9c23a8EsYWlTP0HHD/aac2962a431a6d01b66dff78ccbf2e46/Inference_Labs.png",
-    "date": "2024-09-30T19:44:15.000Z",
-    "launchDate": "2024-09-30T19:44:15.000Z",
-    "endDate": null,
-    "updatedDate": "2025-06-27T08:41:17.174Z",
-    "kyc": true,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Arbitration"
-      ],
-      "productType": [
-        "Zero-Knowledge Proofs"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
       ]
     },
     "premiumTriaging": false
@@ -10138,51 +10098,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4ByTF7Xht0SidYzpiuvOVq",
-    "id": "nexusmutual",
-    "project": "Nexus Mutual",
-    "maximum_reward": 50000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7EnL7ZjXRSux9PUrPA8rJ6/2e8adefab735fed30e37d2d744b20964/NXM_Token_Logo.svg",
-    "date": "2021-02-23T07:00:00.000Z",
-    "launchDate": "2021-02-23T07:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-10-14T07:32:28.981Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Insurance"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "15i1mHsOYE40hTnY3i5alD",
     "id": "immunefi",
     "project": "Immunefi",
@@ -11304,6 +11219,51 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "4ByTF7Xht0SidYzpiuvOVq",
+    "id": "nexusmutual",
+    "project": "Nexus Mutual",
+    "maximum_reward": 25000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7EnL7ZjXRSux9PUrPA8rJ6/2e8adefab735fed30e37d2d744b20964/NXM_Token_Logo.svg",
+    "date": "2021-02-23T07:00:00.000Z",
+    "launchDate": "2021-02-23T07:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-14T12:09:41.156Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "Insurance"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "1dEOTkEoAGVKbbDyDxczIy",
     "id": "daimo-pay",
     "project": "Daimo Pay",
@@ -11928,6 +11888,46 @@
       "language": [
         "Solidity"
       ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "Hhs3WaasggkNCR2kVtjOT",
+    "id": "omron",
+    "project": "Omron",
+    "maximum_reward": 15000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2pTpT9c23a8EsYWlTP0HHD/aac2962a431a6d01b66dff78ccbf2e46/Inference_Labs.png",
+    "date": "2024-09-30T19:44:15.000Z",
+    "launchDate": "2024-09-30T19:44:15.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-14T12:07:00.706Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "PoC Not Required",
+        "Arbitration"
+      ],
+      "productType": [
+        "Zero-Knowledge Proofs"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [],
       "featured": [
         "Launched Recently"
       ]
