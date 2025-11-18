@@ -6295,7 +6295,7 @@
     "date": "2021-03-29T07:00:00.000Z",
     "launchDate": "2021-03-29T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-13T08:45:59.168Z",
+    "updatedDate": "2025-11-18T16:15:06.636Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -8205,55 +8205,6 @@
       ],
       "ecosystem": [
         "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "29ROTrAICHycrsWdltijt5",
-    "id": "popsicle",
-    "project": "Popsicle",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2uaiuBlUHSOyHVrNn2Lirb/3748ee8aa473d05c405d666f8f4a3e49/Popsicle.jpeg",
-    "date": "2021-08-20T15:00:00.000Z",
-    "launchDate": "2021-08-20T15:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-18T16:06:16.022Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required"
-      ],
-      "productType": [
-        "Bridge",
-        "Yield Aggregator"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "Arbitrum",
-        "Avalanche",
-        "BSC",
-        "ETH",
-        "Fantom",
-        "Polygon"
       ],
       "programType": [
         "Smart Contract"
@@ -12341,51 +12292,6 @@
         "Websites and Applications"
       ],
       "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "1NIvFoEcldcrqRt2A65eia",
-    "id": "poolshark",
-    "project": "Poolshark",
-    "maximum_reward": 10000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5vWq1HMmVZFfMVSgjdyMu0/22b6134565d7081bfed2b0eafdac6578/photo_2024-01-24_15.57.28.jpeg",
-    "date": "2024-01-24T16:03:00.000Z",
-    "launchDate": "2024-01-24T16:03:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-11T14:09:38.819Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "PoC Not Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "DEX"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript"
-      ],
       "featured": [
         "Launched Recently"
       ]
