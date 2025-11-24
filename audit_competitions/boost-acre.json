@@ -326,6 +326,7 @@
         "Managed Triage: Time Saver"
       ],
       "academyStartDate": null,
+      "proofOfConceptType": null,
       "websiteUrl": "https://acre.fi",
       "description": "Acre is the liquidity layer for Bitcoin scaling. Users deposit BTC and receive stBTC representing their deposited BTC. The deposited BTC is deployed to Bitcoin layers that use BTC as their Proof-of-Stake asset, generating rewards for stBTC holders.",
       "githubUrl": "https://github.com/thesis/acre/tree/main/solidity/contracts",

@@ -367,6 +367,7 @@
         "Managed Triage: Time Saver"
       ],
       "academyStartDate": null,
+      "proofOfConceptType": null,
       "websiteUrl": null,
       "description": "Shardeum is an EVM-based, linearly scalable network offering low gas fees forever while maintaining true decentralization and (hopefully) solid security. Shardeum is a large project and as such, will be split over two concurrent audit competitions. This audit competition, called Core, will cover the Web3 aspects of the project, as well as some internal libs. This will cover three components: Shardus Core, Shardeum Validator, and Crypto Utils library.",
       "githubUrl": null,

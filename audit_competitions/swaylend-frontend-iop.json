@@ -250,6 +250,7 @@
         "Vault"
       ],
       "academyStartDate": null,
+      "proofOfConceptType": null,
       "websiteUrl": "https://swaylend.com/",
       "description": "Swaylend is a leading lending protocol on the Fuel network, based on a fork of Compound V3.\n\nFor more information, visit: https://swaylend.com/\n\n**IOP | Swaylend Frontend focuses on Web2 attack vectors. Please review the in-scope impacts.**\n\nSwaylend rewards are provided in USDC, denominated in USD.",
       "githubUrl": "https://github.com/Swaylend/swaylend-monorepo/tree/develop/apps/frontend  https://app.swaylend.com/ ",

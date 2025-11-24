@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4bZnUNgmQOUv5WMlx0358S/8890b3afddc4a6dda01e4dc483e8f1b8/Vesu.png",
       "launchDate": "2024-07-10T14:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-20T09:08:06.313Z",
+      "updatedDate": "2025-11-24T08:58:27.425Z",
       "kyc": false,
       "rewards": [
         {
@@ -76,448 +76,6 @@
       ],
       "assets": [
         {
-          "id": "70QmCexVvH2es0sUCwn3Aj",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/vault_governor/vault_governor.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.722Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "42LkUro4Qk8yxGLg7fAUdv",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/vault_factory/vault_factory.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:27.971Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2vUnEqsDCNnfS2AySZ7xP7",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/rewards_handler/rewards_handler.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.568Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "VWN5k0Y1NHz48hXbe0bYI",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/price_router/price_router.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.704Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2TzzbRQU3Rv0jv5NtbBI2p",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/merkle_tree/integrations/vesu_v2.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:28.254Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2nDNAD1mSCBiI7Obqp0hbK",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/merkle_tree/integrations/starknet_vault_kit_strategies.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:28.966Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "3kYQi3YnxfUr9jE0ef1zzT",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/merkle_tree/integrations/starkgate.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:28.735Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "0jSW4IUBFupmem09rqVaJ",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/merkle_tree/integrations/erc4626.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:28.508Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "cFYiLfXsBz2pKkOxFnhvK",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/merkle_tree/integrations/avnu.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.201Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "60vASzbaBI4H6B94dMyKtH",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/merkle_tree/base.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.424Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "y06dxHGwMPYsmhpToFQVX",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/merkle_tree_creator.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.654Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "1gE4ClKmUePaRW8sSypJRg",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/lib.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.787Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2Eb5xCCT5bleCbnHSC7ZfP",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/aum_provider/aum_provider.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.958Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5oJUXhCCY9e3uV78IetyIm",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/v_token.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.903Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2cfWxaGhrHcrRR9NPqdjBR",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/units.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:29.947Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5mQnXT9sXSZP1M5y0qUMOI",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/pool.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:31.733Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "6frjCPzzFtojKHHsxyl8dr",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/pool_factory.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.169Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "64ZBoIT2BYFOp2jTDuwPGt",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/packing.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.179Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "7pL7rfV0au8Gpu5lm5Thkx",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/oracle.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.337Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "7imBKevlL1XMKOSj06F4jH",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/math.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.424Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "79BQ9OtrZT9sKRBxWz88xT",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/lib.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.446Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "1b8XNC6VT3qzW1Xi8QfLKc",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/interest_rate_model.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.661Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "57gao9TRukV1TXImZ26WA7",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/data_model.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.672Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "33l6c0n0fwOTxqhL8nI4XG",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/common.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.590Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "RtQVLUvYJo318xM4buiQB",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/v_token.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.828Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "1qRQFHjIweSSnK5edlq4iS",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/v_token_v2.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:30.891Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2xPwrqgJigVhuK93VV9W7Z",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/units.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:32.706Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "4k1rzqIsOq4KKSaoLo5dSk",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/singleton_v2.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:32.771Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "6tB06QjLbSMWbhBMbgFmST",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/packing.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:31.108Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2cTIFJpzNy2Wqd5anflsuz",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/math.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:31.346Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "7gbz9gR0TQiPdI3LMMTsF7",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/lib.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:32.059Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "lpRN4IDtXrpZqOV1LQs1Y",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/default_extension_po_v2.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:31.584Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "3KdfAsxbMRsA9HHf7qzLm",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/components/tokenization.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:31.821Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "76aU8Goy7AzHMSH8QPy4MP",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/components/pragma_oracle.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:32.189Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
           "id": "1MI7AIu2n24fsx0HxlfVl4",
           "type": "smart_contract",
           "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/components/position_hooks.cairo",
@@ -525,19 +83,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-11-20T09:07:31.977Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "6dWHJx7cq1d1jnp7PvQrqO",
-          "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/components/interest_rate_model.cairo",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:32.394Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -557,13 +102,273 @@
           }
         },
         {
-          "id": "qxWfYS4JRNaX5VA3Rz7YN",
+          "id": "1b8XNC6VT3qzW1Xi8QfLKc",
           "type": "smart_contract",
-          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/data_model.cairo",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/interest_rate_model.cairo",
           "description": null,
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:07:32.612Z",
+          "addedAt": "2025-11-20T09:07:30.661Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "1gE4ClKmUePaRW8sSypJRg",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-vaults/blob/main/src/lib.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:29.787Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "1qRQFHjIweSSnK5edlq4iS",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/v_token_v2.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.891Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "2cTIFJpzNy2Wqd5anflsuz",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/math.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:31.346Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "2cfWxaGhrHcrRR9NPqdjBR",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/units.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:29.947Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "2xPwrqgJigVhuK93VV9W7Z",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/units.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:32.706Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "33l6c0n0fwOTxqhL8nI4XG",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/common.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.590Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "3KdfAsxbMRsA9HHf7qzLm",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/components/tokenization.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:31.821Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "4k1rzqIsOq4KKSaoLo5dSk",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/singleton_v2.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:32.771Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "57gao9TRukV1TXImZ26WA7",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/data_model.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.672Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5mQnXT9sXSZP1M5y0qUMOI",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/pool.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:31.733Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5oJUXhCCY9e3uV78IetyIm",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/v_token.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:29.903Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "64ZBoIT2BYFOp2jTDuwPGt",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/packing.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.179Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6dWHJx7cq1d1jnp7PvQrqO",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/components/interest_rate_model.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:32.394Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6frjCPzzFtojKHHsxyl8dr",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/pool_factory.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.169Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6tB06QjLbSMWbhBMbgFmST",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/packing.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:31.108Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "76aU8Goy7AzHMSH8QPy4MP",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/components/pragma_oracle.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:32.189Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "79BQ9OtrZT9sKRBxWz88xT",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/lib.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.446Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "7gbz9gR0TQiPdI3LMMTsF7",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/lib.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:32.059Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "7imBKevlL1XMKOSj06F4jH",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/math.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.424Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "7pL7rfV0au8Gpu5lm5Thkx",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v2/blob/main/src/oracle.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.337Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -577,6 +382,45 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-11-20T09:07:32.310Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "RtQVLUvYJo318xM4buiQB",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/v_token.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:30.828Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "lpRN4IDtXrpZqOV1LQs1Y",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/extension/default_extension_po_v2.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:31.584Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "qxWfYS4JRNaX5VA3Rz7YN",
+          "type": "smart_contract",
+          "url": "https://github.com/vesuxyz/vesu-v1.1/blob/main/src/data_model.cairo",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:07:32.612Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -700,12 +544,6 @@
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [
         {
-          "id": 622,
-          "title": "Vesu Vaults Protocol",
-          "description": "Vesu permissionless yield vaults protocol",
-          "url": "https://github.com/vesuxyz/vesu-vaults"
-        },
-        {
           "id": 623,
           "title": "Vesu V2 Lending Protocol",
           "description": "Vesu permissionless lending protocol with isolated pool instances",
@@ -729,6 +567,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
+      "proofOfConceptType": null,
       "premiumTriaging": true
     },
     "project": {

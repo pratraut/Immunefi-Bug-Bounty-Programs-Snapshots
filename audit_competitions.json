@@ -1,159 +1,5 @@
 [
   {
-    "contentfulId": "3uZCgJs3QLhIGK8ggqkRfj",
-    "id": "audit-comp-vechain-stargate-hayabusa",
-    "project": "Audit Comp | Vechain | Stargate Hayabusa",
-    "maximum_reward": 40000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7q4VEwyYrIzlUZx9hVaL79/0ef8226fec777e8be7c4564fd615398c/vechain__1_.png",
-    "date": "2025-11-10T10:00:00.000Z",
-    "launchDate": "2025-11-10T10:00:00.000Z",
-    "endDate": "2025-11-24T10:00:00.000Z",
-    "updatedDate": "2025-11-13T11:10:05.086Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-12-26T10:00:51.000Z",
-    "boostedIntroStartingIn": "### **$40,000 USD** in rewards is available for finding bugs on VeChain's Stargate contracts. 
-
-For more information about the project, please visit https://vechain.org/.
-
-Any technical questions and support requests can be asked directly to the Vechain team or Immunefi in the [#vechain-stargate-audit-competition](https://discord.com/channels/787092485969150012/1436371776182554705) discord channel. 
-
-When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish VeChain's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
-
-**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroLive": "### **$40,000 USD** in rewards is available for finding bugs on VeChain's Stargate contracts. 
-
-For more information about the project, please visit https://vechain.org/.
-- KYC is required.
-
-- Flat Reward Pool
-
-**Proof of Concept (PoC) Requirements**
-
-- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
-
-- Any technical questions and support requests can be asked directly to the VeChain team or Immunefi in the [#vechain-stargate-audit-competition](https://discord.com/channels/787092485969150012/1436371776182554705) discord channel.",
-    "boostedIntroEvaluating": "### Thank You to All Participating Security Researchers!
-
-The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
-    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
-
-Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
-    "rewardsToken": "USDT",
-    "rewardsPool": 40000,
-    "primaryPool": 28000,
-    "allStarsPool": 8000,
-    "podiumPool": 4000,
-    "sourceLinesOfCode": 1920,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Vault",
-      "Managed Triage: Signal Booster"
-    ],
-    "academyStartDate": null,
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "3oUNZcKXyGUxfFBOiEEgYd",
-    "id": "xrpl-ripple-attackathon",
-    "project": "Attackathon | XRPL Lending Protocol",
-    "maximum_reward": 200000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4iQ7O52KuNSnBE1aY3Zehg/bd3aef31fe459b3f65ccd652fab3730d/XRPL_-_Black500.png",
-    "date": "2025-10-27T14:00:00.000Z",
-    "launchDate": "2025-10-27T14:00:00.000Z",
-    "endDate": "2025-11-24T14:00:00.000Z",
-    "updatedDate": "2025-11-06T20:20:03.681Z",
-    "kyc": true,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "C/C++"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-12-30T14:00:00.000Z",
-    "boostedIntroStartingIn": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
-
-October 13th, the Attackathon Education Period begins for XRPL Lending Protocol — launching the ‘XRPL Lending Protocol Academy’, and opening direct access to the XRPL’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “xrpl-attackathon\" channel.",
-    "boostedIntroLive": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
-
-You can ask technical questions to the XRPL's Team directly in the #xrpl-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the XRPL Lending Protocol Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "### **Thank You to All Participating Security Researchers!**
-
-The Attackathon has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
-    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
-
-Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
-    "rewardsToken": "RLUSD",
-    "rewardsPool": 200000,
-    "primaryPool": 140000,
-    "allStarsPool": 40000,
-    "podiumPool": 20000,
-    "sourceLinesOfCode": 35498,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Vault",
-      "Managed Triage: Signal Booster"
-    ],
-    "academyStartDate": "2025-10-13T14:00:00.000Z",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "6uTxg437HfB2PZxEJdHrVQ",
     "id": "lido-v3-bug-bounty-competition",
     "project": "Bug Bounty Comp | Lido V3",
@@ -253,6 +99,93 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3uZCgJs3QLhIGK8ggqkRfj",
+    "id": "audit-comp-vechain-stargate-hayabusa",
+    "project": "Audit Comp | Vechain | Stargate Hayabusa",
+    "maximum_reward": 40000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/7q4VEwyYrIzlUZx9hVaL79/0ef8226fec777e8be7c4564fd615398c/vechain__1_.png",
+    "date": "2025-11-10T10:00:00.000Z",
+    "launchDate": "2025-11-10T10:00:00.000Z",
+    "endDate": "2025-11-24T10:00:00.000Z",
+    "updatedDate": "2025-11-13T11:10:05.086Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-12-26T10:00:51.000Z",
+    "boostedIntroStartingIn": "### **$40,000 USD** in rewards is available for finding bugs on VeChain's Stargate contracts. 
+
+For more information about the project, please visit https://vechain.org/.
+
+Any technical questions and support requests can be asked directly to the Vechain team or Immunefi in the [#vechain-stargate-audit-competition](https://discord.com/channels/787092485969150012/1436371776182554705) discord channel. 
+
+When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish VeChain's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
+
+**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
+    "boostedIntroLive": "### **$40,000 USD** in rewards is available for finding bugs on VeChain's Stargate contracts. 
+
+For more information about the project, please visit https://vechain.org/.
+- KYC is required.
+
+- Flat Reward Pool
+
+**Proof of Concept (PoC) Requirements**
+
+- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
+
+- Any technical questions and support requests can be asked directly to the VeChain team or Immunefi in the [#vechain-stargate-audit-competition](https://discord.com/channels/787092485969150012/1436371776182554705) discord channel.",
+    "boostedIntroEvaluating": "### Thank You to All Participating Security Researchers!
+
+The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
+    "rewardsToken": "USDT",
+    "rewardsPool": 40000,
+    "primaryPool": 28000,
+    "allStarsPool": 8000,
+    "podiumPool": 4000,
+    "sourceLinesOfCode": 1920,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Vault",
+      "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -339,6 +272,77 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "3oUNZcKXyGUxfFBOiEEgYd",
+    "id": "xrpl-ripple-attackathon",
+    "project": "Attackathon | XRPL Lending Protocol",
+    "maximum_reward": 200000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4iQ7O52KuNSnBE1aY3Zehg/bd3aef31fe459b3f65ccd652fab3730d/XRPL_-_Black500.png",
+    "date": "2025-10-27T14:00:00.000Z",
+    "launchDate": "2025-10-27T14:00:00.000Z",
+    "endDate": "2025-11-24T14:00:00.000Z",
+    "updatedDate": "2025-11-06T20:20:03.681Z",
+    "kyc": true,
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "C/C++"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-12-30T14:00:00.000Z",
+    "boostedIntroStartingIn": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
+
+October 13th, the Attackathon Education Period begins for XRPL Lending Protocol — launching the ‘XRPL Lending Protocol Academy’, and opening direct access to the XRPL’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “xrpl-attackathon\" channel.",
+    "boostedIntroLive": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
+
+You can ask technical questions to the XRPL's Team directly in the #xrpl-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the XRPL Lending Protocol Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "### **Thank You to All Participating Security Researchers!**
+
+The Attackathon has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
+    "rewardsToken": "RLUSD",
+    "rewardsPool": 200000,
+    "primaryPool": 140000,
+    "allStarsPool": 40000,
+    "podiumPool": 20000,
+    "sourceLinesOfCode": 35498,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Vault",
+      "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": "2025-10-13T14:00:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -424,6 +428,7 @@ The audit competition has now concluded and is currently in the evaluation phase
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -509,6 +514,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -520,7 +526,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "date": "2025-10-01T13:00:00.000Z",
     "launchDate": "2025-10-01T13:00:00.000Z",
     "endDate": "2025-10-26T14:00:00.000Z",
-    "updatedDate": "2025-11-21T12:42:36.909Z",
+    "updatedDate": "2025-11-24T06:55:37.052Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -577,8 +583,12 @@ Your valuable contributions played a crucial role in identifying and resolving c
 - **Runnable POCs are required**. Read our [Proof-of-Concept Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
 
 - Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroEvaluating": "",
-    "boostedIntroFinished": "",
+    "boostedIntroEvaluating": "### **Thank You to All Participating Security Researchers!**
+
+The Attackathon has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
     "rewardsToken": "USDT",
     "rewardsPool": 160000,
     "primaryPool": 112000,
@@ -588,12 +598,238 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "Haxatron",
+        "aspRank": 1,
+        "critical": 1,
+        "earnings": 88174,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "ELITE (ACTIVE)",
+        "totalEarnings": 126254,
+        "totalValidBugs": 2,
+        "aspPoolEarnings": 32000,
+        "podiumPoolEarnings": 6080
+      },
+      {
+        "high": 0,
+        "name": "emarai",
+        "aspRank": 2,
+        "critical": 0,
+        "earnings": 7944,
+        "insights": 3,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 12904,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 4960
+      },
+      {
+        "high": 0,
+        "name": "notGoku",
+        "aspRank": 3,
+        "critical": 0,
+        "earnings": 6783,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 11743,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 4960
+      },
+      {
+        "high": 0,
+        "name": "v_c0d35",
+        "aspRank": 4,
+        "critical": 0,
+        "earnings": 2261,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 2261,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Orionn",
+        "aspRank": 6,
+        "critical": 0,
+        "earnings": 1677,
+        "insights": 4,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 1677,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "spongebob",
+        "aspRank": 8,
+        "critical": 0,
+        "earnings": 774,
+        "insights": 2,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 774,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "XDZIBECX",
+        "aspRank": 10,
+        "critical": 0,
+        "earnings": 774,
+        "insights": 4,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 774,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Angry_Mustache_Man",
+        "aspRank": 12,
+        "critical": 0,
+        "earnings": 516,
+        "insights": 2,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 516,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "humanitia",
+        "aspRank": 5,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "cryptoWhale",
+        "aspRank": 7,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "OxPrince",
+        "aspRank": 9,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "caslo",
+        "aspRank": 11,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "OadeHack",
+        "aspRank": 13,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "LeoFlint",
+        "aspRank": 14,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "jesse03",
+        "aspRank": 15,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "chief_hunter888",
+        "aspRank": 16,
+        "critical": 0,
+        "earnings": 387,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 387,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      }
+    ],
     "features": [
       "Attackathon",
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": "2025-09-29T14:00:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -605,7 +841,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "date": "2025-10-16T10:00:00.000Z",
     "launchDate": "2025-10-16T10:00:00.000Z",
     "endDate": "2025-10-27T10:00:00.000Z",
-    "updatedDate": "2025-11-20T15:38:14.743Z",
+    "updatedDate": "2025-11-24T06:57:30.360Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -675,7 +911,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "allStarsPool": 6000,
     "podiumPool": 3000,
     "sourceLinesOfCode": 1093,
-    "boostedSummaryReport": "https://docs.google.com/presentation/d/1DnxdlicD0z9-tRAN2xLymv4oehwlBQiBvDxAeAqZqHs/edit?usp=sharing",
+    "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
     "boostedLeaderboard": [
@@ -756,6 +992,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -823,6 +1060,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Vault"
     ],
     "academyStartDate": "2025-07-08T15:00:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -1043,6 +1281,7 @@ Your valuable contributions played a crucial role in identifying and resolving v
       "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -1141,6 +1380,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -1493,6 +1733,7 @@ Your valuable contributions played a crucial role in identifying and resolving v
       "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -2051,6 +2292,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -2158,6 +2400,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -2263,6 +2506,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -2358,6 +2602,7 @@ The Invite-Only Program has now concluded and is currently in the evaluation pha
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -2657,6 +2902,7 @@ Insight reports can be submitted. Read our [Insight validity rules](https://immu
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -2817,6 +3063,7 @@ When the Stacks Attackathon ends, Immunefi will publish a leaderboard and Attack
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": "2025-02-12T11:00:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -3173,6 +3420,7 @@ When the Movement Labs Attackathon ends, Immunefi will publish a leaderboard and
       "Vault"
     ],
     "academyStartDate": "2025-03-06T16:00:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -3397,6 +3645,7 @@ After the Attackathon, Immunefi will publish a leaderboard and Attackathon findi
       "Vault"
     ],
     "academyStartDate": "2024-10-28T08:00:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -4110,6 +4359,7 @@ When the Audit Competition has ended, Immunefi will publish an event-specific le
       "Managed Triage: Signal Booster"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -4186,6 +4436,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -4374,6 +4625,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -4513,6 +4765,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -4595,6 +4848,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "IOP (Invite Only Program)"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": false
   },
   {
@@ -4753,6 +5007,7 @@ All paid bug reports are available in original format here --> [Reports: Butter 
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -4953,6 +5208,7 @@ All paid bug reports are available in original format here --> [Reports: Lombard
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -5111,6 +5367,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": "2024-12-02T06:40:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -5230,6 +5487,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -5366,6 +5624,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -5533,6 +5792,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -5620,6 +5880,7 @@ All paid bug reports are available in original format [here](https://app.gitbook
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -5754,6 +6015,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Boost"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -5872,6 +6134,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -6064,6 +6327,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -6220,6 +6484,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -6368,6 +6633,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Vault"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -6513,6 +6779,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -6635,6 +6902,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -6994,6 +7262,7 @@ All paid bug reports are available in original format [here](https://reports.imm
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": "2024-06-23T00:00:00.000Z",
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -7082,6 +7351,7 @@ In a few days after the launch, Mellow & Lido will give a live technical walkthr
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -7268,6 +7538,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -7395,6 +7666,7 @@ All paid bug reports are available in orginal format [here](https://github.com/i
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -7517,6 +7789,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -7682,6 +7955,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -7901,6 +8175,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -7995,6 +8270,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -8349,6 +8625,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -8432,6 +8709,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -9027,6 +9305,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Boost"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -9128,6 +9407,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -9423,6 +9703,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Boost"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -9591,6 +9872,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Boost"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -9992,6 +10274,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Subscription Plan: Pro"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -10183,6 +10466,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   },
   {
@@ -10566,6 +10850,7 @@ All paid bug reports are available in original format [here](https://github.com/
       "Managed Triage: Time Saver"
     ],
     "academyStartDate": null,
+    "proofOfConceptType": null,
     "premiumTriaging": true
   }
 ]

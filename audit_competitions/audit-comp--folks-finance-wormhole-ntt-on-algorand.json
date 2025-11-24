@@ -21,7 +21,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5mX1G6Exm4R5kKfzK9oqcp/5e96776a0c3a91f9e51f2e543fff76e5/folks_finance.png",
       "launchDate": "2025-10-16T10:00:00.000Z",
       "endDate": "2025-10-27T10:00:00.000Z",
-      "updatedDate": "2025-11-20T15:38:14.743Z",
+      "updatedDate": "2025-11-24T06:57:30.360Z",
       "kyc": false,
       "rewards": [
         {
@@ -361,7 +361,7 @@
       "allStarsPool": 6000,
       "podiumPool": 3000,
       "sourceLinesOfCode": 1093,
-      "boostedSummaryReport": "https://docs.google.com/presentation/d/1DnxdlicD0z9-tRAN2xLymv4oehwlBQiBvDxAeAqZqHs/edit?usp=sharing",
+      "boostedSummaryReport": null,
       "inviteOnly": false,
       "hideAssetsInScope": null,
       "boostedLeaderboard": [
@@ -442,6 +442,7 @@
         "Vault"
       ],
       "academyStartDate": null,
+      "proofOfConceptType": null,
       "websiteUrl": "https://folks.finance",
       "description": "Folks Finance is a leading DeFi platform providing innovative tools for lending, borrowing, trading and managing digital assets, all in one place.\n",
       "githubUrl": "https://github.com/Folks-Finance/algorand-ntt-contracts",
