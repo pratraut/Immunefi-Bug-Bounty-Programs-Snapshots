@@ -755,7 +755,7 @@
         "Boost"
       ],
       "academyStartDate": null,
-      "proofOfConceptType": null,
+      "proofOfConceptType": "step_by_step",
       "websiteUrl": null,
       "description": "The smart contract Arbitration Protocol is a set of on-chain workflows designed to resolve disputes between Projects and Security Researchers over bug report validity and appropriate reward. The expected output is a final binding decision on a report, followed by enforcement (as required) of the bounty reward from the Project to the Security Researcher.",
       "githubUrl": null,

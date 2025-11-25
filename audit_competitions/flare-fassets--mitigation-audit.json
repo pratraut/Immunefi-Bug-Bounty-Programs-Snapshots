@@ -458,7 +458,7 @@
         "Managed Triage: Signal Booster"
       ],
       "academyStartDate": null,
-      "proofOfConceptType": null,
+      "proofOfConceptType": "runnable",
       "websiteUrl": "https://flare.network/",
       "description": "Flare is the blockchain for data. It is a layer-1, EVM smart contract platform designed to expand the utility of blockchain by delivering data certainty for dApp builders. \n\nFAssets is a trustless, over-collateralized bridge built on Flare that connects non smart contract networks to Flare/Songbird. It enables the creation of wrapped tokens (FAssets) for assets like BTC, DOGE and XRP. \n\n\nAt the core of FAssets v1.1 is a new architecture component called the **Core Vault**, designed to improve system liquidity, scalability, and capital efficiency.",
       "githubUrl": "https://github.com/flare-foundation/fassets",

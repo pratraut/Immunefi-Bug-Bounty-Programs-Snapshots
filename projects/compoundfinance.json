@@ -252,7 +252,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 11265.61,
+            "usdValue": 10481.55,
             "addressesCount": 3
           }
         },
@@ -343,7 +343,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 1485.98,
+            "usdValue": 1219.33,
             "addressesCount": 4
           }
         },
@@ -395,7 +395,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 11265.61,
+            "usdValue": 10481.55,
             "addressesCount": 3
           }
         },
@@ -460,8 +460,8 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 137312.31,
-            "addressesCount": 12
+            "usdValue": 117080.72,
+            "addressesCount": 10
           }
         },
         {
@@ -512,7 +512,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 414930044.21,
+            "usdValue": 308785787.53,
             "addressesCount": 2
           }
         },
@@ -590,7 +590,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 1485.98,
+            "usdValue": 1219.33,
             "addressesCount": 4
           }
         },
@@ -629,7 +629,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 11265.61,
+            "usdValue": 10481.55,
             "addressesCount": 3
           }
         },
@@ -3164,7 +3164,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 14693952.88,
+            "usdValue": 13788730.13,
             "addressesCount": 3
           }
         },
@@ -3203,7 +3203,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-12-11T16:28:00.000Z",
           "fund": {
-            "usdValue": 796151.79,
+            "usdValue": 750401.9,
             "addressesCount": 1
           }
         },
@@ -3575,7 +3575,7 @@
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
-      "proofOfConceptType": null,
+      "proofOfConceptType": "required",
       "premiumTriaging": true
     },
     "project": {

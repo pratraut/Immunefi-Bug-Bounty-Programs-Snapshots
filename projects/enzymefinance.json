@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4a7y72EOvOMZWlUx3h2ZNi/7877774da8145f9d7cbd85f902d7198a/Enzymefinance-logo.jpg",
       "launchDate": "2021-03-29T07:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-19T07:02:38.983Z",
+      "updatedDate": "2025-11-25T09:44:35.666Z",
       "kyc": false,
       "rewards": [
         {
@@ -4906,12 +4906,18 @@
           "title": "Protocol docs",
           "description": "high-to-mid level system overview",
           "url": "https://docs.enzyme.finance/enzyme-blue-protocol"
+        },
+        {
+          "id": 405,
+          "title": "Known Issues",
+          "description": "Issues previously reported without fix",
+          "url": "https://docs.enzyme.finance/enzyme-blue-protocol/topics/known-issues"
         }
       ],
       "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
-      "proofOfConceptType": null,
+      "proofOfConceptType": "required",
       "premiumTriaging": true
     },
     "project": {

@@ -277,7 +277,7 @@
         "Vault"
       ],
       "academyStartDate": null,
-      "proofOfConceptType": null,
+      "proofOfConceptType": "step_by_step",
       "websiteUrl": "https://circuitdao.com/",
       "description": "Circuit is a DeFi protocol built on the Chia blockchain.\n\nSpecifically, Circuit is a collateralized debt position (CDP) protocol that allows users to borrow Bytecash (BYC), a USD stablecoin issued by the protocol, against XCH, the native token of Chia.\n\n\nFor more information about CircuiDAo, please visit [https://docs.circuitdao.com/](https://docs.circuitdao.com/).\n\nCircuit rewards are denominated in USD and distributed in USDC on Ethereum\n\n",
       "githubUrl": null,

@@ -229,7 +229,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-07-08T11:00:00.000Z",
           "fund": {
-            "usdValue": 44999.97,
+            "usdValue": 43435.99,
             "addressesCount": 1
           }
         },
@@ -242,7 +242,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-07-08T11:00:00.000Z",
           "fund": {
-            "usdValue": 20626.37,
+            "usdValue": 14116.03,
             "addressesCount": 1
           }
         },
@@ -474,7 +474,7 @@
       "primacy": "primacy_of_impact",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
-      "proofOfConceptType": null,
+      "proofOfConceptType": "required",
       "premiumTriaging": false
     },
     "project": {

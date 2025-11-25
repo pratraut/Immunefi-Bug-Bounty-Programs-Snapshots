@@ -1162,7 +1162,7 @@
         "Managed Triage: Signal Booster"
       ],
       "academyStartDate": "2025-10-13T14:00:00.000Z",
-      "proofOfConceptType": null,
+      "proofOfConceptType": "runnable",
       "websiteUrl": "https://xrpl.org/",
       "description": "The XRP Ledger (XRPL) is a decentralized layer 1 blockchain renowned for its decade-long reliability and stability in tokenizing and exchanging crypto-native and real-world assets.\n\nThe XLS-66 specification introduces the XRP Ledger-native Lending Protocol, which facilitates straightforward, on-chain, uncollateralised fixed-term loans with pre-set interest terms. Loan liquidity is sourced from pooled funds, while the design relies on off-chain underwriting and risk management to assess borrowers’ creditworthiness.",
       "githubUrl": null,
