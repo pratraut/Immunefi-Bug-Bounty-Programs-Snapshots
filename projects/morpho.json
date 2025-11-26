@@ -9,7 +9,7 @@
       "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/76309-ADS643VSxwonweiMtf9tx-hX6yop8mLFJLAKCJUMDCzNvVRkdw2x.png",
       "launchDate": "2024-06-27T13:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-20T09:10:19.755Z",
+      "updatedDate": "2025-11-26T07:45:53.133Z",
       "kyc": true,
       "rewards": [
         {
@@ -50,292 +50,6 @@
       "audits": null,
       "assets": [
         {
-          "id": "71nJJ7DA3gHqwW67lQneyI",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0xA148a8223B622A72dC36472DE1492aBb5c089BA7#code",
-          "description": "MetaMorpho Factory V1.1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.678Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "4ITtKc4smpY9PvTm4zoZUj",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x85C2Ef4Bd69f42D7Da19Fb9dcdD7Fb8d0F59cDeE#code",
-          "description": "Adaptive Curve Irm",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.591Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "6Akr2PsDTOMQ7W51Fl4R0l",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x6FaF26DD640e22457cA4fd5DA702BA3E169eEd87#code",
-          "description": "MorphoVaultV1 AdapterFactory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.591Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "1BBaJCS1V1lNcgvCuAI1EV",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x6B0D716aC0A45536172308e08fC2C40387262c9F#code",
-          "description": "Morpho",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.511Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "156Bquyu988YJYiwSUd245",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x5DC11CF8BA4C39d1194F91218D35008d9F52A5d0#code",
-          "description": "VaultV2Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.764Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "3SlDBvZYKoTlZfsFk0NhUL",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x454dAb6ce9891245696b239b4845a1cDC268255d#code",
-          "description": "GeneralAdapter1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.938Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "253pLthlnnuDjIdj0xaetx",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x3FFF726062B03BfD5BC485eeEEcc92CF1d8F0105#code",
-          "description": "Morpho ChainlinkOracleV2 Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.947Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "4lj48u9akSBBMUh6PBKIGL",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x2d4cf00e18D48fD030d9b1E2FAAE6e0384C7610B#code",
-          "description": "Public Allocator",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:04.938Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "7rAPryNQGRJ93oTca6d4yM",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x1Ee8Ec299E8014760D50A4E3CfC3b44Cc2242625#code",
-          "description": "Bundler3",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:06.617Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "48RewcL6i6wi977Rk82hqM",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x122Ea8ff8888C29F8736665d576e3fAEF15D27D5#code",
-          "description": "MorphoRegistry",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.172Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "58UiPiKa28wJdd7GCgm8ov",
-          "type": "smart_contract",
-          "url": "https://lineascan.build/address/0x05a0Ff4E564ED1ba6B42247E19edFf83545C3C40#code",
-          "description": "PreLiquidation Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.182Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "27Xxe4bSbWlfEoNjRIkKx1",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0xFEAbEf95f3C937Ff4d5fD70005CF3392f8Ca02d5#code",
-          "description": "Public Allocator",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.434Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5W8xgg0YZqHiclyNC52iTH",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0xEA67e5566Ca2c0176d9db172A7f9A1e1F22E9D3A#code",
-          "description": "MetaMorpho Factory V1.1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.203Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "Gd7Qdulc2xr5tmHB5sgrh",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0xDF9a1DC07e5dEe5ccCCaBeC35e446C70fAF7434e#code",
-          "description": "Morpho",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.506Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5flgZIw53rlpcy4O7BKOfJ",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0xCa470cBBc3de56FDe336466f2107cC969174d513#code",
-          "description": "GeneralAdapter1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.472Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5GqjpzRdM6l8MobDgiBHjd",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0xb1c59fE6A0DCE25b804F6113C441Bf4F3a4Ab6bC#code",
-          "description": "Bundler3",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.656Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "jIp9ihHQSa911JPfvb8RY",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0x8bedC738f5F0D54dF7E003297AAc6692b870F3Ed#code",
-          "description": "PreLiquidation Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.701Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "7EolGwMXItc6FBXvWoSwZa",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0x8840F99Bb2D4f69fb02b2d019384C5c98a11746c#code",
-          "description": "MorphoVaultV1 AdapterFactory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.738Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "EzSS8sDMUsQ0ymYV6yKeE",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0x44b2c8e4474751EF2BBC57B92928aFB99DA785De#code",
-          "description": "Morpho ChainlinkOracleV2 Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:05.891Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "71VU9IqmDErg729GUE60mB",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0x295e0aB80f8234398cd0E51C85D873ee69E5F0DD#code",
-          "description": "MorphoRegistry",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:07.623Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5EQ7CmuI4zfoJ0ogCTqpjK",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0x1Db002C086439d55B9f33E6c0693Eb850F7c0607#code",
-          "description": "Adaptive Curve Irm",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:07.672Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "6HPQvijOs4I5nwMRoGfATW",
-          "type": "smart_contract",
-          "url": "https://explorer.cronos.org/address/0x05519a0835a1bFD90f110aA7ca46e9A5F81Ed3b4#code",
-          "description": "VaultV2Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-20T09:10:06.133Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
           "id": "10E3TmYZAkl8fHl392SB9p",
           "type": "smart_contract",
           "url": "https://plasmascan.to/address/0x2fF74A46536f5c67ef5A42FD5B4e2Ed8A2cee249/contract/9745/code",
@@ -369,6 +83,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-03-06T13:23:40.676Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "156Bquyu988YJYiwSUd245",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x5DC11CF8BA4C39d1194F91218D35008d9F52A5d0#code",
+          "description": "VaultV2Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.764Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -486,6 +213,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-10-30T08:12:37.907Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "1BBaJCS1V1lNcgvCuAI1EV",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x6B0D716aC0A45536172308e08fC2C40387262c9F#code",
+          "description": "Morpho",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.511Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -1090,6 +830,19 @@
           }
         },
         {
+          "id": "253pLthlnnuDjIdj0xaetx",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x3FFF726062B03BfD5BC485eeEEcc92CF1d8F0105#code",
+          "description": "Morpho ChainlinkOracleV2 Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.947Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "26lxtDIeQm9bbSgCTKOems",
           "type": "smart_contract",
           "url": "https://arbiscan.io/address/0x635c31B5DF1F7EFbCbC07E302335Ef4230758e3d#code",
@@ -1097,6 +850,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-02-17T17:23:13.807Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "27Xxe4bSbWlfEoNjRIkKx1",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0xFEAbEf95f3C937Ff4d5fD70005CF3392f8Ca02d5#code",
+          "description": "Public Allocator",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.434Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -1136,19 +902,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-07-30T09:45:40.303Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2CSrbBnEG6x264uGroHnjw",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0xf2BD176D3A89f6E9f6D0c7F17C4Ae6A3515007a8",
-          "description": "MetaMorpho Factory v1.1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:44:05.452Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -1201,32 +954,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-03-06T13:03:13.453Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2Ge0qQGRoiNQXzOoX4LqL1",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0xe2023A6FDCd287B6B882fc6374042d0Aab51bf1d",
-          "description": "Bundler3",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:41:26.755Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "2IIvcQtiTD3bvWGGYpAGLQ",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0x221F06fB0E3D0c0A09D3BbF26B1a1805C2dd5192",
-          "description": "Universal Rewards Distributor Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:39:30.589Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -2078,6 +1805,19 @@
           }
         },
         {
+          "id": "3SlDBvZYKoTlZfsFk0NhUL",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x454dAb6ce9891245696b239b4845a1cDC268255d#code",
+          "description": "GeneralAdapter1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.938Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "3TPbZth7vHgh7Ebz0zxLFH",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xf27fa85b6748c8a64d4b0d3d6083eb26f18bde8e",
@@ -2273,19 +2013,6 @@
           }
         },
         {
-          "id": "3r6sld1KkWFeQli5BWsKeH",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0x69b29378a45B46A5c68a5436dCfF6C301E923833",
-          "description": "Adaptive Curve Irm",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:34:25.349Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
           "id": "3rBcw0qsca0SE2l7z0quPq",
           "type": "smart_contract",
           "url": "https://katanascan.com/address/0xc8D22B1adD3D176600E9952e7876e9249254cAAF#code",
@@ -2377,6 +2104,19 @@
           }
         },
         {
+          "id": "48RewcL6i6wi977Rk82hqM",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x122Ea8ff8888C29F8736665d576e3fAEF15D27D5#code",
+          "description": "MorphoRegistry",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.172Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "48cnSgQ3SDTptTXDGOusQt",
           "type": "smart_contract",
           "url": "https://arbiscan.io/address/0x878988f5f561081deEa117717052164ea1Ef0c82#code",
@@ -2462,6 +2202,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-02-17T16:45:19.159Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "4ITtKc4smpY9PvTm4zoZUj",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x85C2Ef4Bd69f42D7Da19Fb9dcdD7Fb8d0F59cDeE#code",
+          "description": "Adaptive Curve Irm",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.591Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -2624,19 +2377,6 @@
           }
         },
         {
-          "id": "4aaymRHpPE1C8fPAmUyFNl",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0x63971484590b054b6Abc4FEe9F31BC6F68CfeC04",
-          "description": "Morpho Blue",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:34:10.750Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
           "id": "4d9o1sr4Vvr298yTXVZeMy",
           "type": "smart_contract",
           "url": "https://optimistic.etherscan.io/address/0x3d05C01EE8e97361b9E19D172128255eaE5F98B9#code",
@@ -2761,6 +2501,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-06-27T13:00:00.000Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "4lj48u9akSBBMUh6PBKIGL",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x2d4cf00e18D48fD030d9b1E2FAAE6e0384C7610B#code",
+          "description": "Public Allocator",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.938Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -2988,6 +2741,19 @@
           }
         },
         {
+          "id": "58UiPiKa28wJdd7GCgm8ov",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x05a0Ff4E564ED1ba6B42247E19edFf83545C3C40#code",
+          "description": "PreLiquidation Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.182Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "5BflbaECqC3YdbzGBDzA5C",
           "type": "smart_contract",
           "url": "https://celoscan.io/address/0xd24ECdD8C1e0E57a4E26B1a7bbeAa3e95466A569#code",
@@ -2995,6 +2761,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-07-30T09:45:43.900Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5EQ7CmuI4zfoJ0ogCTqpjK",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0x1Db002C086439d55B9f33E6c0693Eb850F7c0607#code",
+          "description": "Adaptive Curve Irm",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:07.672Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -3047,6 +2826,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-07-30T09:45:37.189Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5GqjpzRdM6l8MobDgiBHjd",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0xb1c59fE6A0DCE25b804F6113C441Bf4F3a4Ab6bC#code",
+          "description": "Bundler3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.656Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -3157,6 +2949,19 @@
           }
         },
         {
+          "id": "5W8xgg0YZqHiclyNC52iTH",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0xEA67e5566Ca2c0176d9db172A7f9A1e1F22E9D3A#code",
+          "description": "MetaMorpho Factory V1.1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.203Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "5XUb4FeIyK7CxdmrOL2RHB",
           "type": "smart_contract",
           "url": "https://explorer.tac.build/address/0xbf10eD52dD60C60E901BF022c3675303ad4a56b1?tab=contract",
@@ -3255,6 +3060,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-07-09T13:38:25.443Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5flgZIw53rlpcy4O7BKOfJ",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0xCa470cBBc3de56FDe336466f2107cC969174d513#code",
+          "description": "GeneralAdapter1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.472Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -3463,19 +3281,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-11-13T08:48:55.268Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5stv1cSOhgh2MrPFGnqw75",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0x182af7E72EFBa9da92dce21fD8F07C873c74bcE5",
-          "description": "Public Allocator",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:38:03.826Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -3703,6 +3508,19 @@
           }
         },
         {
+          "id": "6Akr2PsDTOMQ7W51Fl4R0l",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x6FaF26DD640e22457cA4fd5DA702BA3E169eEd87#code",
+          "description": "MorphoVaultV1 AdapterFactory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.591Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "6BWLPF8fthILydbtFYaPXB",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x9B89c07f480Df1945279031b5fC6fF241b8f1101#code",
@@ -3775,6 +3593,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-09-26T12:41:46.142Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6HPQvijOs4I5nwMRoGfATW",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0x05519a0835a1bFD90f110aA7ca46e9A5F81Ed3b4#code",
+          "description": "VaultV2Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:06.133Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -4288,6 +4119,19 @@
           }
         },
         {
+          "id": "71VU9IqmDErg729GUE60mB",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0x295e0aB80f8234398cd0E51C85D873ee69E5F0DD#code",
+          "description": "MorphoRegistry",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:07.623Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "71ahoBqDFHxarhRIdf07lI",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xfd32fA2ca22c76dD6E550706Ad913FC6CE91c75D",
@@ -4308,6 +4152,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-05-05T13:40:49.011Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "71nJJ7DA3gHqwW67lQneyI",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0xA148a8223B622A72dC36472DE1492aBb5c089BA7#code",
+          "description": "MetaMorpho Factory V1.1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:04.678Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -4405,19 +4262,6 @@
           }
         },
         {
-          "id": "77jqrxomYzEsy0D8pOxFZD",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0x2fd0dC3245D3B44D5426a574A887eade1Fb86e2b",
-          "description": "GeneralAdapter1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:41:57.374Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
           "id": "78bOGR8mFxHRgvZI0gDDq",
           "type": "smart_contract",
           "url": "https://explorer.etherlink.com/address/0x8b8B1bd41d36c06253203CD21463994aB752c1e6?tab=contract",
@@ -4477,6 +4321,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-06-11T10:05:20.106Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "7EolGwMXItc6FBXvWoSwZa",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0x8840F99Bb2D4f69fb02b2d019384C5c98a11746c#code",
+          "description": "MorphoVaultV1 AdapterFactory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.738Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -4795,6 +4652,19 @@
           }
         },
         {
+          "id": "7rAPryNQGRJ93oTca6d4yM",
+          "type": "smart_contract",
+          "url": "https://lineascan.build/address/0x1Ee8Ec299E8014760D50A4E3CfC3b44Cc2242625#code",
+          "description": "Bundler3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:06.617Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "7t0P6dLKAkzyTAbGmDgqCs",
           "type": "smart_contract",
           "url": "https://sonicscan.org/address/0x31D5aee8D75EEab548cfA0d11C4f9843a5201eaf#code",
@@ -4828,19 +4698,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-07-30T09:45:39.151Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "7wXY4EmteJXN0Uj69vmW9q",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0x705D34a8b52C2Ffa5b6808a69F395Bc0C5327E2D",
-          "description": "Morpho Chainlink Oracle V2 Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:34:38.586Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -4938,6 +4795,19 @@
           }
         },
         {
+          "id": "EzSS8sDMUsQ0ymYV6yKeE",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0x44b2c8e4474751EF2BBC57B92928aFB99DA785De#code",
+          "description": "Morpho ChainlinkOracleV2 Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.891Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "FZN0H0lIyQSP1r9U0ZWeC",
           "type": "smart_contract",
           "url": "https://explorer.katanarpc.com/address/0x39EB6Da5e88194C82B13491Df2e8B3E213eD2412?tab=contract",
@@ -4945,6 +4815,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-06-12T12:16:07.931Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "Gd7Qdulc2xr5tmHB5sgrh",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0xDF9a1DC07e5dEe5ccCCaBeC35e446C70fAF7434e#code",
+          "description": "Morpho",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.506Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -5101,19 +4984,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-10-30T08:12:35.398Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "RJpqj4XRtuaGz9qxanRz0",
-          "type": "smart_contract",
-          "url": "https://explorer.flame.astria.org/address/0x78acCefb2A81a5827C672080cB0b9C98b07d39C4",
-          "description": "PreLiquidation Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-05-05T13:45:22.093Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -5309,6 +5179,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-03-06T13:29:23.093Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "jIp9ihHQSa911JPfvb8RY",
+          "type": "smart_contract",
+          "url": "https://explorer.cronos.org/address/0x8bedC738f5F0D54dF7E003297AAc6692b870F3Ed#code",
+          "description": "PreLiquidation Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-20T09:10:05.701Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
