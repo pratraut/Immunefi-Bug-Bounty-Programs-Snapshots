@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4qpRnmuoUMcdOxUOuFQUeN/278e2ad4821b6e2dadf60d84e3a4bb4f/USDT0.png",
       "launchDate": "2025-01-30T14:58:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-25T09:43:39.497Z",
+      "updatedDate": "2025-11-27T17:21:21.879Z",
       "kyc": true,
       "rewards": [
         {
@@ -39,26 +39,26 @@
       ],
       "assets": [
         {
-          "id": "1NxFTazyOsDqqLk6JOQJPr",
+          "id": "35DiMx2op3LEk8QRkMyJVw",
           "type": "smart_contract",
-          "url": "https://monadscan.com/address/0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
-          "description": "USDT0 Monad",
+          "url": "https://mantlescan.xyz/address/0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC",
+          "description": "OApp Mantle",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-11-25T09:43:32.189Z",
+          "addedAt": "2025-11-27T17:21:11.978Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
           }
         },
         {
-          "id": "1znBszmEfLRk3aW67ZhqQZ",
+          "id": "5qUoV7nGalqx2FsZfQIsYj",
           "type": "smart_contract",
-          "url": "https://monadscan.com/address/0x9151434b16b9763660705744891fA906F660EcC5",
-          "description": "OApp Monad",
+          "url": "https://mantlescan.xyz/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+          "description": "USDT0 Mantle",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-11-25T09:43:32.181Z",
+          "addedAt": "2025-11-27T17:21:11.966Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -104,6 +104,19 @@
           }
         },
         {
+          "id": "1NxFTazyOsDqqLk6JOQJPr",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+          "description": "USDT0 Monad",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-25T09:43:32.189Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
           "id": "1pfm53bg5UYArKfFmMivvG",
           "type": "smart_contract",
           "url": "https://plasmascan.to/address/0x02ca37966753bDdDf11216B73B16C1dE756A7CF9",
@@ -137,6 +150,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-01-30T14:58:00.000Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "1znBszmEfLRk3aW67ZhqQZ",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x9151434b16b9763660705744891fA906F660EcC5",
+          "description": "OApp Monad",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-25T09:43:32.181Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1

@@ -240,7 +240,7 @@
     "date": "2025-01-30T14:58:00.000Z",
     "launchDate": "2025-01-30T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-25T09:43:39.497Z",
+    "updatedDate": "2025-11-27T17:21:21.879Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -3335,7 +3335,7 @@
     "date": "2023-04-28T09:00:00.000Z",
     "launchDate": "2023-04-28T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-11T07:05:57.703Z",
+    "updatedDate": "2025-11-27T17:20:05.642Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3377,8 +3377,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -3856,11 +3855,11 @@
     "id": "benqi",
     "project": "BENQI",
     "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2u1oDQZb8NbBe1tP9kGoTT/d63ee09cd01632d07229c7c582b01d90/BENQi__1_.jpeg",
+    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/14300-nU4DSeZAHougwVPw4q-SQ-Wooj2YwSfUcpv5Msnb6tyrMGQU4XKm.png",
     "date": "2021-08-19T12:00:00.000Z",
     "launchDate": "2021-08-19T12:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T16:00:11.387Z",
+    "updatedDate": "2025-11-27T17:24:07.607Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -3874,7 +3873,6 @@
         "PoC Required"
       ],
       "productType": [
-        "AMM",
         "Lending",
         "Liquid Staking"
       ],
@@ -4412,7 +4410,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -4780,60 +4779,6 @@
       ],
       "featured": [
         "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "3CBHhTCNYh5zdjIkRceCEt",
-    "id": "elixirprotocol",
-    "project": "Elixir Network",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ptXSinuDLyNs0ElTrYI1k/8a20af1c14e32d38d71940c16d78624f/Elixir.png",
-    "date": "2023-11-02T09:00:00.000Z",
-    "launchDate": "2023-11-02T09:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-09-22T15:50:45.553Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Crosschain Liquidity",
-        "Perpetuals",
-        "Staking",
-        "Stablecoin",
-        "AMM"
-      ],
-      "projectType": [
-        "Defi",
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH",
-        "Arbitrum"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -6091,7 +6036,8 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -6468,6 +6414,56 @@
       ],
       "language": [
         "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "proofOfConceptType": "required",
+    "premiumTriaging": false
+  },
+  {
+    "contentfulId": "9NW8TwD0nvHR4GFQ1JFFU",
+    "id": "bitflow",
+    "project": "Bitflow",
+    "maximum_reward": 100000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1wBdOtq6xoBJTdPjGbJmiq/8165a74640386a368784458f72749f7f/tq71coRV_400x400.png",
+    "date": "2025-11-26T04:27:00.000Z",
+    "launchDate": "2025-11-26T04:27:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-11-27T15:55:34.299Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "PoC Required",
+        "Arbitration",
+        "Vaults"
+      ],
+      "productType": [
+        "DEX",
+        "Liquid Staking"
+      ],
+      "projectType": [
+        "Exchange",
+        "Defi"
+      ],
+      "ecosystem": [
+        "Stacks"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Clarity",
+        "NextJS"
       ],
       "featured": [
         "Launched Recently"
@@ -8463,8 +8459,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -9657,7 +9652,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
