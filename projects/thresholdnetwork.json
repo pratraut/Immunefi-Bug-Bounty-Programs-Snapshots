@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5sXJAYkgjf0BtH2uarlVA3/1f1993cf792814921c5c289b57004768/token-symbol-purple.svg",
       "launchDate": "2023-04-28T09:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-27T17:20:05.642Z",
+      "updatedDate": "2025-11-27T22:56:44.789Z",
       "kyc": false,
       "rewards": [
         {
@@ -94,6 +94,19 @@
         }
       ],
       "assets": [
+        {
+          "id": "6pifDzIREgOk5GXAH0c2yY",
+          "type": "websites_and_applications",
+          "url": "https://www.threshold.network/",
+          "description": "threshold network website",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-27T22:56:25.735Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
         {
           "id": "18RiGArabEsNRGz8GSwF5P",
           "type": "smart_contract",
@@ -307,19 +320,6 @@
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xa544b70dC6af906862f68eb8e68c27bb7150e672",
           "description": "DonationVault",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-04-28T09:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "38i99UwwxA6I0Ln0UONiWp",
-          "type": "websites_and_applications",
-          "url": "https://dashboard.threshold.network/",
-          "description": "Threshold Dashboard",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-04-28T09:00:00.000Z",

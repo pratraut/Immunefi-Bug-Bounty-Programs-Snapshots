@@ -9,23 +9,24 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/eUOQ1h8f4Rp7j6crz0YSq/669fab983d425d27fad87560219065a5/Maple_Logo.jpg",
       "launchDate": "2022-01-25T21:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-04-09T09:07:38.444Z",
+      "updatedDate": "2025-11-28T15:40:33.159Z",
       "kyc": true,
       "rewards": [
         {
-          "id": 5327,
-          "assetType": "smart_contract",
-          "severity": "high",
-          "rewardModel": "fixed",
-          "fixedReward": 25000
-        },
-        {
-          "id": 8224,
+          "id": 39121,
           "assetType": "smart_contract",
           "severity": "critical",
           "rewardModel": "range",
           "maxReward": 500000,
-          "minReward": 50000
+          "minReward": 50000,
+          "rewardCalculationPercentage": 10
+        },
+        {
+          "id": 39122,
+          "assetType": "smart_contract",
+          "severity": "high",
+          "rewardModel": "fixed",
+          "fixedReward": 25000
         }
       ],
       "audits": null,
@@ -705,6 +706,45 @@
             "usdValue": 304821607.08,
             "addressesCount": 1
           }
+        },
+        {
+          "id": "6v9IrgadrFJ9WbVRc6oQIv",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xF95E5722226a1018d058CD757B75F1D10289e967",
+          "description": "WithdrawalManagerImplementation (v200) (Queue)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T15:35:43.102Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "CaaKodnihWSVYraNTrFm5",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD389BFE4A129525b486B098411336a4fCecF3024",
+          "description": "WithdrawalManagerInitializer (v200)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T15:36:15.822Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5eKZwqD12kewqXK4Dx3wFz",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x2eFFf88747EB5a3FF00d4d8d0f0800E306C0426b",
+          "description": "GovernorTimelock",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T15:39:26.814Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
         }
       ],
       "impacts": [
@@ -773,7 +813,7 @@
       "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
       "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward.\n\nRewards for critical smart contract vulnerabilities are further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 50 000__ and a maximum reward of __USD 500 000__.\n\nMaple requires KYC to be done for all bug bounty hunters submitting a report and wanting a reward. The information needed is a government-issued photo ID as well as a proof of address issued within the last 3 months (eg. utility bill). \n\nAll known issues highlighted in the following audit reports are considered to be out-of-scope:\n- [https://github.com/maple-labs/maple-v2-audits/blob/main/README.md](https://github.com/maple-labs/maple-v2-audits/blob/main/README.md) \n\nIn addition, all issues related to 4626 compliance are considered out of scope of this program. \n\nPayouts are handled by the __Maple__ team directly and are denominated in USD. However, payouts are done in __USDC__ or __MPL__, at the discretion of the team.",
       "outOfScopeAndRules": null,
-      "assetsBodyV2": "All contracts listed above are in scope, as well as all proxy and contract instances deployed from all factories. Though only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target.\n\nAll contracts that are marked as “(*For reference*)” are instances of contracts that have been deployed by protocol factories and are in scope for the audit. All other instances that are deployed in the same fashion are in scope of the audit, including:\n- Liquidator (Not deployed currently, deployed during loan liquidations of collateral)\n- Loan (Fixed-Term & Open-Term)\n- LoanManager (Fixed-Term & Open-Term)\n- Pool\n- PoolManager\n- PoolDelegateCover\n- WithdrawalManager (Cyclical)\n- WithdrawalManager (Queue)",
+      "assetsBodyV2": "All contracts listed above are in scope, as well as all proxy and contract instances deployed from all factories. Though only the proxy contracts are listed as in-scope, current implementation and any further updates to the implementation contracts are considered in scope. When reporting a bug, please make sure to select the relevant proxy smart contract as the target.\n\nAll contracts that are marked as “(*For reference*)” are instances of contracts that have been deployed by protocol factories and are in scope for the audit. All other instances that are deployed in the same fashion are in scope of the audit, including:\n- Liquidator (Not deployed currently, deployed during loan liquidations of collateral)\n- Loan (Fixed-Term & Open-Term)\n- LoanManager (Fixed-Term & Open-Term)\n- Pool\n- PoolManager\n- PoolDelegateCover\n- WithdrawalManager (Cyclical)\n- WithdrawalManager (Queue)\n- Liquid DeFi strategies such as Aave and Sky",
       "impactsBody": null,
       "immunefiStandard": true,
       "tags": {

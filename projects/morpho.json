@@ -9,7 +9,7 @@
       "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/76309-ADS643VSxwonweiMtf9tx-hX6yop8mLFJLAKCJUMDCzNvVRkdw2x.png",
       "launchDate": "2024-06-27T13:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-26T07:45:53.133Z",
+      "updatedDate": "2025-11-28T14:08:15.712Z",
       "kyc": true,
       "rewards": [
         {
@@ -49,6 +49,149 @@
       ],
       "audits": null,
       "assets": [
+        {
+          "id": "uddRWPxKrW8lVtCatPZGy",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0xfd70575B732F9482F4197FE1075492e114E97302#code",
+          "description": "Public Allocator",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.184Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "rxepZpwh9hC3gmxS4aMCc",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0xd5d960e8c380b724a48ac59e2dff1b2cb4a1eaee#code",
+          "description": "Morpho",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.215Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "3xHZ2zgOgK3fK48KsrYU61",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0xC8659Bcd5279DB664Be973aEFd752a5326653739#code",
+          "description": "Morpho ChainlinkOracleV2 Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.500Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "VOHzaP20a9ljXm21jxkVw",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0xB5b3e541abD19799E0c65905a5a42BD37d6c94c0#code",
+          "description": "PreLiquidation Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.168Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6mw4LN2K5tgSpTYLQ9Dbwc",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x9f3c0999425656fD189C69a8aD68cB64986D644A#code",
+          "description": "MorphoVaultV1AdapterFactory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.426Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5l96O5Zvz9PEkO4l35wrK2",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x8B2F922162FBb60A6a072cC784A2E4168fB0bb0c#code",
+          "description": "VaultV2Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.743Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "66u84hF40iVTJhMeL0hQeL",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x82b684483e844422FD339df0b67b3B111F02c66E#code",
+          "description": "Bundler3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.489Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "51XOxQHMugOcgmnajNtiDT",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x725AB8CAd931BCb80Fdbf10955a806765cCe00e5#code",
+          "description": "GeneralAdapter1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.739Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "4fBfxxXuLIL17jpzrWR4aZ",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x6a42f8b46224baA4DbBBc2F860F4675eeA7bd52B#code",
+          "description": "MorphoRegistry",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:03.797Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5RCK0KjbXk2bGNQEtS6C0H",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x33f20973275B2F574488b18929cd7DCBf1AbF275#code",
+          "description": "MetaMorpho Factory V1.1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:05.615Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6aXrKkbT2i2HXjybu74dpH",
+          "type": "smart_contract",
+          "url": "https://monadscan.com/address/0x09475a3D6eA8c314c592b1a3799bDE044E2F400F#code",
+          "description": "Adaptive Curve Irm",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-28T14:08:04.894Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
         {
           "id": "10E3TmYZAkl8fHl392SB9p",
           "type": "smart_contract",

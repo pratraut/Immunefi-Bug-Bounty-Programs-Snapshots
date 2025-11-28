@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3HcRnAd91ErHn7EXd04vRw/a7a0424ee3f4060fe1d14551ed1673a5/light__1_.png",
       "launchDate": "2024-09-12T19:39:57.000Z",
       "endDate": null,
-      "updatedDate": "2025-01-31T16:09:54.359Z",
+      "updatedDate": "2025-11-28T14:06:03.264Z",
       "kyc": true,
       "rewards": [
         {
@@ -79,65 +79,13 @@
       ],
       "assets": [
         {
-          "id": "5naBeDVoUqbfyNBTXDEwZp",
+          "id": "6Zf9rvXHoUzL4Ld2NT5aJq",
           "type": "smart_contract",
-          "url": "https://docs.rs/light-verifier/latest/light_verifier/",
-          "description": "Crate - light_verifier",
+          "url": "https://github.com/Lightprotocol/light-protocol/tree/e5f84a03054f88245b3545c314a1adb8e465aca3/prover/server/prover",
+          "description": "light-prover/prover",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:09:01.418Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "6sqFIiR4nD4ibQwEiHM1fb",
-          "type": "smart_contract",
-          "url": "https://docs.rs/groth16-solana/latest/groth16_solana/",
-          "description": "Crate - groth16_solana",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:09:10.452Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "6Y5cMRZWHWTuRB2tapfZty",
-          "type": "smart_contract",
-          "url": "https://docs.rs/light-heap/latest/light_heap/",
-          "description": "Crate - light_heap",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:09:17.953Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "4HPL1BYnxBFXNHgboyW6RY",
-          "type": "smart_contract",
-          "url": "https://docs.rs/aligned-sized/latest/aligned_sized/",
-          "description": "Crate - aligned_sized",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:09:25.715Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "78RDgthb74BB1blVEVrvG8",
-          "type": "smart_contract",
-          "url": "https://docs.rs/light-macros/latest/light_macros/",
-          "description": "Crate - light_macros",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:09:40.145Z",
+          "addedAt": "2025-11-28T13:57:56.301Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -157,32 +105,6 @@
           }
         },
         {
-          "id": "7dHsRdmdVcew5f5DIcfDlY",
-          "type": "smart_contract",
-          "url": "https://docs.rs/light-concurrent-merkle-tree/latest/light_concurrent_merkle_tree/",
-          "description": "Crate - light_concurrent_merkle_tree",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:09:56.872Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "5vc4NCIYybmfR0wwRez06Z",
-          "type": "smart_contract",
-          "url": "https://docs.rs/light-hash-set/latest/light_hash_set/",
-          "description": "Crate - light_hash_set",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:10:05.571Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
           "id": "3YqmaeXzy0hvG7GXFdWHmW",
           "type": "smart_contract",
           "url": "https://docs.rs/light-hasher/latest/light_hasher/",
@@ -190,6 +112,19 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-01-31T07:10:17.518Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "4HPL1BYnxBFXNHgboyW6RY",
+          "type": "smart_contract",
+          "url": "https://docs.rs/aligned-sized/latest/aligned_sized/",
+          "description": "Crate - aligned_sized",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:09:25.715Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -209,45 +144,6 @@
           }
         },
         {
-          "id": "6xcBP6GRm9eiKfwCJQE38o",
-          "type": "smart_contract",
-          "url": "https://solscan.io/account/compr6CUsB5m2jS4Y3831ztGSTnDpnKJTKS95d64XVq",
-          "description": "Crate - account_compression",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:10:38.093Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "DoTcxodRmnsEzmC5GsXKa",
-          "type": "smart_contract",
-          "url": "https://solscan.io/account/cTokenmWW8bLPjZEBAUgYy3zKxQZW6VKi7bqNFEVv3m",
-          "description": "Crate - light_compressed_token",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:11:19.013Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
-          "id": "71oQrNhaSolNVZmyomdjhN",
-          "type": "smart_contract",
-          "url": "https://solscan.io/account/Lighton6oQpVkeewmo2mcPTQQp7kYHr4fWpAgJyEmDX",
-          "description": "Crate - light_registry",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:11:29.714Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
-        },
-        {
           "id": "5fKh5DRsjo0w56g31cLoLj",
           "type": "smart_contract",
           "url": "https://solscan.io/account/SySTEM1eSU2p4BGQfQpimFEWWSC1XDFeun3Nqzz3rT7",
@@ -255,6 +151,32 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-01-31T07:11:46.254Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5naBeDVoUqbfyNBTXDEwZp",
+          "type": "smart_contract",
+          "url": "https://docs.rs/light-verifier/latest/light_verifier/",
+          "description": "Crate - light_verifier",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:09:01.418Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "5vc4NCIYybmfR0wwRez06Z",
+          "type": "smart_contract",
+          "url": "https://docs.rs/light-hash-set/latest/light_hash_set/",
+          "description": "Crate - light_hash_set",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:10:05.571Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
@@ -274,13 +196,91 @@
           }
         },
         {
-          "id": "3NNbLECtsS3gtjYH14lf0r",
+          "id": "6Y5cMRZWHWTuRB2tapfZty",
           "type": "smart_contract",
-          "url": "https://github.com/Lightprotocol/light-protocol/tree/81f4456154a7eb4b612bbbdd0ec1930a2a15b272/light-prover/prover",
-          "description": "light-prover/prover",
+          "url": "https://docs.rs/light-heap/latest/light_heap/",
+          "description": "Crate - light_heap",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-01-31T07:12:08.056Z",
+          "addedAt": "2025-01-31T07:09:17.953Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6sqFIiR4nD4ibQwEiHM1fb",
+          "type": "smart_contract",
+          "url": "https://docs.rs/groth16-solana/latest/groth16_solana/",
+          "description": "Crate - groth16_solana",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:09:10.452Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "6xcBP6GRm9eiKfwCJQE38o",
+          "type": "smart_contract",
+          "url": "https://solscan.io/account/compr6CUsB5m2jS4Y3831ztGSTnDpnKJTKS95d64XVq",
+          "description": "Crate - account_compression",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:10:38.093Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "71oQrNhaSolNVZmyomdjhN",
+          "type": "smart_contract",
+          "url": "https://solscan.io/account/Lighton6oQpVkeewmo2mcPTQQp7kYHr4fWpAgJyEmDX",
+          "description": "Crate - light_registry",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:11:29.714Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "78RDgthb74BB1blVEVrvG8",
+          "type": "smart_contract",
+          "url": "https://docs.rs/light-macros/latest/light_macros/",
+          "description": "Crate - light_macros",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:09:40.145Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "7dHsRdmdVcew5f5DIcfDlY",
+          "type": "smart_contract",
+          "url": "https://docs.rs/light-concurrent-merkle-tree/latest/light_concurrent_merkle_tree/",
+          "description": "Crate - light_concurrent_merkle_tree",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:09:56.872Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
+        },
+        {
+          "id": "DoTcxodRmnsEzmC5GsXKa",
+          "type": "smart_contract",
+          "url": "https://solscan.io/account/cTokenmWW8bLPjZEBAUgYy3zKxQZW6VKi7bqNFEVv3m",
+          "description": "Crate - light_compressed_token",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-01-31T07:11:19.013Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 1
