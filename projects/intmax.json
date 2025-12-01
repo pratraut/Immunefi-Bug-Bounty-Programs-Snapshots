@@ -333,7 +333,7 @@
       "outOfScopeAndRules": null,
       "assetsBodyV2": "INTMAX Contract https://github.com/InternetMaximalism/intmax2-contract,\n\nINTMAX ZKP https://github.com/InternetMaximalism/intmax2-zkp,\n\nINTMAX Node https://github.com/InternetMaximalism/intmax2,\n\nINTMAX Client SDK https://aquatic-paperback-675.notion.site/INTMAX-Client-SDK-Docs-176d989987db8096a012d144ae0e0dba,\n\nVerified source code on the explorer from each link of these smart contracts below.\n\nEthereum Sepolia Network,\nLiquidity\nhttps://sepolia.etherscan.io/address/0x81f3843aF1FBaB046B771f0d440C04EBB2b7513F\n\nScroll Sepolia Network,\nRollup - https://sepolia.scrollscan.com/address/0xcEC03800074d0ac0854bF1f34153cc4c8bAEeB1E\n\nWithdrawal - https://sepolia.scrollscan.com/address/0x914aBB5c7ea6352B618eb5FF61F42b96AD0325e7\n\nClaim - https://sepolia.scrollscan.com/address/0xceAa521Cb45d265831cBaF39E00875B550861A68\n\nBlock Builder Registry - https://sepolia.scrollscan.com/address/0x93a41F47ed161AB2bc58801F07055f2f05dfc74E",
       "impactsBody": null,
-      "immunefiStandard": null,
+      "immunefiStandard": false,
       "tags": {
         "general": [
           "KYC Required",

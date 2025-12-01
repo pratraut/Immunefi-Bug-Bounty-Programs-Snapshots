@@ -17,7 +17,7 @@
       "slug": "ebtc-boost",
       "project": "Audit Comp | eBTC",
       "maxBounty": 200000,
-      "logo": "//images.ctfassets.net/t3wqy70tc3bv/4l9J9IrYDQDKEKDRro6liJ/8f307a05a51e20350ce7e82dc207c109/ebtc.png",
+      "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4l9J9IrYDQDKEKDRro6liJ/8f307a05a51e20350ce7e82dc207c109/ebtc.png",
       "launchDate": "2024-02-19T08:00:00.000Z",
       "endDate": "2024-03-04T08:00:00.000Z",
       "updatedDate": "2024-10-15T13:38:06.461Z",
@@ -181,7 +181,86 @@
           "fund": null
         }
       ],
-      "impacts": [],
+      "impacts": [
+        {
+          "id": 34,
+          "type": "smart_contract",
+          "severity": "low",
+          "title": "Contract fails to deliver promised returns, but doesn't lose value"
+        },
+        {
+          "id": 23,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Theft of unclaimed yield"
+        },
+        {
+          "id": 25,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Permanent freezing of unclaimed yield"
+        },
+        {
+          "id": 4748,
+          "type": "smart_contract",
+          "severity": "high",
+          "title": "Temporary freezing of funds for at least 15 minutes"
+        },
+        {
+          "id": 29,
+          "type": "smart_contract",
+          "severity": "medium",
+          "title": "Smart contract unable to operate due to lack of token funds"
+        },
+        {
+          "id": 30,
+          "type": "smart_contract",
+          "severity": "medium",
+          "title": "Block stuffing"
+        },
+        {
+          "id": 31,
+          "type": "smart_contract",
+          "severity": "medium",
+          "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
+        },
+        {
+          "id": 32,
+          "type": "smart_contract",
+          "severity": "medium",
+          "title": "Theft of gas"
+        },
+        {
+          "id": 33,
+          "type": "smart_contract",
+          "severity": "medium",
+          "title": "Unbounded gas consumption"
+        },
+        {
+          "id": 14,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Manipulation of governance voting result deviating from voted outcome and resulting in a direct change from intended effect of original results"
+        },
+        {
+          "id": 4749,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Direct theft of 2 stETH worth of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+        },
+        {
+          "id": 17,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
+        },
+        {
+          "id": 22,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Protocol insolvency"
+        }
+      ],
       "programOverview": "eBTC is a collateralized crypto asset soft pegged to the price of Bitcoin and built on the Ethereum network. It is based on the Liquity protocol and backed exclusively by Staked Ether (stETH). The protocol is designed with an immutable core with minimized counterparty reliance and governance. \n\nIt’s designed to be the most decentralized synthetic BTC in DeFi and offers the ability for anyone in the world to borrow BTC at no cost.\n\n\nAfter locking up stETH as collateral and creating an individual position called a CDP, the user can get instant liquidity by minting eBTC. Each CDP is required to be collateralized at a fixed minimum ratio determined by the protocol.\n\nThe redemption and liquidation mechanisms help ensure that stability is maintained through economically-driven user interactions and arbitrage, rather than through active governance or monetary interventions.\n\neBTC is built by [BadgerDAO](https://badger.com/). For more information about eBTC, please visit [twitter](https://twitter.com/eBTCprotocol) and the [docs](https://docs.ebtc.finance/ebtc/).",
       "prioritizedVulnerabilities": "tbd",
       "rewardsBody": "The reward pool will be fully distributed among participants. The size depends on the bugs found:\n\n- If no High or Critical severity bugs are found the reward pool will be $50,000 USD\n- If one or more High severity bugs are found the reward pool will be $100,000 USD\n- If one or more Critical severity bugs are found the reward pool will be $200,000 USD\n\n\nFor this audit competition, duplicates and private known issues are valid for a reward.\n\nThese reward terms are a summary, for the full details read our [eBTC Audit Competition Reward Terms](https://immunefisupport.zendesk.com/hc/en-us/articles/22591362396689-eBTC-Audit-Competition-Reward-Terms).\n\nRewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.3](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-3/). \n\n**Reward Payment Terms**\n\nPayouts are handled by the BadgerDAO team directly and are denominated in USD. However, payments are done in USDC.\n\nRewards will be distributed all at once based on Immunefi’s distribution terms after the event has concluded and the final bug reports have been resolved.",
@@ -242,29 +321,141 @@
         ],
         "web_rewards": []
       },
-      "evaluationEndDate": null,
-      "boostedIntroStartingIn": "",
-      "boostedIntroLive": "",
+      "evaluationEndDate": "2024-04-09T20:00:00.000Z",
+      "boostedIntroStartingIn": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).\n\nBadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).\n\nWhen the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event.\n\nTo kick-off the launch BadgerDAO will be presenting a [live technical walkthrough and AMA](https://discord.com/events/787092485969150012/1207964956167897098), hosted by Immunefi. It starts Monday at 4:30pm UTC+0.\n\n[Sign up for the Boost here](https://docs.google.com/forms/d/e/1FAIpQLSf0lo3wkUsWPUMutcV1xliBEU9-c8Dcwh0YjAkROGak8bZtUw/viewform).",
+      "boostedIntroLive": "$200,000 USD is available in rewards for finding bugs in eBTC’s codebase of about 5000 nSLOC. There is no KYC and anyone may participate, except for official contributors that are currently involved (past contributors may participate).\n\nBadgerDAO, the creators of eBTC, will respond within 24 hours on weekdays to all bug reports. Any technical questions and support requests can be asked directly to BadgerDAO or Immunefi in the [BadgerDAO Boost Discord channel](https://discord.com/channels/787092485969150012/1207523219880280104).\n\nWhen the Boost has ended Immunefi will publish an event-specific leaderboard and bug reports from the event. \n\nThe Boost is primarily concerned with the loss of user funds.",
       "boostedIntroEvaluating": "",
-      "boostedIntroFinished": "",
-      "rewardsToken": null,
-      "rewardsPool": 0,
-      "primaryPool": null,
-      "allStarsPool": null,
-      "podiumPool": null,
-      "sourceLinesOfCode": 0,
-      "boostedSummaryReport": null,
+      "boostedIntroFinished": "Audit Competition cards for security researchers with paid reports are available [here](https://drive.google.com/drive/folders/1iULI4qlQkE6VCJFGdcnjw9TlBid7z6lQ?usp=sharing).\n\nAll paid bug reports are available in original format [here](https://github.com/immunefi-team/Bounty_Boosts/tree/main/BadgerDAO%20(eBTC).",
+      "rewardsToken": "USDC",
+      "rewardsPool": 200000,
+      "primaryPool": 200000,
+      "allStarsPool": 0,
+      "podiumPool": 0,
+      "sourceLinesOfCode": 5000,
+      "boostedSummaryReport": "https://drive.google.com/file/d/1CrK9PWe8BhGmoWNb5NIjXqN50dF2mwJx/view?usp=sharing",
       "inviteOnly": false,
       "hideAssetsInScope": null,
-      "boostedLeaderboard": [],
-      "features": [],
+      "boostedLeaderboard": [
+        {
+          "high": 0,
+          "name": "Stormy",
+          "critical": 0,
+          "earnings": 20517,
+          "insights": 1,
+          "mediumLow": 2,
+          "totalValidBugs": 2
+        },
+        {
+          "high": 0,
+          "name": "moonsimon",
+          "critical": 0,
+          "earnings": 11034,
+          "insights": 2,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "holydevoti0n",
+          "critical": 0,
+          "earnings": 10000,
+          "insights": 0,
+          "mediumLow": 1,
+          "totalValidBugs": 1
+        },
+        {
+          "high": 0,
+          "name": "shanb1605",
+          "critical": 0,
+          "earnings": 1724,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "savi0ur",
+          "critical": 0,
+          "earnings": 1724,
+          "insights": 2,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "cheatcode",
+          "critical": 0,
+          "earnings": 1552,
+          "insights": 3,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "cryptonoob2k",
+          "critical": 0,
+          "earnings": 862,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "OxG0P1",
+          "critical": 0,
+          "earnings": 862,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Hunterx2",
+          "critical": 0,
+          "earnings": 517,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "thomastech",
+          "critical": 0,
+          "earnings": 517,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Mirrors",
+          "critical": 0,
+          "earnings": 517,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        },
+        {
+          "high": 0,
+          "name": "Saediek",
+          "critical": 0,
+          "earnings": 172,
+          "insights": 1,
+          "mediumLow": 0,
+          "totalValidBugs": 0
+        }
+      ],
+      "features": [
+        "Boost",
+        "Managed Triage: Time Saver"
+      ],
       "academyStartDate": null,
-      "proofOfConceptType": null,
+      "proofOfConceptType": "step_by_step",
       "websiteUrl": null,
-      "description": null,
+      "description": "eBTC is a collateralized crypto asset soft pegged to the price of Bitcoin and built on the Ethereum network. It is based on the Liquity protocol and backed exclusively by Staked Ether (stETH). The protocol is designed with an immutable core with minimized counterparty reliance and governance. ",
       "githubUrl": null,
-      "feasibilityLimitations": null,
-      "prohibitedActivites": null,
+      "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
+      "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
       "responsiblePublicationCategory": null,
       "knownIssues": [],
       "knownIssueAssurance": false,
@@ -276,12 +467,12 @@
       "defaultFeasibilityLimitations": null,
       "customOutOfScopeInformation": null,
       "customProhibitedActivities": [],
-      "rewardsTokenNetwork": null,
-      "eligibilityCriteria": null,
+      "rewardsTokenNetwork": "Ethereum",
+      "eligibilityCriteria": [],
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [],
       "programDocumentations": [],
-      "primacy": null,
+      "primacy": "primacy_of_rules",
       "newProgramRewardsEnabled": false,
       "findingsUrl": null,
       "premiumTriaging": true

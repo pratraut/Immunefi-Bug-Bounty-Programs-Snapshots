@@ -2238,7 +2238,7 @@
     "date": "2021-11-22T07:15:00.000Z",
     "launchDate": "2021-11-22T07:15:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-04T15:00:34.336Z",
+    "updatedDate": "2025-12-01T07:24:29.246Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -2913,54 +2913,6 @@
     "premiumTriaging": true
   },
   {
-    "contentfulId": "70CdcXCx3z6QsnkPuPiFMd",
-    "id": "avail",
-    "project": "Avail",
-    "maximum_reward": 500000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/37wGk8Qz27HTCY0URGtIzR/3c3171085fec2e44832cc45a25326d09/avail.png",
-    "date": "2024-07-23T02:00:00.000Z",
-    "launchDate": "2024-07-23T02:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-03-17T12:33:59.558Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [
-        "L2"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Blockchain/DLT",
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "XROwrT6tWvOPznjsl9vhu",
     "id": "dexeprotocol",
     "project": "DeXe Protocol",
@@ -3425,8 +3377,7 @@
         "Rust"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -4377,7 +4328,7 @@
     "date": "2025-02-06T11:58:00.000Z",
     "launchDate": "2025-02-06T11:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-02-20T16:12:38.471Z",
+    "updatedDate": "2025-12-01T07:50:01.500Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -4601,6 +4552,54 @@
     },
     "proofOfConceptType": "required",
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "70CdcXCx3z6QsnkPuPiFMd",
+    "id": "avail",
+    "project": "Avail",
+    "maximum_reward": 250000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/37wGk8Qz27HTCY0URGtIzR/3c3171085fec2e44832cc45a25326d09/avail.png",
+    "date": "2024-07-23T02:00:00.000Z",
+    "launchDate": "2024-07-23T02:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-12-01T08:24:52.934Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications",
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [
+        "L2"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "ETH"
+      ],
+      "programType": [
+        "Blockchain/DLT",
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "proofOfConceptType": "required",
+    "premiumTriaging": true
   },
   {
     "contentfulId": "6Rv25jrJD4y4eJmceZKgVx",
@@ -6481,7 +6480,7 @@
     "date": "2025-11-24T08:16:26.000Z",
     "launchDate": "2025-11-24T08:16:26.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-25T16:29:17.827Z",
+    "updatedDate": "2025-12-01T08:24:08.073Z",
     "kyc": true,
     "technologies": [
       "Blockchain/DLT"
@@ -6490,7 +6489,8 @@
     "tags": {
       "general": [
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Primacy of Impact"
       ],
       "productType": [],
       "projectType": [],
@@ -8804,8 +8804,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -11051,8 +11050,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -11493,43 +11491,6 @@
       "language": [
         "Solidity"
       ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "6aTlACCAFT9XxVEnurIu8s",
-    "id": "quadrata",
-    "project": "Quadrata",
-    "maximum_reward": 20000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2d34GKfB7A8pJ4TgjawG4I/f9ace5c2fe8dc506264f4f0569f2a362/x2HFJeB8_400x400.png",
-    "date": "2023-08-07T14:00:00.000Z",
-    "launchDate": "2023-08-07T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-01-24T16:11:54.667Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
       "featured": [
         "Launched Recently"
       ]

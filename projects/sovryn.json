@@ -225,7 +225,7 @@
       "outOfScopeAndRules": null,
       "assetsBodyV2": "Only the branches in the assets in scope table are considered as in-scope of the bug bounty program, but for the asset exceptions below in the Out of Scope & Rules section. All other branches, including the default branch are considered as out-of-scope. \n\nHowever, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.",
       "impactsBody": null,
-      "immunefiStandard": null,
+      "immunefiStandard": false,
       "tags": {
         "general": [
           "KYC Not Required",

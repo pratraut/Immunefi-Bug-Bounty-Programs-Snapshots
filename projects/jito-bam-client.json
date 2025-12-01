@@ -168,7 +168,7 @@
       "outOfScopeAndRules": null,
       "assetsBodyV2": null,
       "impactsBody": null,
-      "immunefiStandard": null,
+      "immunefiStandard": false,
       "tags": {
         "general": [
           "KYC Required",

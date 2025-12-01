@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/bqfH2eaRX9bOByRgNuuL4/aceec9b93efea1ad81061596d6d2ee11/zkSync.png",
       "launchDate": "2025-11-24T08:16:26.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-25T16:29:17.827Z",
+      "updatedDate": "2025-12-01T08:24:08.073Z",
       "kyc": true,
       "rewards": [
         {
@@ -1077,6 +1077,19 @@
             "usdValue": 0,
             "addressesCount": 1
           }
+        },
+        {
+          "id": "1dni9vu1h2UlxhX3YgaIMN",
+          "type": "blockchain_dlt",
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact",
+          "isPrimacyOfImpact": true,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-01T08:23:34.032Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 1
+          }
         }
       ],
       "impacts": [
@@ -1111,11 +1124,12 @@
       "outOfScopeAndRules": null,
       "assetsBodyV2": null,
       "impactsBody": null,
-      "immunefiStandard": null,
+      "immunefiStandard": false,
       "tags": {
         "general": [
           "KYC Required",
-          "PoC Required"
+          "PoC Required",
+          "Primacy of Impact"
         ],
         "productType": [],
         "projectType": [],
