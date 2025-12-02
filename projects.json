@@ -741,7 +741,7 @@
     "date": "2022-03-11T03:30:00.000Z",
     "launchDate": "2022-03-11T03:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-03-20T07:02:48.410Z",
+    "updatedDate": "2025-12-02T09:13:30.101Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -2273,8 +2273,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -4125,7 +4124,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -6094,7 +6094,7 @@
     "date": "2021-07-01T07:00:00.000Z",
     "launchDate": "2021-07-01T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-06T10:56:09.025Z",
+    "updatedDate": "2025-12-02T13:59:45.379Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -6597,7 +6597,7 @@
     "date": "2025-10-27T19:59:00.000Z",
     "launchDate": "2025-10-27T19:59:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-28T15:00:50.716Z",
+    "updatedDate": "2025-12-02T15:32:56.481Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -6610,13 +6610,21 @@
         "PoC Required",
         "Triaged by Immunefi"
       ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
+      "productType": [
+        "Lending"
+      ],
+      "projectType": [
+        "Defi"
+      ],
+      "ecosystem": [
+        "Near"
+      ],
       "programType": [
         "Smart Contract"
       ],
-      "language": [],
+      "language": [
+        "Rust"
+      ],
       "featured": [
         "Launched Recently",
         "Paid Recently"
@@ -7824,8 +7832,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -13047,7 +13054,7 @@
     "date": "2022-07-07T16:30:00.000Z",
     "launchDate": "2022-07-07T16:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-09T22:14:07.991Z",
+    "updatedDate": "2025-12-02T09:05:29.638Z",
     "kyc": false,
     "technologies": [
       "Websites and Applications",

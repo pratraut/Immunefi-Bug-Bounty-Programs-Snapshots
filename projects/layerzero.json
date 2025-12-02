@@ -53,8 +53,16 @@
           "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z",
           "fund": {
-            "usdValue": 634531.02,
-            "addressesCount": 6
+            "usdValue": 455159.657252507,
+            "addressesCount": 22
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -67,7 +75,15 @@
           "addedAt": "2023-05-17T17:00:00.000Z",
           "fund": {
             "usdValue": 0,
-            "addressesCount": 1
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -79,8 +95,16 @@
           "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z",
           "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
+            "usdValue": 0.000005758857574505882,
+            "addressesCount": 6
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -91,10 +115,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T17:50:35.573Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "7FeS0awcjrIfyzba238uEv",
@@ -104,10 +126,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "16ifjbsTu7mBK21fEUgze7",
@@ -117,10 +137,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "53l6TK3bLcSHYiovX9S7sB",
@@ -130,10 +148,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "6x2Vg1PG1pkdiij36fU1E",
@@ -143,10 +159,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-05-17T17:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "39mhMVaavajninZUnYIsWt",
@@ -157,8 +171,16 @@
           "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:59.415Z",
           "fund": {
-            "usdValue": 3.94,
-            "addressesCount": 3
+            "usdValue": 2.213376214986537,
+            "addressesCount": 7
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -170,8 +192,16 @@
           "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:56.439Z",
           "fund": {
-            "usdValue": 94.18,
+            "usdValue": 84.27424828329588,
             "addressesCount": 1
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -184,7 +214,15 @@
           "addedAt": "2024-02-13T14:18:54.282Z",
           "fund": {
             "usdValue": 0,
-            "addressesCount": 1
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -196,8 +234,16 @@
           "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:51.689Z",
           "fund": {
-            "usdValue": 54118.13,
-            "addressesCount": 1
+            "usdValue": 55972.32401208758,
+            "addressesCount": 2
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -208,10 +254,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T17:58:09.748Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "7wsMXOnjGGFwLAwT2eaT93",
@@ -223,7 +267,15 @@
           "addedAt": "2024-02-13T14:18:49.342Z",
           "fund": {
             "usdValue": 0,
-            "addressesCount": 1
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -234,10 +286,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T17:59:29.233Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "67VGceeWmaO3RcsGxclNMq",
@@ -248,8 +298,16 @@
           "isSafeHarbor": null,
           "addedAt": "2024-02-13T14:18:47.416Z",
           "fund": {
-            "usdValue": 0,
+            "usdValue": 0.0000509028,
             "addressesCount": 1
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -260,10 +318,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T17:53:30.105Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "MFubTqaCBhTMChd0CGl4l",
@@ -273,10 +329,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T18:00:29.218Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "5fPFIFy9loK7maViGCvECQ",
@@ -286,10 +340,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T18:00:56.043Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "7uML0p7A3oVKrzVhZjVfFc",
@@ -299,10 +351,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T18:01:14.662Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "5uOaRHMVp3PJ8pZLkYelXc",
@@ -312,10 +362,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-29T18:01:32.797Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "2vw89vfXrWz6hlzx22YokT",
@@ -325,10 +373,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-02-12T08:46:05.702Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "4efqenGLEmbiVxNEVM0xXC",
@@ -338,10 +384,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-02-12T08:47:25.348Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "4KLM0tcNJ1RN2voy642jCE",
@@ -351,10 +395,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-02-12T08:47:46.149Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "6dHbnS8CIh77iim2v7SzrO",
@@ -364,10 +406,8 @@
           "isPrimacyOfImpact": true,
           "isSafeHarbor": null,
           "addedAt": "2025-11-11T09:37:09.759Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         }
       ],
       "impacts": [

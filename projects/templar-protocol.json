@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1vPg0ELzd0xPUVL2rzMzNp/68486c1f6dca79432f8bd2818bb57fb4/Templar_Protocol.png",
       "launchDate": "2025-10-27T19:59:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-10-28T15:00:50.716Z",
+      "updatedDate": "2025-12-02T15:32:56.481Z",
       "kyc": true,
       "rewards": [
         {
@@ -61,10 +61,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-10-28T14:57:44.551Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "wSfhCplYiJWc9dMxFGmH4",
@@ -74,10 +72,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-10-28T14:57:54.681Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         }
       ],
       "impacts": [
@@ -173,13 +169,21 @@
           "KYC Required",
           "PoC Required"
         ],
-        "productType": [],
-        "projectType": [],
-        "ecosystem": [],
+        "productType": [
+          "Lending"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "ecosystem": [
+          "Near"
+        ],
         "programType": [
           "Smart Contract"
         ],
-        "language": [],
+        "language": [
+          "Rust"
+        ],
         "featured": [
           "Launched Recently"
         ]
@@ -231,6 +235,12 @@
           "title": "Documentation",
           "description": "Documentation and further resources",
           "url": "https://docs.templarfi.org/"
+        },
+        {
+          "id": 415,
+          "title": "Auditor Readme",
+          "description": "Contains answers to common questions as well as some known issues",
+          "url": "https://github.com/Templar-Protocol/contracts/blob/dev/audits/README.md"
         }
       ],
       "primacy": "primacy_of_rules",

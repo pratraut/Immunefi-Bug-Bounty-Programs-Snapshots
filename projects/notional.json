@@ -52,8 +52,25 @@
           "isSafeHarbor": null,
           "addedAt": "2022-02-13T08:18:38.233Z",
           "fund": {
-            "usdValue": 1002763.39,
-            "addressesCount": 3
+            "usdValue": 1840.921496322933,
+            "addressesCount": 31
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": true,
+              "type": "eip1967",
+              "address": "0x5C424C3D0F32b21cB3d51b780Eb1b38b6AE8923F",
+              "isERC20": false,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": 1724362979
+            }
           }
         },
         {
@@ -64,10 +81,8 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-02-13T08:18:40.495Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 1
-          }
+          "fund": null,
+          "info": null
         },
         {
           "id": "4s0PRp5W2pDWyfViyEwF3j",
@@ -78,8 +93,25 @@
           "isSafeHarbor": null,
           "addedAt": "2022-02-13T08:18:43.154Z",
           "fund": {
-            "usdValue": 3312.02,
-            "addressesCount": 1
+            "usdValue": 799.202474143008,
+            "addressesCount": 3
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": true,
+              "type": "eip1967",
+              "address": "0x95DF7E34403beCd532f2BE160cacda56F0BD6bA3",
+              "isERC20": true,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": 1632786471
+            }
           }
         }
       ],
