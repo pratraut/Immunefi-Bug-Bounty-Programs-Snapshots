@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/62GmRlVFu7IOBMrAAXOlu6/50a7afd87333d0f62be3123093e2ec78/Avalanche_AVAX_Black__1_.png",
       "launchDate": "2023-12-04T09:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-03-10T03:52:50.225Z",
+      "updatedDate": "2025-12-04T07:03:51.171Z",
       "kyc": true,
       "rewards": [
         {
@@ -45,57 +45,13 @@
       "audits": null,
       "assets": [
         {
-          "id": "2oduvI9kPjEZpwz2I6PgNt",
+          "id": "1y5Q7V3ihNEYZpfNAHYbgp",
           "type": "websites_and_applications",
-          "url": "https://chrome.google.com/webstore/detail/core-crypto-wallet-nft-ex/agoakfejjabomempkjlepdflaleeobhb",
-          "description": "Core Browser Extension",
+          "url": "https://avax.network/",
+          "description": null,
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:30:28.479Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "5UblHOvfx9DmIDDSATshBb",
-          "type": "websites_and_applications",
-          "url": "https://core.app/",
-          "description": "Core Web Wallet",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:34.831Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "69qZ733vMDQ7c3W8SG35D4",
-          "type": "websites_and_applications",
-          "url": "https://play.google.com/store/apps/details?id=com.avaxwallet",
-          "description": "Core Android App",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:31.994Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "4DUpdIr4KbjuvxTNd7TJ66",
-          "type": "websites_and_applications",
-          "url": "https://apps.apple.com/ng/app/core-crypto-wallet-nfts/id6443685999",
-          "description": "Core iOS App",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:29.648Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "42oJfGPBcmhNVs5THjSCOu",
-          "type": "websites_and_applications",
-          "url": "https://github.com/ava-labs/AvalancheJS",
-          "description": "AvalancheJS",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:25.162Z",
+          "addedAt": "2023-12-04T12:36:14.905Z",
           "fund": null,
           "info": null
         },
@@ -111,35 +67,13 @@
           "info": null
         },
         {
-          "id": "YfHduIMZyArmKUH8djz7o",
+          "id": "2oduvI9kPjEZpwz2I6PgNt",
           "type": "websites_and_applications",
-          "url": "https://www.avalabs.org/",
-          "description": null,
+          "url": "https://chrome.google.com/webstore/detail/core-crypto-wallet-nft-ex/agoakfejjabomempkjlepdflaleeobhb",
+          "description": "Core Browser Extension",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:20.875Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6d37tkcOOkVGc55O9P94dT",
-          "type": "websites_and_applications",
-          "url": "https://www.avax.network/",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:17.526Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "1y5Q7V3ihNEYZpfNAHYbgp",
-          "type": "websites_and_applications",
-          "url": "https://avax.network/",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:14.905Z",
+          "addedAt": "2023-12-04T12:30:28.479Z",
           "fund": null,
           "info": null
         },
@@ -151,6 +85,17 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-12-04T12:36:12.238Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "3Uaaz4J4sB1r9bzRIWO6s7",
+          "type": "websites_and_applications",
+          "url": "https://explorer.avax.network/",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2023-12-04T12:35:57.112Z",
           "fund": null,
           "info": null
         },
@@ -177,13 +122,35 @@
           "info": null
         },
         {
-          "id": "6aSUUh78GzAdkWBbcUfN5b",
+          "id": "42oJfGPBcmhNVs5THjSCOu",
           "type": "websites_and_applications",
-          "url": "https://stats.avax.network/",
+          "url": "https://github.com/ava-labs/AvalancheJS",
+          "description": "AvalancheJS",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2023-12-04T12:36:25.162Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "4DUpdIr4KbjuvxTNd7TJ66",
+          "type": "websites_and_applications",
+          "url": "https://apps.apple.com/ng/app/core-crypto-wallet-nfts/id6443685999",
+          "description": "Core iOS App",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2023-12-04T12:36:29.648Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "4yIZ6dssse2YVMFBtt1y9I",
+          "type": "websites_and_applications",
+          "url": "https://backstage.avax-dev.network/",
           "description": null,
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:36:01.223Z",
+          "addedAt": "2023-12-04T12:35:46.033Z",
           "fund": null,
           "info": null
         },
@@ -199,35 +166,13 @@
           "info": null
         },
         {
-          "id": "3Uaaz4J4sB1r9bzRIWO6s7",
+          "id": "5UblHOvfx9DmIDDSATshBb",
           "type": "websites_and_applications",
-          "url": "https://explorer.avax.network/",
-          "description": null,
+          "url": "https://core.app/",
+          "description": "Core Web Wallet",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:35:57.112Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "63gdGZuAPaTkDFneSxdYwA",
-          "type": "websites_and_applications",
-          "url": "https://api.avax-test.network/",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:35:54.952Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "70JTJcvARkYtmXHV7B3W15",
-          "type": "websites_and_applications",
-          "url": "https://explorerapi.avax-test.network/",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:35:52.690Z",
+          "addedAt": "2023-12-04T12:36:34.831Z",
           "fund": null,
           "info": null
         },
@@ -243,13 +188,57 @@
           "info": null
         },
         {
-          "id": "4yIZ6dssse2YVMFBtt1y9I",
+          "id": "63gdGZuAPaTkDFneSxdYwA",
           "type": "websites_and_applications",
-          "url": "https://backstage.avax-dev.network/",
+          "url": "https://api.avax-test.network/",
           "description": null,
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2023-12-04T12:35:46.033Z",
+          "addedAt": "2023-12-04T12:35:54.952Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "69qZ733vMDQ7c3W8SG35D4",
+          "type": "websites_and_applications",
+          "url": "https://play.google.com/store/apps/details?id=com.avaxwallet",
+          "description": "Core Android App",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2023-12-04T12:36:31.994Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6aSUUh78GzAdkWBbcUfN5b",
+          "type": "websites_and_applications",
+          "url": "https://stats.avax.network/",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2023-12-04T12:36:01.223Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6d37tkcOOkVGc55O9P94dT",
+          "type": "websites_and_applications",
+          "url": "https://www.avax.network/",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2023-12-04T12:36:17.526Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "YfHduIMZyArmKUH8djz7o",
+          "type": "websites_and_applications",
+          "url": "https://www.avalabs.org/",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2023-12-04T12:36:20.875Z",
           "fund": null,
           "info": null
         }

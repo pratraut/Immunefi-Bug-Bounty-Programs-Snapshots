@@ -82,17 +82,6 @@
           "info": null
         },
         {
-          "id": "3igevacGYUg1rcDEylye7C",
-          "type": "blockchain_dlt",
-          "url": "https://github.com/ava-labs/coreth",
-          "description": "Coreth",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-12-04T13:16:00.436Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "cQyRaVY44217WlIX3Js5e",
           "type": "blockchain_dlt",
           "url": "https://github.com/ava-labs/subnet-evm",
@@ -100,17 +89,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-12-04T13:15:58.642Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "1U9nH3Dlgnj7fsYKhcj1ew",
-          "type": "blockchain_dlt",
-          "url": "https://github.com/ava-labs/teleporter",
-          "description": "Teleporter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-06-05T10:47:31.415Z",
           "fund": null,
           "info": null
         },

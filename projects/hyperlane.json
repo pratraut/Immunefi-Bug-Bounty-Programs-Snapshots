@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/32dUEjoP7WozWkfwxWEhK2/92b2a5020a729f64f689dfa47af55717/Hyperlane_logo.jpeg",
       "launchDate": "2023-01-10T21:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-03-21T08:31:06.536Z",
+      "updatedDate": "2025-12-03T23:49:23.843Z",
       "kyc": true,
       "rewards": [
         {
@@ -2760,48 +2760,6 @@
           "addedAt": "2024-07-19T13:50:03.622Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "1Tzt1TlMejkRIsEobQJSdJ",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xa11b1a385287b5167ecca6a38f63abeab981d589",
-          "description": "Ethereum ECDSAStakeRegistry",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-07-19T13:50:04.142Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "4z916pMCRaMAGUHPnre3Fv",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x3127e69517ec2268dd5745c97194d387a4fc0c45",
-          "description": "Ethereum HyperlaneService",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-07-19T13:50:04.575Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "7H1IAXXBFWLGjCOcCn0snD",

@@ -365,7 +365,8 @@ Your valuable contributions played a crucial role in identifying and resolving c
         "Immunefi Standard",
         "KYC Not Required",
         "Step-by-step PoC Required",
-        "Triaged by Immunefi"
+        "Triaged by Immunefi",
+        "Vaults"
       ],
       "productType": [],
       "projectType": [],
@@ -526,7 +527,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "date": "2025-10-01T13:00:00.000Z",
     "launchDate": "2025-10-01T13:00:00.000Z",
     "endDate": "2025-10-26T14:00:00.000Z",
-    "updatedDate": "2025-11-24T06:55:37.052Z",
+    "updatedDate": "2025-12-04T05:36:02.644Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -538,8 +539,7 @@ Your valuable contributions played a crucial role in identifying and resolving c
         "Immunefi Standard",
         "KYC Required",
         "Step-by-step PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
+        "Triaged by Immunefi"
       ],
       "productType": [],
       "projectType": [],
@@ -550,7 +550,8 @@ Your valuable contributions played a crucial role in identifying and resolving c
       ],
       "language": [],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "evaluationEndDate": "2025-12-01T14:00:00.000Z",
