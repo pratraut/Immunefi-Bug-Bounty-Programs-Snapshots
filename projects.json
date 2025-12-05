@@ -286,7 +286,7 @@
     "date": "2023-11-01T15:00:00.000Z",
     "launchDate": "2023-11-01T15:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-07T09:19:00.390Z",
+    "updatedDate": "2025-12-05T18:10:40.356Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -741,7 +741,7 @@
     "date": "2022-03-11T03:30:00.000Z",
     "launchDate": "2022-03-11T03:30:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-12-03T07:09:43.676Z",
+    "updatedDate": "2025-12-05T10:14:17.071Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -1418,7 +1418,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -8893,7 +8894,7 @@
     "date": "2024-06-12T03:22:00.000Z",
     "launchDate": "2024-06-12T03:22:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-05T07:09:36.193Z",
+    "updatedDate": "2025-12-05T11:31:49.943Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -11322,8 +11323,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -12807,40 +12807,6 @@
         "Go",
         "Solidity"
       ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "613VE7fDAfJo4fdtYT1xaL",
-    "id": "polymesh",
-    "project": "Polymesh",
-    "maximum_reward": 6000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1FCH17TqM1Rtf0eqFKOKQf/810e3d475b106f1fe5d845ecaa5a240f/Logo-Polymesh.png",
-    "date": "2021-04-23T00:00-07:00",
-    "launchDate": "2021-04-22T07:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2023-09-06T07:17:26.731Z",
-    "kyc": true,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "PoC Not Required"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [],
       "featured": [
         "Launched Recently"
       ]
