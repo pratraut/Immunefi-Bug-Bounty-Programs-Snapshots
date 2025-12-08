@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5ZuVO0D8rx9fzSoB5UVsx4/e5f38f1b93be6cb32b6255c21f6db81c/NEW_Babylon_Labs.png",
       "launchDate": "2024-09-16T15:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-26T07:44:44.848Z",
+      "updatedDate": "2025-12-08T07:59:36.838Z",
       "kyc": true,
       "rewards": [
         {
@@ -77,57 +77,13 @@
       "audits": null,
       "assets": [
         {
-          "id": "7hvh4HDZ1Afo76vAGVCqP8",
-          "type": "websites_and_applications",
-          "url": "https://github.com/babylonlabs-io/staking-api-service/releases/tag/v3.0.3",
-          "description": "Staking API Service",
+          "id": "ukDOj50cUOHTqOxGm4nV3",
+          "type": "blockchain_dlt",
+          "url": "https://github.com/babylonlabs-io/babylon/tree/release/v4.2.x",
+          "description": "Babylon Genesis chain node",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-11-26T07:44:33.581Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "qkYNebrSwBwEpTUwbi4qd",
-          "type": "websites_and_applications",
-          "url": "https://github.com/babylonlabs-io/btc-staking-ts/releases/tag/v2.8.2",
-          "description": "TypeScript BTC Staking Library",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T07:44:35.343Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "2MGIv3bghRuIffi8BEIf2d",
-          "type": "websites_and_applications",
-          "url": "https://github.com/babylonlabs-io/babylon-toolkit/tree/simple-staking/v1.4.6/services/simple-staking",
-          "description": "Staking dApp",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T07:44:33.729Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "671cGIoGdZ2J9YNKOScDaD",
-          "type": "websites_and_applications",
-          "url": "https://github.com/babylonlabs-io/babylon-toolkit/tree/simple-staking/v1.4.6/packages/babylon-wallet-connector",
-          "description": "Wallet Connect",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T07:44:33.749Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "2WN7O3badYXxg4X4I09thz",
-          "type": "websites_and_applications",
-          "url": "https://github.com/babylonlabs-io/babylon-toolkit/tree/simple-staking/v1.4.6/packages/babylon-proto-ts",
-          "description": "Babylon Proto Libraries",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T07:44:35.522Z",
+          "addedAt": "2025-12-08T07:59:31.178Z",
           "fund": null,
           "info": null
         },
@@ -143,17 +99,6 @@
           "info": null
         },
         {
-          "id": "2RmvredMyPv4hy38ea1f8F",
-          "type": "websites_and_applications",
-          "url": "https://github.com/babylonlabs-io/babylon-staking-indexer/releases/tag/v3.0.2",
-          "description": "Babylon Genesis and Bitcoin Indexer",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T07:44:35.746Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "1QCvF2jhIbZ4bXaDwTw4fw",
           "type": "blockchain_dlt",
           "url": "https://github.com/babylonlabs-io/cli-tools/tree/v0.2.x/",
@@ -165,17 +110,6 @@
           "info": null
         },
         {
-          "id": "1vyrwYJCBaC4c4a6EuMXyn",
-          "type": "blockchain_dlt",
-          "url": "https://github.com/babylonlabs-io/babylon/tree/release/v4.x",
-          "description": "Babylon Genesis chain node",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-14T08:17:42.192Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "2EQJ5GeOcZAEfT5xSae40q",
           "type": "websites_and_applications",
           "url": "https://immunefi.com",
@@ -183,6 +117,39 @@
           "isPrimacyOfImpact": true,
           "isSafeHarbor": null,
           "addedAt": "2025-04-09T17:31:39.538Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "2MGIv3bghRuIffi8BEIf2d",
+          "type": "websites_and_applications",
+          "url": "https://github.com/babylonlabs-io/babylon-toolkit/tree/simple-staking/v1.4.6/services/simple-staking",
+          "description": "Staking dApp",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T07:44:33.729Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "2RmvredMyPv4hy38ea1f8F",
+          "type": "websites_and_applications",
+          "url": "https://github.com/babylonlabs-io/babylon-staking-indexer/releases/tag/v3.0.2",
+          "description": "Babylon Genesis and Bitcoin Indexer",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T07:44:35.746Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "2WN7O3badYXxg4X4I09thz",
+          "type": "websites_and_applications",
+          "url": "https://github.com/babylonlabs-io/babylon-toolkit/tree/simple-staking/v1.4.6/packages/babylon-proto-ts",
+          "description": "Babylon Proto Libraries",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T07:44:35.522Z",
           "fund": null,
           "info": null
         },
@@ -231,6 +198,17 @@
           "info": null
         },
         {
+          "id": "671cGIoGdZ2J9YNKOScDaD",
+          "type": "websites_and_applications",
+          "url": "https://github.com/babylonlabs-io/babylon-toolkit/tree/simple-staking/v1.4.6/packages/babylon-wallet-connector",
+          "description": "Wallet Connect",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T07:44:33.749Z",
+          "fund": null,
+          "info": null
+        },
+        {
           "id": "67xPgvMyUWgO2uF0m3ztSI",
           "type": "blockchain_dlt",
           "url": "https://github.com/babylonlabs-io/staking-expiry-checker/tree/release/v1.x",
@@ -260,6 +238,28 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-11-14T08:17:42.186Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "7hvh4HDZ1Afo76vAGVCqP8",
+          "type": "websites_and_applications",
+          "url": "https://github.com/babylonlabs-io/staking-api-service/releases/tag/v3.0.3",
+          "description": "Staking API Service",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T07:44:33.581Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "qkYNebrSwBwEpTUwbi4qd",
+          "type": "websites_and_applications",
+          "url": "https://github.com/babylonlabs-io/btc-staking-ts/releases/tag/v2.8.2",
+          "description": "TypeScript BTC Staking Library",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T07:44:35.343Z",
           "fund": null,
           "info": null
         }

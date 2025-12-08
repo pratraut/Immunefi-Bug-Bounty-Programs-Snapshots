@@ -9,7 +9,7 @@
       "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/43562-DuC7v0DHS6PQwf4rZxZqc-AXDcBf217UD2Oh7CFoF8xcDZirbcQp.png",
       "launchDate": "2023-04-20T13:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-08-04T07:05:11.312Z",
+      "updatedDate": "2025-12-08T07:57:03.142Z",
       "kyc": true,
       "rewards": [
         {
@@ -46,28 +46,6 @@
       "audits": null,
       "assets": [
         {
-          "id": "4kNaaJbvzDtJXmrX4bsnBw",
-          "type": "smart_contract",
-          "url": "https://github.com/HorizenOfficial/horizen-migration/tree/main/erc20-migration/contracts",
-          "description": "Horizen Migration solidity smart contracts only, no Python Scripts are under scope.",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-08-04T07:00:44.043Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "1UrX7J5HzH5NGN4I7yIpDg",
-          "type": "websites_and_applications",
-          "url": "https://horizen.io/tzenclaim",
-          "description": "Migration Portal",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-07-18T18:52:03.170Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "2eB6GtAxpzhvCmx3o9EFw3",
           "type": "websites_and_applications",
           "url": "https://github.com/HorizenOfficial/horizen-migration-signing-tool-private-key",
@@ -97,6 +75,17 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-07-18T18:52:19.921Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "4kNaaJbvzDtJXmrX4bsnBw",
+          "type": "smart_contract",
+          "url": "https://github.com/HorizenOfficial/horizen-migration/tree/main/erc20-migration/contracts",
+          "description": "Horizen Migration solidity smart contracts only, no Python Scripts are under scope.",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-08-04T07:00:44.043Z",
           "fund": null,
           "info": null
         }

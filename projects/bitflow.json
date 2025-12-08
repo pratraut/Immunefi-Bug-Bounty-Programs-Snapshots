@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1wBdOtq6xoBJTdPjGbJmiq/8165a74640386a368784458f72749f7f/tq71coRV_400x400.png",
       "launchDate": "2025-11-26T04:27:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-27T15:55:34.299Z",
+      "updatedDate": "2025-12-08T07:57:57.211Z",
       "kyc": false,
       "rewards": [
         {
@@ -56,72 +56,6 @@
       "audits": null,
       "assets": [
         {
-          "id": "64dQuPCxJ3DkjvYY848Nba",
-          "type": "websites_and_applications",
-          "url": "https://hodlmm.bitflow.finance/",
-          "description": "App",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T04:27:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "5jFioauR92OFCIWEnsfRjH",
-          "type": "smart_contract",
-          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-core-v-0-1?chain=mainnet",
-          "description": "dlmm-core-v-0-1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T18:51:59.491Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "36Z6Bp60qppHT4kyUyAiy5",
-          "type": "smart_contract",
-          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-swap-router-v-0-1?chain=mainnet",
-          "description": "dlmm-swap-router-v-0-1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T19:04:08.891Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "srMsB8Pvy6mT6v2BA7KdA",
-          "type": "smart_contract",
-          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-liquidity-router-v-0-1?chain=mainnet",
-          "description": "dlmm-liquidity-router-v-0-1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T19:05:26.373Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "XZDaemW2QQ0cCkOF1Wpai",
-          "type": "smart_contract",
-          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-trait-v-0-1?chain=mainnet",
-          "description": "dlmm-pool-trait-v-0-1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T19:05:40.932Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "B4HmB2UqxIdiAWWf23Wg2",
-          "type": "smart_contract",
-          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-b-v-0-1?chain=mainnet",
-          "description": "dlmm-pool-b-v-0-1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T19:05:56.681Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "1b0RqlxSmzajKDfSXpp5Bk",
           "type": "smart_contract",
           "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-c-v-0-1?chain=mainnet",
@@ -133,24 +67,13 @@
           "info": null
         },
         {
-          "id": "5XJ3M6ggPAFXJarQjtFq4V",
+          "id": "36Z6Bp60qppHT4kyUyAiy5",
           "type": "smart_contract",
-          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-d-v-0-1?chain=mainnet",
-          "description": "dlmm-pool-d-v-0-1",
+          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-swap-router-v-0-1?chain=mainnet",
+          "description": "dlmm-swap-router-v-0-1",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-11-26T19:06:46.024Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6HRjrhKCx1FiuIZDraYsav",
-          "type": "smart_contract",
-          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-g-v-0-1?chain=mainnet",
-          "description": "dlmm-pool-g-v-0-1",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-26T19:06:59.316Z",
+          "addedAt": "2025-11-26T19:04:08.891Z",
           "fund": null,
           "info": null
         },
@@ -173,6 +96,83 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-11-26T19:07:28.905Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "5XJ3M6ggPAFXJarQjtFq4V",
+          "type": "smart_contract",
+          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-d-v-0-1?chain=mainnet",
+          "description": "dlmm-pool-d-v-0-1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T19:06:46.024Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "5jFioauR92OFCIWEnsfRjH",
+          "type": "smart_contract",
+          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-core-v-0-1?chain=mainnet",
+          "description": "dlmm-core-v-0-1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T18:51:59.491Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "64dQuPCxJ3DkjvYY848Nba",
+          "type": "websites_and_applications",
+          "url": "https://hodlmm.bitflow.finance/",
+          "description": "App",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T04:27:00.000Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6HRjrhKCx1FiuIZDraYsav",
+          "type": "smart_contract",
+          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-g-v-0-1?chain=mainnet",
+          "description": "dlmm-pool-g-v-0-1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T19:06:59.316Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "B4HmB2UqxIdiAWWf23Wg2",
+          "type": "smart_contract",
+          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-b-v-0-1?chain=mainnet",
+          "description": "dlmm-pool-b-v-0-1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T19:05:56.681Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "XZDaemW2QQ0cCkOF1Wpai",
+          "type": "smart_contract",
+          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-pool-trait-v-0-1?chain=mainnet",
+          "description": "dlmm-pool-trait-v-0-1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T19:05:40.932Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "srMsB8Pvy6mT6v2BA7KdA",
+          "type": "smart_contract",
+          "url": "https://explorer.hiro.so/txid/SP3ESW1QCNQPVXJDGQWT7E45RDCH38QBK9HEJSX4X.dlmm-liquidity-router-v-0-1?chain=mainnet",
+          "description": "dlmm-liquidity-router-v-0-1",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-26T19:05:26.373Z",
           "fund": null,
           "info": null
         }
