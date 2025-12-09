@@ -9,11 +9,11 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6tsDyr3ikdFL8rLa53IcOZ/e249b3d566eee170e2b73a37d6666f2f/Mtpelerin-logo.png",
       "launchDate": "2021-02-08T07:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2024-11-18T12:49:39.527Z",
+      "updatedDate": "2025-12-09T10:19:12.108Z",
       "kyc": false,
       "rewards": [
         {
-          "id": 8318,
+          "id": 39387,
           "assetType": "smart_contract",
           "severity": "critical",
           "rewardModel": "fixed",
@@ -21,14 +21,14 @@
           "fixedReward": 5000
         },
         {
-          "id": 6462,
+          "id": 39388,
           "assetType": "smart_contract",
           "severity": "high",
           "rewardModel": "fixed",
           "fixedReward": 1000
         },
         {
-          "id": 6463,
+          "id": 39389,
           "assetType": "websites_and_applications",
           "severity": "critical",
           "rewardModel": "fixed",
@@ -36,7 +36,7 @@
           "fixedReward": 5000
         },
         {
-          "id": 6464,
+          "id": 39390,
           "assetType": "websites_and_applications",
           "severity": "high",
           "rewardModel": "fixed",
@@ -437,7 +437,7 @@
         }
       ],
       "programOverview": "Mt Pelerin is a Swiss fintech company specialized in solutions to bridge the\ncrypto economy with traditional banking and finance. Today it offers two key\nproducts: Bridge Protocol, an open-source ERC20 asset tokenization platform\nwith related tech, financial, legal and compliance services, as well as Bridge\nWallet, a non-custodial Bitcoin and Ethereum mobile wallet with live\ncrypto-fiat on/off-ramp.\n\nThe bug bounty program is focused around its smart contracts, mobile apps and\nwebsite, and is mostly aimed at addressing serious security issues directly\naffecting fund safety and user data protection.",
-      "prioritizedVulnerabilities": "We are especially interested in receiving and rewarding vulnerabilities of the following types as long as they result in an impact listed in the Impacts in Scope section:\n\n**Smart Contracts/Blockchain:**\n\n- Re-entrancy\n- Logic errors\n  - Including user authentication errors\n- Solidity/EVM details not considered\n  - Including integer over-/under-flow\n  - Including unhandled exceptions\n- Trusting trust/dependency vulnerabilities\n  - Including composability vulnerabilities\n- Oracle failure/manipulation\n- Novel governance attacks\n- Economic/financial attacks\n  - Including flash loan attacks\n- Congestion and scalability\n  - Including running out of gas\n  - Including block stuffing\n  - Including susceptibility to frontrunning\n- Consensus failures\n- Cryptography problems\n  - Signature malleability\n  - Susceptibility to replay attacks\n  - Weak randomness\n  - Weak encryption\n- Susceptibility to block timestamp manipulation\n- Missing access controls / unprotected internal or debugging interfaces\n\n**Websites and Apps**\n\n- Remote Code Execution\n- Trusting trust/dependency vulnerabilities\n- Vertical Privilege Escalation\n- XML External Entities Injection\n- SQL Injection\n- LFI/RFI\n- Horizontal Privilege Escalation\n- Stored XSS\n- Reflective XSS with impact\n- CSRF\n- CSRF with impact\n- Direct object reference\n- Internal SSRF\n- Session fixation\n- Insecure Deserialization\n- Direct object reference\n- Path Traversal\n- DOM XSS\n- SSL misconfigurations\n- SSL/TLS issues (weak crypto, improper setup)\n- URL redirect\n- Clickjacking\n- Misleading Unicode text (e.g. using right to left override characters)\n- Coercing the application to display/return specific text to other users",
+      "prioritizedVulnerabilities": "_blank_",
       "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps and smart contracts/blockchains, encompassing everything from consequence of exploitation to privilege required to likelihood of a successful exploit.\n\nAdditionally, all bug reports without proof of concept exploits with\ndemonstrated impact, as well as recommendations for new features, are not\naccepted.\n\nPayouts are handled by **Mt Pelerin** directly and are estimated in\n**USD**. However, payouts are done in **ETH, BTC, USDT, USDC, or DAI**.",
       "outOfScopeAndRules": null,
       "assetsBodyV2": null,
@@ -469,7 +469,11 @@
           "Optimism",
           "Polygon",
           "Rootstock",
-          "Tezos"
+          "Tezos",
+          "Celo",
+          "zkSync",
+          "Lightning",
+          "Sonic"
         ],
         "programType": [
           "Smart Contract",

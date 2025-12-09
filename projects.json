@@ -810,7 +810,7 @@
     "date": "2022-01-14T07:00:00.000Z",
     "launchDate": "2022-01-14T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-11-04T06:39:30.089Z",
+    "updatedDate": "2025-12-09T08:35:24.191Z",
     "kyc": true,
     "technologies": [
       "Smart Contract",
@@ -6627,7 +6627,7 @@
     "date": "2025-09-09T14:58:00.000Z",
     "launchDate": "2025-09-09T14:58:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-10-24T08:51:40.938Z",
+    "updatedDate": "2025-12-09T08:37:46.131Z",
     "kyc": false,
     "technologies": [
       "Blockchain/DLT"
@@ -12909,7 +12909,7 @@
     "date": "2021-02-08T07:00:00.000Z",
     "launchDate": "2021-02-08T07:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2024-11-18T12:49:39.527Z",
+    "updatedDate": "2025-12-09T10:19:12.108Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -12942,7 +12942,11 @@
         "Optimism",
         "Polygon",
         "Rootstock",
-        "Tezos"
+        "Tezos",
+        "Celo",
+        "zkSync",
+        "Lightning",
+        "Sonic"
       ],
       "programType": [
         "Smart Contract",
