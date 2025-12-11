@@ -4370,54 +4370,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "4CZw5XMAQ30BYxDk7kkyc0",
-    "id": "royco",
-    "project": "Royco",
-    "maximum_reward": 250000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4Hh4QPr7P8sC92rhy3vTc9/ef9957de799e11eb119a3d25f4db6d00/Royco.png",
-    "date": "2025-01-15T10:24:35.000Z",
-    "launchDate": "2025-01-15T10:24:35.000Z",
-    "endDate": null,
-    "updatedDate": "2025-04-16T13:18:02.261Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript",
-        "JavaScript"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "7iVTE8sJI1cVoE5wkgVlrc",
     "id": "lombard-finance",
     "project": "Lombard Finance",

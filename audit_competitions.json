@@ -189,94 +189,6 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "premiumTriaging": true
   },
   {
-    "contentfulId": "251A9ha27zvu6iiGXAPWMx",
-    "id": "audit-comp-firelight",
-    "project": "Audit Comp | Firelight",
-    "maximum_reward": 15000,
-    "logo": "//images.ctfassets.net/t3wqy70tc3bv/5hyBrrn4sBaeEmyYA7Vxm3/11c3efa07397064a595a000d6ca1f9f3/firelight.png",
-    "date": "2025-11-07T14:00:00.000Z",
-    "launchDate": "2025-11-07T14:00:00.000Z",
-    "endDate": "2025-11-17T10:00:00.000Z",
-    "updatedDate": "2025-11-07T13:54:57.192Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-12-15T10:00:00.000Z",
-    "boostedIntroStartingIn": "### **$15,000 USD** in rewards is available for finding bugs on Firelight's contracts. 
-
-For more information about the project, please visit https://firelight.finance/ 
-
-Any technical questions and support requests can be asked directly to the Firelight team or Immunefi in the [#firelight-audit-competition](https://discord.com/channels/787092485969150012/1435885611859836971) discord channel. 
-
-When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Firelight's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
-
-**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroLive": "### **$15,000 USD** in rewards is available for finding bugs on Firelight's contracts. 
-
-For more information about the project, please visit about [Firelight](https://firelight.finance/)
-
-- KYC is not required.
-
-- Flat Reward Pool
-
-**Proof of Concept (PoC) Requirements**
-
-- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
-
-- Any technical questions and support requests can be asked directly to the Firelight team or Immunefi in the [#firelight-audit-competition](https://discord.com/channels/787092485969150012/1435885611859836971) discord channel.",
-    "boostedIntroEvaluating": "### Thank You to All Participating Security Researchers!
-
-The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
-    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
-
-Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
-    "rewardsToken": "USDC",
-    "rewardsPool": 15000,
-    "primaryPool": 10500,
-    "allStarsPool": 3000,
-    "podiumPool": 1500,
-    "sourceLinesOfCode": 528,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Signal Booster",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "proofOfConceptType": "runnable",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "3oUNZcKXyGUxfFBOiEEgYd",
     "id": "xrpl-ripple-attackathon",
     "project": "Attackathon | XRPL Lending Protocol",
@@ -442,7 +354,7 @@ The audit competition has now concluded and is currently in the evaluation phase
     "date": "2025-10-14T15:00:00.000Z",
     "launchDate": "2025-10-14T15:00:00.000Z",
     "endDate": "2025-11-04T14:00:00.000Z",
-    "updatedDate": "2025-12-01T16:05:32.331Z",
+    "updatedDate": "2025-12-11T15:25:36.001Z",
     "kyc": false,
     "technologies": [
       "Smart Contract"
@@ -467,7 +379,7 @@ The audit competition has now concluded and is currently in the evaluation phase
         "Launched Recently"
       ]
     },
-    "evaluationEndDate": "2025-12-08T14:00:00.000Z",
+    "evaluationEndDate": "2025-12-26T14:00:00.000Z",
     "boostedIntroStartingIn": "### **$100,000 USD** in rewards is available for finding bugs on Alchemix’s V3 contracts. 
 
 For more information about the project, please visit about [Alchemix](https://alchemix.fi/)
@@ -513,6 +425,711 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "features": [
       "Boost",
       "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "proofOfConceptType": "runnable",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "251A9ha27zvu6iiGXAPWMx",
+    "id": "audit-comp-firelight",
+    "project": "Audit Comp | Firelight",
+    "maximum_reward": 15000,
+    "logo": "//images.ctfassets.net/t3wqy70tc3bv/5hyBrrn4sBaeEmyYA7Vxm3/11c3efa07397064a595a000d6ca1f9f3/firelight.png",
+    "date": "2025-11-07T14:00:00.000Z",
+    "launchDate": "2025-11-07T14:00:00.000Z",
+    "endDate": "2025-11-17T10:00:00.000Z",
+    "updatedDate": "2025-12-11T16:07:16.795Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [
+        "Solidity"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-12-11T16:07:22.467Z",
+    "boostedIntroStartingIn": "### **$15,000 USD** in rewards is available for finding bugs on Firelight's contracts. 
+
+For more information about the project, please visit https://firelight.finance/ 
+
+Any technical questions and support requests can be asked directly to the Firelight team or Immunefi in the [#firelight-audit-competition](https://discord.com/channels/787092485969150012/1435885611859836971) discord channel. 
+
+When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Firelight's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
+
+**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
+    "boostedIntroLive": "### **$15,000 USD** in rewards is available for finding bugs on Firelight's contracts. 
+
+For more information about the project, please visit about [Firelight](https://firelight.finance/)
+
+- KYC is not required.
+
+- Flat Reward Pool
+
+**Proof of Concept (PoC) Requirements**
+
+- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
+
+- Any technical questions and support requests can be asked directly to the Firelight team or Immunefi in the [#firelight-audit-competition](https://discord.com/channels/787092485969150012/1435885611859836971) discord channel.",
+    "boostedIntroEvaluating": "### Thank You to All Participating Security Researchers!
+
+The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
+    "rewardsToken": "USDC",
+    "rewardsPool": 15000,
+    "primaryPool": 10500,
+    "allStarsPool": 3000,
+    "podiumPool": 1500,
+    "sourceLinesOfCode": 528,
+    "boostedSummaryReport": "https://drive.google.com/file/d/1aYeTxEA7RMmaFtWkKJtFeWWocYEtJk1W/view?usp=sharing",
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [
+      {
+        "high": 0,
+        "name": "chief_hunter888",
+        "aspRank": 1,
+        "critical": 0,
+        "earnings": 2036,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 2546,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 510
+      },
+      {
+        "high": 0,
+        "name": "EagleEye",
+        "aspRank": 2,
+        "critical": 0,
+        "earnings": 1145,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 1640,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 495
+      },
+      {
+        "high": 0,
+        "name": "piyushmali",
+        "aspRank": 3,
+        "critical": 0,
+        "earnings": 1145,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 1640,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 495
+      },
+      {
+        "high": 0,
+        "name": "Paludo0x",
+        "aspRank": 19,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "SENIOR (ACTIVE)",
+        "totalEarnings": 1516,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 1500,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "perseverance",
+        "aspRank": 20,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "SENIOR (ACTIVE)",
+        "totalEarnings": 1516,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 1500,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "blackgrease",
+        "aspRank": 4,
+        "critical": 0,
+        "earnings": 1145,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 1145,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "emilesean_es",
+        "aspRank": 5,
+        "critical": 0,
+        "earnings": 1145,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 1145,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Flare0x",
+        "aspRank": 6,
+        "critical": 0,
+        "earnings": 1145,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 1145,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "gklptrgt",
+        "aspRank": 7,
+        "critical": 0,
+        "earnings": 1145,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 1145,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Le_Rems",
+        "aspRank": 37,
+        "critical": 0,
+        "earnings": 213,
+        "insights": 1,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 213,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Tadev",
+        "aspRank": 11,
+        "critical": 0,
+        "earnings": 213,
+        "insights": 1,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 213,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "ZenHunter",
+        "aspRank": 40,
+        "critical": 0,
+        "earnings": 197,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 197,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "hunterKing",
+        "aspRank": 41,
+        "critical": 0,
+        "earnings": 197,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 197,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "VinayVig",
+        "aspRank": 42,
+        "critical": 0,
+        "earnings": 197,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 197,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "dobrevaleri",
+        "aspRank": 8,
+        "critical": 0,
+        "earnings": 73,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 73,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "a16",
+        "aspRank": 39,
+        "critical": 0,
+        "earnings": 66,
+        "insights": 1,
+        "mediumLow": 0,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 66,
+        "totalValidBugs": 0,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Tomioka",
+        "aspRank": 9,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Falendar",
+        "aspRank": 10,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "dldLambda",
+        "aspRank": 12,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "jayx",
+        "aspRank": 13,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Arkindyo",
+        "aspRank": 14,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "coinsspor",
+        "aspRank": 15,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "theboiledcorn",
+        "aspRank": 16,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "axolot",
+        "aspRank": 17,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "edantes",
+        "aspRank": 18,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "legion",
+        "aspRank": 21,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Diavol0",
+        "aspRank": 22,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Y4nhu1",
+        "aspRank": 23,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "jesse03",
+        "aspRank": 24,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "zeroK",
+        "aspRank": 25,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "ASSOCIATE (ACTIVE)",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Orionn",
+        "aspRank": 26,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "maggie",
+        "aspRank": 27,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "sahuang",
+        "aspRank": 28,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "zcai",
+        "aspRank": 29,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "vivekd",
+        "aspRank": 30,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "y4y",
+        "aspRank": 31,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "sol_4th05",
+        "aspRank": 32,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "redbeans",
+        "aspRank": 33,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Pro_King",
+        "aspRank": 34,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "hcrlen",
+        "aspRank": 35,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "Immanux2160",
+        "aspRank": 36,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "IronsideSec",
+        "aspRank": 38,
+        "critical": 0,
+        "earnings": 16,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 16,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "[redacted]",
+        "aspRank": "disqualified",
+        "critical": 0,
+        "earnings": 0,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 0,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      },
+      {
+        "high": 0,
+        "name": "[redacted]",
+        "aspRank": "disqualified",
+        "critical": 0,
+        "earnings": 0,
+        "insights": 0,
+        "mediumLow": 1,
+        "allStarTier": "Non-ASP",
+        "totalEarnings": 0,
+        "totalValidBugs": 1,
+        "aspPoolEarnings": 0,
+        "podiumPoolEarnings": 0
+      }
+    ],
+    "features": [
+      "Boost",
+      "Managed Triage: Signal Booster",
       "Vault"
     ],
     "academyStartDate": null,
