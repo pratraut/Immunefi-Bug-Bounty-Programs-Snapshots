@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4qpRnmuoUMcdOxUOuFQUeN/278e2ad4821b6e2dadf60d84e3a4bb4f/USDT0.png",
       "launchDate": "2025-01-30T14:58:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-27T17:21:21.879Z",
+      "updatedDate": "2025-12-15T09:53:59.379Z",
       "kyc": true,
       "rewards": [
         {
@@ -39,24 +39,24 @@
       ],
       "assets": [
         {
-          "id": "35DiMx2op3LEk8QRkMyJVw",
+          "id": "4M7mUSl4DSvBVKtvpvsgHj",
           "type": "smart_contract",
-          "url": "https://mantlescan.xyz/address/0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC",
-          "description": "OApp Mantle",
+          "url": "https://stablescan.xyz/address/0xedaba024be4d87974d5aB11C6Dd586963CcCB027",
+          "description": "OApp Stable",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-11-27T17:21:11.978Z",
+          "addedAt": "2025-12-15T09:53:53.371Z",
           "fund": null,
           "info": null
         },
         {
-          "id": "5qUoV7nGalqx2FsZfQIsYj",
+          "id": "66aE1oLRPtgm9qBsxku7Og",
           "type": "smart_contract",
-          "url": "https://mantlescan.xyz/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
-          "description": "USDT0 Mantle",
+          "url": "https://stablescan.xyz/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+          "description": "USDT0 Stable",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2025-11-27T17:21:11.966Z",
+          "addedAt": "2025-12-15T09:53:53.232Z",
           "fund": null,
           "info": null
         },
@@ -182,6 +182,17 @@
           "info": null
         },
         {
+          "id": "35DiMx2op3LEk8QRkMyJVw",
+          "type": "smart_contract",
+          "url": "https://mantlescan.xyz/address/0xcb768e263FB1C62214E7cab4AA8d036D76dc59CC",
+          "description": "OApp Mantle",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-27T17:21:11.978Z",
+          "fund": null,
+          "info": null
+        },
+        {
           "id": "3FG7c7xaXvMVIuyl8jp0Yf",
           "type": "smart_contract",
           "url": "https://arbiscan.io/address/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
@@ -288,6 +299,17 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-07-16T12:55:34.350Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "5qUoV7nGalqx2FsZfQIsYj",
+          "type": "smart_contract",
+          "url": "https://mantlescan.xyz/address/0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+          "description": "USDT0 Mantle",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-27T17:21:11.966Z",
           "fund": null,
           "info": null
         },

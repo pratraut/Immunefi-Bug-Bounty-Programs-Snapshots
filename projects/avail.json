@@ -9,42 +9,11 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/37wGk8Qz27HTCY0URGtIzR/3c3171085fec2e44832cc45a25326d09/avail.png",
       "launchDate": "2024-07-23T02:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-08T08:07:56.235Z",
+      "updatedDate": "2025-12-15T09:56:17.673Z",
       "kyc": true,
       "rewards": [
         {
-          "id": 39201,
-          "assetType": "blockchain_dlt",
-          "severity": "critical",
-          "rewardModel": "range",
-          "maxReward": 250000,
-          "minReward": 25000,
-          "rewardCalculationPercentage": 10
-        },
-        {
-          "id": 39202,
-          "assetType": "blockchain_dlt",
-          "severity": "high",
-          "rewardModel": "range",
-          "maxReward": 40000,
-          "minReward": 20000
-        },
-        {
-          "id": 39203,
-          "assetType": "blockchain_dlt",
-          "severity": "medium",
-          "rewardModel": "fixed",
-          "fixedReward": 5000
-        },
-        {
-          "id": 39204,
-          "assetType": "blockchain_dlt",
-          "severity": "low",
-          "rewardModel": "fixed",
-          "fixedReward": 1000
-        },
-        {
-          "id": 39205,
+          "id": 39457,
           "assetType": "smart_contract",
           "severity": "critical",
           "rewardModel": "range",
@@ -53,7 +22,7 @@
           "rewardCalculationPercentage": 10
         },
         {
-          "id": 39206,
+          "id": 39458,
           "assetType": "smart_contract",
           "severity": "high",
           "rewardModel": "range",
@@ -61,14 +30,14 @@
           "minReward": 5000
         },
         {
-          "id": 39207,
+          "id": 39459,
           "assetType": "smart_contract",
           "severity": "medium",
           "rewardModel": "fixed",
           "fixedReward": 4000
         },
         {
-          "id": 39208,
+          "id": 39460,
           "assetType": "websites_and_applications",
           "severity": "critical",
           "rewardModel": "range",
@@ -76,21 +45,21 @@
           "minReward": 6000
         },
         {
-          "id": 39209,
+          "id": 39461,
           "assetType": "websites_and_applications",
           "severity": "high",
           "rewardModel": "fixed",
           "fixedReward": 5000
         },
         {
-          "id": 39210,
+          "id": 39462,
           "assetType": "websites_and_applications",
           "severity": "medium",
           "rewardModel": "fixed",
           "fixedReward": 2500
         },
         {
-          "id": 39211,
+          "id": 39463,
           "assetType": "websites_and_applications",
           "severity": "low",
           "rewardModel": "fixed",
@@ -120,36 +89,14 @@
           "addedAt": "2024-07-23T02:00:00.000Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "41lsglKkylNLYDjhj3uPRG",
-          "type": "blockchain_dlt",
-          "url": "https://github.com/availproject/avail-core",
-          "description": "Avail Core",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-07-23T02:00:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "7KtVhVPOH6Q31YMlnZccOp",
-          "type": "blockchain_dlt",
-          "url": "https://github.com/availproject/avail",
-          "description": null,
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-01T08:24:47.660Z",
-          "fund": null,
-          "info": null
         }
       ],
       "impacts": [
         {
-          "id": 52,
+          "id": 4991,
           "type": "websites_and_applications",
-          "severity": "medium",
-          "title": "Redirecting users to malicious websites (open redirect)"
+          "severity": "low",
+          "title": "Temporarily disabling user to access target site, such as:  Locking up the victim from login Cookie bombing, etc."
         },
         {
           "id": 4992,
@@ -180,12 +127,6 @@
           "type": "websites_and_applications",
           "severity": "high",
           "title": "Injecting/modifying the static content on the target application without JavaScript (persistent), such as:  HTML injection without JavaScript, Replacing existing text with arbitrary text, Arbitrary file uploads, etc"
-        },
-        {
-          "id": 4998,
-          "type": "blockchain_dlt",
-          "severity": "high",
-          "title": "RPC API crash affecting projects with greater than or equal to 25% of the market capitalization on top of the respective layer"
         },
         {
           "id": 5001,
@@ -222,66 +163,6 @@
           "type": "smart_contract",
           "severity": "critical",
           "title": "Direct theft of any user funds, whether at-rest or in-motion"
-        },
-        {
-          "id": 49,
-          "type": "websites_and_applications",
-          "severity": "high",
-          "title": "Subdomain takeover without already-connected wallet interaction"
-        },
-        {
-          "id": 4991,
-          "type": "websites_and_applications",
-          "severity": "low",
-          "title": "Temporarily disabling user to access target site, such as:  Locking up the victim from login Cookie bombing, etc."
-        },
-        {
-          "id": 5,
-          "type": "blockchain_dlt",
-          "severity": "high",
-          "title": "Unintended chain split (network partition)"
-        },
-        {
-          "id": 6,
-          "type": "blockchain_dlt",
-          "severity": "high",
-          "title": "Temporary freezing of network transactions by delaying one block by 500% or more of the average block time of the preceding 24 hours beyond standard difficulty adjustments"
-        },
-        {
-          "id": 7,
-          "type": "blockchain_dlt",
-          "severity": "high",
-          "title": "Causing network processing nodes to process transactions from the mempool beyond set parameters"
-        },
-        {
-          "id": 9,
-          "type": "blockchain_dlt",
-          "severity": "medium",
-          "title": "Increasing network processing node resource consumption by at least 30% without brute force actions, compared to the preceding 24 hours"
-        },
-        {
-          "id": 10,
-          "type": "blockchain_dlt",
-          "severity": "medium",
-          "title": "Shutdown of greater than or equal to 30% of network processing nodes without brute force actions, but does not shut down the network"
-        },
-        {
-          "id": 11,
-          "type": "blockchain_dlt",
-          "severity": "medium",
-          "title": "A bug in the respective layer 0/1/2 network code that results in unintended smart contract behavior with no concrete funds at direct risk"
-        },
-        {
-          "id": 12,
-          "type": "blockchain_dlt",
-          "severity": "low",
-          "title": "Shutdown of greater than 10% or equal to but less than 30% of network processing nodes without brute force actions, but does not shut down the network"
-        },
-        {
-          "id": 13,
-          "type": "blockchain_dlt",
-          "severity": "low",
-          "title": "Modification of transaction fees outside of design parameters"
         },
         {
           "id": 14,
@@ -350,16 +231,16 @@
           "title": "Injection of malicious HTML or XSS through metadata"
         },
         {
-          "id": 5296,
-          "type": "blockchain_dlt",
-          "severity": "critical",
-          "title": "WASM runtime exploits leading to direct loss of funds"
+          "id": 49,
+          "type": "websites_and_applications",
+          "severity": "high",
+          "title": "Subdomain takeover without already-connected wallet interaction"
         },
         {
-          "id": 5297,
-          "type": "blockchain_dlt",
-          "severity": "critical",
-          "title": "WASM runtime exploits leading to permanent freezing of funds (fix requires hardfork)"
+          "id": 52,
+          "type": "websites_and_applications",
+          "severity": "medium",
+          "title": "Redirecting users to malicious websites (open redirect)"
         }
       ],
       "programOverview": "Avail is designed to be a platform that connects different ecosystems by providing a modular, scalable, and interoperable platform.\nAvail's vision is to provide a cohesive, unified user experience within a flexible and modular blockchain ecosystem, drawing on lessons from Web2 to innovate in Web3. Avail is not just building a product; we are pioneering a new category in the blockchain space, paving the way for an era of enhanced scalability and seamless integration.\n\n\nAvail aims to provide a cohesive platform that bridges the gaps between various blockchain ecosystems.\nBy implementing the right primitives and standards, Avail seeks to ensure interoperability and cooperation among diverse blockchain networks. This approach not only enhances the user experience but also fosters a more integrated and efficient blockchain ecosystem.\nWith Avail's foundational DA layer, different ecosystems can innovate on top freely, while leveraging Nexus for cross-ecosystem messaging.\nFor more information about Avail, please visit https://www.availproject.org/\n\nAvail provides rewards in USDC on Ethereum, denominated in USD. For more details about the payment process, please view the Rewards by Threat Level section further below. \n\n__KYC Requirement__ \n\nAvail will be requesting KYC information in order to pay for successful bug submissions. The following information will be required:\n- Full name \n- Date of birth\n- Proof of address (either a redacted bank statement with address or a recent utility bill)\n- Copy of Passport or other Government issued ID\n\n__Proof of Concept (PoC) Requirements__\n\nA PoC, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules).\n\n__Previous Audits__\n\nAvail’s completed audit reports can be found at [https://github.com/availproject/audits](https://github.com/availproject/audits). Any unfixed vulnerabilities  mentioned in these reports are not eligible for a reward.\n\n\n__Immunefi Standard Badge__\n\nBy adhering to Immunefi’s best practice recommendations, Avail has satisfied the requirements for the [Immunefi Standard Badge](https://immunefisupport.zendesk.com/hc/en-us/articles/15006865432209).",
@@ -385,7 +266,6 @@
           "ETH"
         ],
         "programType": [
-          "Blockchain/DLT",
           "Smart Contract",
           "Websites and Applications"
         ],
@@ -399,8 +279,7 @@
       "legacy": {
         "technologies": [
           "Smart Contract",
-          "Websites and Applications",
-          "Blockchain/DLT"
+          "Websites and Applications"
         ],
         "blockchain_rewards": [
           {

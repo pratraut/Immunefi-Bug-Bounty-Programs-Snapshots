@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/3iP5zSqWcE9ivBa4KHRO7o/f6b068029c43b748115d87919d8387fc/S5wC58QC_400x400.png",
       "launchDate": "2025-09-04T10:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-08T07:58:59.934Z",
+      "updatedDate": "2025-12-15T09:55:05.912Z",
       "kyc": false,
       "rewards": [
         {
@@ -47,17 +47,6 @@
         }
       ],
       "assets": [
-        {
-          "id": "cjldh6LXFfMxrHoWa7JDk",
-          "type": "smart_contract",
-          "url": "https://github.com/enzymefinance/protocol-onyx/blob/6bde0489b1a3196e6290b59e119748ecbeb8b8e4/src/components/fees/performance-fee-trackers/ContinuousFlatRatePerformanceFeeTracker.sol",
-          "description": "ContinuousFlatRatePerformanceFeeTracker",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-08T07:58:36.601Z",
-          "fund": null,
-          "info": null
-        },
         {
           "id": "1GpqXEyFR1csrwRt8qhkOe",
           "type": "smart_contract",
@@ -213,6 +202,17 @@
           "info": null
         },
         {
+          "id": "cjldh6LXFfMxrHoWa7JDk",
+          "type": "smart_contract",
+          "url": "https://github.com/enzymefinance/protocol-onyx/blob/6bde0489b1a3196e6290b59e119748ecbeb8b8e4/src/components/fees/performance-fee-trackers/ContinuousFlatRatePerformanceFeeTracker.sol",
+          "description": "ContinuousFlatRatePerformanceFeeTracker",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-08T07:58:36.601Z",
+          "fund": null,
+          "info": null
+        },
+        {
           "id": "rXpNDMrkic70tWEiuBlGM",
           "type": "smart_contract",
           "url": "https://github.com/enzymefinance/protocol-onyx/blob/b98576fa39213b3c8aecb8b5b104c9acaa24eff0/src/components/issuance/deposit-handlers/ERC7540LikeDepositQueue.sol",
@@ -266,12 +266,6 @@
           "type": "smart_contract",
           "severity": "medium",
           "title": "Smart contract unable to operate due to lack of token funds"
-        },
-        {
-          "id": 30,
-          "type": "smart_contract",
-          "severity": "medium",
-          "title": "Block stuffing"
         },
         {
           "id": 31,

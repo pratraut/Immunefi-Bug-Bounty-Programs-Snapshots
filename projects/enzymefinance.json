@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4a7y72EOvOMZWlUx3h2ZNi/7877774da8145f9d7cbd85f902d7198a/Enzymefinance-logo.jpg",
       "launchDate": "2021-03-29T07:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-25T09:44:35.666Z",
+      "updatedDate": "2025-12-15T09:54:40.571Z",
       "kyc": false,
       "rewards": [
         {
@@ -362,8 +362,8 @@
           "isSafeHarbor": null,
           "addedAt": "2024-11-20T07:51:56.347Z",
           "fund": {
-            "usdValue": 0.0000012017100724221798,
-            "addressesCount": 2
+            "usdValue": 0.013205740850090637,
+            "addressesCount": 4
           },
           "info": {
             "verified": true,
@@ -2913,7 +2913,7 @@
           "isSafeHarbor": null,
           "addedAt": "2022-12-06T19:28:49.960Z",
           "fund": {
-            "usdValue": 302.61638474909296,
+            "usdValue": 645.139706159215,
             "addressesCount": 4
           },
           "info": {
@@ -3416,7 +3416,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-11-18T09:42:07.406Z",
           "fund": {
-            "usdValue": 0.0000011864153060109,
+            "usdValue": 0.0000011321044525735,
             "addressesCount": 1
           },
           "info": {
@@ -3706,7 +3706,7 @@
           "isSafeHarbor": null,
           "addedAt": "2022-12-06T19:27:28.074Z",
           "fund": {
-            "usdValue": 0.0073085542400682,
+            "usdValue": 0.007317558850509,
             "addressesCount": 1
           },
           "info": {
@@ -4114,7 +4114,7 @@
           "isSafeHarbor": null,
           "addedAt": "2022-12-06T19:31:40.985Z",
           "fund": {
-            "usdValue": 2.8061798427325004E-15,
+            "usdValue": 3.06156649084E-15,
             "addressesCount": 1
           },
           "info": {
@@ -5300,6 +5300,24 @@
       ],
       "impacts": [
         {
+          "id": 15,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
+        },
+        {
+          "id": 17,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Permanent freezing of funds"
+        },
+        {
+          "id": 22,
+          "type": "smart_contract",
+          "severity": "critical",
+          "title": "Protocol insolvency"
+        },
+        {
           "id": 23,
           "type": "smart_contract",
           "severity": "high",
@@ -5324,58 +5342,10 @@
           "title": "Smart contract unable to operate due to lack of token funds"
         },
         {
-          "id": 137,
-          "type": "smart_contract",
-          "severity": "medium",
-          "title": "Block stuffing for profit"
-        },
-        {
           "id": 31,
           "type": "smart_contract",
           "severity": "medium",
           "title": "Griefing (e.g. no profit motive for an attacker, but damage to the users or the protocol)"
-        },
-        {
-          "id": 32,
-          "type": "smart_contract",
-          "severity": "medium",
-          "title": "Theft of gas"
-        },
-        {
-          "id": 33,
-          "type": "smart_contract",
-          "severity": "medium",
-          "title": "Unbounded gas consumption"
-        },
-        {
-          "id": 138,
-          "type": "smart_contract",
-          "severity": "critical",
-          "title": "Any governance voting result manipulation"
-        },
-        {
-          "id": 15,
-          "type": "smart_contract",
-          "severity": "critical",
-          "title": "Direct theft of any user funds, whether at-rest or in-motion, other than unclaimed yield"
-        },
-        {
-          "id": 17,
-          "type": "smart_contract",
-          "severity": "critical",
-          "title": "Permanent freezing of funds"
-        },
-        {
-          "id": 139,
-          "type": "smart_contract",
-          "severity": "critical",
-          "title": "Miner-extractable value (MEV)"
-        },
-        {
-          "id": 22,
-          "type": "smart_contract",
-          "severity": "critical",
-          "title": "Protocol insolvency"
         }
       ],
       "programOverview": "Enzyme Finance, formerly known as Melon Protocol, is an Ethereum-based protocol\nfor decentralized on-chain asset management. It is a protocol for people or\nentities to manage their wealth & the wealth of others within a customizable\nand safe environment. Enzyme empowers anyone to set up, manage and invest in\ncustomized on-chain investment vehicles.\n\nMore information about Enzyme Finance can be found in their [docs](https://docs.enzyme.finance/) and also here in the additional [V4 docs](https://avantgarde-finance.gitbook.io/enzyme-protocol-v4-sulu-general-spec/). See especially the [Known Risks & Mitigations](https://specs.enzyme.finance/topics/known-risks-and-mitigations).\n\nThis bug bounty program is focused around the Enzyme Finance smart contracts\nand is primarily concerned with the loss of user funds.",
