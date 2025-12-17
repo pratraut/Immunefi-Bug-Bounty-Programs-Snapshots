@@ -137,27 +137,6 @@
           "info": null
         },
         {
-          "id": "13RcvBOajKmVZeZbIN9afh",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xFa9a7f8f30c9BC741BE5959af8Cd48636A6aecC2#code",
-          "description": "KilnStakingPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:53:42.679Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "1401YITL6qYTUiLP2WoiRp",
           "type": "smart_contract",
           "url": "https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795",
@@ -343,17 +322,6 @@
           "info": null
         },
         {
-          "id": "1Ot2bEin71HI0ixCF0rH59",
-          "type": "smart_contract",
-          "url": "https://arbiscan.io/address/0xc2822eca13a7760141041a173c1b9b13e22515f6",
-          "description": "TheGraphDelegationPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-04-17T09:08:15.771Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "1PQe8XDhjYY2w83MSgOYhB",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x5a1c0e89133c4cd844a8b345370565f1368a79a8",
@@ -384,27 +352,6 @@
           "addedAt": "2022-12-06T19:20:20.045Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "1QzLkvy0KpzditkHTfstjS",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xd84123f688601133d478949277be8065f48ff810",
-          "description": "MorphoBluePositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-13T08:37:03.423Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "1TU6xXjGCy7jHwYC2L8DL9",
@@ -900,27 +847,6 @@
           "info": null
         },
         {
-          "id": "2CTk9wvWBVbujczUeAUgO3",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x877f7a1c58ae061cbe6a207fd0379571c45f555a",
-          "description": "SolvBtcYieldTokenRateUsdAggregatorFactory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-04-09T10:53:42.435Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "2CYU3gPrFbQ91vua5MkVLd",
           "type": "smart_contract",
           "url": "https://basescan.org/address/0x2eca3a9b9218dd8972699f14f409e5a60caa4fbd",
@@ -941,27 +867,6 @@
           "addedAt": "2024-11-20T05:32:58.544Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "2GDiLdCqQixOC8PSVwF27z",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xfaa9b9cc98503f51a54f6038dfdd0e43aa0ac98e",
-          "description": "CompoundV3Adapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:49:09.057Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "2HPOviz1XM77hr6wWoDlw8",
@@ -1003,27 +908,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-11-18T09:42:28.180Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "2IUS33kL4o5COIDJJjCKpe",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xff60eb4b559d63beba1738281b63704266c6dac0",
-          "description": "AlicePositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:44:15.321Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 0
@@ -1233,38 +1117,6 @@
           "info": null
         },
         {
-          "id": "2eks619IjjzF0gFNgWOWpT",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x268001925c06B9BeEEeE6F15C8340DB0Cb38DCa3",
-          "description": "UniswapV2LiquidityAdapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-10-14T16:52:07.695Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "2epbYW1qIIrZDIwuPXK81i",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0x7913a5a5424d3593f82e5eeb78008a3b8c719afe",
-          "description": "AaveDebtPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:22:56.280Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "2jjMfRaJcIindoXAk9YqRj",
           "type": "smart_contract",
           "url": "https://basescan.org/address/0x2701ff78e93091b1285289a611838dd52fc07f4e",
@@ -1272,17 +1124,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-03-31T06:48:13.681Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "2kgooxiknheP9Dyorkv014",
-          "type": "smart_contract",
-          "url": "https://arbiscan.io/address/0x92da9df390d3e9199d105289b297eca357ecc9b7",
-          "description": "TheGraphDelegationPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-04-17T09:07:58.627Z",
           "fund": null,
           "info": null
         },
@@ -1855,27 +1696,6 @@
           "info": null
         },
         {
-          "id": "3gBLUDqbTkKuP6Y7GqX12S",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x6fff66d55698a601e91989c44349da8a2a9a7848",
-          "description": "TheGraphDelegationPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:27:53.390Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "3ijQ1kHBTZNQX47lHzUgA9",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x846bbe1925047023651de7ec289f329c24ded3a8",
@@ -1906,48 +1726,6 @@
           "addedAt": "2022-12-06T19:21:09.604Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "3o9r8YDPv2poWy4hkUYAft",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x8bfbd013020c4d26d043183eff600ea3b36b4afb",
-          "description": "CompoundDebtPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:32:17.032Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "3oftIkXjONmHt9JoBr9Cks",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xb3402eb0d45c63594699df3e5cac9116ccfc5ef3",
-          "description": "AaveDebtPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-02-09T13:56:43.569Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "3otBOnaF4tz49HamTKSMeb",
@@ -2207,27 +1985,6 @@
           }
         },
         {
-          "id": "4Fa0gYBjLeekUaLCMT8JOv",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xfdf34798b21774523be370490b8730807d4f9167",
-          "description": "MorphoBluePositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-01-13T08:37:19.927Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "4GJd9Vk6lHo4T0azrsIeeO",
           "type": "smart_contract",
           "url": "https://arbiscan.io/address/0xa8c3b04a800c08ae010b56ac1c1ad7033d980b0f",
@@ -2237,27 +1994,6 @@
           "addedAt": "2024-11-20T05:32:24.586Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "4HuheZHTb9QYqT5QV2iAIP",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x3982e1cc26b99310747df54f445063745c54a324",
-          "description": "YearnVaultV2PriceFeed",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:25:59.189Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "4IcX7GwRLYVfONhBfgonVy",
@@ -2291,27 +2027,6 @@
           "addedAt": "2024-11-20T05:49:17.243Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "4LHKbUGZJjfiP1NHlw5m8M",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x2226d7687109d6b6a0882f8eef2b4a4c90dc677e",
-          "description": "TheGraphDelegationPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:27:47.548Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "4MwF5WDEwG3eRf48UhKOiZ",
@@ -2464,27 +2179,6 @@
           "info": null
         },
         {
-          "id": "4hV2fXqxHWIVfyQbpWI2Rf",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xa8f6033cE40FaB29C228f32Ef44d38cB3043c5Bc",
-          "description": "ChainlinkLikeYnEthPriceFeed",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:46:56.359Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "4i6o3wdFbfSQlw6IQ6DpvT",
           "type": "smart_contract",
           "url": "https://polygonscan.com/address/0x4218783ae10bd1841e6664cf048ac295d8d27a4a",
@@ -2602,27 +2296,6 @@
           "addedAt": "2022-12-06T19:22:02.447Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "4wm0LBDnIr0G69LJVDX1JU",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xa9e085b1ca8ecd1dd5bf4c1b5fed3be84c341fd4",
-          "description": "CompoundV3CTokenListOwner",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:49:50.636Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "4wrUxqWe1Z0BoWdOXLaGhq",
@@ -3289,27 +2962,6 @@
           "info": null
         },
         {
-          "id": "5wCWY3ftXKXXNUeWV5YLtp",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xdbc1162ea1ab770f0ba5fb494e0010e68351e3b0",
-          "description": "UniswapV2PoolPriceFeed",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:27:31.105Z",
-          "fund": {
-            "usdValue": 2405.84073,
-            "addressesCount": 1
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "5wWrktHjbZQi9kGqBCM2X",
           "type": "smart_contract",
           "url": "https://basescan.org/address/0x5d8703b4a08fd3f698bafd5389fa25463fb383dd",
@@ -3341,27 +2993,6 @@
           "addedAt": "2024-11-20T06:02:27.700Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "60vWJYilyEWZC5A6vuGhR2",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x6ce8095a692aff6698c3aa8593be3976b6b8743d",
-          "description": "CompoundAdapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:32:23.781Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "6275jZRKO7SFCT9cBOTrT",
@@ -3408,27 +3039,6 @@
           "info": null
         },
         {
-          "id": "65JHHuch2VPMNqCdITgLKA",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xECe6B376af7C9273cebaf6528565c47Ea2Cb8a4C",
-          "description": "AaveV2Adapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:42:07.406Z",
-          "fund": {
-            "usdValue": 0.0000011321044525735,
-            "addressesCount": 1
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "65KGPwhq3SMdmGoQwbj8ur",
           "type": "smart_contract",
           "url": "https://polygonscan.com/address/0xddb8ebe5361ca93614e5efb34049e842912e1612",
@@ -3440,38 +3050,6 @@
           "info": null
         },
         {
-          "id": "65mLLaIMamYmJ9WsawTGcm",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0x40524c19050bc5cbdf55375b27e3d6ebc5ce9c65",
-          "description": "CurveLiquidityAdapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:21:27.022Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "67Ibpy2BSZkL00fCgwQHTI",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xB35623A479383b87da32fdDe8dBe83FaC5f6bf3D",
-          "description": "MapleLiquidityPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-08T14:31:38.076Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "67Ppjmvsb6QTfBtOcE6nbd",
           "type": "smart_contract",
           "url": "https://polygonscan.com/address/0x5ae15bf655a8f42b9c7d93e64f4476ec1da248f8",
@@ -3479,17 +3057,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-12-06T19:22:36.062Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "67hDV6qwhMwVblrMd3dWMQ",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0xc537439f4397a0f625cb323f90bf87397da92fcf",
-          "description": "CurvePriceFeed",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:21:23.991Z",
           "fund": null,
           "info": null
         },
@@ -3645,48 +3212,6 @@
           }
         },
         {
-          "id": "6TEnkSvlAoVE2MQj3lHzTZ",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x7ea777f9f6ecbf4d03dc5323d3f057b0730fc34a",
-          "description": "YearnVaultV2Adapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:26:22.834Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "6TSDn0OTm1op7763MwOnQI",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x95ea76c3a4eb77e5f70ad55776430f45e67d08cf",
-          "description": "StakeWiseV3StakingPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-20T07:56:54.144Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "6UgBA5SWz6CDYtZsPTT0oJ",
           "type": "smart_contract",
           "url": "https://arbiscan.io/address/0x9a61b0c7307d45e67357e0d5a0d35bca5ce96755",
@@ -3708,48 +3233,6 @@
           "fund": {
             "usdValue": 0.007317558850509,
             "addressesCount": 1
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "6XNAOiAEomAFWDYsSQaVfH",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xea0a896dde31cfcb53a96ac767119b69d7b4f633",
-          "description": "CurveLiquidityAdapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:31:46.576Z",
-          "fund": {
-            "usdValue": 2.8061798427325004E-15,
-            "addressesCount": 1
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "6Y5dK52oisyuMsMXTdICcH",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xe57c868f97e8c1deaf24dc72b89d886ebfa24d9f",
-          "description": "AlicePositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:43:59.313Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
           },
           "info": {
             "verified": true,
@@ -3824,27 +3307,6 @@
           "addedAt": "2025-03-31T06:48:35.393Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "6ixnND1kfBhrGqX8BeuwH6",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x0aa852b87d5134df6b7233dbd2b8274d54e3ae0e",
-          "description": "StakeWiseV3StakingPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-20T07:57:10.807Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "6kvat1UxBvLPRH4JzZJGvq",
@@ -3957,27 +3419,6 @@
           "info": null
         },
         {
-          "id": "6rLUgD6u5ZkATX48EFtK7M",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x266c98eF7C16c791a27Dc60E8877e8e3954090A2",
-          "description": "KilnStakingPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:53:29.308Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "6s2xSNJW3wH0bfgOQMDSN7",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x2b4fdcba08e5961c6a129b9fe13ecd10cdc249ce",
@@ -4006,38 +3447,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-03-31T06:48:12.859Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6uePeFRxnYrJaDJJoQKY2c",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xf6d47bdee7760067557b047ce4adcba819d7d5a8",
-          "description": "AaveDebtPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-02-09T13:56:38.804Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "6uxxqeihtNN21XaXfmhTxg",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0x83e3d456344f25f0a235de5d2f6c193c983e9d36",
-          "description": "AaveDebtPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:23:04.210Z",
           "fund": null,
           "info": null
         },
@@ -4159,27 +3568,6 @@
           "info": null
         },
         {
-          "id": "75aEn3HvEq8zwPUdS7kQ7O",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x7e6130e497035a34a08e0f18b7a9b0fa06ed013e",
-          "description": "CurvePriceFeed",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:31:43.796Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "75bmul3cEEXKyTVhiVmBar",
           "type": "smart_contract",
           "url": "https://arbiscan.io/address/0x90b53aefdbd2ba3573d965d2d98951f2aa00507d",
@@ -4187,17 +3575,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-11-20T05:51:56.137Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "76iKsY7B2NUiVsHxaby6sK",
-          "type": "smart_contract",
-          "url": "https://basescan.org/address/0x33691ac33507c8a9ac94ac8f879a6416b04cb53b",
-          "description": "MorphoBluePositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-03-31T06:48:32.001Z",
           "fund": null,
           "info": null
         },
@@ -4232,17 +3609,6 @@
             "isERC4626": false,
             "implementation": null
           }
-        },
-        {
-          "id": "77dPMBc5ZGwDyebZqoxZx9",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0x6d5b95aa342f77e4825496334195e9c1c7d3208b",
-          "description": "AaveV2ATokenListOwner",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-20T07:50:40.144Z",
-          "fund": null,
-          "info": null
         },
         {
           "id": "77mHsDZkI6rbkCpWCuJR3d",
@@ -4286,27 +3652,6 @@
           "addedAt": "2022-12-06T19:21:36.489Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "78Rvama6wF86bHz85DL7jg",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x50bAe03333Dd8495263c9049091a8925063b068E",
-          "description": "SwellStakingAdapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-20T07:57:24.737Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "79hT781KEj97pWeGTzWVOw",
@@ -4438,38 +3783,6 @@
           "info": null
         },
         {
-          "id": "7M5uuAGSlVNLOo0JsgZF3u",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x26Cd328f2bdFe13A99b7e2FC19BbdCB4d8B54D69",
-          "description": "AaveV2ATokenListOwner",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-18T09:41:57.804Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "7c5sCvXTe7fSkbIeuPYkM7",
-          "type": "smart_contract",
-          "url": "https://basescan.org/address/0x3cfdd91a5d80cdf175a92db128a54d30e4014f03",
-          "description": "MorphoBluePositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-03-31T06:48:31.556Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "7cGJO0BR8fAWwx7WaIotVp",
           "type": "smart_contract",
           "url": "https://basescan.org/address/0x5b69553fbea09a4e7585b02221b9884f5bd2af40",
@@ -4511,27 +3824,6 @@
           "addedAt": "2024-11-20T07:38:11.345Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "7jI2mVLvj8OrDaH2Uo9dqp",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x6254e0538abbb668eac89d5e5bee27a9d0e62bbe",
-          "description": "CompoundPriceFeed",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:32:13.204Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
         },
         {
           "id": "7jotbAZMLBVxjxAmVrS9wI",
@@ -4823,27 +4115,6 @@
           "info": null
         },
         {
-          "id": "EiuEW9VNpC4MsB1PXkkQ1",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xc8e0c169dae4cdfd2f51e7494d2b5459f9314ee9",
-          "description": "CompoundDebtPositionLib",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-06T19:32:20.363Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "EpViwMwBRa7629rls7mWq",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xa0ed89af63367ddc8e1dd6b992f20d1214ccb51c",
@@ -5015,27 +4286,6 @@
           "info": null
         },
         {
-          "id": "ZxiTPXwfmQu99FZBBPlMr",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x31915278772A2bC68cBFb7Effe1209677b0Aad10",
-          "description": "MapleLiquidityPositionParser",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-12-08T14:31:35.659Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "a156chXlKa3IbRWvTrMFk",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x6C62b8F7b2fd1c60fFD3Afc1A2B15d4318745677",
@@ -5075,28 +4325,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-03-31T06:48:27.614Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "cO7oJsoHU4i5iJTwssS3f",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0x360eb57D32bf3A95E9FB0aaD2a4629Ceca3eF7AC",
-          "description": "CompoundV3Adapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-20T07:47:07.840Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "dmSskL408yEjH7c1Ig3tl",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0x1ff30682801251751c1f69355014112d29a0494d",
-          "description": "AaveV2Adapter",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-20T07:50:25.664Z",
           "fund": null,
           "info": null
         },
@@ -5261,17 +4489,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-12-06T19:21:47.582Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "yIgBuXcAbZJeIt6JyspfZ",
-          "type": "smart_contract",
-          "url": "https://polygonscan.com/address/0xBABf1375C221a2BB838fE87052833212d5a95011",
-          "description": "CompoundV3CTokenListOwner",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-11-20T07:46:55.659Z",
           "fund": null,
           "info": null
         },

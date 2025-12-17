@@ -44,30 +44,7 @@
         }
       ],
       "audits": null,
-      "assets": [
-        {
-          "id": "6Ar5UTUw636jX4qLF0uJdh",
-          "type": "websites_and_applications",
-          "url": "https://github.com/inference-labs-inc/omron-subnet",
-          "description": "Omron Subnet",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-09-30T19:44:15.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "AqsjXrN65YCbVrfxb5ubX",
-          "type": "websites_and_applications",
-          "url": "https://omron.ai",
-          "description": "Omron",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2024-09-30T19:44:15.000Z",
-          "fund": null,
-          "info": null
-        }
-      ],
+      "assets": [],
       "impacts": [
         {
           "id": 5152,
@@ -207,9 +184,7 @@
         ]
       },
       "legacy": {
-        "technologies": [
-          "Websites and Applications"
-        ],
+        "technologies": [],
         "blockchain_rewards": [],
         "smartcontract_rewards": [
           {
@@ -248,9 +223,9 @@
           }
         ]
       },
-      "websiteUrl": null,
-      "description": "Omron, the next stage in cryptographically verified efficient and intelligent networks. By leveraging incentive design, Omron optimizes the generation of zero knowledge and verified compute across verticals such as zkML, zkRollups, training, model distillation and much more.",
-      "githubUrl": null,
+      "websiteUrl": "https://subnet2.inferencelabs.com",
+      "description": "Subnet 2, the next stage in cryptographically verified efficient and intelligent networks. By leveraging incentive design, Subnet 2 optimizes the generation of zero knowledge and verified compute across verticals such as zkML, zkRollups, training, model distillation and much more.",
+      "githubUrl": "https://github.com/inference-labs-inc/subnet-2",
       "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
       "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
       "responsiblePublicationCategory": "category_3",
@@ -275,30 +250,24 @@
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [
         {
-          "id": 25,
-          "title": "Omron Codebase",
-          "description": "Github Codebase",
-          "url": "https://github.com/inference-labs-inc/omron-contracts"
+          "id": 631,
+          "title": "Subnet Code",
+          "description": "GitHub Codebase",
+          "url": "https://github.com/inference-labs-inc/subnet-2"
         },
         {
-          "id": 26,
-          "title": "Omron Codebase",
-          "description": "Github Codebase",
-          "url": "https://github.com/inference-labs-inc/omron-subnet"
-        },
-        {
-          "id": 27,
-          "title": "Omron Codebase",
-          "description": "Github Codebase",
-          "url": "https://github.com/inference-labs-inc/omron-web"
+          "id": 632,
+          "title": "Smart Contracts",
+          "description": "GitHub Codebase",
+          "url": "https://github.com/inference-labs-inc/subnet-2-contracts"
         }
       ],
       "programDocumentations": [
         {
-          "id": 19,
-          "title": "Omron Documentation",
-          "description": "Program Documentation",
-          "url": "https://docs.omron.ai"
+          "id": 420,
+          "title": "Subnet 2 Docs",
+          "description": "Documentation for Subnet 2",
+          "url": "https://sn2-docs.inferencelabs.com"
         }
       ],
       "primacy": "primacy_of_rules",
