@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2dR2c08kamplNaWIiF37h6/c269496e763806bbbd815efa7c662590/ondo-logo.svg",
       "launchDate": "2023-03-07T21:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-15T09:47:11.896Z",
+      "updatedDate": "2025-12-19T08:24:42.247Z",
       "kyc": true,
       "rewards": [
         {
@@ -54,166 +54,6 @@
       ],
       "assets": [
         {
-          "id": "3na9s2abRIZ2juuBSYjrE8",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xff2BABA46Df92919705E60120C477Ae5b7341Eb3",
-          "description": "Messenger",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:05.772Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "36tEanWtF8QmIaP0blwssO",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xeA8dBF5F3456FaB742fc11b977330A58069758eF",
-          "description": "OndoOFT",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:03.911Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "4w3sisY63j5t6JNrPWHLHm",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xbC6D5C103a3f586e68bd475942a49d041b171C3e",
-          "description": "OndoOwner",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:05.528Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "tuXK1mW45VjBwiIjFrYpN",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
-          "description": "RateLimiter (OFTs)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:04.189Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "47DAiuDuv29dtOAbWWHRvo",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x0b34233a94c3433092009D8903080553039bB7a1",
-          "description": "Inspector",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:04.467Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "2b68lQcDpEavPH0RjZvS6L",
-          "type": "smart_contract",
-          "url": "https://bscscan.com/address/0x87786323ad9997924B22eac3AA9f71f562795633",
-          "description": "OndoOFT (BSC)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:05.394Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "5uavndQmk9LaHXjClyowjA",
-          "type": "smart_contract",
-          "url": "https://bscscan.com/address/0x5f7d50242206993A4476C76b21950219a4ED2c91",
-          "description": "Messenger (BSC)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:05.106Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "1QPIZFMIkMpFGgMDVESMIo",
-          "type": "smart_contract",
-          "url": "https://bscscan.com/address/0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
-          "description": "OndoOwner (BSC)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:04.805Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "4sLrsVaMrjZFzyKaA6hf5t",
-          "type": "smart_contract",
-          "url": "https://bscscan.com/address/0x2ced30744edcF9eDe5799eb07a0A29CE4f012a0c",
-          "description": "RateLimiter (OFTs) (BSC)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:05.635Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "7l3SmSJBn7GLvVbFDDEXVs",
-          "type": "smart_contract",
-          "url": "https://bscscan.com/address/0x0b34233a94c3433092009d8903080553039bb7a1",
-          "description": "Inspector (BSC)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-12-15T09:47:05.653Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "1D4823ZA702C6DvOfDaKvG",
           "type": "smart_contract",
           "url": "https://bscscan.com/address/0x2D3Fa4e1AaB6E4BBd909CF81518A8084873c47B5",
@@ -223,6 +63,27 @@
           "addedAt": "2025-10-29T09:48:02.781Z",
           "fund": null,
           "info": null
+        },
+        {
+          "id": "1DqKwGmJJZmSrXgLQXFTDy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x87b126e5518b6a1Bb8465779b4607C45C643DF90",
+          "description": "USDYOracleWrapper",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-17T12:08:25.737Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
         },
         {
           "id": "1I4aOolbm8s2fcdjbW3QnW",
@@ -243,6 +104,17 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-04-25T14:41:41.866Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "1QPIZFMIkMpFGgMDVESMIo",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
+          "description": "OndoOwner (BSC)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:04.805Z",
           "fund": null,
           "info": null
         },
@@ -331,6 +203,17 @@
             "isERC4626": false,
             "implementation": null
           }
+        },
+        {
+          "id": "2b68lQcDpEavPH0RjZvS6L",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x87786323ad9997924B22eac3AA9f71f562795633",
+          "description": "OndoOFT (BSC)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:05.394Z",
+          "fund": null,
+          "info": null
         },
         {
           "id": "2iMuoYZjhZydB4n4aLqSYT",
@@ -468,6 +351,27 @@
           }
         },
         {
+          "id": "36tEanWtF8QmIaP0blwssO",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xeA8dBF5F3456FaB742fc11b977330A58069758eF",
+          "description": "OndoOFT",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:03.911Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
           "id": "3NaUpk9J81qHjSa0M0n7nk",
           "type": "smart_contract",
           "url": "https://bscscan.com/address/0x14032815B65f6B65f23d2532ad5F5DFf7BE48C03",
@@ -507,6 +411,27 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-09-15T22:01:39.089Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "3na9s2abRIZ2juuBSYjrE8",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xff2BABA46Df92919705E60120C477Ae5b7341Eb3",
+          "description": "Messenger",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:05.772Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 0
@@ -583,6 +508,27 @@
           "addedAt": "2024-04-25T14:43:50.910Z",
           "fund": null,
           "info": null
+        },
+        {
+          "id": "47DAiuDuv29dtOAbWWHRvo",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0b34233a94c3433092009D8903080553039bB7a1",
+          "description": "Inspector",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:04.467Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
         },
         {
           "id": "48Jwose3l9xfjauJHL44J7",
@@ -699,6 +645,17 @@
           }
         },
         {
+          "id": "4sLrsVaMrjZFzyKaA6hf5t",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x2ced30744edcF9eDe5799eb07a0A29CE4f012a0c",
+          "description": "RateLimiter (OFTs) (BSC)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:05.635Z",
+          "fund": null,
+          "info": null
+        },
+        {
           "id": "4uvY2gzrwyGSjQERNjImfS",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xEaC2181075BA0FC53D5141B17943Ea9F913954e6",
@@ -747,6 +704,27 @@
               "isERC4626": false,
               "upgradedAt": 1752605399
             }
+          }
+        },
+        {
+          "id": "4w3sisY63j5t6JNrPWHLHm",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xbC6D5C103a3f586e68bd475942a49d041b171C3e",
+          "description": "OndoOwner",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:05.528Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -877,6 +855,17 @@
           }
         },
         {
+          "id": "5uavndQmk9LaHXjClyowjA",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x5f7d50242206993A4476C76b21950219a4ED2c91",
+          "description": "Messenger (BSC)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:05.106Z",
+          "fund": null,
+          "info": null
+        },
+        {
           "id": "5ueXCR78RaZjYo27ympqLr",
           "type": "smart_contract",
           "url": "https://explorer.mantle.xyz/address/0x5bE26527e817998A7206475496fDE1E68957c5A6",
@@ -886,6 +875,27 @@
           "addedAt": "2024-04-25T14:43:35.060Z",
           "fund": null,
           "info": null
+        },
+        {
+          "id": "611CKJy19FdSgKs9bJUD5y",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xa42613C243b67BF6194Ac327795b926B4b491f15",
+          "description": "USDY Instant RWA Manager",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-17T12:08:25.786Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
         },
         {
           "id": "6GfbDIHkp4d10hSASUSlCX",
@@ -1054,6 +1064,17 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-10-29T09:48:00.526Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "7l3SmSJBn7GLvVbFDDEXVs",
+          "type": "smart_contract",
+          "url": "https://bscscan.com/address/0x0b34233a94c3433092009d8903080553039bb7a1",
+          "description": "Inspector (BSC)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:05.653Z",
           "fund": null,
           "info": null
         },
@@ -1338,6 +1359,27 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-04-09T08:13:38.878Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "tuXK1mW45VjBwiIjFrYpN",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x4D4E562D6882Dc523B8d629d2E9dF9230B699933",
+          "description": "RateLimiter (OFTs)",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-15T09:47:04.189Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 0

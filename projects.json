@@ -619,7 +619,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -1158,7 +1159,7 @@
     "date": "2021-05-22T05:00:00.000Z",
     "launchDate": "2021-05-22T05:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-12-10T11:52:52.952Z",
+    "updatedDate": "2025-12-19T17:27:34.129Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -1945,7 +1946,7 @@
     "date": "2023-03-07T21:00:00.000Z",
     "launchDate": "2023-03-07T21:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-12-15T09:47:11.896Z",
+    "updatedDate": "2025-12-19T08:24:42.247Z",
     "kyc": true,
     "technologies": [
       "Smart Contract"
@@ -3882,8 +3883,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
