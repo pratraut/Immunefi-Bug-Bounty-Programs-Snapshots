@@ -68,7 +68,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-12-14T21:00:00.000Z",
           "fund": {
-            "usdValue": 25207.42546899136,
+            "usdValue": 33699.84432579289,
             "addressesCount": 2
           },
           "info": {
@@ -98,7 +98,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-12-14T21:00:00.000Z",
           "fund": {
-            "usdValue": 52.133217827283914,
+            "usdValue": 55.492924541881294,
             "addressesCount": 3
           },
           "info": {
@@ -128,7 +128,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-12-14T21:00:00.000Z",
           "fund": {
-            "usdValue": 2.8050394569542E-15,
+            "usdValue": 2.9838918615941003E-15,
             "addressesCount": 1
           },
           "info": {
@@ -140,12 +140,12 @@
             "implementation": {
               "verified": true,
               "type": "eip1967",
-              "address": "0x07B86abfEaBC0631Ce3946D8F917BA0c794a6eb5",
+              "address": "0x489A36E43AbA883b60E5A6Cc43d05738479E7589",
               "isERC20": false,
               "isERC721": false,
               "isERC1155": false,
               "isERC4626": false,
-              "upgradedAt": 1761582791
+              "upgradedAt": 1765473599
             }
           }
         },
@@ -188,7 +188,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-12-14T21:00:00.000Z",
           "fund": {
-            "usdValue": 2831.9477186408953,
+            "usdValue": 3012.9264746453746,
             "addressesCount": 4
           },
           "info": {
@@ -200,12 +200,12 @@
             "implementation": {
               "verified": true,
               "type": "eip1967",
-              "address": "0x28D246fFDa43a8dcF1975A70D4c1751b4Ff17a68",
+              "address": "0xD5B3Be349ed0b7C82Dbd9271ce3739a381Fc7aa0",
               "isERC20": false,
               "isERC721": false,
               "isERC1155": false,
               "isERC4626": false,
-              "upgradedAt": 1749835295
+              "upgradedAt": 1765473599
             }
           }
         },
@@ -278,7 +278,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-06-12T13:18:13.722Z",
           "fund": {
-            "usdValue": 104475808.13999179,
+            "usdValue": 84109378.17549367,
             "addressesCount": 12
           },
           "info": {

@@ -2460,58 +2460,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "6zNI6e0rND8pavxsXByExs",
-    "id": "sovryn",
-    "project": "Sovryn",
-    "maximum_reward": 1000000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4o7Qm5y8bMQxbhqBRcih1v/8dc80d286d4a71f0938a06a39b86726e/sovryn.png",
-    "date": "2021-03-03T07:00:00.000Z",
-    "launchDate": "2021-03-03T07:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-11-11T07:07:24.063Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications",
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "AMM",
-        "Bridge",
-        "DAO",
-        "DEX",
-        "Lending",
-        "Staking",
-        "Token"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "RSK"
-      ],
-      "programType": [
-        "Websites and Applications",
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "Solidity",
-        "Typescript",
-        "Python"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
     "contentfulId": "2YQKV3m73SSfWr6a2on7ll",
     "id": "fluxfinance",
     "project": "Flux Finance",
@@ -11807,52 +11755,6 @@
         "Smart Contract"
       ],
       "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2doWIyZYJgOmCTm2RSGmtz",
-    "id": "myntandzero",
-    "project": "Mynt and Zero",
-    "maximum_reward": 15000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2Iz1gzlaRYZXVxirqyYifA/55ed60e3924de4b64003b286227bd47b/Screenshot_2024-11-15_at_1.42.12___AM.png",
-    "date": "2023-06-15T14:00:00.000Z",
-    "launchDate": "2023-06-15T14:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-11-13T17:27:55.259Z",
-    "kyc": false,
-    "technologies": [
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "Lending",
-        "Stablecoin",
-        "Staking"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "RSK"
-      ],
-      "programType": [
-        "Websites and Applications"
-      ],
-      "language": [
-        "JavaScript",
         "Solidity"
       ],
       "featured": [

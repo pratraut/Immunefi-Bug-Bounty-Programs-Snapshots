@@ -135,7 +135,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-04-28T09:00:00.000Z",
           "fund": {
-            "usdValue": 45681697.0517887,
+            "usdValue": 40480023.71233524,
             "addressesCount": 2
           },
           "info": {
@@ -167,7 +167,7 @@
           "isSafeHarbor": null,
           "addedAt": "2025-07-17T22:02:04.622Z",
           "fund": {
-            "usdValue": 11347478.480112832,
+            "usdValue": 10644025.131676422,
             "addressesCount": 1
           },
           "info": {
@@ -334,14 +334,14 @@
             "isERC1155": false,
             "isERC4626": false,
             "implementation": {
-              "verified": false,
+              "verified": true,
               "type": "eip1967",
-              "address": "0x98e19c416100Ad0C66B52d05075F4C899184f2aD",
+              "address": "0x51768b63EF72dA2bDeD00e05C68df0920f5786Cc",
               "isERC20": false,
               "isERC721": false,
               "isERC1155": false,
               "isERC4626": false,
-              "upgradedAt": null
+              "upgradedAt": 1765292903
             }
           }
         },
@@ -469,7 +469,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-04-28T09:00:00.000Z",
           "fund": {
-            "usdValue": 46899649.042094424,
+            "usdValue": 41116133.489951074,
             "addressesCount": 2
           },
           "info": {
@@ -552,7 +552,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-04-28T09:00:00.000Z",
           "fund": {
-            "usdValue": 280.9285321482775,
+            "usdValue": 280.67887021640036,
             "addressesCount": 7
           },
           "info": {
@@ -584,7 +584,7 @@
           "isSafeHarbor": null,
           "addedAt": "2024-09-27T10:36:29.768Z",
           "fund": {
-            "usdValue": 3863.3345423976466,
+            "usdValue": 3856.095330558464,
             "addressesCount": 1
           },
           "info": {
@@ -614,7 +614,7 @@
           "isSafeHarbor": null,
           "addedAt": "2025-07-17T08:27:43.675Z",
           "fund": {
-            "usdValue": 11347478.480112832,
+            "usdValue": 10644025.131676422,
             "addressesCount": 1
           },
           "info": {
@@ -812,7 +812,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-04-28T09:00:00.000Z",
           "fund": {
-            "usdValue": 20.001631112081732,
+            "usdValue": 19.989817438285304,
             "addressesCount": 3
           },
           "info": {
@@ -854,7 +854,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-04-28T09:00:00.000Z",
           "fund": {
-            "usdValue": 5753.573277154639,
+            "usdValue": 5611.201737538527,
             "addressesCount": 2
           },
           "info": {
@@ -969,7 +969,7 @@
           "isSafeHarbor": null,
           "addedAt": "2023-04-28T09:00:00.000Z",
           "fund": {
-            "usdValue": 4325739.694148096,
+            "usdValue": 3886921.519539953,
             "addressesCount": 1
           },
           "info": {
@@ -1042,7 +1042,7 @@
           "isSafeHarbor": null,
           "addedAt": "2025-10-24T08:52:08.552Z",
           "fund": {
-            "usdValue": 0.03599925369052353,
+            "usdValue": 0.03593179739838569,
             "addressesCount": 1
           },
           "info": {
