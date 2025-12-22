@@ -3924,8 +3924,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -7669,50 +7668,6 @@
         "Smart Contract"
       ],
       "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "RmC65RNdIMXMVJN2maG6U",
-    "id": "revert",
-    "project": "Revert",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/2gw6wiVjTS3UemTrumUl5/a10a96cb63fa2b8189602d47127971db/Revert_Logo_.png",
-    "date": "2022-06-15T03:00:00.000Z",
-    "launchDate": "2022-06-15T03:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2024-11-12T15:33:23.433Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "AMM"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [
-        "JavaScript",
         "Solidity"
       ],
       "featured": [
@@ -12511,55 +12466,6 @@
       ],
       "language": [
         "Solidity"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2gfVNO1Ri3B0zPGW7mPIMx",
-    "id": "geniusyield",
-    "project": "Genius Yield",
-    "maximum_reward": 8000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/4h3De2WibDI0xBVeGVSiE9/5f39219ae4e3c97c67041760f6385fd6/Genius_Yield.png",
-    "date": "2024-02-26T01:53:00.000Z",
-    "launchDate": "2024-02-26T01:53:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-04-29T14:24:26.542Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "PoC Required"
-      ],
-      "productType": [
-        "DEX",
-        "Bug bounty",
-        "Staking"
-      ],
-      "projectType": [
-        "Exchange",
-        "Defi"
-      ],
-      "ecosystem": [
-        "Cardano"
-      ],
-      "programType": [
-        "Websites and Applications",
-        "Smart Contract"
-      ],
-      "language": [
-        "Haskell",
-        "Plutus"
       ],
       "featured": [
         "Launched Recently"
