@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5RONBs8MvUillmn49FRQ8G/58ec9b1dcf5079426bebf218c3948166/Balancer_Logo.png",
       "launchDate": "2022-05-12T16:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-08-12T07:02:02.876Z",
+      "updatedDate": "2025-12-23T10:39:27.336Z",
       "kyc": false,
       "rewards": [
         {
@@ -38,27 +38,6 @@
       "audits": null,
       "assets": [
         {
-          "id": "5Mkdk342qZqcOi6do7RYeo",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x5939ab16fDf1991B0EF603c639B6b501A7841fAB#code",
-          "description": "ReClammPoolFactory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-08-12T07:01:57.350Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "13kLtVgo8ji21twohx9uTq",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x4eff2d77D9fFbAeFB4b141A3e494c085b3FF4Cb5#code",
@@ -66,27 +45,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-08-12T07:01:57.396Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "2Lhy7KHa0q0TguZJhE5aBa",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x355bd33f0033066bb3de396a6d069be57353ad95#code",
-          "description": "StableSurgePoolFactory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-08-12T07:01:57.386Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 0
@@ -205,6 +163,27 @@
           }
         },
         {
+          "id": "2Lhy7KHa0q0TguZJhE5aBa",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x355bd33f0033066bb3de396a6d069be57353ad95#code",
+          "description": "StableSurgePoolFactory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-08-12T07:01:57.386Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
           "id": "2RQwX2DBIRGADzD09z3CvY",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xa731C23D7c95436Baaae9D52782f966E1ed07cc8",
@@ -251,27 +230,6 @@
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x5DbAd78818D4c8958EfF2d5b95b28385A22113Cd",
           "description": "GaugeAdder (V4)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-12T16:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "3Dv3PymTtDNiJ7UU1q6ssm",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xDB8d758BCb971e482B2C45f7F8a7740283A1bd3A",
-          "description": "ComposableStablePoolFactory",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-05-12T16:00:00.000Z",
@@ -361,52 +319,10 @@
           }
         },
         {
-          "id": "48jzoWq9iYQL9skj5gTufa",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x0F3e0c4218b7b0108a3643cFe9D3ec0d4F57c54e#code",
-          "description": "NoProtocolFeeLiquidityBootstrappingPoolFactory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-12T16:00:00.000Z",
-          "fund": {
-            "usdValue": 2405.84073,
-            "addressesCount": 1
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "49k5mZABKu3bKVsfd90p27",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xe5F96070CA00cd54795416B1a4b4c2403231c548",
           "description": "LiquidityGaugeV5 (V2)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-12T16:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "4C8ZojKcMrMR3i9mYV9Xwa",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xB848f50141F3D4255b37aC288C25C109104F2158#code",
-          "description": "BALTokenHolderFactory",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-05-12T16:00:00.000Z",
@@ -473,27 +389,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2025-01-15T08:10:02.294Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "4kfq4qkSYpGSqRZmLU96UV",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x67d27634E44793fE63c467035E31ea8635117cd4#code",
-          "description": "MetaStablePoolFactory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-12T16:00:00.000Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 0
@@ -613,6 +508,27 @@
           }
         },
         {
+          "id": "5Mkdk342qZqcOi6do7RYeo",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5939ab16fDf1991B0EF603c639B6b501A7841fAB#code",
+          "description": "ReClammPoolFactory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-08-12T07:01:57.350Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
           "id": "5Ux6WsgRAirDhh4kbsInZO",
           "type": "smart_contract",
           "url": "https://polygonscan.com/address/0x2E96068b3D5B5BAE3D7515da4A1D2E52d08A2647#code",
@@ -672,27 +588,6 @@
               "isERC4626": false,
               "upgradedAt": null
             }
-          }
-        },
-        {
-          "id": "5tnNL0Rahx7M7iZY3aSuFm",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xbfD9769b061E57e478690299011A028194D66e3C#code",
-          "description": "DistributionScheduler",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-12T16:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
           }
         },
         {

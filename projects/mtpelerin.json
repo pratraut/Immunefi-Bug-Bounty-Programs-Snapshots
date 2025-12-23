@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6tsDyr3ikdFL8rLa53IcOZ/e249b3d566eee170e2b73a37d6666f2f/Mtpelerin-logo.png",
       "launchDate": "2021-02-08T07:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-09T10:19:12.108Z",
+      "updatedDate": "2025-12-23T11:07:55.397Z",
       "kyc": false,
       "rewards": [
         {
@@ -46,94 +46,6 @@
       "audits": null,
       "assets": [
         {
-          "id": "6VgT62FAIZIoiuZ0gIRD1t",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/access/Operator.sol",
-          "description": "Operator.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:17:31.457Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "4cuGzIaPzDGZHx80cir32",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/access/Roles.sol",
-          "description": "Roles.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:17:32.425Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "4UeW4FpLHQPxJexCfXXatb",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/ComplianceRegistry.sol",
-          "description": "ComplianceRegistry.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:03.366Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "7Hm7x1dCdQABc4N8YwvWH0",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/PriceOracle.sol",
-          "description": "PriceOracle.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:04.727Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6zeeupgzRQu136U55bGVm8",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/Processor.sol",
-          "description": "Processor.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:05.740Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "WskxgDVQBjP38SHu70644",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/RuleEngine.sol",
-          "description": "RuleEngine.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:06.762Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "3oIlXIpoXJPGHjjL86F5B6",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/AddressThresholdLockRule.sol",
-          "description": "AddressThresholdLockRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:08.766Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "AOsbwM5d5yQJZy01JJipk",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/GlobalFreezeRule.sol",
-          "description": "GlobalFreezeRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:09.764Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "1RUPFMhzvVcFkzoFCtoEfD",
           "type": "smart_contract",
           "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/HardTransferLimitRule.sol",
@@ -141,94 +53,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-05-10T16:18:10.786Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "7zVNOOeY7cJkx5Vh3Sod9Y",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/MaxTransferRule.sol",
-          "description": "MaxTransferRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:12.435Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "3TqTOUYxZVbxaVPqpgvsaX",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/MinTransferRule.sol",
-          "description": "MinTransferRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:13.459Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "7MTff8UxhMnGuGEdXGKRqV",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/SoftTransferLimitRule.sol",
-          "description": "SoftTransferLimitRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:14.454Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6XbxjHg07hErtMFY5QnKI5",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserAttributeValidToRule.sol",
-          "description": "UserAttributeValidToRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:15.447Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "4mJWbeVVF1b5eNq20MK8dq",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserFreezeRule.sol",
-          "description": "UserFreezeRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:16.438Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6An7SLCJw7nHUsAu1gRg5I",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserKycThresholdBothRule.sol",
-          "description": "UserKycThresholdBothRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:17.432Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6fMifOxgZm8RE4F34N1POh",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserKycThresholdFromRule.sol",
-          "description": "UserKycThresholdFromRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:18.628Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "3t69M0o6tDXMVagXQi9YfZ",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserKycThresholdToRule.sol",
-          "description": "UserKycThresholdToRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:19.640Z",
           "fund": null,
           "info": null
         },
@@ -244,28 +68,6 @@
           "info": null
         },
         {
-          "id": "6Iy1Hw3zVCglBGhAQEJL31",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/YesNoRule.sol",
-          "description": "YesNoRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:21.922Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "3erYW9ykamK8lIRoIpFdU0",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/YesNoUpdateRule.sol",
-          "description": "YesNoUpdateRule.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:22.946Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "1muiIqmc8buNPEaNKI3rsW",
           "type": "smart_contract",
           "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/sale/TokenSale.sol",
@@ -273,6 +75,17 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-05-10T16:18:24.913Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "1mvZtrB5vQGuHbaHXLCVY2",
+          "type": "websites_and_applications",
+          "url": "https://www.mtpelerin.com",
+          "description": null,
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-13T15:12:51.430Z",
           "fund": null,
           "info": null
         },
@@ -299,6 +112,17 @@
           "info": null
         },
         {
+          "id": "2xzQTvmerVfIyVi7sXAzZU",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/token/abstract/SeizableBridgeERC20.sol",
+          "description": "SeizableBridgeERC20.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:31.632Z",
+          "fund": null,
+          "info": null
+        },
+        {
           "id": "3LPq7vtWVf0aelBR0AXPq1",
           "type": "smart_contract",
           "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/token/CoinBridgeToken.sol",
@@ -306,6 +130,72 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2022-05-10T16:18:28.181Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "3TqTOUYxZVbxaVPqpgvsaX",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/MinTransferRule.sol",
+          "description": "MinTransferRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:13.459Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "3erYW9ykamK8lIRoIpFdU0",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/YesNoUpdateRule.sol",
+          "description": "YesNoUpdateRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:22.946Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "3oIlXIpoXJPGHjjL86F5B6",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/AddressThresholdLockRule.sol",
+          "description": "AddressThresholdLockRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:08.766Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "3t69M0o6tDXMVagXQi9YfZ",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserKycThresholdToRule.sol",
+          "description": "UserKycThresholdToRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:19.640Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "4UeW4FpLHQPxJexCfXXatb",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/ComplianceRegistry.sol",
+          "description": "ComplianceRegistry.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:03.366Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "4cuGzIaPzDGZHx80cir32",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/access/Roles.sol",
+          "description": "Roles.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:17:32.425Z",
           "fund": null,
           "info": null
         },
@@ -321,35 +211,13 @@
           "info": null
         },
         {
-          "id": "5IyKgwlj83wmBQ20JJAnbq",
+          "id": "4mJWbeVVF1b5eNq20MK8dq",
           "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/token/abstract/BridgeERC20.sol",
-          "description": "BridgeERC20.sol",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserFreezeRule.sol",
+          "description": "UserFreezeRule.sol",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:30.604Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "2xzQTvmerVfIyVi7sXAzZU",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/token/abstract/SeizableBridgeERC20.sol",
-          "description": "SeizableBridgeERC20.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:31.632Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "bwIamkHUjewMqWgbmTUyY",
-          "type": "smart_contract",
-          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/utils/TokenDispenserQueue.sol",
-          "description": "TokenDispenserQueue.sol",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2022-05-10T16:18:38.006Z",
+          "addedAt": "2022-05-10T16:18:16.438Z",
           "fund": null,
           "info": null
         },
@@ -365,13 +233,35 @@
           "info": null
         },
         {
-          "id": "7tSPWLnWUI1lYT5atyLgnR",
-          "type": "websites_and_applications",
-          "url": "https://apps.apple.com/us/app/bridge-wallet/id1481859680",
-          "description": null,
+          "id": "5IyKgwlj83wmBQ20JJAnbq",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/token/abstract/BridgeERC20.sol",
+          "description": "BridgeERC20.sol",
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2022-05-13T13:22:30.356Z",
+          "addedAt": "2022-05-10T16:18:30.604Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6An7SLCJw7nHUsAu1gRg5I",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserKycThresholdBothRule.sol",
+          "description": "UserKycThresholdBothRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:17.432Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6Iy1Hw3zVCglBGhAQEJL31",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/YesNoRule.sol",
+          "description": "YesNoRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:21.922Z",
           "fund": null,
           "info": null
         },
@@ -387,13 +277,123 @@
           "info": null
         },
         {
-          "id": "1mvZtrB5vQGuHbaHXLCVY2",
+          "id": "6VgT62FAIZIoiuZ0gIRD1t",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/access/Operator.sol",
+          "description": "Operator.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:17:31.457Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6XbxjHg07hErtMFY5QnKI5",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserAttributeValidToRule.sol",
+          "description": "UserAttributeValidToRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:15.447Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6fMifOxgZm8RE4F34N1POh",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/UserKycThresholdFromRule.sol",
+          "description": "UserKycThresholdFromRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:18.628Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6zeeupgzRQu136U55bGVm8",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/Processor.sol",
+          "description": "Processor.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:05.740Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "7Hm7x1dCdQABc4N8YwvWH0",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/PriceOracle.sol",
+          "description": "PriceOracle.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:04.727Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "7MTff8UxhMnGuGEdXGKRqV",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/SoftTransferLimitRule.sol",
+          "description": "SoftTransferLimitRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:14.454Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "7tSPWLnWUI1lYT5atyLgnR",
           "type": "websites_and_applications",
-          "url": "https://www.mtpelerin.com",
+          "url": "https://apps.apple.com/us/app/bridge-wallet/id1481859680",
           "description": null,
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
-          "addedAt": "2022-05-13T15:12:51.430Z",
+          "addedAt": "2022-05-13T13:22:30.356Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "7zVNOOeY7cJkx5Vh3Sod9Y",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/MaxTransferRule.sol",
+          "description": "MaxTransferRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:12.435Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "AOsbwM5d5yQJZy01JJipk",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/rules/GlobalFreezeRule.sol",
+          "description": "GlobalFreezeRule.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:09.764Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "WskxgDVQBjP38SHu70644",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/operating/RuleEngine.sol",
+          "description": "RuleEngine.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:06.762Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "bwIamkHUjewMqWgbmTUyY",
+          "type": "smart_contract",
+          "url": "https://github.com/MtPelerin/bridge-v2/blob/master/contracts/utils/TokenDispenserQueue.sol",
+          "description": "TokenDispenserQueue.sol",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2022-05-10T16:18:38.006Z",
           "fund": null,
           "info": null
         }
@@ -473,7 +473,8 @@
           "Celo",
           "zkSync",
           "Lightning",
-          "Sonic"
+          "Sonic",
+          "xDAI / Gnosis Chain"
         ],
         "programType": [
           "Smart Contract",
@@ -513,9 +514,9 @@
           }
         ]
       },
-      "websiteUrl": null,
-      "description": "Mt Pelerin is a Swiss fintech company specialized in solutions to bridge the crypto economy with traditional banking and finance.",
-      "githubUrl": null,
+      "websiteUrl": "https://www.mtpelerin.com/",
+      "description": "Mt Pelerin is a regulated Swiss company specialized in cryptocurrency exchange, mobile wallet and asset tokenization services.",
+      "githubUrl": "https://github.com/MtPelerin",
       "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
       "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
       "responsiblePublicationCategory": null,

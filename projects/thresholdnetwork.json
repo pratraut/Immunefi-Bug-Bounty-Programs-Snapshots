@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/5sXJAYkgjf0BtH2uarlVA3/1f1993cf792814921c5c289b57004768/token-symbol-purple.svg",
       "launchDate": "2023-04-28T09:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-27T22:56:44.789Z",
+      "updatedDate": "2025-12-23T10:59:02.388Z",
       "kyc": false,
       "rewards": [
         {
@@ -69,16 +69,28 @@
       ],
       "audits": [
         {
-          "id": "3WbwmD6efpH6P8zvJhRaLL",
-          "url": "https://drive.google.com/file/d/1RW4Bb3Rd_HdOU8pVxLpIRXCXDYKubeIp/view?usp=sharing",
+          "id": "1GXCBdFHrjQFFTVUNhnO5e",
+          "url": "https://drive.google.com/file/d/1QK1jnaoqdtoeyqTD7xz93sSk1BwerFwe/view?usp=sharing",
           "auditor": "Defense by Thesis",
-          "date": "2025-10-30T23:00:00.000Z"
+          "date": "2025-11-26T23:00:00.000Z"
+        },
+        {
+          "id": "5uhEEAMqHorUC4twqBLXe2",
+          "url": "https://drive.google.com/file/d/1ZGOGCHcGo6r2Plkk1wHvdoWllfqQOl4T/view?usp=sharing",
+          "auditor": "Defense by Thesis",
+          "date": "2025-09-15T22:00:00.000Z"
         },
         {
           "id": "1Q0jYGhN1ZzAjm2vHuM1ZO",
           "url": "https://drive.google.com/file/d/1ymBpfc9vihOVA-XccqhpeitnZS208O5u/view",
           "auditor": "Thesis Defense",
           "date": "2025-09-24T22:00:00.000Z"
+        },
+        {
+          "id": "3WbwmD6efpH6P8zvJhRaLL",
+          "url": "https://drive.google.com/file/d/1RW4Bb3Rd_HdOU8pVxLpIRXCXDYKubeIp/view?usp=sharing",
+          "auditor": "Defense by Thesis",
+          "date": "2025-10-30T23:00:00.000Z"
         },
         {
           "id": "4Hy1dzpyIIDV96Z26ZUr9l",
@@ -95,17 +107,6 @@
       ],
       "assets": [
         {
-          "id": "6pifDzIREgOk5GXAH0c2yY",
-          "type": "websites_and_applications",
-          "url": "https://www.threshold.network/",
-          "description": "threshold network website",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-27T22:56:25.735Z",
-          "fund": null,
-          "info": null
-        },
-        {
           "id": "18RiGArabEsNRGz8GSwF5P",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x65Fbae61ad2C8836fFbFB502A0dA41b0789D9Fc6",
@@ -116,27 +117,6 @@
           "fund": {
             "usdValue": 0,
             "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "1Eu3MTtD96n15ZWUaHBtZM",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x1cca7e410ee41739792ea0a24e00349dd247680e",
-          "description": "VendingMachine (NU -> T)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-04-28T09:00:00.000Z",
-          "fund": {
-            "usdValue": 41655459.65524049,
-            "addressesCount": 2
           },
           "info": {
             "verified": true,
@@ -450,27 +430,6 @@
           "fund": {
             "usdValue": 0,
             "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "3KZqBK9zjkua8BoNXpNr51",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xe47c80e8c23f6b4a1ae41c34837a0599d5d16bb0",
-          "description": "VendingMachine (KEEP -> T)",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-04-28T09:00:00.000Z",
-          "fund": {
-            "usdValue": 41286217.390157245,
-            "addressesCount": 2
           },
           "info": {
             "verified": true,
@@ -867,6 +826,36 @@
           }
         },
         {
+          "id": "6L3P4lafUrO9wbHLiSF6mj",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0184739C32edc3471D3e4860c8E39a5f3Ff85A45",
+          "description": "T Staking rebates for tBTC ",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-17T12:07:08.022Z",
+          "fund": {
+            "usdValue": 883.5698699999999,
+            "addressesCount": 1
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": true,
+              "type": "eip1967",
+              "address": "0xE490c802f8455EA1f0dF96a7B5043536a41E2535",
+              "isERC20": false,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": 1760720015
+            }
+          }
+        },
+        {
           "id": "6UpOczTDqfu6huiVHSoH9i",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xB8dF0A949aC45ff8f401553A1dcb742Feb38E6D3",
@@ -904,6 +893,17 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-09-17T17:23:31.157Z",
+          "fund": null,
+          "info": null
+        },
+        {
+          "id": "6pifDzIREgOk5GXAH0c2yY",
+          "type": "websites_and_applications",
+          "url": "https://www.threshold.network/",
+          "description": "threshold network website",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-27T22:56:25.735Z",
           "fund": null,
           "info": null
         },

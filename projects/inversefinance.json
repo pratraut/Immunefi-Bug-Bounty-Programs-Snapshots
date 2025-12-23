@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
       "launchDate": "2023-11-30T11:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-11-25T09:46:54.753Z",
+      "updatedDate": "2025-12-23T11:05:31.519Z",
       "kyc": false,
       "rewards": [
         {
@@ -79,90 +79,6 @@
         }
       ],
       "assets": [
-        {
-          "id": "49lzj8koOu71yIbuYVgf9x",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x719c47071bea36fd2b2287bbe6efa872a594fb78#code",
-          "description": "Helper - PendlePTHelper v2",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-25T09:46:43.542Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "49p2lo6Qf8zx14QjFexcAY",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x4C871E951228c2f7224416C921e742a86Ef8EECB",
-          "description": "FiRM - INV Pricefeed v3",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-25T09:46:43.496Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "VbPESlQJN4hXBOBYxhMoq",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x39d167fe676efc3be49be874a37349a5d89f9058#code",
-          "description": "FiRM - ALE v4",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-25T09:46:43.558Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "5kUpAEig5XZxoV5q13ytkg",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x3363ad5780316fd5180bb9f34297b533fb9cb335#code",
-          "description": "Helper - DBRHelper v2",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-25T09:46:43.532Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
         {
           "id": "14V9cTTfDGLv6oMh33LqhM",
           "type": "smart_contract",
@@ -1151,6 +1067,48 @@
           }
         },
         {
+          "id": "49lzj8koOu71yIbuYVgf9x",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x719c47071bea36fd2b2287bbe6efa872a594fb78#code",
+          "description": "Helper - PendlePTHelper v2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-25T09:46:43.542Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "49p2lo6Qf8zx14QjFexcAY",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x4C871E951228c2f7224416C921e742a86Ef8EECB",
+          "description": "FiRM - INV Pricefeed v3",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-25T09:46:43.496Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
           "id": "4AwxoFc37VkVYXKaAQGY97",
           "type": "smart_contract",
           "url": "https://berascan.com/address/0x1992af61fbf8ee38741bcc57d636caa22a1a7702",
@@ -1360,27 +1318,6 @@
           }
         },
         {
-          "id": "4itcTqDlvPVYr2NeNTWLgq",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x32edDd879B199503c6Fc37DF95b8920Cd415358F",
-          "description": "DAO - Payroll",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-11-30T11:00:00.000Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "50RTXfs5u1pem1Z0jDgcnh",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xC0086Ff652c67f43F00F0F9C69Ef6c33640C8cCF",
@@ -1544,6 +1481,27 @@
               "isERC4626": false,
               "upgradedAt": null
             }
+          }
+        },
+        {
+          "id": "5kUpAEig5XZxoV5q13ytkg",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3363ad5780316fd5180bb9f34297b533fb9cb335#code",
+          "description": "Helper - DBRHelper v2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-25T09:46:43.532Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
           }
         },
         {
@@ -2320,6 +2278,27 @@
           "info": null
         },
         {
+          "id": "VbPESlQJN4hXBOBYxhMoq",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x39d167fe676efc3be49be874a37349a5d89f9058#code",
+          "description": "FiRM - ALE v4",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-25T09:46:43.558Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
           "id": "YFxsDNM7LdOegMMg2xhia",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0x3474ad0e3a9775c9F68B415A7a9880B0CAB9397a",
@@ -2731,6 +2710,12 @@
           "title": "Inverse Finance Codebase",
           "description": "Github Codebase",
           "url": "https://github.com/InverseFinance"
+        },
+        {
+          "id": 634,
+          "title": "Payroll v2",
+          "description": "DAO",
+          "url": "https://etherscan.io/address/0xabfbf345dd103993c2524d9c5f3260845e372f2f"
         }
       ],
       "programDocumentations": [

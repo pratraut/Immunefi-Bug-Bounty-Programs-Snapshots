@@ -9,7 +9,7 @@
       "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/46652-poMYBlE470F3ANFEzLX3a-PhDjdUVamAGgfjv2TMLhs2M2H40O54.png",
       "launchDate": "2021-07-01T07:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-02T13:59:45.379Z",
+      "updatedDate": "2025-12-23T10:57:43.164Z",
       "kyc": false,
       "rewards": [
         {
@@ -41,120 +41,6 @@
       "audits": null,
       "assets": [
         {
-          "id": "6KNPAcb2KI95cyhy9sXrGp",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xf8dF17a35c88AbB25e83C92f9D293B4368b9D52D",
-          "description": "Common Report Trigger",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-06T10:55:34.469Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "46Pa6a7yOLCN83C9SQyMEe",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xF728f839796a399ACc2823c1e5591F05a31c32d1",
-          "description": "Accountant Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-06T10:55:34.456Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "7ASqGORjw2qbyMQkrAvCOy",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xe28fCC9FB2998ba57754789F6666DAa8C815614D#code",
-          "description": "Splitter Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-06T10:55:34.567Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": {
-              "verified": false,
-              "type": "eip1167",
-              "address": "0x0000000000000000000000000061012052602061",
-              "isERC20": false,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": false,
-              "upgradedAt": null
-            }
-          }
-        },
-        {
-          "id": "IgvqO4CKk8jXloSZSjmLj",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xd8063123BBA3B480569244AE66BFE72B6c84b00d",
-          "description": "3.0.4 Vault V3 ",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-06T10:55:34.394Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": true,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": true,
-            "implementation": null
-          }
-        },
-        {
-          "id": "31LeVuGMx8WP3MTAroXD7f",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0xD377919FA87120584B21279a491F82D5265A139c",
-          "description": "3.0.4 Tokenized Strategy",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-06T10:55:34.615Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": true,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": true,
-            "implementation": null
-          }
-        },
-        {
           "id": "1KjG6kdSc06HblkKE05yzG",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xca12459a931643BF28388c67639b3F352fe9e5Ce",
@@ -173,36 +59,6 @@
             "isERC1155": false,
             "isERC4626": false,
             "implementation": null
-          }
-        },
-        {
-          "id": "2GQBau5qvXxg11ERrPRkkQ",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x770D0d1Fb036483Ed4AbB6d53c1C88fb277D812F",
-          "description": "3.0.4 Vault V3 Factory",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-11-06T10:55:34.712Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": {
-              "verified": false,
-              "type": "eip1167",
-              "address": "0x0000000000000000000000000061028052602061",
-              "isERC20": false,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": false,
-              "upgradedAt": null
-            }
           }
         },
         {
@@ -290,6 +146,36 @@
           }
         },
         {
+          "id": "2GQBau5qvXxg11ERrPRkkQ",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x770D0d1Fb036483Ed4AbB6d53c1C88fb277D812F",
+          "description": "3.0.4 Vault V3 Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-06T10:55:34.712Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": false,
+              "type": "eip1167",
+              "address": "0x0000000000000000000000000061028052602061",
+              "isERC20": false,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": null
+            }
+          }
+        },
+        {
           "id": "2lq7hZfi5WOrzEHsc0TfjM",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xB226c52EB411326CdB54824a88aBaFDAAfF16D3d#code",
@@ -374,6 +260,27 @@
           }
         },
         {
+          "id": "31LeVuGMx8WP3MTAroXD7f",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xD377919FA87120584B21279a491F82D5265A139c",
+          "description": "3.0.4 Tokenized Strategy",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-06T10:55:34.615Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": true,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": true,
+            "implementation": null
+          }
+        },
+        {
           "id": "3Gm9nMhD0Nqcov6DbEg1OJ",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xb287a1964AEE422911c7b8409f5E5A273c1412fA#code",
@@ -402,6 +309,27 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2024-10-22T13:42:07.521Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "46Pa6a7yOLCN83C9SQyMEe",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xF728f839796a399ACc2823c1e5591F05a31c32d1",
+          "description": "Accountant Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-06T10:55:34.456Z",
           "fund": {
             "usdValue": 0,
             "addressesCount": 0
@@ -451,27 +379,6 @@
           "info": {
             "verified": true,
             "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "5cUjiesOIgXMAw606dgjEs",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x1BED97CBC3c24A4fb5C069C6E311a967386131f7#code",
-          "description": "yETH",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-07-17T20:30:17.911Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": true,
             "isERC721": false,
             "isERC1155": false,
             "isERC4626": false,
@@ -559,6 +466,78 @@
             "isERC721": false,
             "isERC1155": false,
             "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "6KNPAcb2KI95cyhy9sXrGp",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xf8dF17a35c88AbB25e83C92f9D293B4368b9D52D",
+          "description": "Common Report Trigger",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-06T10:55:34.469Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "7ASqGORjw2qbyMQkrAvCOy",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xe28fCC9FB2998ba57754789F6666DAa8C815614D#code",
+          "description": "Splitter Factory",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-06T10:55:34.567Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": false,
+              "type": "eip1167",
+              "address": "0x0000000000000000000000000061012052602061",
+              "isERC20": false,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": null
+            }
+          }
+        },
+        {
+          "id": "IgvqO4CKk8jXloSZSjmLj",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xd8063123BBA3B480569244AE66BFE72B6c84b00d",
+          "description": "3.0.4 Vault V3 ",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-11-06T10:55:34.394Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": true,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": true,
             "implementation": null
           }
         },
