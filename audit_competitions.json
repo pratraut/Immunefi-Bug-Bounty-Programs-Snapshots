@@ -103,6 +103,162 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "premiumTriaging": true
   },
   {
+    "contentfulId": "3oUNZcKXyGUxfFBOiEEgYd",
+    "id": "xrpl-ripple-attackathon",
+    "project": "Attackathon | XRPL Lending Protocol",
+    "maximum_reward": 200000,
+    "logo": "//images.ctfassets.net/t3wqy70tc3bv/4iQ7O52KuNSnBE1aY3Zehg/bd3aef31fe459b3f65ccd652fab3730d/XRPL_-_Black500.png",
+    "date": "2025-10-27T14:00:00.000Z",
+    "launchDate": "2025-10-27T14:00:00.000Z",
+    "endDate": "2025-11-24T14:00:00.000Z",
+    "updatedDate": "2025-11-06T20:20:03.681Z",
+    "kyc": true,
+    "technologies": [
+      "Blockchain/DLT"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi"
+      ],
+      "productType": [],
+      "projectType": [
+        "Blockchain"
+      ],
+      "ecosystem": [],
+      "programType": [
+        "Blockchain/DLT"
+      ],
+      "language": [
+        "C/C++"
+      ],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-12-30T14:00:00.000Z",
+    "boostedIntroStartingIn": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
+
+October 13th, the Attackathon Education Period begins for XRPL Lending Protocol — launching the ‘XRPL Lending Protocol Academy’, and opening direct access to the XRPL’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “xrpl-attackathon\" channel.",
+    "boostedIntroLive": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
+
+You can ask technical questions to the XRPL's Team directly in the #xrpl-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
+
+When the XRPL Lending Protocol Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
+    "boostedIntroEvaluating": "### **Thank You to All Participating Security Researchers!**
+
+The Attackathon has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
+    "rewardsToken": "RLUSD",
+    "rewardsPool": 200000,
+    "primaryPool": 140000,
+    "allStarsPool": 40000,
+    "podiumPool": 20000,
+    "sourceLinesOfCode": 35498,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Attackathon",
+      "Vault",
+      "Managed Triage: Signal Booster"
+    ],
+    "academyStartDate": "2025-10-13T14:00:00.000Z",
+    "proofOfConceptType": "runnable",
+    "premiumTriaging": true
+  },
+  {
+    "contentfulId": "2gU2XBxUefsNjVWgkGKaFs",
+    "id": "alchemix-v3-audit-competition",
+    "project": "Audit Comp | Alchemix V3",
+    "maximum_reward": 100000,
+    "logo": "//images.ctfassets.net/t3wqy70tc3bv/1n32B4eQNgsTaCpybMEudK/57f8ae5777af97e0e7a91f4b2ec17517/alchemix.png",
+    "date": "2025-10-14T15:00:00.000Z",
+    "launchDate": "2025-10-14T15:00:00.000Z",
+    "endDate": "2025-11-04T14:00:00.000Z",
+    "updatedDate": "2025-12-11T15:25:36.001Z",
+    "kyc": false,
+    "technologies": [
+      "Smart Contract"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Not Required",
+        "Step-by-step PoC Required",
+        "Triaged by Immunefi",
+        "Vaults"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Smart Contract"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "evaluationEndDate": "2025-12-26T14:00:00.000Z",
+    "boostedIntroStartingIn": "### **$100,000 USD** in rewards is available for finding bugs on Alchemix’s V3 contracts. 
+
+For more information about the project, please visit about [Alchemix](https://alchemix.fi/)
+
+Any technical questions and support requests can be asked directly to Alchemix team or Immunefi in the [#alchemix-v3-audit-competition](https://discord.com/channels/787092485969150012/1425119521261490338) discord channel. 
+
+When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
+
+A few days after the launch, Immunefi will publish Alchemix's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
+
+**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
+
+Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
+    "boostedIntroLive": "### **$100,000 USD** in rewards is available for finding bugs on Alchemix’s V3 contracts. 
+
+For more information about the project, please visit about [Alchemix](https://alchemix.fi/)
+
+- KYC is not required.
+
+- Flat Reward Pool
+
+**Proof of Concept (PoC) Requirements**
+
+- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
+
+- Any technical questions and support requests can be asked directly to Alchemix team or Immunefi in the [#alchemix-v3-audit-competition](https://discord.com/channels/787092485969150012/1425119521261490338) discord channel.",
+    "boostedIntroEvaluating": "### Thank You to All Participating Security Researchers!
+
+The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
+    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
+
+Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
+    "rewardsToken": "USDC",
+    "rewardsPool": 100000,
+    "primaryPool": 70000,
+    "allStarsPool": 20000,
+    "podiumPool": 10000,
+    "sourceLinesOfCode": 2612,
+    "boostedSummaryReport": null,
+    "inviteOnly": false,
+    "hideAssetsInScope": null,
+    "boostedLeaderboard": [],
+    "features": [
+      "Boost",
+      "Managed Triage: Time Saver",
+      "Vault"
+    ],
+    "academyStartDate": null,
+    "proofOfConceptType": "runnable",
+    "premiumTriaging": true
+  },
+  {
     "contentfulId": "3uZCgJs3QLhIGK8ggqkRfj",
     "id": "audit-comp-vechain-stargate-hayabusa",
     "project": "Audit Comp | Vechain | Stargate Hayabusa",
@@ -189,76 +345,6 @@ Your valuable contributions played a crucial role in identifying and resolving c
     "premiumTriaging": true
   },
   {
-    "contentfulId": "3oUNZcKXyGUxfFBOiEEgYd",
-    "id": "xrpl-ripple-attackathon",
-    "project": "Attackathon | XRPL Lending Protocol",
-    "maximum_reward": 200000,
-    "logo": "//images.ctfassets.net/t3wqy70tc3bv/4iQ7O52KuNSnBE1aY3Zehg/bd3aef31fe459b3f65ccd652fab3730d/XRPL_-_Black500.png",
-    "date": "2025-10-27T14:00:00.000Z",
-    "launchDate": "2025-10-27T14:00:00.000Z",
-    "endDate": "2025-11-24T14:00:00.000Z",
-    "updatedDate": "2025-11-06T20:20:03.681Z",
-    "kyc": true,
-    "technologies": [
-      "Blockchain/DLT"
-    ],
-    "immunefiStandard": null,
-    "tags": {
-      "general": [
-        "KYC Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi"
-      ],
-      "productType": [],
-      "projectType": [
-        "Blockchain"
-      ],
-      "ecosystem": [],
-      "programType": [
-        "Blockchain/DLT"
-      ],
-      "language": [
-        "C/C++"
-      ],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-12-30T14:00:00.000Z",
-    "boostedIntroStartingIn": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
-
-October 13th, the Attackathon Education Period begins for XRPL Lending Protocol — launching the ‘XRPL Lending Protocol Academy’, and opening direct access to the XRPL’s team for ongoing technical Q&A on [Immunefi's Discord](https://discord.com/invite/immunefi) in the “xrpl-attackathon\" channel.",
-    "boostedIntroLive": "### A Flat **$200,000 USD** reward pool for finding bugs on XRPL Lending Protocol.
-
-You can ask technical questions to the XRPL's Team directly in the #xrpl-attackathon channel in [Immunefi's Discord](https://discord.com/invite/immunefi).
-
-When the XRPL Lending Protocol Attackathon ends, Immunefi will publish a leaderboard and Attackathon findings report.",
-    "boostedIntroEvaluating": "### **Thank You to All Participating Security Researchers!**
-
-The Attackathon has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
-    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
-
-Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
-    "rewardsToken": "RLUSD",
-    "rewardsPool": 200000,
-    "primaryPool": 140000,
-    "allStarsPool": 40000,
-    "podiumPool": 20000,
-    "sourceLinesOfCode": 35498,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Attackathon",
-      "Vault",
-      "Managed Triage: Signal Booster"
-    ],
-    "academyStartDate": "2025-10-13T14:00:00.000Z",
-    "proofOfConceptType": "runnable",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "6yPNjgpIjdeu7YaWaGsbXm",
     "id": "audit-comp-belong",
     "project": "Audit Comp | Belong",
@@ -333,92 +419,6 @@ The audit competition has now concluded and is currently in the evaluation phase
     "allStarsPool": 6000,
     "podiumPool": 3000,
     "sourceLinesOfCode": 4108,
-    "boostedSummaryReport": null,
-    "inviteOnly": false,
-    "hideAssetsInScope": null,
-    "boostedLeaderboard": [],
-    "features": [
-      "Boost",
-      "Managed Triage: Time Saver",
-      "Vault"
-    ],
-    "academyStartDate": null,
-    "proofOfConceptType": "runnable",
-    "premiumTriaging": true
-  },
-  {
-    "contentfulId": "2gU2XBxUefsNjVWgkGKaFs",
-    "id": "alchemix-v3-audit-competition",
-    "project": "Audit Comp | Alchemix V3",
-    "maximum_reward": 100000,
-    "logo": "//images.ctfassets.net/t3wqy70tc3bv/1n32B4eQNgsTaCpybMEudK/57f8ae5777af97e0e7a91f4b2ec17517/alchemix.png",
-    "date": "2025-10-14T15:00:00.000Z",
-    "launchDate": "2025-10-14T15:00:00.000Z",
-    "endDate": "2025-11-04T14:00:00.000Z",
-    "updatedDate": "2025-12-11T15:25:36.001Z",
-    "kyc": false,
-    "technologies": [
-      "Smart Contract"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Not Required",
-        "Step-by-step PoC Required",
-        "Triaged by Immunefi",
-        "Vaults"
-      ],
-      "productType": [],
-      "projectType": [],
-      "ecosystem": [],
-      "programType": [
-        "Smart Contract"
-      ],
-      "language": [],
-      "featured": [
-        "Launched Recently"
-      ]
-    },
-    "evaluationEndDate": "2025-12-26T14:00:00.000Z",
-    "boostedIntroStartingIn": "### **$100,000 USD** in rewards is available for finding bugs on Alchemix’s V3 contracts. 
-
-For more information about the project, please visit about [Alchemix](https://alchemix.fi/)
-
-Any technical questions and support requests can be asked directly to Alchemix team or Immunefi in the [#alchemix-v3-audit-competition](https://discord.com/channels/787092485969150012/1425119521261490338) discord channel. 
-
-When the Audit Competition ends, Immunefi will publish an event-specific leaderboard and bug reports from the event.
-
-A few days after the launch, Immunefi will publish Alchemix's technical walkthrough on our official [YouTube channel](https://www.youtube.com/@immunefi).
-
-**A runnable PoC is required**. For more information, please read [Immunefi Proof of Concept (PoC) Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules?utm_source=immunefi)
-
-Insight reports can be submitted. Read our [Insight validity rules](https://immunefisupport.zendesk.com/hc/en-us/articles/34179768760337-Insight-Severity-Level)",
-    "boostedIntroLive": "### **$100,000 USD** in rewards is available for finding bugs on Alchemix’s V3 contracts. 
-
-For more information about the project, please visit about [Alchemix](https://alchemix.fi/)
-
-- KYC is not required.
-
-- Flat Reward Pool
-
-**Proof of Concept (PoC) Requirements**
-
-- A **runnable PoC**, demonstrating the bug's impact, is required for this program and has to comply with the [Immunefi PoC Guidelines and Rules.](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules)
-
-- Any technical questions and support requests can be asked directly to Alchemix team or Immunefi in the [#alchemix-v3-audit-competition](https://discord.com/channels/787092485969150012/1425119521261490338) discord channel.",
-    "boostedIntroEvaluating": "### Thank You to All Participating Security Researchers!
-
-The audit competition has now concluded and is currently in the evaluation phase. During this period, all submitted reports are being carefully reviewed by the Immunefi triage team and the project team.",
-    "boostedIntroFinished": "### Thank You to All Participating Security Researchers!
-
-Your valuable contributions played a crucial role in identifying and resolving critical vulnerabilities, helping to strengthen and secure the platform for all users.",
-    "rewardsToken": "USDC",
-    "rewardsPool": 100000,
-    "primaryPool": 70000,
-    "allStarsPool": 20000,
-    "podiumPool": 10000,
-    "sourceLinesOfCode": 2612,
     "boostedSummaryReport": null,
     "inviteOnly": false,
     "hideAssetsInScope": null,
