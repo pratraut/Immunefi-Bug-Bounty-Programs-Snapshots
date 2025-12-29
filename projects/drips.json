@@ -284,12 +284,12 @@
             "implementation": {
               "verified": true,
               "type": "eip1967",
-              "address": "0xfC446dB5E1255e837E95dB90c818C6fEb8e93ab0",
+              "address": "0x65C75c75A2cDdd98152cAD40ebbbfEc988bcFdd9",
               "isERC20": false,
               "isERC721": false,
               "isERC1155": false,
               "isERC4626": false,
-              "upgradedAt": 1689251219
+              "upgradedAt": 1766482631
             }
           }
         },
