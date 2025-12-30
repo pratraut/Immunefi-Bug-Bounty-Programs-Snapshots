@@ -5,66 +5,65 @@
       "id": "sns",
       "slug": "sns",
       "project": "SNS",
-      "maxBounty": 100000,
+      "maxBounty": 20000,
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1kEyT5bORMraZGNMuv44VH/40ed6657d9aaaf73946ff4a0660590b7/SNS_Color_logomark_on_Black_200px__1_.png",
       "launchDate": "2023-08-04T12:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-07-21T11:37:14.282Z",
+      "updatedDate": "2025-12-30T09:22:19.589Z",
       "kyc": true,
       "rewards": [
         {
-          "id": 33368,
+          "id": 39568,
           "assetType": "smart_contract",
           "severity": "critical",
           "rewardModel": "fixed",
           "rewardCalculationPercentage": 0,
-          "fixedReward": 100000
+          "fixedReward": 20000
         },
         {
-          "id": 33369,
+          "id": 39569,
           "assetType": "smart_contract",
           "severity": "high",
-          "rewardModel": "fixed",
-          "fixedReward": 40000
-        },
-        {
-          "id": 33370,
-          "assetType": "smart_contract",
-          "severity": "medium",
-          "rewardModel": "fixed",
-          "fixedReward": 15000
-        },
-        {
-          "id": 33371,
-          "assetType": "smart_contract",
-          "severity": "low",
           "rewardModel": "fixed",
           "fixedReward": 5000
         },
         {
-          "id": 33372,
+          "id": 39570,
+          "assetType": "smart_contract",
+          "severity": "medium",
+          "rewardModel": "fixed",
+          "fixedReward": 2000
+        },
+        {
+          "id": 39571,
+          "assetType": "smart_contract",
+          "severity": "low",
+          "rewardModel": "fixed",
+          "fixedReward": 1000
+        },
+        {
+          "id": 39572,
           "assetType": "websites_and_applications",
           "severity": "critical",
           "rewardModel": "fixed",
-          "otherImpactMaxReward": 0,
-          "fixedReward": 30000
+          "fixedReward": 5000
         },
         {
-          "id": 33373,
+          "id": 39573,
           "assetType": "websites_and_applications",
           "severity": "high",
           "rewardModel": "fixed",
-          "fixedReward": 20000
+          "fixedReward": 2000
         },
         {
-          "id": 33374,
+          "id": 39574,
           "assetType": "websites_and_applications",
           "severity": "medium",
           "rewardModel": "fixed",
-          "fixedReward": 10000
+          "fixedReward": 1500
         },
         {
-          "id": 33375,
+          "id": 39575,
           "assetType": "websites_and_applications",
           "severity": "low",
           "rewardModel": "fixed",
@@ -74,46 +73,13 @@
       "audits": null,
       "assets": [
         {
-          "id": "6ML8HzyxVqwWOpIf13e0bN",
+          "id": "3VqlL7wSvPDTuD58N1to2G",
           "type": "smart_contract",
-          "url": "https://github.com/Bonfida/name-tokenizer",
-          "description": "Name tokenizer",
-          "isPrimacyOfImpact": null,
+          "url": "https://immunefi.com",
+          "description": "Primacy of Impact (only Critical and High)",
+          "isPrimacyOfImpact": true,
           "isSafeHarbor": null,
-          "addedAt": "2023-08-04T12:00:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "7ohTXTZDPb0rZswRo4dUZ9",
-          "type": "smart_contract",
-          "url": "https://github.com/Bonfida/sns-categories",
-          "description": "SNS Categories",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-08-04T12:00:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "6rsUfobmpG1Siz14iMVwUX",
-          "type": "smart_contract",
-          "url": "https://explorer.solana.com/address/jCebN34bUfdeUYJT13J1yG16XWQpt5PDx6Mse9GUqhR",
-          "description": "Name Auctioning",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-08-04T12:00:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "5lCkhp95GutZjagGxd07fC",
-          "type": "smart_contract",
-          "url": "https://explorer.solana.com/address/85iDfUvr3HJyLM2zcq5BXSiDvUWfw6cSE1FfNBo8Ap29",
-          "description": "Name offers",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-08-04T12:00:00.000Z",
+          "addedAt": "2023-10-05T15:28:45.462Z",
           "fund": null,
           "info": null
         },
@@ -125,39 +91,6 @@
           "isPrimacyOfImpact": null,
           "isSafeHarbor": null,
           "addedAt": "2023-08-04T12:00:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "57FnWmQr5fmPFkcnXVJ67k",
-          "type": "websites_and_applications",
-          "url": "https://naming-api.bonfida.com",
-          "description": "SNS Naming API",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-08-04T12:00:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "3tTjonlEpL1TMFIGaO0ozF",
-          "type": "websites_and_applications",
-          "url": "https://sns-api.bonfida.com",
-          "description": "SNS API",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-08-04T12:00:00.000Z",
-          "fund": null,
-          "info": null
-        },
-        {
-          "id": "3VqlL7wSvPDTuD58N1to2G",
-          "type": "smart_contract",
-          "url": "https://immunefi.com",
-          "description": "Primacy of Impact (only Critical and High)",
-          "isPrimacyOfImpact": true,
-          "isSafeHarbor": null,
-          "addedAt": "2023-10-05T15:28:45.462Z",
           "fund": null,
           "info": null
         },
@@ -375,7 +308,7 @@
       ],
       "programOverview": "Developer of blockchain technologies intended to provide consumers with a Web 3.0 identity. The company's primary product, Solana Name Service (SNS) provides a human-readable name that maps to an SOL address, thereby removing the barrier to entry and providing an identifiable address that can facilitate payments, efficiency, and overall user experience in the sphere.\n\nFor more information about SNS, please visit [https://sns.id](https://sns.id) \n\nSNS provides rewards in FIDA or USDC on Solana, denominated in USD. For more details about the payment process, please view the Rewards by Threat Level section further below. \n\n__KYC Requirement__\n\nThe provision of KYC is required to receive a reward for this bug bounty program where the following information will be required to be provided:\n\n- Wallet address where you’ll receive payment;\n- Proof of address (either a redacted bank statement with your address or a recent utility bill with your name, address, and issuer of the bill);\n- Copy of your passport will be required.\n\nKYC information is only required on confirmation of the validity of a bug report.   \n\n\n__Primacy of Impact vs Primacy of Rules__\n\nSNS adheres to the Primacy of Impact for the following impacts:\n- Smart Contract - Critical\n- Smart Contract - High\n- Websites & Applications - Critical\n- Websites & Applications - High\n\n\nIf an impact is covered within the Primacy of Impact, it means that even if the impacted asset is not in-scope but is owned by the project, then it would be considered as in-scope of the bug bounty program. When submitting a report, just select the Primacy of Impact asset placeholder. If the team behind this project has multiple projects, those other projects are not covered under the Primacy of Impact of this program. Instead, check if those other projects have a bug bounty program on Immunefi.\n\nPlease note that, regardless of what is displayed in the Rewards table, Medium and Low severity impacts are considered under the Primacy of Rules, which means that they are bound by the terms and conditions set within this program.\n\nAdditionally, *.bonfida.org assets are excluded from the Primacy of Impact.\n\nAll other impacts are considered under the Primacy of Rules, which means that they are bound by the terms of the bug bounty program.\n\nAll other severity levels not listed here are considered under the Primacy of Rules, which means that they are bound by the terms of the bug bounty program.\n\n\n__Immunefi Standard Badge__\n\nSNS has satisfied the requirements for the [Immunefi Standard Badge](https://immunefisupport.zendesk.com/hc/en-us/articles/6427157117713-The-Immunefi-Standard-Badge-), which is given to projects that adhere to our best practices. \n\n__Repeatable Attack Limitations__\n\nIn cases of repeatable attacks for smart contract bugs, only the first attack will be counted, regardless of whether the smart contract is upgradable, pausable, or killable.\n\n__Restrictions on Security Researcher Eligibility__\n\nSecurity researchers who fall under any of the following are ineligible for a reward\n- OFAC-sanctioned countries residents are ineligible \n- OFAC-sanctioned individuals are ineligible\n\n__Proof of Concept (PoC) Requirements__\n\nA PoC is required for the following severity levels:\n- Smart Contract - Critical - PoC Required \n- Smart Contract - High - PoC Required \n- Smart Contract - Medium - PoC Required \n- Smart Contract - Low - PoC Required \n- Website & Applications - Critical - PoC Required\n- Website & Applications - High - PoC Required\n- Website & Applications - Medium - PoC Required\n- Website & Applications - Low - PoC Required\n\nAll PoCs submitted must comply with the Immunefi-wide [PoC Guidelines and Rules](https://immunefisupport.zendesk.com/hc/en-us/articles/9946217628561-Proof-of-Concept-PoC-Guidelines-and-Rules). Bug report submissions without a PoC when a PoC is required will not be provided with a reward",
       "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
-      "rewardsBody": "Payouts are managed directly by the SNS team and are denominated in USD. Payments are made in either FIDA or USDC, depending on the team's discretion. \n\nThe calculation of the net amount rewarded is based on the average price between CoinMarketCap.com and CoinGecko.com at the time the bug report was submitted. No adjustments are made based on liquidity availability. For avoidance of doubt, if the reward amount is USD 5 000 and the average price is USD 1.75 per token, then the reward will be 2857.142857 units of that token.",
+      "rewardsBody": "Payouts are managed directly by the SNS team and are denominated in USD. Payments are made in either SNS or USDC, depending on the team's discretion. \n\nThe calculation of the net amount rewarded is based on the average price between CoinMarketCap.com and CoinGecko.com at the time the bug report was submitted. No adjustments are made based on liquidity availability. For avoidance of doubt, if the reward amount is USD 5 000 and the average price is USD 1.75 per token, then the reward will be 2857.142857 units of that token.",
       "outOfScopeAndRules": null,
       "assetsBodyV2": "Unless explicitly listed, only pages of the web/app assets in addition to the direct link are considered in-scope of the bug bounty program. Other subdomains are not considered as in-scope. However, for subdomain takeovers that lead to an impact on the in-scope asset, please refer to our page about [Reported Subdomain Takeovers.](https://immunefisupport.zendesk.com/hc/en-us/articles/14352199704593-Reported-Subdomain-Takeovers)",
       "impactsBody": null,
@@ -450,9 +383,9 @@
           }
         ]
       },
-      "websiteUrl": null,
+      "websiteUrl": "https://www.sns.id",
       "description": "Developer of blockchain technologies intended to provide consumers with a Web 3.0 identity. The company's primary product, Solana Name Service (SNS) provides a human-readable name that maps to an SOL address, thereby removing the barrier to entry and providing an identifiable address that can facilitate payments, efficiency, and overall user experience in the sphere.",
-      "githubUrl": null,
+      "githubUrl": "https://github.com/SolanaNameService",
       "feasibilityLimitations": "The project may be receiving reports that are valid (the bug and attack vector are real) and cite assets and impacts that are in scope, but there may be obstacles or barriers to executing the attack in the real world. In other words, there is a question about how feasible the attack really is. Conversely, there may also be mitigation measures that projects can take to prevent the impact of the bug, which are not feasible or would require unconventional action and hence, should not be used as reasons for downgrading a bug's severity.\nTherefore, Immunefi has developed a set of feasibility limitation standards which by default states what security researchers, as well as projects, can or cannot cite when reviewing a bug report.\n- [Chain Rollbacks](https://immunefisupport.zendesk.com/hc/en-us/articles/16913153448721-Chain-Rollbacks)\n- [Pre-Impact Bug Monitoring](https://immunefisupport.zendesk.com/hc/en-us/articles/19430444320401-Pre-Impact-Bug-Monitoring)\n- [Attack Investment Amount](https://immunefisupport.zendesk.com/hc/en-us/articles/17243068885265-Attack-Investment-Amount)\n- [Attacks With A Financial Risk To The Attacker](https://immunefisupport.zendesk.com/hc/en-us/articles/17454897136401-Attacks-With-A-Financial-Risk-To-The-Attacker)\n- [When Is An Impactful Attack Downgraded To Griefing?](https://immunefisupport.zendesk.com/hc/en-us/articles/17455102268305-When-Is-An-Impactful-Attack-Downgraded-To-Griefing)\n",
       "prohibitedActivites": "- Any testing on mainnet or public testnet deployed code; all testing should be done on local-forks of either public testnet or mainnet\n- Any testing with pricing oracles or third-party smart contracts\n- Attempting phishing or other social engineering attacks against our employees and/or customers\n- Any testing with third-party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks)\n- Any denial of service attacks that are executed against project assets\n- Automated testing of services that generates significant amounts of traffic\n- Public disclosure of an unpatched vulnerability in an embargoed bounty\n- [Any other actions prohibited by the Immunefi Rules](https://immunefi.com/rules/)\n",
       "responsiblePublicationCategory": "category_3",
@@ -467,27 +400,20 @@
       "customOutOfScopeInformation": null,
       "customProhibitedActivities": [],
       "rewardsTokenNetwork": "Solana",
-      "rewardsToken": "FIDA or USDC",
+      "rewardsToken": "SNS or USDC",
       "eligibilityCriteria": [
         "no_ofac_sdn"
       ],
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [
         {
-          "id": 76,
+          "id": 635,
           "title": "SNS Codebase",
           "description": "Program Codebase",
-          "url": "https://github.com/Bonfida/"
+          "url": "https://github.com/SolanaNameService"
         }
       ],
-      "programDocumentations": [
-        {
-          "id": 60,
-          "title": "SNS Documentation",
-          "description": "Program Documentation",
-          "url": "https://bonfida.org/white-paper.pdf"
-        }
-      ],
+      "programDocumentations": [],
       "primacy": "primacy_of_impact",
       "newProgramRewardsEnabled": true,
       "findingsUrl": null,
@@ -501,7 +427,7 @@
     },
     "metaData": {
       "title": "SNS Bug Bounties",
-      "description": "Find bugs and vulnerabilities on SNS and get paid up to $100,000.",
+      "description": "Find bugs and vulnerabilities on SNS and get paid up to $20,000.",
       "url": "https://immunefi.com/bug-bounty/sns/",
       "ogImg": "/api/bounty/og-image/?project=SNS&slug=sns"
     },

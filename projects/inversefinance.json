@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/31KU6113K6l6K4pkvU4t1C/07f25c5f4b4cb3ac7e31d69c35bdb3ee/Inverse_Finance_Logo_Kit-01__1_.png",
       "launchDate": "2023-11-30T11:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-23T11:05:31.519Z",
+      "updatedDate": "2025-12-30T09:21:29.438Z",
       "kyc": false,
       "rewards": [
         {
@@ -79,6 +79,48 @@
         }
       ],
       "assets": [
+        {
+          "id": "4keySpG61iASuabKxZPlDq",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x67fc21332d24fc5250a3b7fc988191ad7f38f9cc",
+          "description": "FED - PSMFed v2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-30T09:21:20.172Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "5OZgRy77TMs29khMOSo3mA",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1d02f2841afa3cc20435a8c804c24deac5f30dfa",
+          "description": "DOLA - PSM v2",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-30T09:21:20.149Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
         {
           "id": "14V9cTTfDGLv6oMh33LqhM",
           "type": "smart_contract",
@@ -795,27 +837,6 @@
           }
         },
         {
-          "id": "3XNGhktBTgmYdHm11ESKpp",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x4dfd662622d766304cb539e66f893c4defa19398",
-          "description": "PSM",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-09-09T07:18:18.328Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
           "id": "3ZKj8FZRTHqDWjkB426wB0",
           "type": "smart_contract",
           "url": "https://etherscan.io/address/0xc06053fcad0a0df7cc32289a135bbea9030c010f",
@@ -1358,27 +1379,6 @@
           "fund": {
             "usdValue": 60.392709401481355,
             "addressesCount": 1
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
-        },
-        {
-          "id": "5LZpIkMVVPTBU2IccKQjog",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x400510611BcBf9171F0E548F1C3dcA7159e60d28",
-          "description": "PSM Fed",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2025-09-09T07:18:18.342Z",
-          "fund": {
-            "usdValue": 0,
-            "addressesCount": 0
           },
           "info": {
             "verified": true,

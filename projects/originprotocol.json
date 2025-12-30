@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/V5uJkzVDim5cy4syFWXHn/081f82c419fd83a700d15a8c80e46eb6/ognresized.png",
       "launchDate": "2021-11-22T07:15:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-15T09:55:36.423Z",
+      "updatedDate": "2025-12-30T09:10:01.786Z",
       "kyc": false,
       "rewards": [
         {
@@ -38,6 +38,96 @@
       ],
       "audits": null,
       "assets": [
+        {
+          "id": "4RAGpSxdZcnoQHIcZnCFoG",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0xba0e352AB5c13861C26e4E773e7a833C3A223FE6",
+          "description": "Curve OETH+WETH (AMO) Strategy",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-30T09:09:54.199Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": true,
+              "type": "eip1967",
+              "address": "0xD01aDA994bc08ded72e12812818a35320b0F1cb2",
+              "isERC20": false,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": null
+            }
+          }
+        },
+        {
+          "id": "25FgO4VDRTdJKcoOnWWXy9",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x3643cafA6eF3dd7Fcc2ADaD1cabf708075AFFf6e",
+          "description": "Morpho OUSD v2 Strategy",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-30T09:09:54.215Z",
+          "fund": {
+            "usdValue": 0.4404697499295425,
+            "addressesCount": 1
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": true,
+              "type": "eip1967",
+              "address": "0x01CEa9a0e124Bd0e224326e30358A0E52aA4Ee23",
+              "isERC20": false,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": null
+            }
+          }
+        },
+        {
+          "id": "1ujdFz2RlqUJUtMRIgw1Lc",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x26a02ec47ACC2A3442b757F45E0A82B8e993Ce11",
+          "description": "Curve USDC AMO Strategy ",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2025-12-30T09:09:54.207Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": {
+              "verified": true,
+              "type": "eip1967",
+              "address": "0xd7E36AfE9dac8424b180B850616BA34be57277f9",
+              "isERC20": false,
+              "isERC721": false,
+              "isERC1155": false,
+              "isERC4626": false,
+              "upgradedAt": null
+            }
+          }
+        },
         {
           "id": "1EFKBjhSBsNmhJ9wRDEyG1",
           "type": "smart_contract",
@@ -78,36 +168,6 @@
           "addedAt": "2024-11-15T12:56:18.941Z",
           "fund": null,
           "info": null
-        },
-        {
-          "id": "28Wi2ecYdSP6D0eSoG3Atk",
-          "type": "smart_contract",
-          "url": "https://etherscan.io/address/0x1827F9eA98E0bf96550b2FC20F7233277FcD7E63",
-          "description": "Convex OETH Meta Strategy",
-          "isPrimacyOfImpact": null,
-          "isSafeHarbor": null,
-          "addedAt": "2023-05-24T02:03:07.256Z",
-          "fund": {
-            "usdValue": 7.0563141E-7,
-            "addressesCount": 1
-          },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": {
-              "verified": true,
-              "type": "eip1967",
-              "address": "0x5c93E05783EA4D0D968c7A2C0cDfFCEfC711b213",
-              "isERC20": false,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": false,
-              "upgradedAt": 1694472779
-            }
-          }
         },
         {
           "id": "2GIC5GHuzSgttXqWwg6NT3",

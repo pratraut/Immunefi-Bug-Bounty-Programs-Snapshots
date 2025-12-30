@@ -2277,7 +2277,7 @@
     "date": "2021-11-22T07:15:00.000Z",
     "launchDate": "2021-11-22T07:15:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-12-15T09:55:36.423Z",
+    "updatedDate": "2025-12-30T09:10:01.786Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7256,7 +7256,7 @@
     "date": "2023-11-30T11:00:00.000Z",
     "launchDate": "2023-11-30T11:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-12-23T11:05:31.519Z",
+    "updatedDate": "2025-12-30T09:21:29.438Z",
     "kyc": false,
     "technologies": [
       "Smart Contract",
@@ -7340,53 +7340,6 @@
       ],
       "featured": [
         "Launched Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": false
-  },
-  {
-    "contentfulId": "2qHc1S4pIk1pW9ZB9Eg0ht",
-    "id": "sns",
-    "project": "SNS",
-    "maximum_reward": 100000,
-    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1kEyT5bORMraZGNMuv44VH/40ed6657d9aaaf73946ff4a0660590b7/SNS_Color_logomark_on_Black_200px__1_.png",
-    "date": "2023-08-04T12:00:00.000Z",
-    "launchDate": "2023-08-04T12:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-07-21T11:37:14.282Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Primacy of Impact"
-      ],
-      "productType": [
-        "Services"
-      ],
-      "projectType": [
-        "Infrastructure"
-      ],
-      "ecosystem": [
-        "Solana"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Rust"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -7571,7 +7524,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -10501,8 +10455,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -11305,6 +11258,53 @@
     "premiumTriaging": false
   },
   {
+    "contentfulId": "2qHc1S4pIk1pW9ZB9Eg0ht",
+    "id": "sns",
+    "project": "SNS",
+    "maximum_reward": 20000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/1kEyT5bORMraZGNMuv44VH/40ed6657d9aaaf73946ff4a0660590b7/SNS_Color_logomark_on_Black_200px__1_.png",
+    "date": "2023-08-04T12:00:00.000Z",
+    "launchDate": "2023-08-04T12:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2025-12-30T09:22:19.589Z",
+    "kyc": true,
+    "technologies": [
+      "Smart Contract",
+      "Websites and Applications"
+    ],
+    "immunefiStandard": true,
+    "tags": {
+      "general": [
+        "Immunefi Standard",
+        "KYC Required",
+        "PoC Required",
+        "Primacy of Impact"
+      ],
+      "productType": [
+        "Services"
+      ],
+      "projectType": [
+        "Infrastructure"
+      ],
+      "ecosystem": [
+        "Solana"
+      ],
+      "programType": [
+        "Smart Contract",
+        "Websites and Applications"
+      ],
+      "language": [
+        "Rust"
+      ],
+      "featured": [
+        "Launched Recently",
+        "Paid Recently"
+      ]
+    },
+    "proofOfConceptType": "required",
+    "premiumTriaging": false
+  },
+  {
     "contentfulId": "2fQtFXxowjhf1UViEOASS1",
     "id": "pushprotocol",
     "project": "Push Protocol",
@@ -12096,7 +12096,7 @@
     "date": "2023-12-04T09:00:00.000Z",
     "launchDate": "2023-12-04T09:00:00.000Z",
     "endDate": null,
-    "updatedDate": "2025-12-04T07:03:51.171Z",
+    "updatedDate": "2025-12-30T09:12:34.843Z",
     "kyc": true,
     "technologies": [
       "Websites and Applications"
