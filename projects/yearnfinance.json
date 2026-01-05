@@ -9,7 +9,7 @@
       "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/46652-poMYBlE470F3ANFEzLX3a-PhDjdUVamAGgfjv2TMLhs2M2H40O54.png",
       "launchDate": "2021-07-01T07:00:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-23T10:57:43.164Z",
+      "updatedDate": "2026-01-05T10:46:05.457Z",
       "kyc": false,
       "rewards": [
         {
@@ -40,6 +40,111 @@
       ],
       "audits": null,
       "assets": [
+        {
+          "id": "66XN7JAznpSMQDgI9KSoj1",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x5D2eA33449A60a70E8FCdc5251FDd86a030fAD91#code",
+          "description": "yYB Boosted Staker",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2026-01-05T10:45:54.688Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "1urST0jXHNv0KlP0BwCQ8b",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x22222222aEA0076fCA927a3f44dc0B4FdF9479D6#code",
+          "description": "yYB Token",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2026-01-05T10:45:56.617Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": true,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "1GUfhj5s71VqB9yyRp0PG2",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1d02F6A86Ed5650f93E40FCD62fa5727c32ad746#code",
+          "description": "yYB Reward Distributor",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2026-01-05T10:45:54.706Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "39iAf3PdqZ8yl4fTOpBAB5",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x1111111Ecd5Ae05422aeCe517072ec33Dbf34af9#code",
+          "description": "yYB Operator",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2026-01-05T10:45:54.698Z",
+          "fund": {
+            "usdValue": 0,
+            "addressesCount": 0
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
+        {
+          "id": "sKSNChy1Gl6V31bcPjxjz",
+          "type": "smart_contract",
+          "url": "https://etherscan.io/address/0x0000000C90799449af8eE0B240Da639144a36C6A",
+          "description": "yYB Locker",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2026-01-05T10:45:56.579Z",
+          "fund": {
+            "usdValue": 1.7853370629986016E-9,
+            "addressesCount": 1
+          },
+          "info": {
+            "verified": true,
+            "isERC20": false,
+            "isERC721": false,
+            "isERC1155": false,
+            "isERC4626": false,
+            "implementation": null
+          }
+        },
         {
           "id": "1KjG6kdSc06HblkKE05yzG",
           "type": "smart_contract",
