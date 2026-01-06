@@ -13,15 +13,16 @@
       "kyc": true,
       "rewards": [
         {
-          "id": 39564,
+          "id": 39599,
           "assetType": "websites_and_applications",
           "severity": "critical",
           "rewardModel": "range",
           "maxReward": 10000,
-          "minReward": 5000
+          "minReward": 5000,
+          "otherImpactMaxReward": 0
         },
         {
-          "id": 39565,
+          "id": 39600,
           "assetType": "websites_and_applications",
           "severity": "high",
           "rewardModel": "range",
@@ -29,7 +30,7 @@
           "minReward": 2500
         },
         {
-          "id": 39566,
+          "id": 39601,
           "assetType": "websites_and_applications",
           "severity": "medium",
           "rewardModel": "range",
@@ -37,7 +38,7 @@
           "minReward": 1000
         },
         {
-          "id": 39567,
+          "id": 39602,
           "assetType": "websites_and_applications",
           "severity": "low",
           "rewardModel": "fixed",
@@ -464,7 +465,7 @@
     },
     "project": {
       "features": [
-        "Managed Triage: Signal Booster"
+        "Managed Triage: Time Saver"
       ],
       "premiumTriaging": true,
       "isSafeHarborActive": false

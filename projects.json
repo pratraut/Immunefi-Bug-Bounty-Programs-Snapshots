@@ -1142,8 +1142,7 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -4306,8 +4305,7 @@
       ],
       "language": [],
       "featured": [
-        "Launched Recently",
-        "Paid Recently"
+        "Launched Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -7183,7 +7181,8 @@
       "general": [
         "Immunefi Standard",
         "KYC Required",
-        "PoC Required"
+        "PoC Required",
+        "Triaged by Immunefi"
       ],
       "productType": [
         "L1",
@@ -7201,7 +7200,7 @@
       ]
     },
     "proofOfConceptType": "required",
-    "premiumTriaging": false
+    "premiumTriaging": true
   },
   {
     "contentfulId": "HKhSWpIalui7eYrpTeGWw",
@@ -8215,7 +8214,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
