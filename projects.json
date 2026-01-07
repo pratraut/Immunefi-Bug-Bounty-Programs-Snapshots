@@ -579,54 +579,6 @@
     "premiumTriaging": false
   },
   {
-    "contentfulId": "7fhwmv12XXe1hl1ZQeEeBS",
-    "id": "morpho",
-    "project": "Morpho",
-    "maximum_reward": 2500000,
-    "logo": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/76309-ADS643VSxwonweiMtf9tx-hX6yop8mLFJLAKCJUMDCzNvVRkdw2x.png",
-    "date": "2024-06-27T13:00:00.000Z",
-    "launchDate": "2024-06-27T13:00:00.000Z",
-    "endDate": null,
-    "updatedDate": "2025-12-15T13:27:10.094Z",
-    "kyc": true,
-    "technologies": [
-      "Smart Contract",
-      "Websites and Applications"
-    ],
-    "immunefiStandard": true,
-    "tags": {
-      "general": [
-        "Immunefi Standard",
-        "KYC Required",
-        "PoC Required",
-        "Triaged by Immunefi",
-        "Arbitration"
-      ],
-      "productType": [
-        "Lending"
-      ],
-      "projectType": [
-        "Defi"
-      ],
-      "ecosystem": [
-        "ETH"
-      ],
-      "programType": [
-        "Smart Contract",
-        "Websites and Applications"
-      ],
-      "language": [
-        "Solidity"
-      ],
-      "featured": [
-        "Launched Recently",
-        "Paid Recently"
-      ]
-    },
-    "proofOfConceptType": "required",
-    "premiumTriaging": true
-  },
-  {
     "contentfulId": "57WPuyzlsW3WW0TU0DLqzF",
     "id": "hyperlane",
     "project": "Hyperlane",
@@ -10809,7 +10761,8 @@
         "Solidity"
       ],
       "featured": [
-        "Launched Recently"
+        "Launched Recently",
+        "Paid Recently"
       ]
     },
     "proofOfConceptType": "required",
@@ -11632,6 +11585,42 @@
     },
     "proofOfConceptType": "required",
     "premiumTriaging": false
+  },
+  {
+    "contentfulId": "4Do9N2HeYM95M2Bf1w0vSy",
+    "id": "exodus",
+    "project": "Exodus",
+    "maximum_reward": 18000,
+    "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6jSWqO85JxgkH0iBYbbZjy/9d0e1d65deee581154270c5856e55a99/Exodus.png",
+    "date": "2025-12-30T10:00:00.000Z",
+    "launchDate": "2025-12-30T10:00:00.000Z",
+    "endDate": null,
+    "updatedDate": "2026-01-07T14:16:46.770Z",
+    "kyc": true,
+    "technologies": [
+      "Websites and Applications"
+    ],
+    "immunefiStandard": null,
+    "tags": {
+      "general": [
+        "KYC Required",
+        "PoC Required",
+        "Triaged by Immunefi",
+        "Arbitration"
+      ],
+      "productType": [],
+      "projectType": [],
+      "ecosystem": [],
+      "programType": [
+        "Websites and Applications"
+      ],
+      "language": [],
+      "featured": [
+        "Launched Recently"
+      ]
+    },
+    "proofOfConceptType": "required",
+    "premiumTriaging": true
   },
   {
     "contentfulId": "Hhs3WaasggkNCR2kVtjOT",
