@@ -553,23 +553,7 @@
             "usdValue": 0,
             "addressesCount": 0
           },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": {
-              "verified": true,
-              "type": "eip1967",
-              "address": "0x1Cb2a9E5425a84a93EE1f6a8f98aA3EdaBafAa27",
-              "isERC20": false,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": false,
-              "upgradedAt": 1762348139
-            }
-          }
+          "info": null
         },
         {
           "id": "2BtFfsYRqmZuIaXjHBw0nK",

@@ -128,12 +128,12 @@
             "implementation": {
               "verified": true,
               "type": "eip1967",
-              "address": "0x60FF20BACD9A647e4025Ed8b17CE30e40095A1d2",
+              "address": "0xC9Ef97549e28390003DE53279B7D3d39DCE81637",
               "isERC20": true,
               "isERC721": false,
               "isERC1155": false,
               "isERC4626": false,
-              "upgradedAt": 1707884111
+              "upgradedAt": 1766238371
             }
           }
         },

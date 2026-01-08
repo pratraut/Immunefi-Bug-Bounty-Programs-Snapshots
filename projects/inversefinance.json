@@ -2212,16 +2212,7 @@
             "isERC721": false,
             "isERC1155": false,
             "isERC4626": false,
-            "implementation": {
-              "verified": false,
-              "type": "eip1167",
-              "address": "0xcD39A0055beeD44b40EAAc98606090811b601483",
-              "isERC20": false,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": false,
-              "upgradedAt": null
-            }
+            "implementation": null
           }
         },
         {

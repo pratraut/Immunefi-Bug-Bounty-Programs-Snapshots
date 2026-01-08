@@ -165,16 +165,7 @@
             "isERC721": false,
             "isERC1155": false,
             "isERC4626": false,
-            "implementation": {
-              "verified": true,
-              "type": "eip1967",
-              "address": "0xBB7B99C2BE525C0A6B719344F89A4255ef593E64",
-              "isERC20": false,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": false,
-              "upgradedAt": 1709609651
-            }
+            "implementation": null
           }
         },
         {
@@ -476,14 +467,7 @@
             "usdValue": 860.2274890667435,
             "addressesCount": 1
           },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
+          "info": null
         },
         {
           "id": "4qRaBAHLclT4d9LJedjMz6",

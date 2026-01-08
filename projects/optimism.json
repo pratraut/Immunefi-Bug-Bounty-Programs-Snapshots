@@ -494,14 +494,7 @@
             "usdValue": 0,
             "addressesCount": 0
           },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": null
-          }
+          "info": null
         },
         {
           "id": "5W0HRdTsp8R8vqWqCgmYmT",
@@ -637,8 +630,8 @@
           "isSafeHarbor": null,
           "addedAt": "2024-03-11T16:20:06.492Z",
           "fund": {
-            "usdValue": 253985719.32709274,
-            "addressesCount": 112
+            "usdValue": 280390637.3615685,
+            "addressesCount": 114
           },
           "info": {
             "verified": true,

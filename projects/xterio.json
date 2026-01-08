@@ -80,16 +80,7 @@
             "isERC721": false,
             "isERC1155": false,
             "isERC4626": false,
-            "implementation": {
-              "verified": true,
-              "type": "eip1967",
-              "address": "0x9cbf164420286357b268674F6Bf0fA29800D59aE",
-              "isERC20": false,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": false,
-              "upgradedAt": 1710483743
-            }
+            "implementation": null
           }
         },
         {

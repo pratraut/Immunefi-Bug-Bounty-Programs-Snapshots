@@ -51,23 +51,7 @@
             "usdValue": 931.4493854877544,
             "addressesCount": 1
           },
-          "info": {
-            "verified": true,
-            "isERC20": false,
-            "isERC721": false,
-            "isERC1155": false,
-            "isERC4626": false,
-            "implementation": {
-              "verified": true,
-              "type": "eip1967",
-              "address": "0xBB51273D6c746910C7C06fe718f30c936170feD0",
-              "isERC20": true,
-              "isERC721": false,
-              "isERC1155": false,
-              "isERC4626": true,
-              "upgradedAt": null
-            }
-          }
+          "info": null
         },
         {
           "id": "4Cgwr43qPpEEJsOFUKCTJT",

@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/6p07t55yWuOlsHLiQV9xsM/61c489fc59e7233557039a6965c76000/Screenshot_2024-11-11_at_11.35.18___PM.png",
       "launchDate": "2022-05-19T17:30:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-08-12T07:01:25.023Z",
+      "updatedDate": "2026-01-08T09:23:39.950Z",
       "kyc": false,
       "rewards": [
         {
@@ -37,6 +37,17 @@
       ],
       "audits": null,
       "assets": [
+        {
+          "id": "5GqtMqeW4q31b6gOZBfTrJ",
+          "type": "smart_contract",
+          "url": "https://solscan.io/account/StaKE6XNKVVhG8Qu9hDJBqCW3eRe7MDGLz17nJZetLT",
+          "description": "xORCA",
+          "isPrimacyOfImpact": null,
+          "isSafeHarbor": null,
+          "addedAt": "2026-01-08T09:23:34.322Z",
+          "fund": null,
+          "info": null
+        },
         {
           "id": "3eLgXbnQaKA6kNzm6CeYYJ",
           "type": "smart_contract",
@@ -130,7 +141,7 @@
       ],
       "programOverview": "Orca is one of the first general-purpose AMMs launched on Solana. Users can swap assets, provide liquidity, and earn yield through an easy-to-use interface. Orca has created custom smart contracts for its concentrated liquidity product, [Whirlpools](https://www.orca.so/whirlpools). In traditional AMM liquidity pools, a user provides liquidity across the entire continuous price curve. With Whirlpools, each user can specify the price range where they will provide liquidity.\n\nFor more information on Orca, please visit [https://orca.so/](https://orca.so/) or [Orca’s Twitter](https://twitter.com/orca_so).",
       "prioritizedVulnerabilities": "Only the following impacts are accepted within this bug bounty program. All other impacts are not considered as in-scope, even if they affect something in the assets in scope table.",
-      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nAll known issues previously highlighted in the following audits are considered as out of scope: \n  - [Neodyme Audit](https://orca-so.gitbook.io/orca-developer-portal/whirlpools/overview#security-audits)\n  - [Kudelski Security](https://drive.google.com/file/d/1u0ja4_3GoogVWVU9prMezDrBaqE5BxdW/view)\n\nRewards for critical smart contract vulnerabilities can be further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 100 000__ for Critical smart contract bug reports. \n\nPayouts are handled by the __Orca__ team directly and are denominated in USD. Payouts of up to __USD 250 000__ are done in __ORCA__ or __USDC__ (SPL Version) at the discretion of the team. Payouts above __USD 250 000__ will be done in __ORCA__ and will be vested monthly over a 12-month period.",
+      "rewardsBody": "Rewards are distributed according to the impact of the vulnerability based on the [Immunefi Vulnerability Severity Classification System V2.2](https://immunefi.com/immunefi-vulnerability-severity-classification-system-v2-2). This is a simplified 5-level scale, with separate scales for websites/apps, smart contracts, and blockchains/DLTs, focusing on the impact of the vulnerability reported.\n\nAll bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward. Explanations and statements are not accepted as PoC and code is required.\n\nRewards for critical smart contract vulnerabilities can be further capped at 10% of economic damage, with the main consideration being the funds affected in addition to PR and brand considerations, at the discretion of the team. However, there is a minimum reward of __USD 100 000__ for Critical smart contract bug reports. \n\nPayouts are handled by the __Orca__ team directly and are denominated in USD. Payouts of up to __USD 250 000__ are done in __ORCA__ or __USDC__ (SPL Version) at the discretion of the team. Payouts above __USD 250 000__ will be done in __ORCA__ and will be vested monthly over a 12-month period.",
       "outOfScopeAndRules": null,
       "assetsBodyV2": "However, only those in the Assets in Scope table are considered as in-scope of the bug bounty program.\n\nIf any Critical/High severity impact can be caused to any other asset managed by Orca that isn’t on this table but for which the impact is in the Impacts in Scope section below, you are encouraged to submit it for the consideration by the project.",
       "impactsBody": null,
@@ -203,6 +214,12 @@
       "eligibilityCriteria": [],
       "eligibilityCriteriaAdditionalInformation": null,
       "programCodebases": [
+        {
+          "id": 636,
+          "title": "xORCA",
+          "description": "xORCA Staking Smart Contract",
+          "url": "https://github.com/orca-so/xorca"
+        },
         {
           "id": 388,
           "title": "Orca Whirlpools",

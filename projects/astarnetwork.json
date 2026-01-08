@@ -9,7 +9,7 @@
       "logo": "https://images.ctfassets.net/t3wqy70tc3bv/14P174mW7atHe0iqI2UmE8/b47c08fa562ebe74aaff6b179e371d00/Astar_Network_logo.jpeg",
       "launchDate": "2022-05-31T16:30:00.000Z",
       "endDate": null,
-      "updatedDate": "2025-12-23T10:52:45.286Z",
+      "updatedDate": "2026-01-08T09:24:06.293Z",
       "kyc": true,
       "rewards": [
         {
@@ -88,10 +88,16 @@
       ],
       "impacts": [
         {
-          "id": 2695,
+          "id": 5845,
           "type": "blockchain_dlt",
-          "severity": "low",
-          "title": "DoS of greater than 10% but less than 30% of validator or miner nodes and does not shut down the network"
+          "severity": "high",
+          "title": "Vulnerabilities that allow an attacker to abuse the system by blocking or modifying protocol-level processes like governance or disrupt other users from performing their tasks."
+        },
+        {
+          "id": 1,
+          "type": "blockchain_dlt",
+          "severity": "critical",
+          "title": "Network not being able to confirm new transactions (total network shutdown)"
         },
         {
           "id": 2,
@@ -106,34 +112,28 @@
           "title": "Permanent freezing of funds (fix requires hardfork)"
         },
         {
-          "id": 35,
-          "type": "websites_and_applications",
-          "severity": "critical",
-          "title": "Execute arbitrary system commands"
-        },
-        {
-          "id": 37,
-          "type": "websites_and_applications",
-          "severity": "critical",
-          "title": "Taking down the application/website"
-        },
-        {
-          "id": 1,
-          "type": "blockchain_dlt",
-          "severity": "critical",
-          "title": "Network not being able to confirm new transactions (total network shutdown)"
-        },
-        {
           "id": 5,
           "type": "blockchain_dlt",
           "severity": "high",
           "title": "Unintended chain split (network partition)"
         },
         {
+          "id": 35,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Execute arbitrary system commands"
+        },
+        {
           "id": 36,
           "type": "websites_and_applications",
           "severity": "critical",
           "title": "Retrieve sensitive data/files from a running server, such as:\n- /etc/shadow\n- database passwords\n- blockchain keys (this does not include non-sensitive environment variables, open source code, or usernames)"
+        },
+        {
+          "id": 37,
+          "type": "websites_and_applications",
+          "severity": "critical",
+          "title": "Taking down the application/website"
         },
         {
           "id": 46,
@@ -160,16 +160,16 @@
           "title": "Subdomain takeover without already-connected wallet interaction"
         },
         {
+          "id": 2695,
+          "type": "blockchain_dlt",
+          "severity": "low",
+          "title": "DoS of greater than 10% but less than 30% of validator or miner nodes and does not shut down the network"
+        },
+        {
           "id": 2696,
           "type": "blockchain_dlt",
           "severity": "low",
           "title": "Underpricing transaction fees relative to computation time"
-        },
-        {
-          "id": 2702,
-          "type": "blockchain_dlt",
-          "severity": "high",
-          "title": "Blocking or modifying processes for governance or users from performing their tasks"
         },
         {
           "id": 2704,
